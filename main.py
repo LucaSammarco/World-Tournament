@@ -6,9 +6,10 @@ from datetime import datetime
 from image_generator import generate_match_image
 from reset_tournament import reset_tournament
 from twitter_manager import format_match_tweet, post_tweet
+import time
 
 # Configura il logging
-logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s", encoding="utf-8")
+logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 logger = logging.getLogger(__name__)
 
 def load_data():
@@ -56,23 +57,22 @@ def save_tournament_history(final_country1, final_country2, winner):
 
 def play_match(country1, country2, round_num, remaining_count):
     """Simula un match tra due paesi e determina il vincitore."""
-    # Ottieni la directory dello script
     base_dir = os.path.dirname(os.path.abspath(__file__))
     
-    # Costruisci i percorsi usando i dati già corretti
-    flag1 = os.path.join(base_dir, country1["flag"])
-    flag2 = os.path.join(base_dir, country2["flag"])
+    # Corregge i separatori di percorso e usa il nome del file dal JSON
+    flag1_path = country1["flag"].replace("\\", "/")  # Converti \ in /
+    flag2_path = country2["flag"].replace("\\", "/")
+    flag1 = os.path.join(base_dir, flag1_path)
+    flag2 = os.path.join(base_dir, flag2_path)
     
-    # Debug: stampa i percorsi assoluti
     logger.info(f"Tentativo di caricare bandiere: {flag1}, {flag2}")
     if not os.path.exists(flag1):
         logger.error(f"Bandiera non trovata: {flag1}")
-        flag1 = os.path.join(base_dir, "assets/flags/default.png")
+        flag1 = os.path.join(base_dir, "assets", "flags", "default.png")
     if not os.path.exists(flag2):
         logger.error(f"Bandiera non trovata: {flag2}")
-        flag2 = os.path.join(base_dir, "assets/flags/default.png")
+        flag2 = os.path.join(base_dir, "assets", "flags", "default.png")
     
-    # Verifica anche il fallback
     if not os.path.exists(flag1):
         logger.error(f"Fallback non trovato: {flag1}. Usando immagine vuota.")
         flag1 = None
@@ -92,16 +92,24 @@ def play_match(country1, country2, round_num, remaining_count):
         winner = country2
         logger.info(f"🏅 {country2['name']} vince!")
     else:
-        winner = None  # Pareggio, entrambi avanzano
+        winner = None
         logger.info(f"🤝 Pareggio tra {country1['name']} e {country2['name']}. Entrambi avanzano.")
     
     tweet_text = format_match_tweet(round_num, remaining_count, country1, move1, country2, move2, winner)
-    post_tweet(text=tweet_text, img_path=img_path)
+    try:
+        post_tweet(text=tweet_text, img_path=img_path)
+    except Exception as e:
+        if "429" in str(e):
+            logger.error("❌ Limite API raggiunto (429). Attesa di 15 minuti...")
+            time.sleep(900)  # Attendi 15 minuti
+            post_tweet(text=tweet_text, img_path=img_path)  # Riprova
+        else:
+            logger.error(f"❌ Errore durante il tweet: {e}")
     
     return winner, img_path
 
 def run_tournament():
-    """Esegue un solo match del torneo e aggiorna lo stato."""
+    """Esegue un solo match del torneo e aggiorna lo stato con selezione casuale."""
     data = load_data()
     remaining = data["remaining"]
     processed = data["processed_countries"]
@@ -128,8 +136,11 @@ def run_tournament():
         reset_tournament()
         return
 
-    country1 = remaining.pop()
-    country2 = remaining.pop()
+    # Selezione casuale di due paesi
+    selected_countries = random.sample(remaining, 2)
+    country1, country2 = selected_countries
+    remaining.remove(country1)
+    remaining.remove(country2)
     
     if remaining_count == 2:
         data["final_country1"] = country1
