@@ -6,11 +6,15 @@ def reset_tournament():
         with open("full_countries.json", "r", encoding="utf-8") as f:
             countries = json.load(f)["countries"]
         
+        # Correggi i separatori nei percorsi delle bandiere
+        for country in countries:
+            country["flag"] = country["flag"].replace("\\", "/")
+        
         data = {
             "round": 1,
             "remaining": countries,
             "total_countries": len(countries),
-            "processed_countries": []  # Resetta i paesi processati
+            "processed_countries": []
         }
         
         with open("data.json", "w", encoding="utf-8") as f:
