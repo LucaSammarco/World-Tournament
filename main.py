@@ -35,56 +35,48 @@ def rock_paper_scissors():
 def save_tournament_history(final_country1, final_country2, winner):
     """Salva i dati della finale e del vincitore in tournament_history.json."""
     try:
-        try:
-            with open("tournament_history.json", "r", encoding="utf-8") as f:
-                history = json.load(f)
-        except (FileNotFoundError, json.JSONDecodeError):
-            history = []
+        with open("tournament_history.json", "r", encoding="utf-8") as f:
+            history = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        history = []
 
-        tournament_id = len(history) + 1
-        tournament_record = {
-            "tournament_id": tournament_id,
-            "finale": {"country1": final_country1["name"], "country2": final_country2["name"]},
-            "winner": winner["name"],
-            "date": datetime.now().isoformat()
-        }
-        history.append(tournament_record)
-        with open("tournament_history.json", "w", encoding="utf-8") as f:
-            json.dump(history, f, indent=4, ensure_ascii=False)
-        logger.info(f"📜 Storico torneo salvato: {tournament_record}")
-    except Exception as e:
-        logger.error(f"❌ Errore durante il salvataggio dello storico: {e}")
+    tournament_id = len(history) + 1
+    tournament_record = {
+        "tournament_id": tournament_id,
+        "finale": {"country1": final_country1["name"], "country2": final_country2["name"]},
+        "winner": winner["name"],
+        "date": datetime.now().isoformat()
+    }
+    history.append(tournament_record)
+    with open("tournament_history.json", "w", encoding="utf-8") as f:
+        json.dump(history, f, indent=4, ensure_ascii=False)
+    logger.info(f"📜 Storico torneo salvato: {tournament_record}")
 
 def play_match(country1, country2, round_num, remaining_count):
-    """Simula un match tra due paesi e determina il vincitore."""
-    base_dir = os.path.dirname(os.path.abspath(__file__))
-    
-    # Corregge i separatori di percorso e usa il nome del file dal JSON
-    flag1_path = country1["flag"].replace("\\", "/")  # Converti \ in /
-    flag2_path = country2["flag"].replace("\\", "/")
-    flag1 = os.path.join(base_dir, flag1_path)
-    flag2 = os.path.join(base_dir, flag2_path)
-    
+    """Simula un match tra due paesi e determina il vincitore usando percorsi relativi."""
+    flag1 = country1["flag"]  # Percorso relativo direttamente dal JSON
+    flag2 = country2["flag"]
+
     logger.info(f"Tentativo di caricare bandiere: {flag1}, {flag2}")
     if not os.path.exists(flag1):
         logger.error(f"Bandiera non trovata: {flag1}")
-        flag1 = os.path.join(base_dir, "assets", "flags", "default.png")
+        flag1 = "assets/flags/default.png"
     if not os.path.exists(flag2):
         logger.error(f"Bandiera non trovata: {flag2}")
-        flag2 = os.path.join(base_dir, "assets", "flags", "default.png")
-    
+        flag2 = "assets/flags/default.png"
+
     if not os.path.exists(flag1):
         logger.error(f"Fallback non trovato: {flag1}. Usando immagine vuota.")
         flag1 = None
     if not os.path.exists(flag2):
         logger.error(f"Fallback non trovato: {flag2}. Usando immagine vuota.")
         flag2 = None
-    
+
     move1, move2 = rock_paper_scissors(), rock_paper_scissors()
     img_path = generate_match_image(country1["name"], flag1, move1,
                                     country2["name"], flag2, move2,
                                     round_num)
-    
+
     if (move1 == "Rock" and move2 == "Scissors") or (move1 == "Paper" and move2 == "Rock") or (move1 == "Scissors" and move2 == "Paper"):
         winner = country1
         logger.info(f"🏅 {country1['name']} vince!")
@@ -94,7 +86,7 @@ def play_match(country1, country2, round_num, remaining_count):
     else:
         winner = None
         logger.info(f"🤝 Pareggio tra {country1['name']} e {country2['name']}. Entrambi avanzano.")
-    
+
     tweet_text = format_match_tweet(round_num, remaining_count, country1, move1, country2, move2, winner)
     try:
         post_tweet(text=tweet_text, img_path=img_path)
@@ -102,20 +94,20 @@ def play_match(country1, country2, round_num, remaining_count):
         if "429" in str(e):
             logger.error("❌ Limite API raggiunto (429). Attesa di 15 minuti...")
             time.sleep(900)  # Attendi 15 minuti
-            post_tweet(text=tweet_text, img_path=img_path)  # Riprova
+            post_tweet(text=tweet_text, img_path=img_path)
         else:
             logger.error(f"❌ Errore durante il tweet: {e}")
-    
+
     return winner, img_path
 
 def run_tournament():
-    """Esegue un solo match del torneo e aggiorna lo stato con selezione casuale."""
+    """Esegue un match del torneo con selezione casuale."""
     data = load_data()
     remaining = data["remaining"]
     processed = data["processed_countries"]
     round_num = data["round"]
     remaining_count = len(remaining)
-    
+
     logger.info(f"🔢 Round {round_num} - {remaining_count} paesi rimanenti.")
 
     if remaining_count == 0:
@@ -129,7 +121,6 @@ def run_tournament():
         data["remaining"] = processed
         data["processed_countries"] = []
         save_data(data)
-        
         if round_num > 1 and "final_country1" in data and "final_country2" in data:
             save_tournament_history(data["final_country1"], data["final_country2"], winner)
         logger.info(f"🏆 Vincitore del torneo: {winner['name']}")
@@ -137,32 +128,31 @@ def run_tournament():
         return
 
     # Selezione casuale di due paesi
-    selected_countries = random.sample(remaining, 2)
-    country1, country2 = selected_countries
+    country1, country2 = random.sample(remaining, 2)
     remaining.remove(country1)
     remaining.remove(country2)
-    
+
     if remaining_count == 2:
         data["final_country1"] = country1
         data["final_country2"] = country2
 
     winner, img_path = play_match(country1, country2, round_num, remaining_count)
-    
+
     if winner:
         processed.append(winner)
     else:
         processed.append(country1)
         processed.append(country2)
-    
+
     data["remaining"] = remaining
     data["processed_countries"] = processed
-    
+
     if not remaining:
         data["remaining"] = processed
         data["processed_countries"] = []
         data["round"] += 1
         logger.info(f"🔄 Fine round {round_num}. Avanzamento al round {data['round']} con {len(data['remaining'])} paesi.")
-    
+
     save_data(data)
     logger.info(f"✅ Match completato. {len(data['remaining'])} paesi rimanenti.")
 
