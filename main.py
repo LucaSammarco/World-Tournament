@@ -59,11 +59,13 @@ def play_match(country1, country2, round_num, remaining_count):
     # Ottieni la directory dello script
     base_dir = os.path.dirname(os.path.abspath(__file__))
     
-    # Normalizza i percorsi delle bandiere rispetto alla directory dello script
-    flag1 = os.path.join(base_dir, os.path.normpath(country1["flag"]))
-    flag2 = os.path.join(base_dir, os.path.normpath(country2["flag"]))
+    # Sostituiamo \ con / e costruiamo il percorso
+    flag1_relative = country1["flag"].replace("\\", "/")
+    flag2_relative = country2["flag"].replace("\\", "/")
+    flag1 = os.path.join(base_dir, flag1_relative)
+    flag2 = os.path.join(base_dir, flag2_relative)
     
-    # Debug: stampa i percorsi e verifica esistenza
+    # Debug: stampa i percorsi assoluti
     logger.info(f"Tentativo di caricare bandiere: {flag1}, {flag2}")
     if not os.path.exists(flag1):
         logger.error(f"Bandiera non trovata: {flag1}")
@@ -71,6 +73,14 @@ def play_match(country1, country2, round_num, remaining_count):
     if not os.path.exists(flag2):
         logger.error(f"Bandiera non trovata: {flag2}")
         flag2 = os.path.join(base_dir, "assets/flags/default.png")
+    
+    # Verifica anche il fallback
+    if not os.path.exists(flag1):
+        logger.error(f"Fallback non trovato: {flag1}. Usando immagine vuota.")
+        flag1 = None
+    if not os.path.exists(flag2):
+        logger.error(f"Fallback non trovato: {flag2}. Usando immagine vuota.")
+        flag2 = None
     
     move1, move2 = rock_paper_scissors(), rock_paper_scissors()
     img_path = generate_match_image(country1["name"], flag1, move1,
