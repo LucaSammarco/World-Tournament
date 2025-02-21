@@ -2,6 +2,8 @@ import json
 import random
 from PIL import Image, ImageDraw, ImageFont
 
+import os
+
 def load_countries():
     """Carica la lista completa dei paesi con bandiere."""
     with open("full_countries.json", "r", encoding="utf-8") as f:
