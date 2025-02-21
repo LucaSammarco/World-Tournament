@@ -1,0 +1,12 @@
+/battle-royale-rps
+├── .github/workflows/post_tweet.yml  <-- GitHub Actions per i tweet automatici
+├── main.py                           <-- Gestisce il torneo
+├── twitter_api.py                    <-- Pubblica i tweet con immagine del match
+├── image_generator.py                 <-- Genera immagini per gli scontri
+├── data.json                         <-- Stato del torneo attuale
+├── full_countries.json                <-- Lista completa di 195 paesi
+├── logs/                              <-- Storico dei tornei
+│   ├── tournament_YYYY-MM-DD.json
+├── assets/                            <-- Contiene immagini e risorse
+│   ├── spade_incrociate.png           <-- **L'icona delle spade**
+├── requirements.txt                   <-- Librerie necessarie

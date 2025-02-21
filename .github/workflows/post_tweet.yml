@@ -1,0 +1,33 @@
+name: Post Tweet Every 2 Hours
+
+on:
+  schedule:
+    - cron: "0 */2 * * *" # Esegue il workflow ogni 2 ore
+  workflow_dispatch: # Permette esecuzione manuale
+
+jobs:
+  post_tweet:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x" # Usa l'ultima versione disponibile di Python
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run tweet script
+        env:
+          API_KEY: ${{ secrets.API_KEY }}
+          API_SECRET: ${{ secrets.API_SECRET }}
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          ACCESS_TOKEN_SECRET: ${{ secrets.ACCESS_TOKEN_SECRET }}
+        run: |
+          python main.py
