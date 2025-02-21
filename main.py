@@ -56,18 +56,21 @@ def save_tournament_history(final_country1, final_country2, winner):
 
 def play_match(country1, country2, round_num, remaining_count):
     """Simula un match tra due paesi e determina il vincitore."""
-    # Normalizza i percorsi delle bandiere
-    flag1 = os.path.normpath(country1["flag"])
-    flag2 = os.path.normpath(country2["flag"])
+    # Ottieni la directory dello script
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    
+    # Normalizza i percorsi delle bandiere rispetto alla directory dello script
+    flag1 = os.path.join(base_dir, os.path.normpath(country1["flag"]))
+    flag2 = os.path.join(base_dir, os.path.normpath(country2["flag"]))
     
     # Debug: stampa i percorsi e verifica esistenza
     logger.info(f"Tentativo di caricare bandiere: {flag1}, {flag2}")
     if not os.path.exists(flag1):
         logger.error(f"Bandiera non trovata: {flag1}")
-        flag1 = os.path.normpath("assets/flags/default.png")
+        flag1 = os.path.join(base_dir, "assets/flags/default.png")
     if not os.path.exists(flag2):
         logger.error(f"Bandiera non trovata: {flag2}")
-        flag2 = os.path.normpath("assets/flags/default.png")
+        flag2 = os.path.join(base_dir, "assets/flags/default.png")
     
     move1, move2 = rock_paper_scissors(), rock_paper_scissors()
     img_path = generate_match_image(country1["name"], flag1, move1,
