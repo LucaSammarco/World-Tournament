@@ -15,19 +15,12 @@ def load_data():
     """Carica lo stato attuale del torneo da data.json."""
     try:
         with open("data.json", "r", encoding="utf-8") as f:
-            data = json.load(f)
-            # Correggi i separatori al caricamento
-            for country in data["remaining"] + data["processed_countries"]:
-                country["flag"] = country["flag"].replace("\\", "/")
-            return data
+            return json.load(f)
     except (FileNotFoundError, json.JSONDecodeError):
         logger.warning("data.json non trovato o corrotto. Reinizializzazione torneo.")
         reset_tournament()
         with open("data.json", "r", encoding="utf-8") as f:
-            data = json.load(f)
-            for country in data["remaining"] + data["processed_countries"]:
-                country["flag"] = country["flag"].replace("\\", "/")
-            return data
+            return json.load(f)
 
 def save_data(data):
     """Salva lo stato aggiornato del torneo in data.json."""
@@ -66,18 +59,18 @@ def play_match(country1, country2, round_num, remaining_count):
     # Ottieni la directory dello script
     base_dir = os.path.dirname(os.path.abspath(__file__))
     
-    # Costruisci i percorsi forzando separatori corretti
-    flag1 = os.path.join(base_dir, "assets", "flags", os.path.basename(country1["flag"]))
-    flag2 = os.path.join(base_dir, "assets", "flags", os.path.basename(country2["flag"]))
+    # Costruisci i percorsi usando i dati già corretti
+    flag1 = os.path.join(base_dir, country1["flag"])
+    flag2 = os.path.join(base_dir, country2["flag"])
     
     # Debug: stampa i percorsi assoluti
     logger.info(f"Tentativo di caricare bandiere: {flag1}, {flag2}")
     if not os.path.exists(flag1):
         logger.error(f"Bandiera non trovata: {flag1}")
-        flag1 = os.path.join(base_dir, "assets", "flags", "default.png")
+        flag1 = os.path.join(base_dir, "assets/flags/default.png")
     if not os.path.exists(flag2):
         logger.error(f"Bandiera non trovata: {flag2}")
-        flag2 = os.path.join(base_dir, "assets", "flags", "default.png")
+        flag2 = os.path.join(base_dir, "assets/flags/default.png")
     
     # Verifica anche il fallback
     if not os.path.exists(flag1):

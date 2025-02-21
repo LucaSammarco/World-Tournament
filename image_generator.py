@@ -20,18 +20,28 @@ def generate_match_image(country1, flag1_path, move1, country2, flag2_path, move
     background = Image.new("RGB", (width, height), "white")
     draw = ImageDraw.Draw(background)
     
-    try:
-        flag1_img = Image.open(flag1_path).resize((400, 250))
-        flag1_img = add_border(flag1_img)
-    except Exception as e:
-        print(f"Errore caricamento bandiera per {country1}: {e}")
+    # Gestisci flag1
+    if flag1_path and os.path.exists(flag1_path):
+        try:
+            flag1_img = Image.open(flag1_path).resize((400, 250))
+            flag1_img = add_border(flag1_img)
+        except Exception as e:
+            print(f"Errore caricamento bandiera per {country1}: {e}")
+            flag1_img = Image.new("RGB", (410, 260), "gray")
+    else:
+        print(f"Bandiera per {country1} non disponibile. Usando placeholder.")
         flag1_img = Image.new("RGB", (410, 260), "gray")
     
-    try:
-        flag2_img = Image.open(flag2_path).resize((400, 250))
-        flag2_img = add_border(flag2_img)
-    except Exception as e:
-        print(f"Errore caricamento bandiera per {country2}: {e}")
+    # Gestisci flag2
+    if flag2_path and os.path.exists(flag2_path):
+        try:
+            flag2_img = Image.open(flag2_path).resize((400, 250))
+            flag2_img = add_border(flag2_img)
+        except Exception as e:
+            print(f"Errore caricamento bandiera per {country2}: {e}")
+            flag2_img = Image.new("RGB", (410, 260), "gray")
+    else:
+        print(f"Bandiera per {country2} non disponibile. Usando placeholder.")
         flag2_img = Image.new("RGB", (410, 260), "gray")
     
     try:
