@@ -1,6 +1,7 @@
 import json
 import random
 import logging
+import os
 from datetime import datetime
 from image_generator import generate_match_image
 from reset_tournament import reset_tournament
@@ -33,38 +34,44 @@ def rock_paper_scissors():
 def save_tournament_history(final_country1, final_country2, winner):
     """Salva i dati della finale e del vincitore in tournament_history.json."""
     try:
-        # Carica il file esistente o inizializza una lista vuota
         try:
             with open("tournament_history.json", "r", encoding="utf-8") as f:
                 history = json.load(f)
         except (FileNotFoundError, json.JSONDecodeError):
             history = []
 
-        # Trova l'ID del prossimo torneo
         tournament_id = len(history) + 1
-
-        # Crea il record del torneo
         tournament_record = {
             "tournament_id": tournament_id,
             "finale": {"country1": final_country1["name"], "country2": final_country2["name"]},
             "winner": winner["name"],
             "date": datetime.now().isoformat()
         }
-
-        # Aggiungi il record e salva
         history.append(tournament_record)
         with open("tournament_history.json", "w", encoding="utf-8") as f:
             json.dump(history, f, indent=4, ensure_ascii=False)
-        
         logger.info(f"📜 Storico torneo salvato: {tournament_record}")
     except Exception as e:
         logger.error(f"❌ Errore durante il salvataggio dello storico: {e}")
 
 def play_match(country1, country2, round_num, remaining_count):
     """Simula un match tra due paesi e determina il vincitore."""
+    # Normalizza i percorsi delle bandiere
+    flag1 = os.path.normpath(country1["flag"])
+    flag2 = os.path.normpath(country2["flag"])
+    
+    # Debug: stampa i percorsi e verifica esistenza
+    logger.info(f"Tentativo di caricare bandiere: {flag1}, {flag2}")
+    if not os.path.exists(flag1):
+        logger.error(f"Bandiera non trovata: {flag1}")
+        flag1 = os.path.normpath("assets/flags/default.png")
+    if not os.path.exists(flag2):
+        logger.error(f"Bandiera non trovata: {flag2}")
+        flag2 = os.path.normpath("assets/flags/default.png")
+    
     move1, move2 = rock_paper_scissors(), rock_paper_scissors()
-    img_path = generate_match_image(country1["name"], country1["flag"], move1,
-                                    country2["name"], country2["flag"], move2,
+    img_path = generate_match_image(country1["name"], flag1, move1,
+                                    country2["name"], flag2, move2,
                                     round_num)
     
     if (move1 == "Rock" and move2 == "Scissors") or (move1 == "Paper" and move2 == "Rock") or (move1 == "Scissors" and move2 == "Paper"):
@@ -83,57 +90,59 @@ def play_match(country1, country2, round_num, remaining_count):
     return winner, img_path
 
 def run_tournament():
-    """Gestisce il torneo e avanza i round."""
+    """Esegue un solo match del torneo e aggiorna lo stato."""
     data = load_data()
     remaining = data["remaining"]
     processed = data["processed_countries"]
     round_num = data["round"]
-    logger.info(f"🔢 Round {round_num} inizia con {len(remaining)} paesi in remaining.")
+    remaining_count = len(remaining)
     
-    # Variabili per tracciare la finale
-    final_country1 = None
-    final_country2 = None
-    
-    # Continuiamo finché remaining non è vuoto
-    while remaining:
-        remaining_count = len(remaining)
+    logger.info(f"🔢 Round {round_num} - {remaining_count} paesi rimanenti.")
+
+    if remaining_count == 0:
+        logger.info("⚠️ Nessun paese rimanente. Torneo completato o non inizializzato.")
+        return
+
+    if remaining_count == 1:
+        winner = remaining.pop()
+        processed.append(winner)
+        logger.info(f"👤 {winner['name']} passa automaticamente ed è il vincitore!")
+        data["remaining"] = processed
+        data["processed_countries"] = []
+        save_data(data)
         
-        if remaining_count == 1:  # Numero dispari, l'ultimo passa automaticamente
-            logger.info(f"👤 {remaining[0]['name']} passa automaticamente.")
-            processed.append(remaining.pop())
-            break
-        
-        # Salviamo i paesi della finale quando remaining ha 2 elementi
-        if remaining_count == 2:
-            final_country1 = remaining[-1]
-            final_country2 = remaining[-2]
-        
-        country1, country2 = remaining.pop(), remaining.pop()
-        winner, img_path = play_match(country1, country2, round_num, remaining_count)
-        
-        if winner:
-            processed.append(winner)
-        else:  # Pareggio, entrambi avanzano
-            processed.append(country1)
-            processed.append(country2)
-    
-    # Fine del round: trasferiamo processed a remaining
-    data["remaining"] = processed
-    data["processed_countries"] = []
-    data["round"] += 1
-    logger.info(f"🔄 Fine round {round_num}. Avanzamento al round {data['round']} con {len(data['remaining'])} paesi in remaining.")
-    save_data(data)
-    
-    # Controlliamo se il nuovo remaining ha 1 solo paese (fine torneo)
-    if len(data["remaining"]) == 1:
-        winner = data["remaining"][0]
-        if final_country1 and final_country2:  # Assicuriamoci di avere i finalisti
-            save_tournament_history(final_country1, final_country2, winner)
+        if round_num > 1 and "final_country1" in data and "final_country2" in data:
+            save_tournament_history(data["final_country1"], data["final_country2"], winner)
         logger.info(f"🏆 Vincitore del torneo: {winner['name']}")
         reset_tournament()
-    elif len(data["remaining"]) > 1:
-        logger.info(f"▶️ Continuazione del torneo con {len(data['remaining'])} paesi.")
-        run_tournament()  # Ricorsione per continuare il torneo
+        return
+
+    country1 = remaining.pop()
+    country2 = remaining.pop()
+    
+    if remaining_count == 2:
+        data["final_country1"] = country1
+        data["final_country2"] = country2
+
+    winner, img_path = play_match(country1, country2, round_num, remaining_count)
+    
+    if winner:
+        processed.append(winner)
+    else:
+        processed.append(country1)
+        processed.append(country2)
+    
+    data["remaining"] = remaining
+    data["processed_countries"] = processed
+    
+    if not remaining:
+        data["remaining"] = processed
+        data["processed_countries"] = []
+        data["round"] += 1
+        logger.info(f"🔄 Fine round {round_num}. Avanzamento al round {data['round']} con {len(data['remaining'])} paesi.")
+    
+    save_data(data)
+    logger.info(f"✅ Match completato. {len(data['remaining'])} paesi rimanenti.")
 
 if __name__ == "__main__":
     logger.info("🏁 Avvio del torneo...")
