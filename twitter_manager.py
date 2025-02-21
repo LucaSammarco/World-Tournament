@@ -1,7 +1,6 @@
 import tweepy
 import logging
-import os  # Assicurati che sia presente
-
+import os
 
 # Configura il logging
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s", encoding="utf-8")
@@ -36,19 +35,19 @@ def initialize_twitter_client():
         return None
 
 def format_match_tweet(round_num, remaining_count, country1, move1, country2, move2, winner):
-    """Genera il testo del tweet per un match, usando i dati forniti dal main."""
+    """Genera il testo del tweet per un match, usando solo hashtag per i nomi dei paesi."""
     # Creiamo gli hashtag dai nomi dei paesi, rimuovendo spazi e caratteri speciali
     hashtag1 = "#" + country1["name"].replace(" ", "").replace(",", "").replace("-", "")
     hashtag2 = "#" + country2["name"].replace(" ", "").replace(",", "").replace("-", "")
     
     tweet = (f"\U0001F6E1️ Round {round_num} | Remaining countries: {remaining_count}\n\n"
-             f"⚔️ {country1['emoji']} {country1['name']} {hashtag1} vs {country2['emoji']} {country2['name']} {hashtag2} ⚔️\n\n"
-             f"{MOVE_EMOJI[move1]} {country1['name']}: {move1}\n\n"
-             f"{MOVE_EMOJI[move2]} {country2['name']}: {move2}\n\n")
+             f"⚔️ {country1['emoji']} {hashtag1} vs {country2['emoji']} {hashtag2} ⚔️\n\n"
+             f"{MOVE_EMOJI[move1]} {hashtag1}: {move1}\n\n"
+             f"{MOVE_EMOJI[move2]} {hashtag2}: {move2}\n\n")
     
     if winner:
         tweet += f"🏆 Winner: {winner['emoji']} {winner['name']}"
-    else:  # Non dovrebbe mai succedere con la nuova logica, ma lo lasciamo per compatibilità
+    else:  # Non dovrebbe succedere, ma lo lasciamo per sicurezza
         tweet += "🏆 Result: Both advance"
     
     return tweet
