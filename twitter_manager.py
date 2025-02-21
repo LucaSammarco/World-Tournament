@@ -1,5 +1,7 @@
 import tweepy
 import logging
+import os  # Assicurati che sia presente
+
 
 # Configura il logging
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s", encoding="utf-8")
