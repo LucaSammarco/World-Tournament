@@ -597,11 +597,6 @@
             "flag": "assets/flags/oman.png"
         },
         {
-            "name": "Pakistan",
-            "emoji": "🇵🇰",
-            "flag": "assets/flags/pakistan.png"
-        },
-        {
             "name": "Palau",
             "emoji": "🇵🇼",
             "flag": "assets/flags/palau.png"
@@ -787,11 +782,6 @@
             "flag": "assets/flags/syria.png"
         },
         {
-            "name": "Tajikistan",
-            "emoji": "🇹🇯",
-            "flag": "assets/flags/tajikistan.png"
-        },
-        {
             "name": "Tanzania",
             "emoji": "🇹🇿",
             "flag": "assets/flags/tanzania.png"
@@ -958,6 +948,16 @@
             "name": "Djibouti",
             "emoji": "🇩🇯",
             "flag": "assets/flags/djibouti.png"
+        },
+        {
+            "name": "Pakistan",
+            "emoji": "🇵🇰",
+            "flag": "assets/flags/pakistan.png"
+        },
+        {
+            "name": "Tajikistan",
+            "emoji": "🇹🇯",
+            "flag": "assets/flags/tajikistan.png"
         }
     ]
 }
