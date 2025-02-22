@@ -30,16 +30,15 @@ jobs:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           ACCESS_TOKEN_SECRET: ${{ secrets.ACCESS_TOKEN_SECRET }}
         run: |
-          python main.py  # Sostituisci con python tournament.py se necessario
+          python main.py
 
       - name: Commit and push updated data
         env:
-          GIT_EMAIL: ${{ secrets.GIT_EMAIL }}  # Usa il secret qui
+          GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Unito qui
         run: |
           git config --global user.name "RPS World Bot"
-          git config --global user.email "$GIT_EMAIL"  # Riferimento alla variabile d'ambiente
+          git config --global user.email "$GIT_EMAIL"
           git add data.json tournament_history.json
           git commit -m "Update tournament state - $(date)" || echo "No changes to commit"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
