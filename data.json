@@ -407,11 +407,6 @@
             "flag": "assets/flags/italy.png"
         },
         {
-            "name": "Ivory Coast",
-            "emoji": "🇨🇮",
-            "flag": "assets/flags/ivory-coast.png"
-        },
-        {
             "name": "Jamaica",
             "emoji": "🇯🇲",
             "flag": "assets/flags/jamaica.png"
@@ -670,11 +665,6 @@
             "name": "Paraguay",
             "emoji": "🇵🇾",
             "flag": "assets/flags/paraguay.png"
-        },
-        {
-            "name": "Peru",
-            "emoji": "🇵🇪",
-            "flag": "assets/flags/peru.png"
         },
         {
             "name": "Philippines",
@@ -973,6 +963,16 @@
             "name": "Palestine",
             "emoji": "🇵🇸",
             "flag": "assets/flags/palestine.png"
+        },
+        {
+            "name": "Peru",
+            "emoji": "🇵🇪",
+            "flag": "assets/flags/peru.png"
+        },
+        {
+            "name": "Ivory Coast",
+            "emoji": "🇨🇮",
+            "flag": "assets/flags/ivory-coast.png"
         }
     ]
 }
