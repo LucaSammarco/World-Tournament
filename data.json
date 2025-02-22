@@ -157,11 +157,6 @@
             "flag": "assets/flags/canada.png"
         },
         {
-            "name": "Cape Verde",
-            "emoji": "🇨🇻",
-            "flag": "assets/flags/cape-verde.png"
-        },
-        {
             "name": "Central African Republic",
             "emoji": "🇨🇫",
             "flag": "assets/flags/central-african-republic.png"
@@ -230,11 +225,6 @@
             "name": "Denmark",
             "emoji": "🇩🇰",
             "flag": "assets/flags/denmark.png"
-        },
-        {
-            "name": "Djibouti",
-            "emoji": "🇩🇯",
-            "flag": "assets/flags/djibouti.png"
         },
         {
             "name": "Dominica",
@@ -963,6 +953,11 @@
             "name": "Greece",
             "emoji": "🇬🇷",
             "flag": "assets/flags/greece.png"
+        },
+        {
+            "name": "Djibouti",
+            "emoji": "🇩🇯",
+            "flag": "assets/flags/djibouti.png"
         }
     ]
 }
