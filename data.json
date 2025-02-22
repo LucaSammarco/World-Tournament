@@ -872,11 +872,6 @@
             "flag": "assets/flags/tuvalu.png"
         },
         {
-            "name": "Ukraine",
-            "emoji": "🇺🇦",
-            "flag": "assets/flags/ukraine.png"
-        },
-        {
             "name": "United Arab Emirates",
             "emoji": "🇦🇪",
             "flag": "assets/flags/united-arab-emirates.png"
@@ -905,11 +900,6 @@
             "name": "Vanuatu",
             "emoji": "🇻🇺",
             "flag": "assets/flags/vanuatu.png"
-        },
-        {
-            "name": "Vatican City",
-            "emoji": "🇻🇦",
-            "flag": "assets/flags/vatican-city.png"
         },
         {
             "name": "Venezuela",
@@ -968,6 +958,16 @@
             "name": "Kazakhstan",
             "emoji": "🇰🇿",
             "flag": "assets/flags/kazakhstan.png"
+        },
+        {
+            "name": "Vatican City",
+            "emoji": "🇻🇦",
+            "flag": "assets/flags/vatican-city.png"
+        },
+        {
+            "name": "Ukraine",
+            "emoji": "🇺🇦",
+            "flag": "assets/flags/ukraine.png"
         }
     ]
 }
