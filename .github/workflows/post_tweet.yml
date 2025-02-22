@@ -30,15 +30,17 @@ jobs:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           ACCESS_TOKEN_SECRET: ${{ secrets.ACCESS_TOKEN_SECRET }}
         run: |
-          python main.py
+          python main.py  # O python tournament.py
 
       - name: Commit and push updated data
         env:
           GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Unito qui
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "RPS World Bot"
           git config --global user.email "$GIT_EMAIL"
-          git add data.json tournament_history.json
+          # Aggiunge i file solo se esistono
+          [ -f data.json ] && git add data.json || echo "data.json not found, skipping"
+          [ -f tournament_history.json ] && git add tournament_history.json || echo "tournament_history.json not found, skipping"
           git commit -m "Update tournament state - $(date)" || echo "No changes to commit"
           git push
