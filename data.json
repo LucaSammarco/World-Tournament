@@ -22,6 +22,11 @@
             "flag": "assets/flags/andorra.png"
         },
         {
+            "name": "Angola",
+            "emoji": "🇦🇴",
+            "flag": "assets/flags/angola.png"
+        },
+        {
             "name": "Antigua and Barbuda",
             "emoji": "🇦🇬",
             "flag": "assets/flags/antigua-and-barbuda.png"
@@ -243,7 +248,7 @@
         },
         {
             "name": "Ecuador",
-            "emoji": "� pils🇪🇨",
+            "emoji": "🇪🇨",
             "flag": "assets/flags/ecuador.png"
         },
         {
@@ -455,6 +460,11 @@
             "name": "Laos",
             "emoji": "🇱🇦",
             "flag": "assets/flags/laos.png"
+        },
+        {
+            "name": "Latvia",
+            "emoji": "🇱🇻",
+            "flag": "assets/flags/latvia.png"
         },
         {
             "name": "Lebanon",
@@ -718,7 +728,7 @@
         },
         {
             "name": "Saint Lucia",
-            "emoji": "🇱🇚",
+            "emoji": "🇱🇨",
             "flag": "assets/flags/saint-lucia.png"
         },
         {
@@ -968,16 +978,5 @@
         }
     ],
     "total_countries": 195,
-    "processed_countries": [
-        {
-            "name": "Latvia",
-            "emoji": "🇱🇻",
-            "flag": "assets/flags/latvia.png"
-        },
-        {
-            "name": "Angola",
-            "emoji": "🇦🇴",
-            "flag": "assets/flags/angola.png"
-        }
-    ]
+    "processed_countries": []
 }

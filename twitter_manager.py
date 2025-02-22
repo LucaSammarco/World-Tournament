@@ -35,20 +35,22 @@ def initialize_twitter_client():
         return None
 
 def format_match_tweet(round_num, remaining_count, country1, move1, country2, move2, winner):
-    """Genera il testo del tweet per un match, usando solo hashtag per i nomi dei paesi."""
+    """Genera il testo del tweet per un match con tono aggressivo e 'uses' come verbo."""
     # Creiamo gli hashtag dai nomi dei paesi, rimuovendo spazi e caratteri speciali
     hashtag1 = "#" + country1["name"].replace(" ", "").replace(",", "").replace("-", "")
     hashtag2 = "#" + country2["name"].replace(" ", "").replace(",", "").replace("-", "")
     
-    tweet = (f"\U0001F6E1️ Round {round_num} | Remaining countries: {remaining_count}\n\n"
+    tweet = (f"\U0001F6E1️ Round {round_num} | Countries left: {remaining_count}\n\n"
              f"⚔️ {country1['emoji']} {hashtag1} vs {country2['emoji']} {hashtag2} ⚔️\n\n"
-             f"{MOVE_EMOJI[move1]} {hashtag1}: {move1}\n\n"
-             f"{MOVE_EMOJI[move2]} {hashtag2}: {move2}\n\n")
+             f"{MOVE_EMOJI[move1]} {hashtag1} uses {move1}\n\n"
+             f"{MOVE_EMOJI[move2]} {hashtag2} uses {move2}\n\n")
     
     if winner:
-        tweet += f"🏆 Winner: {winner['emoji']} {winner['name']}"
-    else:  # Non dovrebbe succedere, ma lo lasciamo per sicurezza
-        tweet += "🏆 Result: Both advance"
+        winner_hashtag = "#" + winner["name"].replace(" ", "").replace(",", "").replace("-", "")
+        loser_hashtag = hashtag2 if winner == country1 else hashtag1
+        tweet += f"🏆 {winner['emoji']} {winner_hashtag} DEFEATS {loser_hashtag} and ADVANCES!"
+    else:  # Pareggio
+        tweet += f"🏆 Stalemate! Both advance to fight another day."
     
     return tweet
 
