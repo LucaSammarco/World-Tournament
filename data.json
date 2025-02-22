@@ -307,11 +307,6 @@
             "flag": "assets/flags/gabon.png"
         },
         {
-            "name": "Gambia",
-            "emoji": "🇬🇲",
-            "flag": "assets/flags/gambia.png"
-        },
-        {
             "name": "Georgia",
             "emoji": "🇬🇪",
             "flag": "assets/flags/georgia.png"
@@ -662,11 +657,6 @@
             "flag": "assets/flags/palau.png"
         },
         {
-            "name": "Palestine",
-            "emoji": "🇵🇸",
-            "flag": "assets/flags/palestine.png"
-        },
-        {
             "name": "Panama",
             "emoji": "🇵🇦",
             "flag": "assets/flags/panama.png"
@@ -978,5 +968,11 @@
         }
     ],
     "total_countries": 195,
-    "processed_countries": []
+    "processed_countries": [
+        {
+            "name": "Palestine",
+            "emoji": "🇵🇸",
+            "flag": "assets/flags/palestine.png"
+        }
+    ]
 }
