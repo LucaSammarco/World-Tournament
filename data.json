@@ -392,11 +392,6 @@
             "flag": "assets/flags/kenya.png"
         },
         {
-            "name": "Kiribati",
-            "emoji": "🇰🇮",
-            "flag": "assets/flags/kiribati.png"
-        },
-        {
             "name": "Kuwait",
             "emoji": "🇰🇼",
             "flag": "assets/flags/kuwait.png"
@@ -490,11 +485,6 @@
             "name": "Mauritius",
             "emoji": "🇲🇺",
             "flag": "assets/flags/mauritius.png"
-        },
-        {
-            "name": "Mexico",
-            "emoji": "🇲🇽",
-            "flag": "assets/flags/mexico.png"
         },
         {
             "name": "Micronesia",
@@ -953,6 +943,11 @@
             "name": "Dominican Republic",
             "emoji": "🇩🇴",
             "flag": "assets/flags/dominican-republic.png"
+        },
+        {
+            "name": "Mexico",
+            "emoji": "🇲🇽",
+            "flag": "assets/flags/mexico.png"
         }
     ]
 }
