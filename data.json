@@ -92,11 +92,6 @@
             "flag": "assets/flags/benin.png"
         },
         {
-            "name": "Bhutan",
-            "emoji": "🇧🇹",
-            "flag": "assets/flags/bhutan.png"
-        },
-        {
             "name": "Bolivia",
             "emoji": "🇧🇴",
             "flag": "assets/flags/bolivia.png"
@@ -425,11 +420,6 @@
             "name": "Liechtenstein",
             "emoji": "🇱🇮",
             "flag": "assets/flags/liechtenstein.png"
-        },
-        {
-            "name": "Lithuania",
-            "emoji": "🇱🇹",
-            "flag": "assets/flags/lithuania.png"
         },
         {
             "name": "Luxembourg",
@@ -948,6 +938,11 @@
             "name": "United Arab Emirates",
             "emoji": "🇦🇪",
             "flag": "assets/flags/united-arab-emirates.png"
+        },
+        {
+            "name": "Lithuania",
+            "emoji": "🇱🇹",
+            "flag": "assets/flags/lithuania.png"
         }
     ]
 }
