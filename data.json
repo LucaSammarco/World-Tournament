@@ -662,11 +662,6 @@
             "flag": "assets/flags/serbia.png"
         },
         {
-            "name": "Seychelles",
-            "emoji": "🇸🇨",
-            "flag": "assets/flags/seychelles.png"
-        },
-        {
             "name": "Sierra Leone",
             "emoji": "🇸🇱",
             "flag": "assets/flags/sierra-leone.png"
@@ -785,11 +780,6 @@
             "name": "Tuvalu",
             "emoji": "🇹🇻",
             "flag": "assets/flags/tuvalu.png"
-        },
-        {
-            "name": "United Arab Emirates",
-            "emoji": "🇦🇪",
-            "flag": "assets/flags/united-arab-emirates.png"
         },
         {
             "name": "United Kingdom",
@@ -948,6 +938,16 @@
             "name": "United States",
             "emoji": "🇺🇸",
             "flag": "assets/flags/united-states.png"
+        },
+        {
+            "name": "Seychelles",
+            "emoji": "🇸🇨",
+            "flag": "assets/flags/seychelles.png"
+        },
+        {
+            "name": "United Arab Emirates",
+            "emoji": "🇦🇪",
+            "flag": "assets/flags/united-arab-emirates.png"
         }
     ]
 }
