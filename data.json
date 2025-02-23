@@ -177,11 +177,6 @@
             "flag": "assets/flags/colombia.png"
         },
         {
-            "name": "Comoros",
-            "emoji": "🇰🇲",
-            "flag": "assets/flags/comoros.png"
-        },
-        {
             "name": "Democratic Republic of the Congo",
             "emoji": "🇨🇩",
             "flag": "assets/flags/democratic-republic-of-the-congo.png"
@@ -652,11 +647,6 @@
             "flag": "assets/flags/samoa.png"
         },
         {
-            "name": "San Marino",
-            "emoji": "🇸🇲",
-            "flag": "assets/flags/san-marino.png"
-        },
-        {
             "name": "São Tomé and Príncipe",
             "emoji": "🇸🇹",
             "flag": "assets/flags/são-tomé-and-príncipe.png"
@@ -948,6 +938,16 @@
             "name": "Mexico",
             "emoji": "🇲🇽",
             "flag": "assets/flags/mexico.png"
+        },
+        {
+            "name": "San Marino",
+            "emoji": "🇸🇲",
+            "flag": "assets/flags/san-marino.png"
+        },
+        {
+            "name": "Comoros",
+            "emoji": "🇰🇲",
+            "flag": "assets/flags/comoros.png"
         }
     ]
 }
