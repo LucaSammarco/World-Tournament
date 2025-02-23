@@ -102,11 +102,6 @@
             "flag": "assets/flags/botswana.png"
         },
         {
-            "name": "Brazil",
-            "emoji": "🇧🇷",
-            "flag": "assets/flags/brazil.png"
-        },
-        {
             "name": "Brunei",
             "emoji": "🇧🇳",
             "flag": "assets/flags/brunei.png"
@@ -772,11 +767,6 @@
             "flag": "assets/flags/venezuela.png"
         },
         {
-            "name": "Vietnam",
-            "emoji": "🇻🇳",
-            "flag": "assets/flags/vietnam.png"
-        },
-        {
             "name": "Yemen",
             "emoji": "🇾🇪",
             "flag": "assets/flags/yemen.png"
@@ -933,6 +923,11 @@
             "name": "Zambia",
             "emoji": "🇿🇲",
             "flag": "assets/flags/zambia.png"
+        },
+        {
+            "name": "Brazil",
+            "emoji": "🇧🇷",
+            "flag": "assets/flags/brazil.png"
         }
     ]
 }
