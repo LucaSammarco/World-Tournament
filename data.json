@@ -67,11 +67,6 @@
             "flag": "assets/flags/bangladesh.png"
         },
         {
-            "name": "Barbados",
-            "emoji": "🇧🇧",
-            "flag": "assets/flags/barbados.png"
-        },
-        {
             "name": "Belarus",
             "emoji": "🇧🇾",
             "flag": "assets/flags/belarus.png"
@@ -672,11 +667,6 @@
             "flag": "assets/flags/south-africa.png"
         },
         {
-            "name": "South Korea",
-            "emoji": "🇰🇷",
-            "flag": "assets/flags/south-korea.png"
-        },
-        {
             "name": "South Sudan",
             "emoji": "🇸🇸",
             "flag": "assets/flags/south-sudan.png"
@@ -943,6 +933,11 @@
             "name": "Lebanon",
             "emoji": "🇱🇧",
             "flag": "assets/flags/lebanon.png"
+        },
+        {
+            "name": "South Korea",
+            "emoji": "🇰🇷",
+            "flag": "assets/flags/south-korea.png"
         }
     ]
 }
