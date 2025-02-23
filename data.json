@@ -672,11 +672,6 @@
             "flag": "assets/flags/south-sudan.png"
         },
         {
-            "name": "Spain",
-            "emoji": "🇪🇸",
-            "flag": "assets/flags/spain.png"
-        },
-        {
             "name": "Sudan",
             "emoji": "🇸🇩",
             "flag": "assets/flags/sudan.png"
@@ -785,11 +780,6 @@
             "name": "Yemen",
             "emoji": "🇾🇪",
             "flag": "assets/flags/yemen.png"
-        },
-        {
-            "name": "Zambia",
-            "emoji": "🇿🇲",
-            "flag": "assets/flags/zambia.png"
         },
         {
             "name": "Zimbabwe",
@@ -938,6 +928,11 @@
             "name": "South Korea",
             "emoji": "🇰🇷",
             "flag": "assets/flags/south-korea.png"
+        },
+        {
+            "name": "Zambia",
+            "emoji": "🇿🇲",
+            "flag": "assets/flags/zambia.png"
         }
     ]
 }
