@@ -682,11 +682,6 @@
             "flag": "assets/flags/slovakia.png"
         },
         {
-            "name": "Slovenia",
-            "emoji": "🇸🇮",
-            "flag": "assets/flags/slovenia.png"
-        },
-        {
             "name": "Solomon Islands",
             "emoji": "🇸🇧",
             "flag": "assets/flags/solomon-islands.png"
@@ -800,11 +795,6 @@
             "name": "United Kingdom",
             "emoji": "🇬🇧",
             "flag": "assets/flags/united-kingdom.png"
-        },
-        {
-            "name": "United States",
-            "emoji": "🇺🇸",
-            "flag": "assets/flags/united-states.png"
         },
         {
             "name": "Uruguay",
@@ -948,6 +938,16 @@
             "name": "Sri Lanka",
             "emoji": "🇱🇰",
             "flag": "assets/flags/sri-lanka.png"
+        },
+        {
+            "name": "Slovenia",
+            "emoji": "🇸🇮",
+            "flag": "assets/flags/slovenia.png"
+        },
+        {
+            "name": "United States",
+            "emoji": "🇺🇸",
+            "flag": "assets/flags/united-states.png"
         }
     ]
 }
