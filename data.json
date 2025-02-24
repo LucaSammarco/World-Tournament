@@ -2,11 +2,6 @@
     "round": 1,
     "remaining": [
         {
-            "name": "Afghanistan",
-            "emoji": "🇦🇫",
-            "flag": "assets/flags/afghanistan.png"
-        },
-        {
             "name": "Albania",
             "emoji": "🇦🇱",
             "flag": "assets/flags/albania.png"
@@ -612,11 +607,6 @@
             "flag": "assets/flags/south-africa.png"
         },
         {
-            "name": "South Sudan",
-            "emoji": "🇸🇸",
-            "flag": "assets/flags/south-sudan.png"
-        },
-        {
             "name": "Sudan",
             "emoji": "🇸🇩",
             "flag": "assets/flags/sudan.png"
@@ -908,6 +898,11 @@
             "name": "Saint Kitts and Nevis",
             "emoji": "🇰🇳",
             "flag": "assets/flags/saint-kitts-and-nevis.png"
+        },
+        {
+            "name": "South Sudan",
+            "emoji": "🇸🇸",
+            "flag": "assets/flags/south-sudan.png"
         }
     ]
 }
