@@ -12,11 +12,6 @@
             "flag": "assets/flags/albania.png"
         },
         {
-            "name": "Algeria",
-            "emoji": "🇩🇿",
-            "flag": "assets/flags/algeria.png"
-        },
-        {
             "name": "Angola",
             "emoji": "🇦🇴",
             "flag": "assets/flags/angola.png"
@@ -587,11 +582,6 @@
             "flag": "assets/flags/samoa.png"
         },
         {
-            "name": "São Tomé and Príncipe",
-            "emoji": "🇸🇹",
-            "flag": "assets/flags/são-tomé-and-príncipe.png"
-        },
-        {
             "name": "Saudi Arabia",
             "emoji": "🇸🇦",
             "flag": "assets/flags/saudi-arabia.png"
@@ -913,6 +903,16 @@
             "name": "Suriname",
             "emoji": "🇸🇷",
             "flag": "assets/flags/suriname.png"
+        },
+        {
+            "name": "Algeria",
+            "emoji": "🇩🇿",
+            "flag": "assets/flags/algeria.png"
+        },
+        {
+            "name": "São Tomé and Príncipe",
+            "emoji": "🇸🇹",
+            "flag": "assets/flags/são-tomé-and-príncipe.png"
         }
     ]
 }
