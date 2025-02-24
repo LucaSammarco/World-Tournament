@@ -187,11 +187,6 @@
             "flag": "assets/flags/dominica.png"
         },
         {
-            "name": "Ecuador",
-            "emoji": "🇪🇨",
-            "flag": "assets/flags/ecuador.png"
-        },
-        {
             "name": "Egypt",
             "emoji": "🇪🇬",
             "flag": "assets/flags/egypt.png"
@@ -385,11 +380,6 @@
             "name": "Malta",
             "emoji": "🇲🇹",
             "flag": "assets/flags/malta.png"
-        },
-        {
-            "name": "Marshall Islands",
-            "emoji": "🇲🇭",
-            "flag": "assets/flags/marshall-islands.png"
         },
         {
             "name": "Mauritania",
@@ -888,6 +878,11 @@
             "name": "Liberia",
             "emoji": "🇱🇷",
             "flag": "assets/flags/liberia.png"
+        },
+        {
+            "name": "Ecuador",
+            "emoji": "🇪🇨",
+            "flag": "assets/flags/ecuador.png"
         }
     ]
 }
