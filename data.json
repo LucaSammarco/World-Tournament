@@ -52,11 +52,6 @@
             "flag": "assets/flags/azerbaijan.png"
         },
         {
-            "name": "Bahrain",
-            "emoji": "🇧🇭",
-            "flag": "assets/flags/bahrain.png"
-        },
-        {
             "name": "Bangladesh",
             "emoji": "🇧🇩",
             "flag": "assets/flags/bangladesh.png"
@@ -697,11 +692,6 @@
             "flag": "assets/flags/tonga.png"
         },
         {
-            "name": "Trinidad and Tobago",
-            "emoji": "🇹🇹",
-            "flag": "assets/flags/trinidad-and-tobago.png"
-        },
-        {
             "name": "Tunisia",
             "emoji": "🇹🇳",
             "flag": "assets/flags/tunisia.png"
@@ -918,6 +908,16 @@
             "name": "Liechtenstein",
             "emoji": "🇱🇮",
             "flag": "assets/flags/liechtenstein.png"
+        },
+        {
+            "name": "Trinidad and Tobago",
+            "emoji": "🇹🇹",
+            "flag": "assets/flags/trinidad-and-tobago.png"
+        },
+        {
+            "name": "Bahrain",
+            "emoji": "🇧🇭",
+            "flag": "assets/flags/bahrain.png"
         }
     ]
 }
