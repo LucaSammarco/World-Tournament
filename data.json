@@ -312,11 +312,6 @@
             "flag": "assets/flags/indonesia.png"
         },
         {
-            "name": "Iraq",
-            "emoji": "🇮🇶",
-            "flag": "assets/flags/iraq.png"
-        },
-        {
             "name": "Ireland",
             "emoji": "🇮🇪",
             "flag": "assets/flags/ireland.png"
@@ -560,11 +555,6 @@
             "name": "Rwanda",
             "emoji": "🇷🇼",
             "flag": "assets/flags/rwanda.png"
-        },
-        {
-            "name": "Saint Kitts and Nevis",
-            "emoji": "🇰🇳",
-            "flag": "assets/flags/saint-kitts-and-nevis.png"
         },
         {
             "name": "Saint Lucia",
@@ -913,6 +903,11 @@
             "name": "Singapore",
             "emoji": "🇸🇬",
             "flag": "assets/flags/singapore.png"
+        },
+        {
+            "name": "Saint Kitts and Nevis",
+            "emoji": "🇰🇳",
+            "flag": "assets/flags/saint-kitts-and-nevis.png"
         }
     ]
 }
