@@ -277,11 +277,6 @@
             "flag": "assets/flags/guinea-bissau.png"
         },
         {
-            "name": "Guyana",
-            "emoji": "🇬🇾",
-            "flag": "assets/flags/guyana.png"
-        },
-        {
             "name": "Haiti",
             "emoji": "🇭🇹",
             "flag": "assets/flags/haiti.png"
@@ -320,11 +315,6 @@
             "name": "Italy",
             "emoji": "🇮🇹",
             "flag": "assets/flags/italy.png"
-        },
-        {
-            "name": "Jamaica",
-            "emoji": "🇯🇲",
-            "flag": "assets/flags/jamaica.png"
         },
         {
             "name": "Japan",
@@ -903,6 +893,11 @@
             "name": "South Sudan",
             "emoji": "🇸🇸",
             "flag": "assets/flags/south-sudan.png"
+        },
+        {
+            "name": "Guyana",
+            "emoji": "🇬🇾",
+            "flag": "assets/flags/guyana.png"
         }
     ]
 }
