@@ -602,11 +602,6 @@
             "flag": "assets/flags/sierra-leone.png"
         },
         {
-            "name": "Singapore",
-            "emoji": "🇸🇬",
-            "flag": "assets/flags/singapore.png"
-        },
-        {
             "name": "Slovakia",
             "emoji": "🇸🇰",
             "flag": "assets/flags/slovakia.png"
@@ -645,11 +640,6 @@
             "name": "Switzerland",
             "emoji": "🇨🇭",
             "flag": "assets/flags/switzerland.png"
-        },
-        {
-            "name": "Syria",
-            "emoji": "🇸🇾",
-            "flag": "assets/flags/syria.png"
         },
         {
             "name": "Tanzania",
@@ -913,6 +903,16 @@
             "name": "São Tomé and Príncipe",
             "emoji": "🇸🇹",
             "flag": "assets/flags/são-tomé-and-príncipe.png"
+        },
+        {
+            "name": "Syria",
+            "emoji": "🇸🇾",
+            "flag": "assets/flags/syria.png"
+        },
+        {
+            "name": "Singapore",
+            "emoji": "🇸🇬",
+            "flag": "assets/flags/singapore.png"
         }
     ]
 }
