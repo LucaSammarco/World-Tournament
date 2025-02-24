@@ -357,11 +357,6 @@
             "flag": "assets/flags/lesotho.png"
         },
         {
-            "name": "Liberia",
-            "emoji": "🇱🇷",
-            "flag": "assets/flags/liberia.png"
-        },
-        {
             "name": "Libya",
             "emoji": "🇱🇾",
             "flag": "assets/flags/libya.png"
@@ -500,11 +495,6 @@
             "name": "Papua New Guinea",
             "emoji": "🇵🇬",
             "flag": "assets/flags/papua-new-guinea.png"
-        },
-        {
-            "name": "Paraguay",
-            "emoji": "🇵🇾",
-            "flag": "assets/flags/paraguay.png"
         },
         {
             "name": "Philippines",
@@ -893,6 +883,11 @@
             "name": "Romania",
             "emoji": "🇷🇴",
             "flag": "assets/flags/romania.png"
+        },
+        {
+            "name": "Liberia",
+            "emoji": "🇱🇷",
+            "flag": "assets/flags/liberia.png"
         }
     ]
 }
