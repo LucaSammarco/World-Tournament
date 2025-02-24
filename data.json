@@ -487,11 +487,6 @@
             "flag": "assets/flags/nicaragua.png"
         },
         {
-            "name": "Niger",
-            "emoji": "🇳🇪",
-            "flag": "assets/flags/niger.png"
-        },
-        {
             "name": "Nigeria",
             "emoji": "🇳🇬",
             "flag": "assets/flags/nigeria.png"
@@ -650,11 +645,6 @@
             "name": "Sudan",
             "emoji": "🇸🇩",
             "flag": "assets/flags/sudan.png"
-        },
-        {
-            "name": "Suriname",
-            "emoji": "🇸🇷",
-            "flag": "assets/flags/suriname.png"
         },
         {
             "name": "Sweden",
@@ -918,6 +908,11 @@
             "name": "Bahrain",
             "emoji": "🇧🇭",
             "flag": "assets/flags/bahrain.png"
+        },
+        {
+            "name": "Suriname",
+            "emoji": "🇸🇷",
+            "flag": "assets/flags/suriname.png"
         }
     ]
 }
