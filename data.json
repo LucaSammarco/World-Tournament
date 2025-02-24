@@ -527,11 +527,6 @@
             "flag": "assets/flags/qatar.png"
         },
         {
-            "name": "Romania",
-            "emoji": "🇷🇴",
-            "flag": "assets/flags/romania.png"
-        },
-        {
             "name": "Russia",
             "emoji": "🇷🇺",
             "flag": "assets/flags/russia.png"
@@ -565,11 +560,6 @@
             "name": "Senegal",
             "emoji": "🇸🇳",
             "flag": "assets/flags/senegal.png"
-        },
-        {
-            "name": "Serbia",
-            "emoji": "🇷🇸",
-            "flag": "assets/flags/serbia.png"
         },
         {
             "name": "Sierra Leone",
@@ -898,6 +888,11 @@
             "name": "Guyana",
             "emoji": "🇬🇾",
             "flag": "assets/flags/guyana.png"
+        },
+        {
+            "name": "Romania",
+            "emoji": "🇷🇴",
+            "flag": "assets/flags/romania.png"
         }
     ]
 }
