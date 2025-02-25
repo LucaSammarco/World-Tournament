@@ -82,11 +82,6 @@
             "flag": "assets/flags/burkina-faso.png"
         },
         {
-            "name": "Burundi",
-            "emoji": "🇧🇮",
-            "flag": "assets/flags/burundi.png"
-        },
-        {
             "name": "Cambodia",
             "emoji": "🇰🇭",
             "flag": "assets/flags/cambodia.png"
@@ -450,11 +445,6 @@
             "name": "Solomon Islands",
             "emoji": "🇸🇧",
             "flag": "assets/flags/solomon-islands.png"
-        },
-        {
-            "name": "South Africa",
-            "emoji": "🇿🇦",
-            "flag": "assets/flags/south-africa.png"
         },
         {
             "name": "Sudan",
@@ -853,6 +843,11 @@
             "name": "Moldova",
             "emoji": "🇲🇩",
             "flag": "assets/flags/moldova.png"
+        },
+        {
+            "name": "Burundi",
+            "emoji": "🇧🇮",
+            "flag": "assets/flags/burundi.png"
         }
     ]
 }
