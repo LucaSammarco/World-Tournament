@@ -322,11 +322,6 @@
             "flag": "assets/flags/kenya.png"
         },
         {
-            "name": "Kuwait",
-            "emoji": "🇰🇼",
-            "flag": "assets/flags/kuwait.png"
-        },
-        {
             "name": "Kyrgyzstan",
             "emoji": "🇰🇬",
             "flag": "assets/flags/kyrgyzstan.png"
@@ -632,11 +627,6 @@
             "flag": "assets/flags/vanuatu.png"
         },
         {
-            "name": "Venezuela",
-            "emoji": "🇻🇪",
-            "flag": "assets/flags/venezuela.png"
-        },
-        {
             "name": "Yemen",
             "emoji": "🇾🇪",
             "flag": "assets/flags/yemen.png"
@@ -883,6 +873,11 @@
             "name": "Saint Lucia",
             "emoji": "🇱🇨",
             "flag": "assets/flags/saint-lucia.png"
+        },
+        {
+            "name": "Kuwait",
+            "emoji": "🇰🇼",
+            "flag": "assets/flags/kuwait.png"
         }
     ]
 }
