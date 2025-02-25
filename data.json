@@ -402,11 +402,6 @@
             "flag": "assets/flags/nicaragua.png"
         },
         {
-            "name": "Nigeria",
-            "emoji": "🇳🇬",
-            "flag": "assets/flags/nigeria.png"
-        },
-        {
             "name": "North Korea",
             "emoji": "🇰🇵",
             "flag": "assets/flags/north-korea.png"
@@ -430,11 +425,6 @@
             "name": "Palau",
             "emoji": "🇵🇼",
             "flag": "assets/flags/palau.png"
-        },
-        {
-            "name": "Panama",
-            "emoji": "🇵🇦",
-            "flag": "assets/flags/panama.png"
         },
         {
             "name": "Papua New Guinea",
@@ -868,6 +858,16 @@
             "name": "Somalia",
             "emoji": "🇸🇴",
             "flag": "assets/flags/somalia.png"
+        },
+        {
+            "name": "Panama",
+            "emoji": "🇵🇦",
+            "flag": "assets/flags/panama.png"
+        },
+        {
+            "name": "Nigeria",
+            "emoji": "🇳🇬",
+            "flag": "assets/flags/nigeria.png"
         }
     ]
 }
