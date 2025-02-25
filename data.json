@@ -337,11 +337,6 @@
             "flag": "assets/flags/lesotho.png"
         },
         {
-            "name": "Libya",
-            "emoji": "🇱🇾",
-            "flag": "assets/flags/libya.png"
-        },
-        {
             "name": "Luxembourg",
             "emoji": "🇱🇺",
             "flag": "assets/flags/luxembourg.png"
@@ -475,11 +470,6 @@
             "name": "Philippines",
             "emoji": "🇵🇭",
             "flag": "assets/flags/philippines.png"
-        },
-        {
-            "name": "Poland",
-            "emoji": "🇵🇱",
-            "flag": "assets/flags/poland.png"
         },
         {
             "name": "Qatar",
@@ -873,6 +863,16 @@
             "name": "Belgium",
             "emoji": "🇧🇪",
             "flag": "assets/flags/belgium.png"
+        },
+        {
+            "name": "Poland",
+            "emoji": "🇵🇱",
+            "flag": "assets/flags/poland.png"
+        },
+        {
+            "name": "Libya",
+            "emoji": "🇱🇾",
+            "flag": "assets/flags/libya.png"
         }
     ]
 }
