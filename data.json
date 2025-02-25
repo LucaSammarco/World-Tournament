@@ -382,19 +382,9 @@
             "flag": "assets/flags/montenegro.png"
         },
         {
-            "name": "Morocco",
-            "emoji": "🇲🇦",
-            "flag": "assets/flags/morocco.png"
-        },
-        {
             "name": "Myanmar",
             "emoji": "🇲🇲",
             "flag": "assets/flags/myanmar.png"
-        },
-        {
-            "name": "Namibia",
-            "emoji": "🇳🇦",
-            "flag": "assets/flags/namibia.png"
         },
         {
             "name": "Nepal",
@@ -868,6 +858,16 @@
             "name": "Australia",
             "emoji": "🇦🇺",
             "flag": "assets/flags/australia.png"
+        },
+        {
+            "name": "Morocco",
+            "emoji": "🇲🇦",
+            "flag": "assets/flags/morocco.png"
+        },
+        {
+            "name": "Namibia",
+            "emoji": "🇳🇦",
+            "flag": "assets/flags/namibia.png"
         }
     ]
 }
