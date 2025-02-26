@@ -127,11 +127,6 @@
             "flag": "assets/flags/costa-rica.png"
         },
         {
-            "name": "Croatia",
-            "emoji": "🇭🇷",
-            "flag": "assets/flags/croatia.png"
-        },
-        {
             "name": "Cuba",
             "emoji": "🇨🇺",
             "flag": "assets/flags/cuba.png"
@@ -300,11 +295,6 @@
             "name": "New Zealand",
             "emoji": "🇳🇿",
             "flag": "assets/flags/new-zealand.png"
-        },
-        {
-            "name": "Nicaragua",
-            "emoji": "🇳🇮",
-            "flag": "assets/flags/nicaragua.png"
         },
         {
             "name": "North Macedonia",
@@ -823,6 +813,11 @@
             "name": "Eswatini",
             "emoji": "🇸🇿",
             "flag": "assets/flags/eswatini.png"
+        },
+        {
+            "name": "Nicaragua",
+            "emoji": "🇳🇮",
+            "flag": "assets/flags/nicaragua.png"
         }
     ]
 }
