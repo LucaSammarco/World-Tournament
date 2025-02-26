@@ -47,11 +47,6 @@
             "flag": "assets/flags/belarus.png"
         },
         {
-            "name": "Belize",
-            "emoji": "🇧🇿",
-            "flag": "assets/flags/belize.png"
-        },
-        {
             "name": "Benin",
             "emoji": "🇧🇯",
             "flag": "assets/flags/benin.png"
@@ -165,11 +160,6 @@
             "name": "Estonia",
             "emoji": "🇪🇪",
             "flag": "assets/flags/estonia.png"
-        },
-        {
-            "name": "Eswatini",
-            "emoji": "🇸🇿",
-            "flag": "assets/flags/eswatini.png"
         },
         {
             "name": "Finland",
@@ -828,6 +818,11 @@
             "name": "Dominica",
             "emoji": "🇩🇲",
             "flag": "assets/flags/dominica.png"
+        },
+        {
+            "name": "Eswatini",
+            "emoji": "🇸🇿",
+            "flag": "assets/flags/eswatini.png"
         }
     ]
 }
