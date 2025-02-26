@@ -182,11 +182,6 @@
             "flag": "assets/flags/eswatini.png"
         },
         {
-            "name": "Fiji",
-            "emoji": "🇫🇯",
-            "flag": "assets/flags/fiji.png"
-        },
-        {
             "name": "Finland",
             "emoji": "🇫🇮",
             "flag": "assets/flags/finland.png"
@@ -330,11 +325,6 @@
             "name": "Nicaragua",
             "emoji": "🇳🇮",
             "flag": "assets/flags/nicaragua.png"
-        },
-        {
-            "name": "North Korea",
-            "emoji": "🇰🇵",
-            "flag": "assets/flags/north-korea.png"
         },
         {
             "name": "North Macedonia",
@@ -833,6 +823,16 @@
             "name": "Czech Republic",
             "emoji": "🇨🇿",
             "flag": "assets/flags/czech-republic.png"
+        },
+        {
+            "name": "Fiji",
+            "emoji": "🇫🇯",
+            "flag": "assets/flags/fiji.png"
+        },
+        {
+            "name": "North Korea",
+            "emoji": "🇰🇵",
+            "flag": "assets/flags/north-korea.png"
         }
     ]
 }
