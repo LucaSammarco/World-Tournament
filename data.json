@@ -242,11 +242,6 @@
             "flag": "assets/flags/madagascar.png"
         },
         {
-            "name": "Malawi",
-            "emoji": "🇲🇼",
-            "flag": "assets/flags/malawi.png"
-        },
-        {
             "name": "Mali",
             "emoji": "🇲🇱",
             "flag": "assets/flags/mali.png"
@@ -370,11 +365,6 @@
             "name": "Timor-Leste",
             "emoji": "🇹🇱",
             "flag": "assets/flags/timor-leste.png"
-        },
-        {
-            "name": "Tonga",
-            "emoji": "🇹🇴",
-            "flag": "assets/flags/tonga.png"
         },
         {
             "name": "Tunisia",
@@ -808,6 +798,11 @@
             "name": "Austria",
             "emoji": "🇦🇹",
             "flag": "assets/flags/austria.png"
+        },
+        {
+            "name": "Tonga",
+            "emoji": "🇹🇴",
+            "flag": "assets/flags/tonga.png"
         }
     ]
 }
