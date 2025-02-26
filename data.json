@@ -162,11 +162,6 @@
             "flag": "assets/flags/dominica.png"
         },
         {
-            "name": "Egypt",
-            "emoji": "🇪🇬",
-            "flag": "assets/flags/egypt.png"
-        },
-        {
             "name": "El Salvador",
             "emoji": "🇸🇻",
             "flag": "assets/flags/el-salvador.png"
@@ -295,11 +290,6 @@
             "name": "Lesotho",
             "emoji": "🇱🇸",
             "flag": "assets/flags/lesotho.png"
-        },
-        {
-            "name": "Luxembourg",
-            "emoji": "🇱🇺",
-            "flag": "assets/flags/luxembourg.png"
         },
         {
             "name": "Madagascar",
@@ -848,6 +838,16 @@
             "name": "Burundi",
             "emoji": "🇧🇮",
             "flag": "assets/flags/burundi.png"
+        },
+        {
+            "name": "Luxembourg",
+            "emoji": "🇱🇺",
+            "flag": "assets/flags/luxembourg.png"
+        },
+        {
+            "name": "Egypt",
+            "emoji": "🇪🇬",
+            "flag": "assets/flags/egypt.png"
         }
     ]
 }
