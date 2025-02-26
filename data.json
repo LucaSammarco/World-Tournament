@@ -147,11 +147,6 @@
             "flag": "assets/flags/cyprus.png"
         },
         {
-            "name": "Czech Republic",
-            "emoji": "🇨🇿",
-            "flag": "assets/flags/czech-republic.png"
-        },
-        {
             "name": "Denmark",
             "emoji": "🇩🇰",
             "flag": "assets/flags/denmark.png"
@@ -385,11 +380,6 @@
             "name": "Saint Vincent and the Grenadines",
             "emoji": "🇻🇨",
             "flag": "assets/flags/saint-vincent-and-the-grenadines.png"
-        },
-        {
-            "name": "Saudi Arabia",
-            "emoji": "🇸🇦",
-            "flag": "assets/flags/saudi-arabia.png"
         },
         {
             "name": "Senegal",
@@ -833,6 +823,16 @@
             "name": "Uzbekistan",
             "emoji": "🇺🇿",
             "flag": "assets/flags/uzbekistan.png"
+        },
+        {
+            "name": "Saudi Arabia",
+            "emoji": "🇸🇦",
+            "flag": "assets/flags/saudi-arabia.png"
+        },
+        {
+            "name": "Czech Republic",
+            "emoji": "🇨🇿",
+            "flag": "assets/flags/czech-republic.png"
         }
     ]
 }
