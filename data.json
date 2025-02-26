@@ -242,11 +242,6 @@
             "flag": "assets/flags/haiti.png"
         },
         {
-            "name": "Honduras",
-            "emoji": "🇭🇳",
-            "flag": "assets/flags/honduras.png"
-        },
-        {
             "name": "Hungary",
             "emoji": "🇭🇺",
             "flag": "assets/flags/hungary.png"
@@ -380,11 +375,6 @@
             "name": "Papua New Guinea",
             "emoji": "🇵🇬",
             "flag": "assets/flags/papua-new-guinea.png"
-        },
-        {
-            "name": "Philippines",
-            "emoji": "🇵🇭",
-            "flag": "assets/flags/philippines.png"
         },
         {
             "name": "Qatar",
@@ -848,6 +838,11 @@
             "name": "Egypt",
             "emoji": "🇪🇬",
             "flag": "assets/flags/egypt.png"
+        },
+        {
+            "name": "Philippines",
+            "emoji": "🇵🇭",
+            "flag": "assets/flags/philippines.png"
         }
     ]
 }
