@@ -2,11 +2,6 @@
     "round": 1,
     "remaining": [
         {
-            "name": "Albania",
-            "emoji": "🇦🇱",
-            "flag": "assets/flags/albania.png"
-        },
-        {
             "name": "Antigua and Barbuda",
             "emoji": "🇦🇬",
             "flag": "assets/flags/antigua-and-barbuda.png"
@@ -35,11 +30,6 @@
             "name": "Benin",
             "emoji": "🇧🇯",
             "flag": "assets/flags/benin.png"
-        },
-        {
-            "name": "Bolivia",
-            "emoji": "🇧🇴",
-            "flag": "assets/flags/bolivia.png"
         },
         {
             "name": "Botswana",
@@ -768,6 +758,11 @@
             "name": "Oman",
             "emoji": "🇴🇲",
             "flag": "assets/flags/oman.png"
+        },
+        {
+            "name": "Bolivia",
+            "emoji": "🇧🇴",
+            "flag": "assets/flags/bolivia.png"
         }
     ]
 }
