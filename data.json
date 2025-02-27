@@ -27,11 +27,6 @@
             "flag": "assets/flags/armenia.png"
         },
         {
-            "name": "Azerbaijan",
-            "emoji": "🇦🇿",
-            "flag": "assets/flags/azerbaijan.png"
-        },
-        {
             "name": "Bangladesh",
             "emoji": "🇧🇩",
             "flag": "assets/flags/bangladesh.png"
@@ -335,11 +330,6 @@
             "name": "Turkmenistan",
             "emoji": "🇹🇲",
             "flag": "assets/flags/turkmenistan.png"
-        },
-        {
-            "name": "Tuvalu",
-            "emoji": "🇹🇻",
-            "flag": "assets/flags/tuvalu.png"
         },
         {
             "name": "Uruguay",
@@ -788,6 +778,16 @@
             "name": "Slovakia",
             "emoji": "🇸🇰",
             "flag": "assets/flags/slovakia.png"
+        },
+        {
+            "name": "Tuvalu",
+            "emoji": "🇹🇻",
+            "flag": "assets/flags/tuvalu.png"
+        },
+        {
+            "name": "Azerbaijan",
+            "emoji": "🇦🇿",
+            "flag": "assets/flags/azerbaijan.png"
         }
     ]
 }
