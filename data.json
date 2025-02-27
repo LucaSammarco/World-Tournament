@@ -57,11 +57,6 @@
             "flag": "assets/flags/botswana.png"
         },
         {
-            "name": "Bulgaria",
-            "emoji": "🇧🇬",
-            "flag": "assets/flags/bulgaria.png"
-        },
-        {
             "name": "Burkina Faso",
             "emoji": "🇧🇫",
             "flag": "assets/flags/burkina-faso.png"
@@ -255,11 +250,6 @@
             "name": "New Zealand",
             "emoji": "🇳🇿",
             "flag": "assets/flags/new-zealand.png"
-        },
-        {
-            "name": "North Macedonia",
-            "emoji": "🇲🇰",
-            "flag": "assets/flags/north-macedonia.png"
         },
         {
             "name": "Norway",
@@ -793,6 +783,16 @@
             "name": "United Kingdom",
             "emoji": "🇬🇧",
             "flag": "assets/flags/united-kingdom.png"
+        },
+        {
+            "name": "North Macedonia",
+            "emoji": "🇲🇰",
+            "flag": "assets/flags/north-macedonia.png"
+        },
+        {
+            "name": "Bulgaria",
+            "emoji": "🇧🇬",
+            "flag": "assets/flags/bulgaria.png"
         }
     ]
 }
