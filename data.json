@@ -212,11 +212,6 @@
             "flag": "assets/flags/new-zealand.png"
         },
         {
-            "name": "Oman",
-            "emoji": "🇴🇲",
-            "flag": "assets/flags/oman.png"
-        },
-        {
             "name": "Palau",
             "emoji": "🇵🇼",
             "flag": "assets/flags/palau.png"
@@ -240,11 +235,6 @@
             "name": "Senegal",
             "emoji": "🇸🇳",
             "flag": "assets/flags/senegal.png"
-        },
-        {
-            "name": "Sierra Leone",
-            "emoji": "🇸🇱",
-            "flag": "assets/flags/sierra-leone.png"
         },
         {
             "name": "Solomon Islands",
@@ -768,6 +758,16 @@
             "name": "Haiti",
             "emoji": "🇭🇹",
             "flag": "assets/flags/haiti.png"
+        },
+        {
+            "name": "Sierra Leone",
+            "emoji": "🇸🇱",
+            "flag": "assets/flags/sierra-leone.png"
+        },
+        {
+            "name": "Oman",
+            "emoji": "🇴🇲",
+            "flag": "assets/flags/oman.png"
         }
     ]
 }
