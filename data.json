@@ -57,11 +57,6 @@
             "flag": "assets/flags/republic-of-the-congo.png"
         },
         {
-            "name": "Cuba",
-            "emoji": "🇨🇺",
-            "flag": "assets/flags/cuba.png"
-        },
-        {
             "name": "Cyprus",
             "emoji": "🇨🇾",
             "flag": "assets/flags/cyprus.png"
@@ -140,11 +135,6 @@
             "name": "Mali",
             "emoji": "🇲🇱",
             "flag": "assets/flags/mali.png"
-        },
-        {
-            "name": "Micronesia",
-            "emoji": "🇫🇲",
-            "flag": "assets/flags/micronesia.png"
         },
         {
             "name": "Monaco",
@@ -748,6 +738,11 @@
             "name": "New Zealand",
             "emoji": "🇳🇿",
             "flag": "assets/flags/new-zealand.png"
+        },
+        {
+            "name": "Cuba",
+            "emoji": "🇨🇺",
+            "flag": "assets/flags/cuba.png"
         }
     ]
 }
