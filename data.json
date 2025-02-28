@@ -2,11 +2,6 @@
     "round": 1,
     "remaining": [
         {
-            "name": "Argentina",
-            "emoji": "🇦🇷",
-            "flag": "assets/flags/argentina.png"
-        },
-        {
             "name": "Armenia",
             "emoji": "🇦🇲",
             "flag": "assets/flags/armenia.png"
@@ -80,11 +75,6 @@
             "name": "Eritrea",
             "emoji": "🇪🇷",
             "flag": "assets/flags/eritrea.png"
-        },
-        {
-            "name": "Estonia",
-            "emoji": "🇪🇪",
-            "flag": "assets/flags/estonia.png"
         },
         {
             "name": "Finland",
@@ -758,6 +748,11 @@
             "name": "Costa Rica",
             "emoji": "🇨🇷",
             "flag": "assets/flags/costa-rica.png"
+        },
+        {
+            "name": "Argentina",
+            "emoji": "🇦🇷",
+            "flag": "assets/flags/argentina.png"
         }
     ]
 }
