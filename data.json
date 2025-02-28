@@ -192,16 +192,6 @@
             "flag": "assets/flags/tunisia.png"
         },
         {
-            "name": "Turkmenistan",
-            "emoji": "🇹🇲",
-            "flag": "assets/flags/turkmenistan.png"
-        },
-        {
-            "name": "Uruguay",
-            "emoji": "🇺🇾",
-            "flag": "assets/flags/uruguay.png"
-        },
-        {
             "name": "Vanuatu",
             "emoji": "🇻🇺",
             "flag": "assets/flags/vanuatu.png"
@@ -738,6 +728,11 @@
             "name": "Turkey",
             "emoji": "🇹🇷",
             "flag": "assets/flags/turkey.png"
+        },
+        {
+            "name": "Turkmenistan",
+            "emoji": "🇹🇲",
+            "flag": "assets/flags/turkmenistan.png"
         }
     ]
 }
