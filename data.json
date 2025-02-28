@@ -167,11 +167,6 @@
             "flag": "assets/flags/netherlands.png"
         },
         {
-            "name": "New Zealand",
-            "emoji": "🇳🇿",
-            "flag": "assets/flags/new-zealand.png"
-        },
-        {
             "name": "Palau",
             "emoji": "🇵🇼",
             "flag": "assets/flags/palau.png"
@@ -195,11 +190,6 @@
             "name": "Solomon Islands",
             "emoji": "🇸🇧",
             "flag": "assets/flags/solomon-islands.png"
-        },
-        {
-            "name": "Sudan",
-            "emoji": "🇸🇩",
-            "flag": "assets/flags/sudan.png"
         },
         {
             "name": "Tanzania",
@@ -753,6 +743,11 @@
             "name": "Argentina",
             "emoji": "🇦🇷",
             "flag": "assets/flags/argentina.png"
+        },
+        {
+            "name": "New Zealand",
+            "emoji": "🇳🇿",
+            "flag": "assets/flags/new-zealand.png"
         }
     ]
 }
