@@ -142,11 +142,6 @@
             "flag": "assets/flags/monaco.png"
         },
         {
-            "name": "Montenegro",
-            "emoji": "🇲🇪",
-            "flag": "assets/flags/montenegro.png"
-        },
-        {
             "name": "Nepal",
             "emoji": "🇳🇵",
             "flag": "assets/flags/nepal.png"
@@ -220,11 +215,6 @@
             "name": "Vanuatu",
             "emoji": "🇻🇺",
             "flag": "assets/flags/vanuatu.png"
-        },
-        {
-            "name": "Zimbabwe",
-            "emoji": "🇿🇼",
-            "flag": "assets/flags/zimbabwe.png"
         }
     ],
     "total_countries": 195,
@@ -743,6 +733,11 @@
             "name": "Cuba",
             "emoji": "🇨🇺",
             "flag": "assets/flags/cuba.png"
+        },
+        {
+            "name": "Montenegro",
+            "emoji": "🇲🇪",
+            "flag": "assets/flags/montenegro.png"
         }
     ]
 }
