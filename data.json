@@ -2,11 +2,6 @@
     "round": 1,
     "remaining": [
         {
-            "name": "Antigua and Barbuda",
-            "emoji": "🇦🇬",
-            "flag": "assets/flags/antigua-and-barbuda.png"
-        },
-        {
             "name": "Argentina",
             "emoji": "🇦🇷",
             "flag": "assets/flags/argentina.png"
@@ -210,11 +205,6 @@
             "name": "Qatar",
             "emoji": "🇶🇦",
             "flag": "assets/flags/qatar.png"
-        },
-        {
-            "name": "Russia",
-            "emoji": "🇷🇺",
-            "flag": "assets/flags/russia.png"
         },
         {
             "name": "Saint Vincent and the Grenadines",
@@ -763,6 +753,11 @@
             "name": "Bolivia",
             "emoji": "🇧🇴",
             "flag": "assets/flags/bolivia.png"
+        },
+        {
+            "name": "Russia",
+            "emoji": "🇷🇺",
+            "flag": "assets/flags/russia.png"
         }
     ]
 }
