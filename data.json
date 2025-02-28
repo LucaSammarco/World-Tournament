@@ -17,11 +17,6 @@
             "flag": "assets/flags/bangladesh.png"
         },
         {
-            "name": "Belarus",
-            "emoji": "🇧🇾",
-            "flag": "assets/flags/belarus.png"
-        },
-        {
             "name": "Benin",
             "emoji": "🇧🇯",
             "flag": "assets/flags/benin.png"
@@ -225,11 +220,6 @@
             "name": "Sudan",
             "emoji": "🇸🇩",
             "flag": "assets/flags/sudan.png"
-        },
-        {
-            "name": "Sweden",
-            "emoji": "🇸🇪",
-            "flag": "assets/flags/sweden.png"
         },
         {
             "name": "Tanzania",
@@ -758,6 +748,16 @@
             "name": "Russia",
             "emoji": "🇷🇺",
             "flag": "assets/flags/russia.png"
+        },
+        {
+            "name": "Sweden",
+            "emoji": "🇸🇪",
+            "flag": "assets/flags/sweden.png"
+        },
+        {
+            "name": "Belarus",
+            "emoji": "🇧🇾",
+            "flag": "assets/flags/belarus.png"
         }
     ]
 }
