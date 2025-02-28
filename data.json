@@ -67,11 +67,6 @@
             "flag": "assets/flags/gabon.png"
         },
         {
-            "name": "Grenada",
-            "emoji": "🇬🇩",
-            "flag": "assets/flags/grenada.png"
-        },
-        {
             "name": "Guatemala",
             "emoji": "🇬🇹",
             "flag": "assets/flags/guatemala.png"
@@ -110,11 +105,6 @@
             "name": "Madagascar",
             "emoji": "🇲🇬",
             "flag": "assets/flags/madagascar.png"
-        },
-        {
-            "name": "Mali",
-            "emoji": "🇲🇱",
-            "flag": "assets/flags/mali.png"
         },
         {
             "name": "Monaco",
@@ -728,6 +718,16 @@
             "name": "Timor-Leste",
             "emoji": "🇹🇱",
             "flag": "assets/flags/timor-leste.png"
+        },
+        {
+            "name": "Mali",
+            "emoji": "🇲🇱",
+            "flag": "assets/flags/mali.png"
+        },
+        {
+            "name": "Grenada",
+            "emoji": "🇬🇩",
+            "flag": "assets/flags/grenada.png"
         }
     ]
 }
