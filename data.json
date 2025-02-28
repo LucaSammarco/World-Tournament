@@ -67,11 +67,6 @@
             "flag": "assets/flags/gabon.png"
         },
         {
-            "name": "Germany",
-            "emoji": "🇩🇪",
-            "flag": "assets/flags/germany.png"
-        },
-        {
             "name": "Grenada",
             "emoji": "🇬🇩",
             "flag": "assets/flags/grenada.png"
@@ -170,11 +165,6 @@
             "name": "Thailand",
             "emoji": "🇹🇭",
             "flag": "assets/flags/thailand.png"
-        },
-        {
-            "name": "Timor-Leste",
-            "emoji": "🇹🇱",
-            "flag": "assets/flags/timor-leste.png"
         },
         {
             "name": "Tunisia",
@@ -728,6 +718,16 @@
             "name": "Armenia",
             "emoji": "🇦🇲",
             "flag": "assets/flags/armenia.png"
+        },
+        {
+            "name": "Germany",
+            "emoji": "🇩🇪",
+            "flag": "assets/flags/germany.png"
+        },
+        {
+            "name": "Timor-Leste",
+            "emoji": "🇹🇱",
+            "flag": "assets/flags/timor-leste.png"
         }
     ]
 }
