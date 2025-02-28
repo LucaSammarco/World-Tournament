@@ -2,16 +2,6 @@
     "round": 1,
     "remaining": [
         {
-            "name": "Armenia",
-            "emoji": "🇦🇲",
-            "flag": "assets/flags/armenia.png"
-        },
-        {
-            "name": "Bangladesh",
-            "emoji": "🇧🇩",
-            "flag": "assets/flags/bangladesh.png"
-        },
-        {
             "name": "Benin",
             "emoji": "🇧🇯",
             "flag": "assets/flags/benin.png"
@@ -733,6 +723,11 @@
             "name": "Turkmenistan",
             "emoji": "🇹🇲",
             "flag": "assets/flags/turkmenistan.png"
+        },
+        {
+            "name": "Armenia",
+            "emoji": "🇦🇲",
+            "flag": "assets/flags/armenia.png"
         }
     ]
 }
