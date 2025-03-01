@@ -27,11 +27,6 @@
             "flag": "assets/flags/colombia.png"
         },
         {
-            "name": "Denmark",
-            "emoji": "🇩🇰",
-            "flag": "assets/flags/denmark.png"
-        },
-        {
             "name": "Guatemala",
             "emoji": "🇬🇹",
             "flag": "assets/flags/guatemala.png"
@@ -55,11 +50,6 @@
             "name": "Netherlands",
             "emoji": "🇳🇱",
             "flag": "assets/flags/netherlands.png"
-        },
-        {
-            "name": "Senegal",
-            "emoji": "🇸🇳",
-            "flag": "assets/flags/senegal.png"
         },
         {
             "name": "Tunisia",
@@ -698,6 +688,11 @@
             "name": "Burkina Faso",
             "emoji": "🇧🇫",
             "flag": "assets/flags/burkina-faso.png"
+        },
+        {
+            "name": "Senegal",
+            "emoji": "🇸🇳",
+            "flag": "assets/flags/senegal.png"
         }
     ]
 }
