@@ -67,11 +67,6 @@
             "flag": "assets/flags/iceland.png"
         },
         {
-            "name": "Indonesia",
-            "emoji": "🇮🇩",
-            "flag": "assets/flags/indonesia.png"
-        },
-        {
             "name": "Italy",
             "emoji": "🇮🇹",
             "flag": "assets/flags/italy.png"
@@ -120,11 +115,6 @@
             "name": "Senegal",
             "emoji": "🇸🇳",
             "flag": "assets/flags/senegal.png"
-        },
-        {
-            "name": "Solomon Islands",
-            "emoji": "🇸🇧",
-            "flag": "assets/flags/solomon-islands.png"
         },
         {
             "name": "Tanzania",
@@ -713,6 +703,11 @@
             "name": "Vanuatu",
             "emoji": "🇻🇺",
             "flag": "assets/flags/vanuatu.png"
+        },
+        {
+            "name": "Solomon Islands",
+            "emoji": "🇸🇧",
+            "flag": "assets/flags/solomon-islands.png"
         }
     ]
 }
