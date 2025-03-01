@@ -57,11 +57,6 @@
             "flag": "assets/flags/iceland.png"
         },
         {
-            "name": "Jordan",
-            "emoji": "🇯🇴",
-            "flag": "assets/flags/jordan.png"
-        },
-        {
             "name": "Madagascar",
             "emoji": "🇲🇬",
             "flag": "assets/flags/madagascar.png"
@@ -70,11 +65,6 @@
             "name": "Netherlands",
             "emoji": "🇳🇱",
             "flag": "assets/flags/netherlands.png"
-        },
-        {
-            "name": "Saint Vincent and the Grenadines",
-            "emoji": "🇻🇨",
-            "flag": "assets/flags/saint-vincent-and-the-grenadines.png"
         },
         {
             "name": "Senegal",
@@ -703,6 +693,16 @@
             "name": "Cambodia",
             "emoji": "🇰🇭",
             "flag": "assets/flags/cambodia.png"
+        },
+        {
+            "name": "Saint Vincent and the Grenadines",
+            "emoji": "🇻🇨",
+            "flag": "assets/flags/saint-vincent-and-the-grenadines.png"
+        },
+        {
+            "name": "Jordan",
+            "emoji": "🇯🇴",
+            "flag": "assets/flags/jordan.png"
         }
     ]
 }
