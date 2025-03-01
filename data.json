@@ -87,11 +87,6 @@
             "flag": "assets/flags/madagascar.png"
         },
         {
-            "name": "Nepal",
-            "emoji": "🇳🇵",
-            "flag": "assets/flags/nepal.png"
-        },
-        {
             "name": "Netherlands",
             "emoji": "🇳🇱",
             "flag": "assets/flags/netherlands.png"
@@ -115,11 +110,6 @@
             "name": "Senegal",
             "emoji": "🇸🇳",
             "flag": "assets/flags/senegal.png"
-        },
-        {
-            "name": "Tanzania",
-            "emoji": "🇹🇿",
-            "flag": "assets/flags/tanzania.png"
         },
         {
             "name": "Tunisia",
@@ -708,6 +698,16 @@
             "name": "Solomon Islands",
             "emoji": "🇸🇧",
             "flag": "assets/flags/solomon-islands.png"
+        },
+        {
+            "name": "Tanzania",
+            "emoji": "🇹🇿",
+            "flag": "assets/flags/tanzania.png"
+        },
+        {
+            "name": "Nepal",
+            "emoji": "🇳🇵",
+            "flag": "assets/flags/nepal.png"
         }
     ]
 }
