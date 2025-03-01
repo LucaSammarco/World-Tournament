@@ -37,11 +37,6 @@
             "flag": "assets/flags/colombia.png"
         },
         {
-            "name": "Republic of the Congo",
-            "emoji": "🇨🇬",
-            "flag": "assets/flags/republic-of-the-congo.png"
-        },
-        {
             "name": "Denmark",
             "emoji": "🇩🇰",
             "flag": "assets/flags/denmark.png"
@@ -140,11 +135,6 @@
             "name": "Tunisia",
             "emoji": "🇹🇳",
             "flag": "assets/flags/tunisia.png"
-        },
-        {
-            "name": "Vanuatu",
-            "emoji": "🇻🇺",
-            "flag": "assets/flags/vanuatu.png"
         }
     ],
     "total_countries": 195,
@@ -718,6 +708,11 @@
             "name": "Thailand",
             "emoji": "🇹🇭",
             "flag": "assets/flags/thailand.png"
+        },
+        {
+            "name": "Vanuatu",
+            "emoji": "🇻🇺",
+            "flag": "assets/flags/vanuatu.png"
         }
     ]
 }
