@@ -32,11 +32,6 @@
             "flag": "assets/flags/central-african-republic.png"
         },
         {
-            "name": "Chile",
-            "emoji": "🇨🇱",
-            "flag": "assets/flags/chile.png"
-        },
-        {
             "name": "Colombia",
             "emoji": "🇨🇴",
             "flag": "assets/flags/colombia.png"
@@ -55,11 +50,6 @@
             "name": "Eritrea",
             "emoji": "🇪🇷",
             "flag": "assets/flags/eritrea.png"
-        },
-        {
-            "name": "Finland",
-            "emoji": "🇫🇮",
-            "flag": "assets/flags/finland.png"
         },
         {
             "name": "Gabon",
@@ -728,6 +718,11 @@
             "name": "Grenada",
             "emoji": "🇬🇩",
             "flag": "assets/flags/grenada.png"
+        },
+        {
+            "name": "Chile",
+            "emoji": "🇨🇱",
+            "flag": "assets/flags/chile.png"
         }
     ]
 }
