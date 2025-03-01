@@ -92,16 +92,6 @@
             "flag": "assets/flags/netherlands.png"
         },
         {
-            "name": "Palau",
-            "emoji": "🇵🇼",
-            "flag": "assets/flags/palau.png"
-        },
-        {
-            "name": "Qatar",
-            "emoji": "🇶🇦",
-            "flag": "assets/flags/qatar.png"
-        },
-        {
             "name": "Saint Vincent and the Grenadines",
             "emoji": "🇻🇨",
             "flag": "assets/flags/saint-vincent-and-the-grenadines.png"
@@ -708,6 +698,11 @@
             "name": "Nepal",
             "emoji": "🇳🇵",
             "flag": "assets/flags/nepal.png"
+        },
+        {
+            "name": "Palau",
+            "emoji": "🇵🇼",
+            "flag": "assets/flags/palau.png"
         }
     ]
 }
