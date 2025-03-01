@@ -47,11 +47,6 @@
             "flag": "assets/flags/eritrea.png"
         },
         {
-            "name": "Gabon",
-            "emoji": "🇬🇦",
-            "flag": "assets/flags/gabon.png"
-        },
-        {
             "name": "Guatemala",
             "emoji": "🇬🇹",
             "flag": "assets/flags/guatemala.png"
@@ -65,11 +60,6 @@
             "name": "Iceland",
             "emoji": "🇮🇸",
             "flag": "assets/flags/iceland.png"
-        },
-        {
-            "name": "Italy",
-            "emoji": "🇮🇹",
-            "flag": "assets/flags/italy.png"
         },
         {
             "name": "Jordan",
@@ -703,6 +693,16 @@
             "name": "Palau",
             "emoji": "🇵🇼",
             "flag": "assets/flags/palau.png"
+        },
+        {
+            "name": "Italy",
+            "emoji": "🇮🇹",
+            "flag": "assets/flags/italy.png"
+        },
+        {
+            "name": "Gabon",
+            "emoji": "🇬🇦",
+            "flag": "assets/flags/gabon.png"
         }
     ]
 }
