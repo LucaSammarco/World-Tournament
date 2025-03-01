@@ -17,11 +17,6 @@
             "flag": "assets/flags/burkina-faso.png"
         },
         {
-            "name": "Cambodia",
-            "emoji": "🇰🇭",
-            "flag": "assets/flags/cambodia.png"
-        },
-        {
             "name": "Canada",
             "emoji": "🇨🇦",
             "flag": "assets/flags/canada.png"
@@ -65,11 +60,6 @@
             "name": "Jordan",
             "emoji": "🇯🇴",
             "flag": "assets/flags/jordan.png"
-        },
-        {
-            "name": "Lesotho",
-            "emoji": "🇱🇸",
-            "flag": "assets/flags/lesotho.png"
         },
         {
             "name": "Madagascar",
@@ -703,6 +693,16 @@
             "name": "Gabon",
             "emoji": "🇬🇦",
             "flag": "assets/flags/gabon.png"
+        },
+        {
+            "name": "Lesotho",
+            "emoji": "🇱🇸",
+            "flag": "assets/flags/lesotho.png"
+        },
+        {
+            "name": "Cambodia",
+            "emoji": "🇰🇭",
+            "flag": "assets/flags/cambodia.png"
         }
     ]
 }
