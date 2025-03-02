@@ -302,11 +302,6 @@
             "flag": "assets/flags/gambia.png"
         },
         {
-            "name": "Georgia",
-            "emoji": "🇬🇪",
-            "flag": "assets/flags/georgia.png"
-        },
-        {
             "name": "Germany",
             "emoji": "🇩🇪",
             "flag": "assets/flags/germany.png"
@@ -575,11 +570,6 @@
             "name": "Namibia",
             "emoji": "🇳🇦",
             "flag": "assets/flags/namibia.png"
-        },
-        {
-            "name": "Nauru",
-            "emoji": "🇳🇷",
-            "flag": "assets/flags/nauru.png"
         },
         {
             "name": "Nepal",
@@ -973,6 +963,16 @@
             "name": "United States",
             "emoji": "🇺🇸",
             "flag": "assets/flags/united-states.png"
+        },
+        {
+            "name": "Georgia",
+            "emoji": "🇬🇪",
+            "flag": "assets/flags/georgia.png"
+        },
+        {
+            "name": "Nauru",
+            "emoji": "🇳🇷",
+            "flag": "assets/flags/nauru.png"
         }
     ]
 }
