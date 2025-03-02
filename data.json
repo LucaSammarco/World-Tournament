@@ -2,19 +2,9 @@
     "round": 1,
     "remaining": [
         {
-            "name": "Botswana",
-            "emoji": "🇧🇼",
-            "flag": "assets/flags/botswana.png"
-        },
-        {
             "name": "Canada",
             "emoji": "🇨🇦",
             "flag": "assets/flags/canada.png"
-        },
-        {
-            "name": "Colombia",
-            "emoji": "🇨🇴",
-            "flag": "assets/flags/colombia.png"
         },
         {
             "name": "Guatemala",
@@ -683,6 +673,11 @@
             "name": "Netherlands",
             "emoji": "🇳🇱",
             "flag": "assets/flags/netherlands.png"
+        },
+        {
+            "name": "Colombia",
+            "emoji": "🇨🇴",
+            "flag": "assets/flags/colombia.png"
         }
     ]
 }
