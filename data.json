@@ -212,11 +212,6 @@
             "flag": "assets/flags/croatia.png"
         },
         {
-            "name": "Cuba",
-            "emoji": "🇨🇺",
-            "flag": "assets/flags/cuba.png"
-        },
-        {
             "name": "Cyprus",
             "emoji": "🇨🇾",
             "flag": "assets/flags/cyprus.png"
@@ -877,11 +872,6 @@
             "flag": "assets/flags/togo.png"
         },
         {
-            "name": "Tonga",
-            "emoji": "🇹🇴",
-            "flag": "assets/flags/tonga.png"
-        },
-        {
             "name": "Trinidad and Tobago",
             "emoji": "🇹🇹",
             "flag": "assets/flags/trinidad-and-tobago.png"
@@ -978,5 +968,11 @@
         }
     ],
     "total_countries": 195,
-    "processed_countries": []
+    "processed_countries": [
+        {
+            "name": "Cuba",
+            "emoji": "🇨🇺",
+            "flag": "assets/flags/cuba.png"
+        }
+    ]
 }
