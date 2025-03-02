@@ -5,16 +5,6 @@
             "name": "Canada",
             "emoji": "🇨🇦",
             "flag": "assets/flags/canada.png"
-        },
-        {
-            "name": "Guatemala",
-            "emoji": "🇬🇹",
-            "flag": "assets/flags/guatemala.png"
-        },
-        {
-            "name": "Tunisia",
-            "emoji": "🇹🇳",
-            "flag": "assets/flags/tunisia.png"
         }
     ],
     "total_countries": 195,
@@ -678,6 +668,16 @@
             "name": "Colombia",
             "emoji": "🇨🇴",
             "flag": "assets/flags/colombia.png"
+        },
+        {
+            "name": "Guatemala",
+            "emoji": "🇬🇹",
+            "flag": "assets/flags/guatemala.png"
+        },
+        {
+            "name": "Tunisia",
+            "emoji": "🇹🇳",
+            "flag": "assets/flags/tunisia.png"
         }
     ]
 }
