@@ -27,11 +27,6 @@
             "flag": "assets/flags/angola.png"
         },
         {
-            "name": "Antigua and Barbuda",
-            "emoji": "🇦🇬",
-            "flag": "assets/flags/antigua-and-barbuda.png"
-        },
-        {
             "name": "Argentina",
             "emoji": "🇦🇷",
             "flag": "assets/flags/argentina.png"
@@ -375,11 +370,6 @@
             "name": "India",
             "emoji": "🇮🇳",
             "flag": "assets/flags/india.png"
-        },
-        {
-            "name": "Indonesia",
-            "emoji": "🇮🇩",
-            "flag": "assets/flags/indonesia.png"
         },
         {
             "name": "Iran",
@@ -973,6 +963,16 @@
             "name": "Cuba",
             "emoji": "🇨🇺",
             "flag": "assets/flags/cuba.png"
+        },
+        {
+            "name": "Indonesia",
+            "emoji": "🇮🇩",
+            "flag": "assets/flags/indonesia.png"
+        },
+        {
+            "name": "Antigua and Barbuda",
+            "emoji": "🇦🇬",
+            "flag": "assets/flags/antigua-and-barbuda.png"
         }
     ]
 }
