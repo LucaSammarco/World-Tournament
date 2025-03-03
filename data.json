@@ -17,11 +17,6 @@
             "flag": "assets/flags/algeria.png"
         },
         {
-            "name": "Andorra",
-            "emoji": "🇦🇩",
-            "flag": "assets/flags/andorra.png"
-        },
-        {
             "name": "Angola",
             "emoji": "🇦🇴",
             "flag": "assets/flags/angola.png"
@@ -35,11 +30,6 @@
             "name": "Armenia",
             "emoji": "🇦🇲",
             "flag": "assets/flags/armenia.png"
-        },
-        {
-            "name": "Australia",
-            "emoji": "🇦🇺",
-            "flag": "assets/flags/australia.png"
         },
         {
             "name": "Azerbaijan",
@@ -938,6 +928,11 @@
             "name": "Guinea-Bissau",
             "emoji": "🇬🇼",
             "flag": "assets/flags/guinea-bissau.png"
+        },
+        {
+            "name": "Australia",
+            "emoji": "🇦🇺",
+            "flag": "assets/flags/australia.png"
         }
     ]
 }
