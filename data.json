@@ -347,11 +347,6 @@
             "flag": "assets/flags/japan.png"
         },
         {
-            "name": "Jordan",
-            "emoji": "🇯🇴",
-            "flag": "assets/flags/jordan.png"
-        },
-        {
             "name": "Kazakhstan",
             "emoji": "🇰🇿",
             "flag": "assets/flags/kazakhstan.png"
@@ -610,11 +605,6 @@
             "name": "Samoa",
             "emoji": "🇼🇸",
             "flag": "assets/flags/samoa.png"
-        },
-        {
-            "name": "San Marino",
-            "emoji": "🇸🇲",
-            "flag": "assets/flags/san-marino.png"
         },
         {
             "name": "São Tomé and Príncipe",
@@ -928,6 +918,11 @@
             "name": "Kuwait",
             "emoji": "🇰🇼",
             "flag": "assets/flags/kuwait.png"
+        },
+        {
+            "name": "San Marino",
+            "emoji": "🇸🇲",
+            "flag": "assets/flags/san-marino.png"
         }
     ]
 }
