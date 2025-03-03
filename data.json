@@ -167,11 +167,6 @@
             "flag": "assets/flags/costa-rica.png"
         },
         {
-            "name": "Croatia",
-            "emoji": "🇭🇷",
-            "flag": "assets/flags/croatia.png"
-        },
-        {
             "name": "Cyprus",
             "emoji": "🇨🇾",
             "flag": "assets/flags/cyprus.png"
@@ -742,11 +737,6 @@
             "flag": "assets/flags/timor-leste.png"
         },
         {
-            "name": "Togo",
-            "emoji": "🇹🇬",
-            "flag": "assets/flags/togo.png"
-        },
-        {
             "name": "Trinidad and Tobago",
             "emoji": "🇹🇹",
             "flag": "assets/flags/trinidad-and-tobago.png"
@@ -933,6 +923,16 @@
             "name": "Australia",
             "emoji": "🇦🇺",
             "flag": "assets/flags/australia.png"
+        },
+        {
+            "name": "Croatia",
+            "emoji": "🇭🇷",
+            "flag": "assets/flags/croatia.png"
+        },
+        {
+            "name": "Togo",
+            "emoji": "🇹🇬",
+            "flag": "assets/flags/togo.png"
         }
     ]
 }
