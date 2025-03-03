@@ -92,11 +92,6 @@
             "flag": "assets/flags/brazil.png"
         },
         {
-            "name": "Brunei",
-            "emoji": "🇧🇳",
-            "flag": "assets/flags/brunei.png"
-        },
-        {
             "name": "Burkina Faso",
             "emoji": "🇧🇫",
             "flag": "assets/flags/burkina-faso.png"
@@ -370,11 +365,6 @@
             "name": "Kiribati",
             "emoji": "🇰🇮",
             "flag": "assets/flags/kiribati.png"
-        },
-        {
-            "name": "Kuwait",
-            "emoji": "🇰🇼",
-            "flag": "assets/flags/kuwait.png"
         },
         {
             "name": "Kyrgyzstan",
@@ -928,6 +918,16 @@
             "name": "Bulgaria",
             "emoji": "🇧🇬",
             "flag": "assets/flags/bulgaria.png"
+        },
+        {
+            "name": "Brunei",
+            "emoji": "🇧🇳",
+            "flag": "assets/flags/brunei.png"
+        },
+        {
+            "name": "Kuwait",
+            "emoji": "🇰🇼",
+            "flag": "assets/flags/kuwait.png"
         }
     ]
 }
