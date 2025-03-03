@@ -432,11 +432,6 @@
             "flag": "assets/flags/latvia.png"
         },
         {
-            "name": "Lebanon",
-            "emoji": "🇱🇧",
-            "flag": "assets/flags/lebanon.png"
-        },
-        {
             "name": "Lesotho",
             "emoji": "🇱🇸",
             "flag": "assets/flags/lesotho.png"
@@ -747,11 +742,6 @@
             "flag": "assets/flags/south-korea.png"
         },
         {
-            "name": "South Sudan",
-            "emoji": "🇸🇸",
-            "flag": "assets/flags/south-sudan.png"
-        },
-        {
             "name": "Spain",
             "emoji": "🇪🇸",
             "flag": "assets/flags/spain.png"
@@ -968,6 +958,11 @@
             "name": "Russia",
             "emoji": "🇷🇺",
             "flag": "assets/flags/russia.png"
+        },
+        {
+            "name": "Lebanon",
+            "emoji": "🇱🇧",
+            "flag": "assets/flags/lebanon.png"
         }
     ]
 }
