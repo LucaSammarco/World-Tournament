@@ -307,11 +307,6 @@
             "flag": "assets/flags/guinea.png"
         },
         {
-            "name": "Guinea-Bissau",
-            "emoji": "🇬🇼",
-            "flag": "assets/flags/guinea-bissau.png"
-        },
-        {
             "name": "Guyana",
             "emoji": "🇬🇾",
             "flag": "assets/flags/guyana.png"
@@ -460,11 +455,6 @@
             "name": "Malaysia",
             "emoji": "🇲🇾",
             "flag": "assets/flags/malaysia.png"
-        },
-        {
-            "name": "Maldives",
-            "emoji": "🇲🇻",
-            "flag": "assets/flags/maldives.png"
         },
         {
             "name": "Mali",
@@ -943,6 +933,11 @@
             "name": "Austria",
             "emoji": "🇦🇹",
             "flag": "assets/flags/austria.png"
+        },
+        {
+            "name": "Guinea-Bissau",
+            "emoji": "🇬🇼",
+            "flag": "assets/flags/guinea-bissau.png"
         }
     ]
 }
