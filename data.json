@@ -42,11 +42,6 @@
             "flag": "assets/flags/australia.png"
         },
         {
-            "name": "Austria",
-            "emoji": "🇦🇹",
-            "flag": "assets/flags/austria.png"
-        },
-        {
             "name": "Azerbaijan",
             "emoji": "🇦🇿",
             "flag": "assets/flags/azerbaijan.png"
@@ -837,11 +832,6 @@
             "flag": "assets/flags/venezuela.png"
         },
         {
-            "name": "Vietnam",
-            "emoji": "🇻🇳",
-            "flag": "assets/flags/vietnam.png"
-        },
-        {
             "name": "Yemen",
             "emoji": "🇾🇪",
             "flag": "assets/flags/yemen.png"
@@ -948,6 +938,11 @@
             "name": "Canada",
             "emoji": "🇨🇦",
             "flag": "assets/flags/canada.png"
+        },
+        {
+            "name": "Austria",
+            "emoji": "🇦🇹",
+            "flag": "assets/flags/austria.png"
         }
     ]
 }
