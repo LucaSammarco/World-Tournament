@@ -52,11 +52,6 @@
             "flag": "assets/flags/azerbaijan.png"
         },
         {
-            "name": "Bahamas",
-            "emoji": "🇧🇸",
-            "flag": "assets/flags/bahamas.png"
-        },
-        {
             "name": "Bahrain",
             "emoji": "🇧🇭",
             "flag": "assets/flags/bahrain.png"
@@ -662,11 +657,6 @@
             "flag": "assets/flags/romania.png"
         },
         {
-            "name": "Russia",
-            "emoji": "🇷🇺",
-            "flag": "assets/flags/russia.png"
-        },
-        {
             "name": "Rwanda",
             "emoji": "🇷🇼",
             "flag": "assets/flags/rwanda.png"
@@ -968,6 +958,16 @@
             "name": "Haiti",
             "emoji": "🇭🇹",
             "flag": "assets/flags/haiti.png"
+        },
+        {
+            "name": "Bahamas",
+            "emoji": "🇧🇸",
+            "flag": "assets/flags/bahamas.png"
+        },
+        {
+            "name": "Russia",
+            "emoji": "🇷🇺",
+            "flag": "assets/flags/russia.png"
         }
     ]
 }
