@@ -637,16 +637,6 @@
             "flag": "assets/flags/turkey.png"
         },
         {
-            "name": "Tuvalu",
-            "emoji": "🇹🇻",
-            "flag": "assets/flags/tuvalu.png"
-        },
-        {
-            "name": "Uganda",
-            "emoji": "🇺🇬",
-            "flag": "assets/flags/uganda.png"
-        },
-        {
             "name": "United Kingdom",
             "emoji": "🇬🇧",
             "flag": "assets/flags/united-kingdom.png"
@@ -893,6 +883,16 @@
             "name": "Chad",
             "emoji": "🇹🇩",
             "flag": "assets/flags/chad.png"
+        },
+        {
+            "name": "Uganda",
+            "emoji": "🇺🇬",
+            "flag": "assets/flags/uganda.png"
+        },
+        {
+            "name": "Tuvalu",
+            "emoji": "🇹🇻",
+            "flag": "assets/flags/tuvalu.png"
         }
     ]
 }
