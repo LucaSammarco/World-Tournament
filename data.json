@@ -227,11 +227,6 @@
             "flag": "assets/flags/gambia.png"
         },
         {
-            "name": "Ghana",
-            "emoji": "🇬🇭",
-            "flag": "assets/flags/ghana.png"
-        },
-        {
             "name": "Greece",
             "emoji": "🇬🇷",
             "flag": "assets/flags/greece.png"
@@ -335,11 +330,6 @@
             "name": "Lesotho",
             "emoji": "🇱🇸",
             "flag": "assets/flags/lesotho.png"
-        },
-        {
-            "name": "Liberia",
-            "emoji": "🇱🇷",
-            "flag": "assets/flags/liberia.png"
         },
         {
             "name": "Libya",
@@ -903,6 +893,16 @@
             "name": "Norway",
             "emoji": "🇳🇴",
             "flag": "assets/flags/norway.png"
+        },
+        {
+            "name": "Liberia",
+            "emoji": "🇱🇷",
+            "flag": "assets/flags/liberia.png"
+        },
+        {
+            "name": "Ghana",
+            "emoji": "🇬🇭",
+            "flag": "assets/flags/ghana.png"
         }
     ]
 }
