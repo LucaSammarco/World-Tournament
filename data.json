@@ -107,11 +107,6 @@
             "flag": "assets/flags/central-african-republic.png"
         },
         {
-            "name": "Chad",
-            "emoji": "🇹🇩",
-            "flag": "assets/flags/chad.png"
-        },
-        {
             "name": "Chile",
             "emoji": "🇨🇱",
             "flag": "assets/flags/chile.png"
@@ -652,11 +647,6 @@
             "flag": "assets/flags/uganda.png"
         },
         {
-            "name": "Ukraine",
-            "emoji": "🇺🇦",
-            "flag": "assets/flags/ukraine.png"
-        },
-        {
             "name": "United Kingdom",
             "emoji": "🇬🇧",
             "flag": "assets/flags/united-kingdom.png"
@@ -898,6 +888,11 @@
             "name": "Palestine",
             "emoji": "🇵🇸",
             "flag": "assets/flags/palestine.png"
+        },
+        {
+            "name": "Chad",
+            "emoji": "🇹🇩",
+            "flag": "assets/flags/chad.png"
         }
     ]
 }
