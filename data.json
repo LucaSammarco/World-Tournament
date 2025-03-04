@@ -52,11 +52,6 @@
             "flag": "assets/flags/barbados.png"
         },
         {
-            "name": "Belgium",
-            "emoji": "🇧🇪",
-            "flag": "assets/flags/belgium.png"
-        },
-        {
             "name": "Belize",
             "emoji": "🇧🇿",
             "flag": "assets/flags/belize.png"
@@ -285,11 +280,6 @@
             "name": "Honduras",
             "emoji": "🇭🇳",
             "flag": "assets/flags/honduras.png"
-        },
-        {
-            "name": "Hungary",
-            "emoji": "🇭🇺",
-            "flag": "assets/flags/hungary.png"
         },
         {
             "name": "Iceland",
@@ -918,6 +908,11 @@
             "name": "Slovakia",
             "emoji": "🇸🇰",
             "flag": "assets/flags/slovakia.png"
+        },
+        {
+            "name": "Hungary",
+            "emoji": "🇭🇺",
+            "flag": "assets/flags/hungary.png"
         }
     ]
 }
