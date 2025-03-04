@@ -52,11 +52,6 @@
             "flag": "assets/flags/barbados.png"
         },
         {
-            "name": "Belize",
-            "emoji": "🇧🇿",
-            "flag": "assets/flags/belize.png"
-        },
-        {
             "name": "Benin",
             "emoji": "🇧🇯",
             "flag": "assets/flags/benin.png"
@@ -617,11 +612,6 @@
             "flag": "assets/flags/slovenia.png"
         },
         {
-            "name": "South Africa",
-            "emoji": "🇿🇦",
-            "flag": "assets/flags/south-africa.png"
-        },
-        {
             "name": "South Korea",
             "emoji": "🇰🇷",
             "flag": "assets/flags/south-korea.png"
@@ -913,6 +903,11 @@
             "name": "Gabon",
             "emoji": "🇬🇦",
             "flag": "assets/flags/gabon.png"
+        },
+        {
+            "name": "South Africa",
+            "emoji": "🇿🇦",
+            "flag": "assets/flags/south-africa.png"
         }
     ]
 }
