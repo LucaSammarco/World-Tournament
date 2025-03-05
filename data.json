@@ -197,11 +197,6 @@
             "flag": "assets/flags/ireland.png"
         },
         {
-            "name": "Israel",
-            "emoji": "🇮🇱",
-            "flag": "assets/flags/israel.png"
-        },
-        {
             "name": "Ivory Coast",
             "emoji": "🇨🇮",
             "flag": "assets/flags/ivory-coast.png"
@@ -435,11 +430,6 @@
             "name": "Seychelles",
             "emoji": "🇸🇨",
             "flag": "assets/flags/seychelles.png"
-        },
-        {
-            "name": "Sierra Leone",
-            "emoji": "🇸🇱",
-            "flag": "assets/flags/sierra-leone.png"
         },
         {
             "name": "Singapore",
@@ -848,6 +838,11 @@
             "name": "Niger",
             "emoji": "🇳🇪",
             "flag": "assets/flags/niger.png"
+        },
+        {
+            "name": "Israel",
+            "emoji": "🇮🇱",
+            "flag": "assets/flags/israel.png"
         }
     ]
 }
