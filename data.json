@@ -152,11 +152,6 @@
             "flag": "assets/flags/ecuador.png"
         },
         {
-            "name": "Egypt",
-            "emoji": "🇪🇬",
-            "flag": "assets/flags/egypt.png"
-        },
-        {
             "name": "El Salvador",
             "emoji": "🇸🇻",
             "flag": "assets/flags/el-salvador.png"
@@ -335,11 +330,6 @@
             "name": "Madagascar",
             "emoji": "🇲🇬",
             "flag": "assets/flags/madagascar.png"
-        },
-        {
-            "name": "Malaysia",
-            "emoji": "🇲🇾",
-            "flag": "assets/flags/malaysia.png"
         },
         {
             "name": "Mali",
@@ -883,6 +873,11 @@
             "name": "Bhutan",
             "emoji": "🇧🇹",
             "flag": "assets/flags/bhutan.png"
+        },
+        {
+            "name": "Malaysia",
+            "emoji": "🇲🇾",
+            "flag": "assets/flags/malaysia.png"
         }
     ]
 }
