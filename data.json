@@ -197,11 +197,6 @@
             "flag": "assets/flags/greece.png"
         },
         {
-            "name": "Grenada",
-            "emoji": "🇬🇩",
-            "flag": "assets/flags/grenada.png"
-        },
-        {
             "name": "Guyana",
             "emoji": "🇬🇾",
             "flag": "assets/flags/guyana.png"
@@ -240,11 +235,6 @@
             "name": "Israel",
             "emoji": "🇮🇱",
             "flag": "assets/flags/israel.png"
-        },
-        {
-            "name": "Italy",
-            "emoji": "🇮🇹",
-            "flag": "assets/flags/italy.png"
         },
         {
             "name": "Ivory Coast",
@@ -868,6 +858,11 @@
             "name": "Dominica",
             "emoji": "🇩🇲",
             "flag": "assets/flags/dominica.png"
+        },
+        {
+            "name": "Italy",
+            "emoji": "🇮🇹",
+            "flag": "assets/flags/italy.png"
         }
     ]
 }
