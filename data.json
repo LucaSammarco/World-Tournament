@@ -52,11 +52,6 @@
             "flag": "assets/flags/benin.png"
         },
         {
-            "name": "Bhutan",
-            "emoji": "🇧🇹",
-            "flag": "assets/flags/bhutan.png"
-        },
-        {
             "name": "Bolivia",
             "emoji": "🇧🇴",
             "flag": "assets/flags/bolivia.png"
@@ -365,11 +360,6 @@
             "name": "Mauritania",
             "emoji": "🇲🇷",
             "flag": "assets/flags/mauritania.png"
-        },
-        {
-            "name": "Mauritius",
-            "emoji": "🇲🇺",
-            "flag": "assets/flags/mauritius.png"
         },
         {
             "name": "Mexico",
@@ -883,6 +873,16 @@
             "name": "Algeria",
             "emoji": "🇩🇿",
             "flag": "assets/flags/algeria.png"
+        },
+        {
+            "name": "Mauritius",
+            "emoji": "🇲🇺",
+            "flag": "assets/flags/mauritius.png"
+        },
+        {
+            "name": "Bhutan",
+            "emoji": "🇧🇹",
+            "flag": "assets/flags/bhutan.png"
         }
     ]
 }
