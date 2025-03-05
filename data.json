@@ -12,11 +12,6 @@
             "flag": "assets/flags/angola.png"
         },
         {
-            "name": "Argentina",
-            "emoji": "🇦🇷",
-            "flag": "assets/flags/argentina.png"
-        },
-        {
             "name": "Armenia",
             "emoji": "🇦🇲",
             "flag": "assets/flags/armenia.png"
@@ -170,11 +165,6 @@
             "name": "Gambia",
             "emoji": "🇬🇲",
             "flag": "assets/flags/gambia.png"
-        },
-        {
-            "name": "Greece",
-            "emoji": "🇬🇷",
-            "flag": "assets/flags/greece.png"
         },
         {
             "name": "Guyana",
@@ -853,6 +843,16 @@
             "name": "Barbados",
             "emoji": "🇧🇧",
             "flag": "assets/flags/barbados.png"
+        },
+        {
+            "name": "Argentina",
+            "emoji": "🇦🇷",
+            "flag": "assets/flags/argentina.png"
+        },
+        {
+            "name": "Greece",
+            "emoji": "🇬🇷",
+            "flag": "assets/flags/greece.png"
         }
     ]
 }
