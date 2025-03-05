@@ -157,11 +157,6 @@
             "flag": "assets/flags/finland.png"
         },
         {
-            "name": "France",
-            "emoji": "🇫🇷",
-            "flag": "assets/flags/france.png"
-        },
-        {
             "name": "Gambia",
             "emoji": "🇬🇲",
             "flag": "assets/flags/gambia.png"
@@ -340,11 +335,6 @@
             "name": "Nicaragua",
             "emoji": "🇳🇮",
             "flag": "assets/flags/nicaragua.png"
-        },
-        {
-            "name": "Niger",
-            "emoji": "🇳🇪",
-            "flag": "assets/flags/niger.png"
         },
         {
             "name": "North Korea",
@@ -853,6 +843,11 @@
             "name": "Greece",
             "emoji": "🇬🇷",
             "flag": "assets/flags/greece.png"
+        },
+        {
+            "name": "Niger",
+            "emoji": "🇳🇪",
+            "flag": "assets/flags/niger.png"
         }
     ]
 }
