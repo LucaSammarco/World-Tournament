@@ -152,11 +152,6 @@
             "flag": "assets/flags/ecuador.png"
         },
         {
-            "name": "El Salvador",
-            "emoji": "🇸🇻",
-            "flag": "assets/flags/el-salvador.png"
-        },
-        {
             "name": "Equatorial Guinea",
             "emoji": "🇬🇶",
             "flag": "assets/flags/equatorial-guinea.png"
@@ -455,11 +450,6 @@
             "name": "Poland",
             "emoji": "🇵🇱",
             "flag": "assets/flags/poland.png"
-        },
-        {
-            "name": "Portugal",
-            "emoji": "🇵🇹",
-            "flag": "assets/flags/portugal.png"
         },
         {
             "name": "Qatar",
@@ -878,6 +868,11 @@
             "name": "Malaysia",
             "emoji": "🇲🇾",
             "flag": "assets/flags/malaysia.png"
+        },
+        {
+            "name": "Portugal",
+            "emoji": "🇵🇹",
+            "flag": "assets/flags/portugal.png"
         }
     ]
 }
