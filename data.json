@@ -322,11 +322,6 @@
             "flag": "assets/flags/nicaragua.png"
         },
         {
-            "name": "North Korea",
-            "emoji": "🇰🇵",
-            "flag": "assets/flags/north-korea.png"
-        },
-        {
             "name": "North Macedonia",
             "emoji": "🇲🇰",
             "flag": "assets/flags/north-macedonia.png"
@@ -410,11 +405,6 @@
             "name": "Senegal",
             "emoji": "🇸🇳",
             "flag": "assets/flags/senegal.png"
-        },
-        {
-            "name": "Serbia",
-            "emoji": "🇷🇸",
-            "flag": "assets/flags/serbia.png"
         },
         {
             "name": "Seychelles",
@@ -843,6 +833,16 @@
             "name": "Kenya",
             "emoji": "🇰🇪",
             "flag": "assets/flags/kenya.png"
+        },
+        {
+            "name": "Serbia",
+            "emoji": "🇷🇸",
+            "flag": "assets/flags/serbia.png"
+        },
+        {
+            "name": "North Korea",
+            "emoji": "🇰🇵",
+            "flag": "assets/flags/north-korea.png"
         }
     ]
 }
