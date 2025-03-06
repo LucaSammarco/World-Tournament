@@ -297,11 +297,6 @@
             "flag": "assets/flags/myanmar.png"
         },
         {
-            "name": "Namibia",
-            "emoji": "🇳🇦",
-            "flag": "assets/flags/namibia.png"
-        },
-        {
             "name": "Nepal",
             "emoji": "🇳🇵",
             "flag": "assets/flags/nepal.png"
@@ -480,11 +475,6 @@
             "name": "United Kingdom",
             "emoji": "🇬🇧",
             "flag": "assets/flags/united-kingdom.png"
-        },
-        {
-            "name": "Uruguay",
-            "emoji": "🇺🇾",
-            "flag": "assets/flags/uruguay.png"
         },
         {
             "name": "Uzbekistan",
@@ -838,6 +828,11 @@
             "name": "Honduras",
             "emoji": "🇭🇳",
             "flag": "assets/flags/honduras.png"
+        },
+        {
+            "name": "Namibia",
+            "emoji": "🇳🇦",
+            "flag": "assets/flags/namibia.png"
         }
     ]
 }
