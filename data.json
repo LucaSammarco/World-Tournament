@@ -112,11 +112,6 @@
             "flag": "assets/flags/equatorial-guinea.png"
         },
         {
-            "name": "Eritrea",
-            "emoji": "🇪🇷",
-            "flag": "assets/flags/eritrea.png"
-        },
-        {
             "name": "Estonia",
             "emoji": "🇪🇪",
             "flag": "assets/flags/estonia.png"
@@ -410,11 +405,6 @@
             "name": "Turkey",
             "emoji": "🇹🇷",
             "flag": "assets/flags/turkey.png"
-        },
-        {
-            "name": "United Kingdom",
-            "emoji": "🇬🇧",
-            "flag": "assets/flags/united-kingdom.png"
         },
         {
             "name": "Uzbekistan",
@@ -823,6 +813,11 @@
             "name": "Slovenia",
             "emoji": "🇸🇮",
             "flag": "assets/flags/slovenia.png"
+        },
+        {
+            "name": "Eritrea",
+            "emoji": "🇪🇷",
+            "flag": "assets/flags/eritrea.png"
         }
     ]
 }
