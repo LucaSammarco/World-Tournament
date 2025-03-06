@@ -67,11 +67,6 @@
             "flag": "assets/flags/cambodia.png"
         },
         {
-            "name": "Cameroon",
-            "emoji": "🇨🇲",
-            "flag": "assets/flags/cameroon.png"
-        },
-        {
             "name": "Central African Republic",
             "emoji": "🇨🇫",
             "flag": "assets/flags/central-african-republic.png"
@@ -305,11 +300,6 @@
             "name": "Panama",
             "emoji": "🇵🇦",
             "flag": "assets/flags/panama.png"
-        },
-        {
-            "name": "Papua New Guinea",
-            "emoji": "🇵🇬",
-            "flag": "assets/flags/papua-new-guinea.png"
         },
         {
             "name": "Paraguay",
@@ -828,6 +818,16 @@
             "name": "Malta",
             "emoji": "🇲🇹",
             "flag": "assets/flags/malta.png"
+        },
+        {
+            "name": "Papua New Guinea",
+            "emoji": "🇵🇬",
+            "flag": "assets/flags/papua-new-guinea.png"
+        },
+        {
+            "name": "Cameroon",
+            "emoji": "🇨🇲",
+            "flag": "assets/flags/cameroon.png"
         }
     ]
 }
