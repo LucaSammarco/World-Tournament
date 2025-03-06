@@ -12,11 +12,6 @@
             "flag": "assets/flags/angola.png"
         },
         {
-            "name": "Armenia",
-            "emoji": "🇦🇲",
-            "flag": "assets/flags/armenia.png"
-        },
-        {
             "name": "Azerbaijan",
             "emoji": "🇦🇿",
             "flag": "assets/flags/azerbaijan.png"
@@ -225,11 +220,6 @@
             "name": "Madagascar",
             "emoji": "🇲🇬",
             "flag": "assets/flags/madagascar.png"
-        },
-        {
-            "name": "Mali",
-            "emoji": "🇲🇱",
-            "flag": "assets/flags/mali.png"
         },
         {
             "name": "Marshall Islands",
@@ -828,6 +818,16 @@
             "name": "Cameroon",
             "emoji": "🇨🇲",
             "flag": "assets/flags/cameroon.png"
+        },
+        {
+            "name": "Armenia",
+            "emoji": "🇦🇲",
+            "flag": "assets/flags/armenia.png"
+        },
+        {
+            "name": "Mali",
+            "emoji": "🇲🇱",
+            "flag": "assets/flags/mali.png"
         }
     ]
 }
