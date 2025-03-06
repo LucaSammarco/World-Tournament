@@ -212,11 +212,6 @@
             "flag": "assets/flags/kazakhstan.png"
         },
         {
-            "name": "Kenya",
-            "emoji": "🇰🇪",
-            "flag": "assets/flags/kenya.png"
-        },
-        {
             "name": "Kiribati",
             "emoji": "🇰🇮",
             "flag": "assets/flags/kiribati.png"
@@ -235,11 +230,6 @@
             "name": "Latvia",
             "emoji": "🇱🇻",
             "flag": "assets/flags/latvia.png"
-        },
-        {
-            "name": "Lesotho",
-            "emoji": "🇱🇸",
-            "flag": "assets/flags/lesotho.png"
         },
         {
             "name": "Libya",
@@ -843,6 +833,16 @@
             "name": "Israel",
             "emoji": "🇮🇱",
             "flag": "assets/flags/israel.png"
+        },
+        {
+            "name": "Lesotho",
+            "emoji": "🇱🇸",
+            "flag": "assets/flags/lesotho.png"
+        },
+        {
+            "name": "Kenya",
+            "emoji": "🇰🇪",
+            "flag": "assets/flags/kenya.png"
         }
     ]
 }
