@@ -67,11 +67,6 @@
             "flag": "assets/flags/central-african-republic.png"
         },
         {
-            "name": "Comoros",
-            "emoji": "🇰🇲",
-            "flag": "assets/flags/comoros.png"
-        },
-        {
             "name": "Republic of the Congo",
             "emoji": "🇨🇬",
             "flag": "assets/flags/republic-of-the-congo.png"
@@ -250,11 +245,6 @@
             "name": "Panama",
             "emoji": "🇵🇦",
             "flag": "assets/flags/panama.png"
-        },
-        {
-            "name": "Philippines",
-            "emoji": "🇵🇭",
-            "flag": "assets/flags/philippines.png"
         },
         {
             "name": "Poland",
@@ -798,6 +788,16 @@
             "name": "Saudi Arabia",
             "emoji": "🇸🇦",
             "flag": "assets/flags/saudi-arabia.png"
+        },
+        {
+            "name": "Comoros",
+            "emoji": "🇰🇲",
+            "flag": "assets/flags/comoros.png"
+        },
+        {
+            "name": "Philippines",
+            "emoji": "🇵🇭",
+            "flag": "assets/flags/philippines.png"
         }
     ]
 }
