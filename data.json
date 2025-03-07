@@ -62,11 +62,6 @@
             "flag": "assets/flags/cambodia.png"
         },
         {
-            "name": "Central African Republic",
-            "emoji": "🇨🇫",
-            "flag": "assets/flags/central-african-republic.png"
-        },
-        {
             "name": "Republic of the Congo",
             "emoji": "🇨🇬",
             "flag": "assets/flags/republic-of-the-congo.png"
@@ -160,11 +155,6 @@
             "name": "Kazakhstan",
             "emoji": "🇰🇿",
             "flag": "assets/flags/kazakhstan.png"
-        },
-        {
-            "name": "Kiribati",
-            "emoji": "🇰🇮",
-            "flag": "assets/flags/kiribati.png"
         },
         {
             "name": "Kyrgyzstan",
@@ -798,6 +788,16 @@
             "name": "Philippines",
             "emoji": "🇵🇭",
             "flag": "assets/flags/philippines.png"
+        },
+        {
+            "name": "Central African Republic",
+            "emoji": "🇨🇫",
+            "flag": "assets/flags/central-african-republic.png"
+        },
+        {
+            "name": "Kiribati",
+            "emoji": "🇰🇮",
+            "flag": "assets/flags/kiribati.png"
         }
     ]
 }
