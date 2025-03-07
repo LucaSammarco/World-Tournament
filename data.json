@@ -307,11 +307,6 @@
             "flag": "assets/flags/samoa.png"
         },
         {
-            "name": "São Tomé and Príncipe",
-            "emoji": "🇸🇹",
-            "flag": "assets/flags/são-tomé-and-príncipe.png"
-        },
-        {
             "name": "Saudi Arabia",
             "emoji": "🇸🇦",
             "flag": "assets/flags/saudi-arabia.png"
@@ -320,11 +315,6 @@
             "name": "Senegal",
             "emoji": "🇸🇳",
             "flag": "assets/flags/senegal.png"
-        },
-        {
-            "name": "Seychelles",
-            "emoji": "🇸🇨",
-            "flag": "assets/flags/seychelles.png"
         },
         {
             "name": "Singapore",
@@ -813,6 +803,11 @@
             "name": "Tajikistan",
             "emoji": "🇹🇯",
             "flag": "assets/flags/tajikistan.png"
+        },
+        {
+            "name": "São Tomé and Príncipe",
+            "emoji": "🇸🇹",
+            "flag": "assets/flags/são-tomé-and-príncipe.png"
         }
     ]
 }
