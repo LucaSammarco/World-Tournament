@@ -212,11 +212,6 @@
             "flag": "assets/flags/nicaragua.png"
         },
         {
-            "name": "Oman",
-            "emoji": "🇴🇲",
-            "flag": "assets/flags/oman.png"
-        },
-        {
             "name": "Pakistan",
             "emoji": "🇵🇰",
             "flag": "assets/flags/pakistan.png"
@@ -285,11 +280,6 @@
             "name": "Timor-Leste",
             "emoji": "🇹🇱",
             "flag": "assets/flags/timor-leste.png"
-        },
-        {
-            "name": "Trinidad and Tobago",
-            "emoji": "🇹🇹",
-            "flag": "assets/flags/trinidad-and-tobago.png"
         },
         {
             "name": "Turkey",
@@ -793,6 +783,11 @@
             "name": "Brazil",
             "emoji": "🇧🇷",
             "flag": "assets/flags/brazil.png"
+        },
+        {
+            "name": "Oman",
+            "emoji": "🇴🇲",
+            "flag": "assets/flags/oman.png"
         }
     ]
 }
