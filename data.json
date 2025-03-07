@@ -237,11 +237,6 @@
             "flag": "assets/flags/panama.png"
         },
         {
-            "name": "Poland",
-            "emoji": "🇵🇱",
-            "flag": "assets/flags/poland.png"
-        },
-        {
             "name": "Qatar",
             "emoji": "🇶🇦",
             "flag": "assets/flags/qatar.png"
@@ -265,11 +260,6 @@
             "name": "Senegal",
             "emoji": "🇸🇳",
             "flag": "assets/flags/senegal.png"
-        },
-        {
-            "name": "Singapore",
-            "emoji": "🇸🇬",
-            "flag": "assets/flags/singapore.png"
         },
         {
             "name": "Spain",
@@ -798,6 +788,16 @@
             "name": "Kiribati",
             "emoji": "🇰🇮",
             "flag": "assets/flags/kiribati.png"
+        },
+        {
+            "name": "Singapore",
+            "emoji": "🇸🇬",
+            "flag": "assets/flags/singapore.png"
+        },
+        {
+            "name": "Poland",
+            "emoji": "🇵🇱",
+            "flag": "assets/flags/poland.png"
         }
     ]
 }
