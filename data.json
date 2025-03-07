@@ -287,11 +287,6 @@
             "flag": "assets/flags/panama.png"
         },
         {
-            "name": "Paraguay",
-            "emoji": "🇵🇾",
-            "flag": "assets/flags/paraguay.png"
-        },
-        {
             "name": "Peru",
             "emoji": "🇵🇪",
             "flag": "assets/flags/peru.png"
@@ -350,11 +345,6 @@
             "name": "Singapore",
             "emoji": "🇸🇬",
             "flag": "assets/flags/singapore.png"
-        },
-        {
-            "name": "South Korea",
-            "emoji": "🇰🇷",
-            "flag": "assets/flags/south-korea.png"
         },
         {
             "name": "Spain",
@@ -818,6 +808,11 @@
             "name": "Eritrea",
             "emoji": "🇪🇷",
             "flag": "assets/flags/eritrea.png"
+        },
+        {
+            "name": "Paraguay",
+            "emoji": "🇵🇾",
+            "flag": "assets/flags/paraguay.png"
         }
     ]
 }
