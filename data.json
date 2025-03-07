@@ -192,11 +192,6 @@
             "flag": "assets/flags/kyrgyzstan.png"
         },
         {
-            "name": "Laos",
-            "emoji": "🇱🇦",
-            "flag": "assets/flags/laos.png"
-        },
-        {
             "name": "Libya",
             "emoji": "🇱🇾",
             "flag": "assets/flags/libya.png"
@@ -255,11 +250,6 @@
             "name": "Myanmar",
             "emoji": "🇲🇲",
             "flag": "assets/flags/myanmar.png"
-        },
-        {
-            "name": "Nepal",
-            "emoji": "🇳🇵",
-            "flag": "assets/flags/nepal.png"
         },
         {
             "name": "Nicaragua",
@@ -813,6 +803,16 @@
             "name": "Paraguay",
             "emoji": "🇵🇾",
             "flag": "assets/flags/paraguay.png"
+        },
+        {
+            "name": "Nepal",
+            "emoji": "🇳🇵",
+            "flag": "assets/flags/nepal.png"
+        },
+        {
+            "name": "Laos",
+            "emoji": "🇱🇦",
+            "flag": "assets/flags/laos.png"
         }
     ]
 }
