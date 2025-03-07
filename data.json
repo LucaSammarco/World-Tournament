@@ -42,11 +42,6 @@
             "flag": "assets/flags/bosnia-and-herzegovina.png"
         },
         {
-            "name": "Brazil",
-            "emoji": "🇧🇷",
-            "flag": "assets/flags/brazil.png"
-        },
-        {
             "name": "Burkina Faso",
             "emoji": "🇧🇫",
             "flag": "assets/flags/burkina-faso.png"
@@ -135,11 +130,6 @@
             "name": "Iraq",
             "emoji": "🇮🇶",
             "flag": "assets/flags/iraq.png"
-        },
-        {
-            "name": "Ireland",
-            "emoji": "🇮🇪",
-            "flag": "assets/flags/ireland.png"
         },
         {
             "name": "Ivory Coast",
@@ -798,6 +788,11 @@
             "name": "Poland",
             "emoji": "🇵🇱",
             "flag": "assets/flags/poland.png"
+        },
+        {
+            "name": "Brazil",
+            "emoji": "🇧🇷",
+            "flag": "assets/flags/brazil.png"
         }
     ]
 }
