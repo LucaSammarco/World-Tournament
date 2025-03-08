@@ -17,11 +17,6 @@
             "flag": "assets/flags/azerbaijan.png"
         },
         {
-            "name": "Bahrain",
-            "emoji": "🇧🇭",
-            "flag": "assets/flags/bahrain.png"
-        },
-        {
             "name": "Bolivia",
             "emoji": "🇧🇴",
             "flag": "assets/flags/bolivia.png"
@@ -115,11 +110,6 @@
             "name": "Kyrgyzstan",
             "emoji": "🇰🇬",
             "flag": "assets/flags/kyrgyzstan.png"
-        },
-        {
-            "name": "Libya",
-            "emoji": "🇱🇾",
-            "flag": "assets/flags/libya.png"
         },
         {
             "name": "Liechtenstein",
@@ -758,6 +748,11 @@
             "name": "Spain",
             "emoji": "🇪🇸",
             "flag": "assets/flags/spain.png"
+        },
+        {
+            "name": "Bahrain",
+            "emoji": "🇧🇭",
+            "flag": "assets/flags/bahrain.png"
         }
     ]
 }
