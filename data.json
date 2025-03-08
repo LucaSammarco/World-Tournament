@@ -102,11 +102,6 @@
             "flag": "assets/flags/kyrgyzstan.png"
         },
         {
-            "name": "Liechtenstein",
-            "emoji": "🇱🇮",
-            "flag": "assets/flags/liechtenstein.png"
-        },
-        {
             "name": "Madagascar",
             "emoji": "🇲🇬",
             "flag": "assets/flags/madagascar.png"
@@ -155,11 +150,6 @@
             "name": "Panama",
             "emoji": "🇵🇦",
             "flag": "assets/flags/panama.png"
-        },
-        {
-            "name": "Saint Kitts and Nevis",
-            "emoji": "🇰🇳",
-            "flag": "assets/flags/saint-kitts-and-nevis.png"
         },
         {
             "name": "Samoa",
@@ -753,6 +743,11 @@
             "name": "Ethiopia",
             "emoji": "🇪🇹",
             "flag": "assets/flags/ethiopia.png"
+        },
+        {
+            "name": "Saint Kitts and Nevis",
+            "emoji": "🇰🇳",
+            "flag": "assets/flags/saint-kitts-and-nevis.png"
         }
     ]
 }
