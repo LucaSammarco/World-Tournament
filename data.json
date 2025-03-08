@@ -57,11 +57,6 @@
             "flag": "assets/flags/estonia.png"
         },
         {
-            "name": "Ethiopia",
-            "emoji": "🇪🇹",
-            "flag": "assets/flags/ethiopia.png"
-        },
-        {
             "name": "Gambia",
             "emoji": "🇬🇲",
             "flag": "assets/flags/gambia.png"
@@ -100,11 +95,6 @@
             "name": "Jamaica",
             "emoji": "🇯🇲",
             "flag": "assets/flags/jamaica.png"
-        },
-        {
-            "name": "Kazakhstan",
-            "emoji": "🇰🇿",
-            "flag": "assets/flags/kazakhstan.png"
         },
         {
             "name": "Kyrgyzstan",
@@ -753,6 +743,16 @@
             "name": "Bahrain",
             "emoji": "🇧🇭",
             "flag": "assets/flags/bahrain.png"
+        },
+        {
+            "name": "Kazakhstan",
+            "emoji": "🇰🇿",
+            "flag": "assets/flags/kazakhstan.png"
+        },
+        {
+            "name": "Ethiopia",
+            "emoji": "🇪🇹",
+            "flag": "assets/flags/ethiopia.png"
         }
     ]
 }
