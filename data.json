@@ -62,11 +62,6 @@
             "flag": "assets/flags/dominican-republic.png"
         },
         {
-            "name": "Ecuador",
-            "emoji": "🇪🇨",
-            "flag": "assets/flags/ecuador.png"
-        },
-        {
             "name": "Estonia",
             "emoji": "🇪🇪",
             "flag": "assets/flags/estonia.png"
@@ -150,11 +145,6 @@
             "name": "Mauritania",
             "emoji": "🇲🇷",
             "flag": "assets/flags/mauritania.png"
-        },
-        {
-            "name": "Mexico",
-            "emoji": "🇲🇽",
-            "flag": "assets/flags/mexico.png"
         },
         {
             "name": "Micronesia",
@@ -768,6 +758,11 @@
             "name": "Cyprus",
             "emoji": "🇨🇾",
             "flag": "assets/flags/cyprus.png"
+        },
+        {
+            "name": "Mexico",
+            "emoji": "🇲🇽",
+            "flag": "assets/flags/mexico.png"
         }
     ]
 }
