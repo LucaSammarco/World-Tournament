@@ -192,19 +192,9 @@
             "flag": "assets/flags/senegal.png"
         },
         {
-            "name": "Spain",
-            "emoji": "🇪🇸",
-            "flag": "assets/flags/spain.png"
-        },
-        {
             "name": "Sri Lanka",
             "emoji": "🇱🇰",
             "flag": "assets/flags/sri-lanka.png"
-        },
-        {
-            "name": "Switzerland",
-            "emoji": "🇨🇭",
-            "flag": "assets/flags/switzerland.png"
         },
         {
             "name": "Syria",
@@ -763,6 +753,11 @@
             "name": "Bangladesh",
             "emoji": "🇧🇩",
             "flag": "assets/flags/bangladesh.png"
+        },
+        {
+            "name": "Spain",
+            "emoji": "🇪🇸",
+            "flag": "assets/flags/spain.png"
         }
     ]
 }
