@@ -27,11 +27,6 @@
             "flag": "assets/flags/bangladesh.png"
         },
         {
-            "name": "Benin",
-            "emoji": "🇧🇯",
-            "flag": "assets/flags/benin.png"
-        },
-        {
             "name": "Bolivia",
             "emoji": "🇧🇴",
             "flag": "assets/flags/bolivia.png"
@@ -55,11 +50,6 @@
             "name": "Republic of the Congo",
             "emoji": "🇨🇬",
             "flag": "assets/flags/republic-of-the-congo.png"
-        },
-        {
-            "name": "Cyprus",
-            "emoji": "🇨🇾",
-            "flag": "assets/flags/cyprus.png"
         },
         {
             "name": "Czech Republic",
@@ -773,6 +763,11 @@
             "name": "Qatar",
             "emoji": "🇶🇦",
             "flag": "assets/flags/qatar.png"
+        },
+        {
+            "name": "Cyprus",
+            "emoji": "🇨🇾",
+            "flag": "assets/flags/cyprus.png"
         }
     ]
 }
