@@ -182,19 +182,9 @@
             "flag": "assets/flags/turkey.png"
         },
         {
-            "name": "Uzbekistan",
-            "emoji": "🇺🇿",
-            "flag": "assets/flags/uzbekistan.png"
-        },
-        {
             "name": "Vanuatu",
             "emoji": "🇻🇺",
             "flag": "assets/flags/vanuatu.png"
-        },
-        {
-            "name": "Vatican City",
-            "emoji": "🇻🇦",
-            "flag": "assets/flags/vatican-city.png"
         }
     ],
     "total_countries": 195,
@@ -743,6 +733,11 @@
             "name": "Albania",
             "emoji": "🇦🇱",
             "flag": "assets/flags/albania.png"
+        },
+        {
+            "name": "Uzbekistan",
+            "emoji": "🇺🇿",
+            "flag": "assets/flags/uzbekistan.png"
         }
     ]
 }
