@@ -22,11 +22,6 @@
             "flag": "assets/flags/bahrain.png"
         },
         {
-            "name": "Bangladesh",
-            "emoji": "🇧🇩",
-            "flag": "assets/flags/bangladesh.png"
-        },
-        {
             "name": "Bolivia",
             "emoji": "🇧🇴",
             "flag": "assets/flags/bolivia.png"
@@ -185,11 +180,6 @@
             "name": "Saint Kitts and Nevis",
             "emoji": "🇰🇳",
             "flag": "assets/flags/saint-kitts-and-nevis.png"
-        },
-        {
-            "name": "Saint Vincent and the Grenadines",
-            "emoji": "🇻🇨",
-            "flag": "assets/flags/saint-vincent-and-the-grenadines.png"
         },
         {
             "name": "Samoa",
@@ -763,6 +753,16 @@
             "name": "Mexico",
             "emoji": "🇲🇽",
             "flag": "assets/flags/mexico.png"
+        },
+        {
+            "name": "Saint Vincent and the Grenadines",
+            "emoji": "🇻🇨",
+            "flag": "assets/flags/saint-vincent-and-the-grenadines.png"
+        },
+        {
+            "name": "Bangladesh",
+            "emoji": "🇧🇩",
+            "flag": "assets/flags/bangladesh.png"
         }
     ]
 }
