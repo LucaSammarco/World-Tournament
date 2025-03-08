@@ -202,11 +202,6 @@
             "flag": "assets/flags/nicaragua.png"
         },
         {
-            "name": "Pakistan",
-            "emoji": "🇵🇰",
-            "flag": "assets/flags/pakistan.png"
-        },
-        {
             "name": "Panama",
             "emoji": "🇵🇦",
             "flag": "assets/flags/panama.png"
@@ -290,11 +285,6 @@
             "name": "Vatican City",
             "emoji": "🇻🇦",
             "flag": "assets/flags/vatican-city.png"
-        },
-        {
-            "name": "Zimbabwe",
-            "emoji": "🇿🇼",
-            "flag": "assets/flags/zimbabwe.png"
         }
     ],
     "total_countries": 195,
@@ -783,6 +773,11 @@
             "name": "Eswatini",
             "emoji": "🇸🇿",
             "flag": "assets/flags/eswatini.png"
+        },
+        {
+            "name": "Pakistan",
+            "emoji": "🇵🇰",
+            "flag": "assets/flags/pakistan.png"
         }
     ]
 }
