@@ -42,11 +42,6 @@
             "flag": "assets/flags/bosnia-and-herzegovina.png"
         },
         {
-            "name": "Burkina Faso",
-            "emoji": "🇧🇫",
-            "flag": "assets/flags/burkina-faso.png"
-        },
-        {
             "name": "Burundi",
             "emoji": "🇧🇮",
             "flag": "assets/flags/burundi.png"
@@ -90,11 +85,6 @@
             "name": "Estonia",
             "emoji": "🇪🇪",
             "flag": "assets/flags/estonia.png"
-        },
-        {
-            "name": "Eswatini",
-            "emoji": "🇸🇿",
-            "flag": "assets/flags/eswatini.png"
         },
         {
             "name": "Ethiopia",
@@ -788,6 +778,11 @@
             "name": "Oman",
             "emoji": "🇴🇲",
             "flag": "assets/flags/oman.png"
+        },
+        {
+            "name": "Eswatini",
+            "emoji": "🇸🇿",
+            "flag": "assets/flags/eswatini.png"
         }
     ]
 }
