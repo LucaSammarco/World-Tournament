@@ -102,19 +102,9 @@
             "flag": "assets/flags/morocco.png"
         },
         {
-            "name": "Myanmar",
-            "emoji": "🇲🇲",
-            "flag": "assets/flags/myanmar.png"
-        },
-        {
             "name": "Nicaragua",
             "emoji": "🇳🇮",
             "flag": "assets/flags/nicaragua.png"
-        },
-        {
-            "name": "Panama",
-            "emoji": "🇵🇦",
-            "flag": "assets/flags/panama.png"
         },
         {
             "name": "Sri Lanka",
@@ -728,6 +718,11 @@
             "name": "Dominican Republic",
             "emoji": "🇩🇴",
             "flag": "assets/flags/dominican-republic.png"
+        },
+        {
+            "name": "Panama",
+            "emoji": "🇵🇦",
+            "flag": "assets/flags/panama.png"
         }
     ]
 }
