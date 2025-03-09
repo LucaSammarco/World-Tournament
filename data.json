@@ -22,11 +22,6 @@
             "flag": "assets/flags/bosnia-and-herzegovina.png"
         },
         {
-            "name": "Burundi",
-            "emoji": "🇧🇮",
-            "flag": "assets/flags/burundi.png"
-        },
-        {
             "name": "Cambodia",
             "emoji": "🇰🇭",
             "flag": "assets/flags/cambodia.png"
@@ -130,11 +125,6 @@
             "name": "Panama",
             "emoji": "🇵🇦",
             "flag": "assets/flags/panama.png"
-        },
-        {
-            "name": "Samoa",
-            "emoji": "🇼🇸",
-            "flag": "assets/flags/samoa.png"
         },
         {
             "name": "Senegal",
@@ -738,6 +728,16 @@
             "name": "Republic of the Congo",
             "emoji": "🇨🇬",
             "flag": "assets/flags/republic-of-the-congo.png"
+        },
+        {
+            "name": "Samoa",
+            "emoji": "🇼🇸",
+            "flag": "assets/flags/samoa.png"
+        },
+        {
+            "name": "Burundi",
+            "emoji": "🇧🇮",
+            "flag": "assets/flags/burundi.png"
         }
     ]
 }
