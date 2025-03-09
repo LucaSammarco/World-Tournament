@@ -52,11 +52,6 @@
             "flag": "assets/flags/madagascar.png"
         },
         {
-            "name": "Marshall Islands",
-            "emoji": "🇲🇭",
-            "flag": "assets/flags/marshall-islands.png"
-        },
-        {
             "name": "Montenegro",
             "emoji": "🇲🇪",
             "flag": "assets/flags/montenegro.png"
@@ -70,11 +65,6 @@
             "name": "Nicaragua",
             "emoji": "🇳🇮",
             "flag": "assets/flags/nicaragua.png"
-        },
-        {
-            "name": "Sri Lanka",
-            "emoji": "🇱🇰",
-            "flag": "assets/flags/sri-lanka.png"
         },
         {
             "name": "Syria",
@@ -703,6 +693,16 @@
             "name": "Mauritania",
             "emoji": "🇲🇷",
             "flag": "assets/flags/mauritania.png"
+        },
+        {
+            "name": "Marshall Islands",
+            "emoji": "🇲🇭",
+            "flag": "assets/flags/marshall-islands.png"
+        },
+        {
+            "name": "Sri Lanka",
+            "emoji": "🇱🇰",
+            "flag": "assets/flags/sri-lanka.png"
         }
     ]
 }
