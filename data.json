@@ -17,11 +17,6 @@
             "flag": "assets/flags/bolivia.png"
         },
         {
-            "name": "Czech Republic",
-            "emoji": "🇨🇿",
-            "flag": "assets/flags/czech-republic.png"
-        },
-        {
             "name": "Gambia",
             "emoji": "🇬🇲",
             "flag": "assets/flags/gambia.png"
@@ -60,11 +55,6 @@
             "name": "Marshall Islands",
             "emoji": "🇲🇭",
             "flag": "assets/flags/marshall-islands.png"
-        },
-        {
-            "name": "Mauritania",
-            "emoji": "🇲🇷",
-            "flag": "assets/flags/mauritania.png"
         },
         {
             "name": "Montenegro",
@@ -708,6 +698,11 @@
             "name": "India",
             "emoji": "🇮🇳",
             "flag": "assets/flags/india.png"
+        },
+        {
+            "name": "Mauritania",
+            "emoji": "🇲🇷",
+            "flag": "assets/flags/mauritania.png"
         }
     ]
 }
