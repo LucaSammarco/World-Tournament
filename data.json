@@ -17,11 +17,6 @@
             "flag": "assets/flags/bolivia.png"
         },
         {
-            "name": "Bosnia and Herzegovina",
-            "emoji": "🇧🇦",
-            "flag": "assets/flags/bosnia-and-herzegovina.png"
-        },
-        {
             "name": "Cambodia",
             "emoji": "🇰🇭",
             "flag": "assets/flags/cambodia.png"
@@ -155,11 +150,6 @@
             "name": "Timor-Leste",
             "emoji": "🇹🇱",
             "flag": "assets/flags/timor-leste.png"
-        },
-        {
-            "name": "Turkey",
-            "emoji": "🇹🇷",
-            "flag": "assets/flags/turkey.png"
         },
         {
             "name": "Vanuatu",
@@ -738,6 +728,11 @@
             "name": "Burundi",
             "emoji": "🇧🇮",
             "flag": "assets/flags/burundi.png"
+        },
+        {
+            "name": "Turkey",
+            "emoji": "🇹🇷",
+            "flag": "assets/flags/turkey.png"
         }
     ]
 }
