@@ -27,16 +27,6 @@
             "flag": "assets/flags/iceland.png"
         },
         {
-            "name": "Iran",
-            "emoji": "🇮🇷",
-            "flag": "assets/flags/iran.png"
-        },
-        {
-            "name": "Jamaica",
-            "emoji": "🇯🇲",
-            "flag": "assets/flags/jamaica.png"
-        },
-        {
             "name": "Kyrgyzstan",
             "emoji": "🇰🇬",
             "flag": "assets/flags/kyrgyzstan.png"
@@ -698,6 +688,16 @@
             "name": "Ivory Coast",
             "emoji": "🇨🇮",
             "flag": "assets/flags/ivory-coast.png"
+        },
+        {
+            "name": "Iran",
+            "emoji": "🇮🇷",
+            "flag": "assets/flags/iran.png"
+        },
+        {
+            "name": "Jamaica",
+            "emoji": "🇯🇲",
+            "flag": "assets/flags/jamaica.png"
         }
     ]
 }
