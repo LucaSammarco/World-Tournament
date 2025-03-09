@@ -32,11 +32,6 @@
             "flag": "assets/flags/iran.png"
         },
         {
-            "name": "Ivory Coast",
-            "emoji": "🇨🇮",
-            "flag": "assets/flags/ivory-coast.png"
-        },
-        {
             "name": "Jamaica",
             "emoji": "🇯🇲",
             "flag": "assets/flags/jamaica.png"
@@ -55,11 +50,6 @@
             "name": "Montenegro",
             "emoji": "🇲🇪",
             "flag": "assets/flags/montenegro.png"
-        },
-        {
-            "name": "Morocco",
-            "emoji": "🇲🇦",
-            "flag": "assets/flags/morocco.png"
         },
         {
             "name": "Nicaragua",
@@ -703,6 +693,11 @@
             "name": "Sri Lanka",
             "emoji": "🇱🇰",
             "flag": "assets/flags/sri-lanka.png"
+        },
+        {
+            "name": "Ivory Coast",
+            "emoji": "🇨🇮",
+            "flag": "assets/flags/ivory-coast.png"
         }
     ]
 }
