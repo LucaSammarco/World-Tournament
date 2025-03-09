@@ -27,19 +27,9 @@
             "flag": "assets/flags/czech-republic.png"
         },
         {
-            "name": "Estonia",
-            "emoji": "🇪🇪",
-            "flag": "assets/flags/estonia.png"
-        },
-        {
             "name": "Gambia",
             "emoji": "🇬🇲",
             "flag": "assets/flags/gambia.png"
-        },
-        {
-            "name": "Guyana",
-            "emoji": "🇬🇾",
-            "flag": "assets/flags/guyana.png"
         },
         {
             "name": "Iceland",
@@ -718,6 +708,11 @@
             "name": "Tanzania",
             "emoji": "🇹🇿",
             "flag": "assets/flags/tanzania.png"
+        },
+        {
+            "name": "Guyana",
+            "emoji": "🇬🇾",
+            "flag": "assets/flags/guyana.png"
         }
     ]
 }
