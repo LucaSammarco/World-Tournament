@@ -17,11 +17,6 @@
             "flag": "assets/flags/bolivia.png"
         },
         {
-            "name": "Cambodia",
-            "emoji": "🇰🇭",
-            "flag": "assets/flags/cambodia.png"
-        },
-        {
             "name": "Czech Republic",
             "emoji": "🇨🇿",
             "flag": "assets/flags/czech-republic.png"
@@ -35,11 +30,6 @@
             "name": "Iceland",
             "emoji": "🇮🇸",
             "flag": "assets/flags/iceland.png"
-        },
-        {
-            "name": "India",
-            "emoji": "🇮🇳",
-            "flag": "assets/flags/india.png"
         },
         {
             "name": "Iran",
@@ -713,6 +703,11 @@
             "name": "Guyana",
             "emoji": "🇬🇾",
             "flag": "assets/flags/guyana.png"
+        },
+        {
+            "name": "India",
+            "emoji": "🇮🇳",
+            "flag": "assets/flags/india.png"
         }
     ]
 }
