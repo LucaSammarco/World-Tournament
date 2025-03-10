@@ -37,11 +37,6 @@
             "flag": "assets/flags/argentina.png"
         },
         {
-            "name": "Armenia",
-            "emoji": "🇦🇲",
-            "flag": "assets/flags/armenia.png"
-        },
-        {
             "name": "Australia",
             "emoji": "🇦🇺",
             "flag": "assets/flags/australia.png"
@@ -100,11 +95,6 @@
             "name": "Bhutan",
             "emoji": "🇧🇹",
             "flag": "assets/flags/bhutan.png"
-        },
-        {
-            "name": "Bolivia",
-            "emoji": "🇧🇴",
-            "flag": "assets/flags/bolivia.png"
         },
         {
             "name": "Bosnia and Herzegovina",
@@ -978,5 +968,11 @@
         }
     ],
     "total_countries": 195,
-    "processed_countries": []
+    "processed_countries": [
+        {
+            "name": "Armenia",
+            "emoji": "🇦🇲",
+            "flag": "assets/flags/armenia.png"
+        }
+    ]
 }
