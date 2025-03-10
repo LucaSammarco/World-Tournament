@@ -17,11 +17,6 @@
             "flag": "assets/flags/bolivia.png"
         },
         {
-            "name": "Gambia",
-            "emoji": "🇬🇲",
-            "flag": "assets/flags/gambia.png"
-        },
-        {
             "name": "Kyrgyzstan",
             "emoji": "🇰🇬",
             "flag": "assets/flags/kyrgyzstan.png"
@@ -40,11 +35,6 @@
             "name": "Thailand",
             "emoji": "🇹🇭",
             "flag": "assets/flags/thailand.png"
-        },
-        {
-            "name": "Timor-Leste",
-            "emoji": "🇹🇱",
-            "flag": "assets/flags/timor-leste.png"
         }
     ],
     "total_countries": 195,
@@ -688,6 +678,16 @@
             "name": "Iceland",
             "emoji": "🇮🇸",
             "flag": "assets/flags/iceland.png"
+        },
+        {
+            "name": "Gambia",
+            "emoji": "🇬🇲",
+            "flag": "assets/flags/gambia.png"
+        },
+        {
+            "name": "Timor-Leste",
+            "emoji": "🇹🇱",
+            "flag": "assets/flags/timor-leste.png"
         }
     ]
 }
