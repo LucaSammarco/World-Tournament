@@ -5,16 +5,6 @@
             "name": "Kyrgyzstan",
             "emoji": "🇰🇬",
             "flag": "assets/flags/kyrgyzstan.png"
-        },
-        {
-            "name": "Nicaragua",
-            "emoji": "🇳🇮",
-            "flag": "assets/flags/nicaragua.png"
-        },
-        {
-            "name": "Thailand",
-            "emoji": "🇹🇭",
-            "flag": "assets/flags/thailand.png"
         }
     ],
     "total_countries": 195,
@@ -678,6 +668,11 @@
             "name": "Azerbaijan",
             "emoji": "🇦🇿",
             "flag": "assets/flags/azerbaijan.png"
+        },
+        {
+            "name": "Thailand",
+            "emoji": "🇹🇭",
+            "flag": "assets/flags/thailand.png"
         }
     ]
 }
