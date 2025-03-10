@@ -22,11 +22,6 @@
             "flag": "assets/flags/gambia.png"
         },
         {
-            "name": "Iceland",
-            "emoji": "🇮🇸",
-            "flag": "assets/flags/iceland.png"
-        },
-        {
             "name": "Kyrgyzstan",
             "emoji": "🇰🇬",
             "flag": "assets/flags/kyrgyzstan.png"
@@ -35,11 +30,6 @@
             "name": "Madagascar",
             "emoji": "🇲🇬",
             "flag": "assets/flags/madagascar.png"
-        },
-        {
-            "name": "Montenegro",
-            "emoji": "🇲🇪",
-            "flag": "assets/flags/montenegro.png"
         },
         {
             "name": "Nicaragua",
@@ -693,6 +683,11 @@
             "name": "Syria",
             "emoji": "🇸🇾",
             "flag": "assets/flags/syria.png"
+        },
+        {
+            "name": "Iceland",
+            "emoji": "🇮🇸",
+            "flag": "assets/flags/iceland.png"
         }
     ]
 }
