@@ -47,11 +47,6 @@
             "flag": "assets/flags/nicaragua.png"
         },
         {
-            "name": "Syria",
-            "emoji": "🇸🇾",
-            "flag": "assets/flags/syria.png"
-        },
-        {
             "name": "Thailand",
             "emoji": "🇹🇭",
             "flag": "assets/flags/thailand.png"
@@ -60,11 +55,6 @@
             "name": "Timor-Leste",
             "emoji": "🇹🇱",
             "flag": "assets/flags/timor-leste.png"
-        },
-        {
-            "name": "Vanuatu",
-            "emoji": "🇻🇺",
-            "flag": "assets/flags/vanuatu.png"
         }
     ],
     "total_countries": 195,
@@ -698,6 +688,11 @@
             "name": "Jamaica",
             "emoji": "🇯🇲",
             "flag": "assets/flags/jamaica.png"
+        },
+        {
+            "name": "Syria",
+            "emoji": "🇸🇾",
+            "flag": "assets/flags/syria.png"
         }
     ]
 }
