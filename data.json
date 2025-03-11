@@ -22,11 +22,6 @@
             "flag": "assets/flags/andorra.png"
         },
         {
-            "name": "Angola",
-            "emoji": "🇦🇴",
-            "flag": "assets/flags/angola.png"
-        },
-        {
             "name": "Antigua and Barbuda",
             "emoji": "🇦🇬",
             "flag": "assets/flags/antigua-and-barbuda.png"
@@ -155,11 +150,6 @@
             "name": "Central African Republic",
             "emoji": "🇨🇫",
             "flag": "assets/flags/central-african-republic.png"
-        },
-        {
-            "name": "Chad",
-            "emoji": "🇹🇩",
-            "flag": "assets/flags/chad.png"
         },
         {
             "name": "Chile",
@@ -963,6 +953,16 @@
             "name": "France",
             "emoji": "🇫🇷",
             "flag": "assets/flags/france.png"
+        },
+        {
+            "name": "Angola",
+            "emoji": "🇦🇴",
+            "flag": "assets/flags/angola.png"
+        },
+        {
+            "name": "Chad",
+            "emoji": "🇹🇩",
+            "flag": "assets/flags/chad.png"
         }
     ]
 }
