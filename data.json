@@ -557,11 +557,6 @@
             "flag": "assets/flags/nepal.png"
         },
         {
-            "name": "Netherlands",
-            "emoji": "🇳🇱",
-            "flag": "assets/flags/netherlands.png"
-        },
-        {
             "name": "New Zealand",
             "emoji": "🇳🇿",
             "flag": "assets/flags/new-zealand.png"
@@ -832,11 +827,6 @@
             "flag": "assets/flags/united-arab-emirates.png"
         },
         {
-            "name": "United Kingdom",
-            "emoji": "🇬🇧",
-            "flag": "assets/flags/united-kingdom.png"
-        },
-        {
             "name": "United States",
             "emoji": "🇺🇸",
             "flag": "assets/flags/united-states.png"
@@ -948,6 +938,11 @@
             "name": "Laos",
             "emoji": "🇱🇦",
             "flag": "assets/flags/laos.png"
+        },
+        {
+            "name": "Netherlands",
+            "emoji": "🇳🇱",
+            "flag": "assets/flags/netherlands.png"
         }
     ]
 }
