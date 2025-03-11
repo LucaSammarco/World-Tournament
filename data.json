@@ -72,11 +72,6 @@
             "flag": "assets/flags/belarus.png"
         },
         {
-            "name": "Belgium",
-            "emoji": "🇧🇪",
-            "flag": "assets/flags/belgium.png"
-        },
-        {
             "name": "Belize",
             "emoji": "🇧🇿",
             "flag": "assets/flags/belize.png"
@@ -425,11 +420,6 @@
             "name": "Kyrgyzstan",
             "emoji": "🇰🇬",
             "flag": "assets/flags/kyrgyzstan.png"
-        },
-        {
-            "name": "Laos",
-            "emoji": "🇱🇦",
-            "flag": "assets/flags/laos.png"
         },
         {
             "name": "Latvia",
@@ -953,6 +943,11 @@
             "name": "Qatar",
             "emoji": "🇶🇦",
             "flag": "assets/flags/qatar.png"
+        },
+        {
+            "name": "Laos",
+            "emoji": "🇱🇦",
+            "flag": "assets/flags/laos.png"
         }
     ]
 }
