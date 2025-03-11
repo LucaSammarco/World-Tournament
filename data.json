@@ -562,11 +562,6 @@
             "flag": "assets/flags/namibia.png"
         },
         {
-            "name": "Nauru",
-            "emoji": "🇳🇷",
-            "flag": "assets/flags/nauru.png"
-        },
-        {
             "name": "Nepal",
             "emoji": "🇳🇵",
             "flag": "assets/flags/nepal.png"
@@ -852,11 +847,6 @@
             "flag": "assets/flags/uganda.png"
         },
         {
-            "name": "Ukraine",
-            "emoji": "🇺🇦",
-            "flag": "assets/flags/ukraine.png"
-        },
-        {
             "name": "United Arab Emirates",
             "emoji": "🇦🇪",
             "flag": "assets/flags/united-arab-emirates.png"
@@ -963,6 +953,11 @@
             "name": "Chad",
             "emoji": "🇹🇩",
             "flag": "assets/flags/chad.png"
+        },
+        {
+            "name": "Ukraine",
+            "emoji": "🇺🇦",
+            "flag": "assets/flags/ukraine.png"
         }
     ]
 }
