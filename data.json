@@ -157,11 +157,6 @@
             "flag": "assets/flags/china.png"
         },
         {
-            "name": "Colombia",
-            "emoji": "🇨🇴",
-            "flag": "assets/flags/colombia.png"
-        },
-        {
             "name": "Comoros",
             "emoji": "🇰🇲",
             "flag": "assets/flags/comoros.png"
@@ -742,11 +737,6 @@
             "flag": "assets/flags/suriname.png"
         },
         {
-            "name": "Sweden",
-            "emoji": "🇸🇪",
-            "flag": "assets/flags/sweden.png"
-        },
-        {
             "name": "Switzerland",
             "emoji": "🇨🇭",
             "flag": "assets/flags/switzerland.png"
@@ -938,6 +928,16 @@
             "name": "Madagascar",
             "emoji": "🇲🇬",
             "flag": "assets/flags/madagascar.png"
+        },
+        {
+            "name": "Colombia",
+            "emoji": "🇨🇴",
+            "flag": "assets/flags/colombia.png"
+        },
+        {
+            "name": "Sweden",
+            "emoji": "🇸🇪",
+            "flag": "assets/flags/sweden.png"
         }
     ]
 }
