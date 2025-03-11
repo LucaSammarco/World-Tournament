@@ -117,11 +117,6 @@
             "flag": "assets/flags/burkina-faso.png"
         },
         {
-            "name": "Burundi",
-            "emoji": "🇧🇮",
-            "flag": "assets/flags/burundi.png"
-        },
-        {
             "name": "Cambodia",
             "emoji": "🇰🇭",
             "flag": "assets/flags/cambodia.png"
@@ -632,11 +627,6 @@
             "flag": "assets/flags/saint-vincent-and-the-grenadines.png"
         },
         {
-            "name": "Samoa",
-            "emoji": "🇼🇸",
-            "flag": "assets/flags/samoa.png"
-        },
-        {
             "name": "San Marino",
             "emoji": "🇸🇲",
             "flag": "assets/flags/san-marino.png"
@@ -933,6 +923,16 @@
             "name": "Nicaragua",
             "emoji": "🇳🇮",
             "flag": "assets/flags/nicaragua.png"
+        },
+        {
+            "name": "Burundi",
+            "emoji": "🇧🇮",
+            "flag": "assets/flags/burundi.png"
+        },
+        {
+            "name": "Samoa",
+            "emoji": "🇼🇸",
+            "flag": "assets/flags/samoa.png"
         }
     ]
 }
