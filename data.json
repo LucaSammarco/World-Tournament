@@ -177,11 +177,6 @@
             "flag": "assets/flags/czech-republic.png"
         },
         {
-            "name": "Djibouti",
-            "emoji": "🇩🇯",
-            "flag": "assets/flags/djibouti.png"
-        },
-        {
             "name": "Dominica",
             "emoji": "🇩🇲",
             "flag": "assets/flags/dominica.png"
@@ -607,11 +602,6 @@
             "flag": "assets/flags/senegal.png"
         },
         {
-            "name": "Sierra Leone",
-            "emoji": "🇸🇱",
-            "flag": "assets/flags/sierra-leone.png"
-        },
-        {
             "name": "Singapore",
             "emoji": "🇸🇬",
             "flag": "assets/flags/singapore.png"
@@ -913,6 +903,16 @@
             "name": "Canada",
             "emoji": "🇨🇦",
             "flag": "assets/flags/canada.png"
+        },
+        {
+            "name": "Djibouti",
+            "emoji": "🇩🇯",
+            "flag": "assets/flags/djibouti.png"
+        },
+        {
+            "name": "Sierra Leone",
+            "emoji": "🇸🇱",
+            "flag": "assets/flags/sierra-leone.png"
         }
     ]
 }
