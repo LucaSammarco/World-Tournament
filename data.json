@@ -252,11 +252,6 @@
             "flag": "assets/flags/guyana.png"
         },
         {
-            "name": "Haiti",
-            "emoji": "🇭🇹",
-            "flag": "assets/flags/haiti.png"
-        },
-        {
             "name": "Honduras",
             "emoji": "🇭🇳",
             "flag": "assets/flags/honduras.png"
@@ -435,11 +430,6 @@
             "name": "Micronesia",
             "emoji": "🇫🇲",
             "flag": "assets/flags/micronesia.png"
-        },
-        {
-            "name": "Moldova",
-            "emoji": "🇲🇩",
-            "flag": "assets/flags/moldova.png"
         },
         {
             "name": "Monaco",
@@ -893,6 +883,16 @@
             "name": "Equatorial Guinea",
             "emoji": "🇬🇶",
             "flag": "assets/flags/equatorial-guinea.png"
+        },
+        {
+            "name": "Moldova",
+            "emoji": "🇲🇩",
+            "flag": "assets/flags/moldova.png"
+        },
+        {
+            "name": "Haiti",
+            "emoji": "🇭🇹",
+            "flag": "assets/flags/haiti.png"
         }
     ]
 }
