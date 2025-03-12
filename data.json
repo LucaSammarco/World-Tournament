@@ -157,11 +157,6 @@
             "flag": "assets/flags/cuba.png"
         },
         {
-            "name": "Cyprus",
-            "emoji": "🇨🇾",
-            "flag": "assets/flags/cyprus.png"
-        },
-        {
             "name": "Czech Republic",
             "emoji": "🇨🇿",
             "flag": "assets/flags/czech-republic.png"
@@ -190,11 +185,6 @@
             "name": "El Salvador",
             "emoji": "🇸🇻",
             "flag": "assets/flags/el-salvador.png"
-        },
-        {
-            "name": "Equatorial Guinea",
-            "emoji": "🇬🇶",
-            "flag": "assets/flags/equatorial-guinea.png"
         },
         {
             "name": "Eritrea",
@@ -898,6 +888,11 @@
             "name": "Afghanistan",
             "emoji": "🇦🇫",
             "flag": "assets/flags/afghanistan.png"
+        },
+        {
+            "name": "Equatorial Guinea",
+            "emoji": "🇬🇶",
+            "flag": "assets/flags/equatorial-guinea.png"
         }
     ]
 }
