@@ -102,11 +102,6 @@
             "flag": "assets/flags/brunei.png"
         },
         {
-            "name": "Bulgaria",
-            "emoji": "🇧🇬",
-            "flag": "assets/flags/bulgaria.png"
-        },
-        {
             "name": "Burkina Faso",
             "emoji": "🇧🇫",
             "flag": "assets/flags/burkina-faso.png"
@@ -762,11 +757,6 @@
             "flag": "assets/flags/vietnam.png"
         },
         {
-            "name": "Yemen",
-            "emoji": "🇾🇪",
-            "flag": "assets/flags/yemen.png"
-        },
-        {
             "name": "Zambia",
             "emoji": "🇿🇲",
             "flag": "assets/flags/zambia.png"
@@ -913,6 +903,11 @@
             "name": "Sierra Leone",
             "emoji": "🇸🇱",
             "flag": "assets/flags/sierra-leone.png"
+        },
+        {
+            "name": "Yemen",
+            "emoji": "🇾🇪",
+            "flag": "assets/flags/yemen.png"
         }
     ]
 }
