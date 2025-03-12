@@ -312,11 +312,6 @@
             "flag": "assets/flags/kazakhstan.png"
         },
         {
-            "name": "Kenya",
-            "emoji": "🇰🇪",
-            "flag": "assets/flags/kenya.png"
-        },
-        {
             "name": "Kiribati",
             "emoji": "🇰🇮",
             "flag": "assets/flags/kiribati.png"
@@ -515,11 +510,6 @@
             "name": "Saint Lucia",
             "emoji": "🇱🇨",
             "flag": "assets/flags/saint-lucia.png"
-        },
-        {
-            "name": "Saint Vincent and the Grenadines",
-            "emoji": "🇻🇨",
-            "flag": "assets/flags/saint-vincent-and-the-grenadines.png"
         },
         {
             "name": "San Marino",
@@ -893,6 +883,11 @@
             "name": "Czech Republic",
             "emoji": "🇨🇿",
             "flag": "assets/flags/czech-republic.png"
+        },
+        {
+            "name": "Saint Vincent and the Grenadines",
+            "emoji": "🇻🇨",
+            "flag": "assets/flags/saint-vincent-and-the-grenadines.png"
         }
     ]
 }
