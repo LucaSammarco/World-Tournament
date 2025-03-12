@@ -562,11 +562,6 @@
             "flag": "assets/flags/rwanda.png"
         },
         {
-            "name": "Saint Kitts and Nevis",
-            "emoji": "🇰🇳",
-            "flag": "assets/flags/saint-kitts-and-nevis.png"
-        },
-        {
             "name": "Saint Lucia",
             "emoji": "🇱🇨",
             "flag": "assets/flags/saint-lucia.png"
@@ -757,11 +752,6 @@
             "flag": "assets/flags/vietnam.png"
         },
         {
-            "name": "Zambia",
-            "emoji": "🇿🇲",
-            "flag": "assets/flags/zambia.png"
-        },
-        {
             "name": "Zimbabwe",
             "emoji": "🇿🇼",
             "flag": "assets/flags/zimbabwe.png"
@@ -908,6 +898,11 @@
             "name": "Yemen",
             "emoji": "🇾🇪",
             "flag": "assets/flags/yemen.png"
+        },
+        {
+            "name": "Zambia",
+            "emoji": "🇿🇲",
+            "flag": "assets/flags/zambia.png"
         }
     ]
 }
