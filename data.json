@@ -77,11 +77,6 @@
             "flag": "assets/flags/bhutan.png"
         },
         {
-            "name": "Bosnia and Herzegovina",
-            "emoji": "🇧🇦",
-            "flag": "assets/flags/bosnia-and-herzegovina.png"
-        },
-        {
             "name": "Botswana",
             "emoji": "🇧🇼",
             "flag": "assets/flags/botswana.png"
@@ -557,11 +552,6 @@
             "flag": "assets/flags/singapore.png"
         },
         {
-            "name": "Slovakia",
-            "emoji": "🇸🇰",
-            "flag": "assets/flags/slovakia.png"
-        },
-        {
             "name": "Slovenia",
             "emoji": "🇸🇮",
             "flag": "assets/flags/slovenia.png"
@@ -893,6 +883,16 @@
             "name": "Republic of the Congo",
             "emoji": "🇨🇬",
             "flag": "assets/flags/republic-of-the-congo.png"
+        },
+        {
+            "name": "Slovakia",
+            "emoji": "🇸🇰",
+            "flag": "assets/flags/slovakia.png"
+        },
+        {
+            "name": "Bosnia and Herzegovina",
+            "emoji": "🇧🇦",
+            "flag": "assets/flags/bosnia-and-herzegovina.png"
         }
     ]
 }
