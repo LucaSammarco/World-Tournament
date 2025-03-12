@@ -122,11 +122,6 @@
             "flag": "assets/flags/cameroon.png"
         },
         {
-            "name": "Canada",
-            "emoji": "🇨🇦",
-            "flag": "assets/flags/canada.png"
-        },
-        {
             "name": "Cape Verde",
             "emoji": "🇨🇻",
             "flag": "assets/flags/cape-verde.png"
@@ -522,11 +517,6 @@
             "flag": "assets/flags/north-korea.png"
         },
         {
-            "name": "North Macedonia",
-            "emoji": "🇲🇰",
-            "flag": "assets/flags/north-macedonia.png"
-        },
-        {
             "name": "Norway",
             "emoji": "🇳🇴",
             "flag": "assets/flags/norway.png"
@@ -918,6 +908,11 @@
             "name": "Georgia",
             "emoji": "🇬🇪",
             "flag": "assets/flags/georgia.png"
+        },
+        {
+            "name": "Canada",
+            "emoji": "🇨🇦",
+            "flag": "assets/flags/canada.png"
         }
     ]
 }
