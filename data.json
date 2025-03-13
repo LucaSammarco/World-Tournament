@@ -112,11 +112,6 @@
             "flag": "assets/flags/cape-verde.png"
         },
         {
-            "name": "Central African Republic",
-            "emoji": "🇨🇫",
-            "flag": "assets/flags/central-african-republic.png"
-        },
-        {
             "name": "Chile",
             "emoji": "🇨🇱",
             "flag": "assets/flags/chile.png"
@@ -562,11 +557,6 @@
             "flag": "assets/flags/sri-lanka.png"
         },
         {
-            "name": "Suriname",
-            "emoji": "🇸🇷",
-            "flag": "assets/flags/suriname.png"
-        },
-        {
             "name": "Switzerland",
             "emoji": "🇨🇭",
             "flag": "assets/flags/switzerland.png"
@@ -883,6 +873,11 @@
             "name": "Saudi Arabia",
             "emoji": "🇸🇦",
             "flag": "assets/flags/saudi-arabia.png"
+        },
+        {
+            "name": "Central African Republic",
+            "emoji": "🇨🇫",
+            "flag": "assets/flags/central-african-republic.png"
         }
     ]
 }
