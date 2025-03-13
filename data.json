@@ -12,11 +12,6 @@
             "flag": "assets/flags/algeria.png"
         },
         {
-            "name": "Andorra",
-            "emoji": "🇦🇩",
-            "flag": "assets/flags/andorra.png"
-        },
-        {
             "name": "Antigua and Barbuda",
             "emoji": "🇦🇬",
             "flag": "assets/flags/antigua-and-barbuda.png"
@@ -250,11 +245,6 @@
             "name": "Iran",
             "emoji": "🇮🇷",
             "flag": "assets/flags/iran.png"
-        },
-        {
-            "name": "Iraq",
-            "emoji": "🇮🇶",
-            "flag": "assets/flags/iraq.png"
         },
         {
             "name": "Ireland",
@@ -873,6 +863,16 @@
             "name": "Dominica",
             "emoji": "🇩🇲",
             "flag": "assets/flags/dominica.png"
+        },
+        {
+            "name": "Andorra",
+            "emoji": "🇦🇩",
+            "flag": "assets/flags/andorra.png"
+        },
+        {
+            "name": "Iraq",
+            "emoji": "🇮🇶",
+            "flag": "assets/flags/iraq.png"
         }
     ]
 }
