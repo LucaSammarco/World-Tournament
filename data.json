@@ -67,11 +67,6 @@
             "flag": "assets/flags/benin.png"
         },
         {
-            "name": "Bhutan",
-            "emoji": "🇧🇹",
-            "flag": "assets/flags/bhutan.png"
-        },
-        {
             "name": "Botswana",
             "emoji": "🇧🇼",
             "flag": "assets/flags/botswana.png"
@@ -542,11 +537,6 @@
             "flag": "assets/flags/switzerland.png"
         },
         {
-            "name": "Syria",
-            "emoji": "🇸🇾",
-            "flag": "assets/flags/syria.png"
-        },
-        {
             "name": "Tajikistan",
             "emoji": "🇹🇯",
             "flag": "assets/flags/tajikistan.png"
@@ -873,6 +863,11 @@
             "name": "Iraq",
             "emoji": "🇮🇶",
             "flag": "assets/flags/iraq.png"
+        },
+        {
+            "name": "Bhutan",
+            "emoji": "🇧🇹",
+            "flag": "assets/flags/bhutan.png"
         }
     ]
 }
