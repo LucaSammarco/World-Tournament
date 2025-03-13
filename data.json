@@ -147,11 +147,6 @@
             "flag": "assets/flags/egypt.png"
         },
         {
-            "name": "El Salvador",
-            "emoji": "🇸🇻",
-            "flag": "assets/flags/el-salvador.png"
-        },
-        {
             "name": "Eritrea",
             "emoji": "🇪🇷",
             "flag": "assets/flags/eritrea.png"
@@ -265,11 +260,6 @@
             "name": "Jamaica",
             "emoji": "🇯🇲",
             "flag": "assets/flags/jamaica.png"
-        },
-        {
-            "name": "Japan",
-            "emoji": "🇯🇵",
-            "flag": "assets/flags/japan.png"
         },
         {
             "name": "Jordan",
@@ -868,6 +858,11 @@
             "name": "Bhutan",
             "emoji": "🇧🇹",
             "flag": "assets/flags/bhutan.png"
+        },
+        {
+            "name": "Japan",
+            "emoji": "🇯🇵",
+            "flag": "assets/flags/japan.png"
         }
     ]
 }
