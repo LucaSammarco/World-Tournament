@@ -367,11 +367,6 @@
             "flag": "assets/flags/luxembourg.png"
         },
         {
-            "name": "Malawi",
-            "emoji": "🇲🇼",
-            "flag": "assets/flags/malawi.png"
-        },
-        {
             "name": "Malaysia",
             "emoji": "🇲🇾",
             "flag": "assets/flags/malaysia.png"
@@ -520,11 +515,6 @@
             "name": "São Tomé and Príncipe",
             "emoji": "🇸🇹",
             "flag": "assets/flags/são-tomé-and-príncipe.png"
-        },
-        {
-            "name": "Saudi Arabia",
-            "emoji": "🇸🇦",
-            "flag": "assets/flags/saudi-arabia.png"
         },
         {
             "name": "Senegal",
@@ -888,6 +878,11 @@
             "name": "Saint Vincent and the Grenadines",
             "emoji": "🇻🇨",
             "flag": "assets/flags/saint-vincent-and-the-grenadines.png"
+        },
+        {
+            "name": "Saudi Arabia",
+            "emoji": "🇸🇦",
+            "flag": "assets/flags/saudi-arabia.png"
         }
     ]
 }
