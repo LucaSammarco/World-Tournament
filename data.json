@@ -167,11 +167,6 @@
             "flag": "assets/flags/germany.png"
         },
         {
-            "name": "Ghana",
-            "emoji": "🇬🇭",
-            "flag": "assets/flags/ghana.png"
-        },
-        {
             "name": "Greece",
             "emoji": "🇬🇷",
             "flag": "assets/flags/greece.png"
@@ -485,11 +480,6 @@
             "name": "Tajikistan",
             "emoji": "🇹🇯",
             "flag": "assets/flags/tajikistan.png"
-        },
-        {
-            "name": "Tanzania",
-            "emoji": "🇹🇿",
-            "flag": "assets/flags/tanzania.png"
         },
         {
             "name": "Timor-Leste",
@@ -838,6 +828,11 @@
             "name": "Zimbabwe",
             "emoji": "🇿🇼",
             "flag": "assets/flags/zimbabwe.png"
+        },
+        {
+            "name": "Ghana",
+            "emoji": "🇬🇭",
+            "flag": "assets/flags/ghana.png"
         }
     ]
 }
