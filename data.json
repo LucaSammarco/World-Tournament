@@ -7,11 +7,6 @@
             "flag": "assets/flags/albania.png"
         },
         {
-            "name": "Antigua and Barbuda",
-            "emoji": "🇦🇬",
-            "flag": "assets/flags/antigua-and-barbuda.png"
-        },
-        {
             "name": "Argentina",
             "emoji": "🇦🇷",
             "flag": "assets/flags/argentina.png"
@@ -155,11 +150,6 @@
             "name": "Grenada",
             "emoji": "🇬🇩",
             "flag": "assets/flags/grenada.png"
-        },
-        {
-            "name": "Guatemala",
-            "emoji": "🇬🇹",
-            "flag": "assets/flags/guatemala.png"
         },
         {
             "name": "Guinea-Bissau",
@@ -818,6 +808,11 @@
             "name": "Tuvalu",
             "emoji": "🇹🇻",
             "flag": "assets/flags/tuvalu.png"
+        },
+        {
+            "name": "Antigua and Barbuda",
+            "emoji": "🇦🇬",
+            "flag": "assets/flags/antigua-and-barbuda.png"
         }
     ]
 }
