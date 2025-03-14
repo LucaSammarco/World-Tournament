@@ -102,11 +102,6 @@
             "flag": "assets/flags/cuba.png"
         },
         {
-            "name": "Dominican Republic",
-            "emoji": "🇩🇴",
-            "flag": "assets/flags/dominican-republic.png"
-        },
-        {
             "name": "Eritrea",
             "emoji": "🇪🇷",
             "flag": "assets/flags/eritrea.png"
@@ -135,11 +130,6 @@
             "name": "Greece",
             "emoji": "🇬🇷",
             "flag": "assets/flags/greece.png"
-        },
-        {
-            "name": "Grenada",
-            "emoji": "🇬🇩",
-            "flag": "assets/flags/grenada.png"
         },
         {
             "name": "Guinea-Bissau",
@@ -803,6 +793,16 @@
             "name": "Egypt",
             "emoji": "🇪🇬",
             "flag": "assets/flags/egypt.png"
+        },
+        {
+            "name": "Dominican Republic",
+            "emoji": "🇩🇴",
+            "flag": "assets/flags/dominican-republic.png"
+        },
+        {
+            "name": "Grenada",
+            "emoji": "🇬🇩",
+            "flag": "assets/flags/grenada.png"
         }
     ]
 }
