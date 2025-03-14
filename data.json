@@ -237,11 +237,6 @@
             "flag": "assets/flags/latvia.png"
         },
         {
-            "name": "Lebanon",
-            "emoji": "🇱🇧",
-            "flag": "assets/flags/lebanon.png"
-        },
-        {
             "name": "Libya",
             "emoji": "🇱🇾",
             "flag": "assets/flags/libya.png"
@@ -255,11 +250,6 @@
             "name": "Lithuania",
             "emoji": "🇱🇹",
             "flag": "assets/flags/lithuania.png"
-        },
-        {
-            "name": "Luxembourg",
-            "emoji": "🇱🇺",
-            "flag": "assets/flags/luxembourg.png"
         },
         {
             "name": "Malaysia",
@@ -813,6 +803,11 @@
             "name": "Antigua and Barbuda",
             "emoji": "🇦🇬",
             "flag": "assets/flags/antigua-and-barbuda.png"
+        },
+        {
+            "name": "Lebanon",
+            "emoji": "🇱🇧",
+            "flag": "assets/flags/lebanon.png"
         }
     ]
 }
