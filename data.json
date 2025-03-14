@@ -107,11 +107,6 @@
             "flag": "assets/flags/dominican-republic.png"
         },
         {
-            "name": "Egypt",
-            "emoji": "🇪🇬",
-            "flag": "assets/flags/egypt.png"
-        },
-        {
             "name": "Eritrea",
             "emoji": "🇪🇷",
             "flag": "assets/flags/eritrea.png"
@@ -445,11 +440,6 @@
             "name": "United States",
             "emoji": "🇺🇸",
             "flag": "assets/flags/united-states.png"
-        },
-        {
-            "name": "Uzbekistan",
-            "emoji": "🇺🇿",
-            "flag": "assets/flags/uzbekistan.png"
         },
         {
             "name": "Vatican City",
@@ -808,6 +798,11 @@
             "name": "Portugal",
             "emoji": "🇵🇹",
             "flag": "assets/flags/portugal.png"
+        },
+        {
+            "name": "Egypt",
+            "emoji": "🇪🇬",
+            "flag": "assets/flags/egypt.png"
         }
     ]
 }
