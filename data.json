@@ -17,11 +17,6 @@
             "flag": "assets/flags/argentina.png"
         },
         {
-            "name": "Australia",
-            "emoji": "🇦🇺",
-            "flag": "assets/flags/australia.png"
-        },
-        {
             "name": "Bahamas",
             "emoji": "🇧🇸",
             "flag": "assets/flags/bahamas.png"
@@ -295,11 +290,6 @@
             "name": "Marshall Islands",
             "emoji": "🇲🇭",
             "flag": "assets/flags/marshall-islands.png"
-        },
-        {
-            "name": "Mauritius",
-            "emoji": "🇲🇺",
-            "flag": "assets/flags/mauritius.png"
         },
         {
             "name": "Mexico",
@@ -823,6 +813,11 @@
             "name": "Vanuatu",
             "emoji": "🇻🇺",
             "flag": "assets/flags/vanuatu.png"
+        },
+        {
+            "name": "Mauritius",
+            "emoji": "🇲🇺",
+            "flag": "assets/flags/mauritius.png"
         }
     ]
 }
