@@ -92,11 +92,6 @@
             "flag": "assets/flags/costa-rica.png"
         },
         {
-            "name": "Cuba",
-            "emoji": "🇨🇺",
-            "flag": "assets/flags/cuba.png"
-        },
-        {
             "name": "Eritrea",
             "emoji": "🇪🇷",
             "flag": "assets/flags/eritrea.png"
@@ -135,11 +130,6 @@
             "name": "Guyana",
             "emoji": "🇬🇾",
             "flag": "assets/flags/guyana.png"
-        },
-        {
-            "name": "Honduras",
-            "emoji": "🇭🇳",
-            "flag": "assets/flags/honduras.png"
         },
         {
             "name": "Hungary",
@@ -798,6 +788,16 @@
             "name": "Tajikistan",
             "emoji": "🇹🇯",
             "flag": "assets/flags/tajikistan.png"
+        },
+        {
+            "name": "Honduras",
+            "emoji": "🇭🇳",
+            "flag": "assets/flags/honduras.png"
+        },
+        {
+            "name": "Cuba",
+            "emoji": "🇨🇺",
+            "flag": "assets/flags/cuba.png"
         }
     ]
 }
