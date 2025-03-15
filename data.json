@@ -242,11 +242,6 @@
             "flag": "assets/flags/norway.png"
         },
         {
-            "name": "Pakistan",
-            "emoji": "🇵🇰",
-            "flag": "assets/flags/pakistan.png"
-        },
-        {
             "name": "Palestine",
             "emoji": "🇵🇸",
             "flag": "assets/flags/palestine.png"
@@ -305,11 +300,6 @@
             "name": "Tunisia",
             "emoji": "🇹🇳",
             "flag": "assets/flags/tunisia.png"
-        },
-        {
-            "name": "Turkey",
-            "emoji": "🇹🇷",
-            "flag": "assets/flags/turkey.png"
         },
         {
             "name": "Turkmenistan",
@@ -773,6 +763,11 @@
             "name": "Iceland",
             "emoji": "🇮🇸",
             "flag": "assets/flags/iceland.png"
+        },
+        {
+            "name": "Turkey",
+            "emoji": "🇹🇷",
+            "flag": "assets/flags/turkey.png"
         }
     ]
 }
