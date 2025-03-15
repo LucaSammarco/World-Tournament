@@ -42,11 +42,6 @@
             "flag": "assets/flags/botswana.png"
         },
         {
-            "name": "Brazil",
-            "emoji": "🇧🇷",
-            "flag": "assets/flags/brazil.png"
-        },
-        {
             "name": "Brunei",
             "emoji": "🇧🇳",
             "flag": "assets/flags/brunei.png"
@@ -195,11 +190,6 @@
             "name": "Libya",
             "emoji": "🇱🇾",
             "flag": "assets/flags/libya.png"
-        },
-        {
-            "name": "Liechtenstein",
-            "emoji": "🇱🇮",
-            "flag": "assets/flags/liechtenstein.png"
         },
         {
             "name": "Malaysia",
@@ -788,6 +778,11 @@
             "name": "Togo",
             "emoji": "🇹🇬",
             "flag": "assets/flags/togo.png"
+        },
+        {
+            "name": "Liechtenstein",
+            "emoji": "🇱🇮",
+            "flag": "assets/flags/liechtenstein.png"
         }
     ]
 }
