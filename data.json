@@ -222,11 +222,6 @@
             "flag": "assets/flags/liechtenstein.png"
         },
         {
-            "name": "Lithuania",
-            "emoji": "🇱🇹",
-            "flag": "assets/flags/lithuania.png"
-        },
-        {
             "name": "Malaysia",
             "emoji": "🇲🇾",
             "flag": "assets/flags/malaysia.png"
@@ -370,11 +365,6 @@
             "name": "Switzerland",
             "emoji": "🇨🇭",
             "flag": "assets/flags/switzerland.png"
-        },
-        {
-            "name": "Tajikistan",
-            "emoji": "🇹🇯",
-            "flag": "assets/flags/tajikistan.png"
         },
         {
             "name": "Timor-Leste",
@@ -803,6 +793,11 @@
             "name": "China",
             "emoji": "🇨🇳",
             "flag": "assets/flags/china.png"
+        },
+        {
+            "name": "Tajikistan",
+            "emoji": "🇹🇯",
+            "flag": "assets/flags/tajikistan.png"
         }
     ]
 }
