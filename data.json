@@ -127,11 +127,6 @@
             "flag": "assets/flags/hungary.png"
         },
         {
-            "name": "Iceland",
-            "emoji": "🇮🇸",
-            "flag": "assets/flags/iceland.png"
-        },
-        {
             "name": "Indonesia",
             "emoji": "🇮🇩",
             "flag": "assets/flags/indonesia.png"
@@ -295,11 +290,6 @@
             "name": "South Korea",
             "emoji": "🇰🇷",
             "flag": "assets/flags/south-korea.png"
-        },
-        {
-            "name": "Sri Lanka",
-            "emoji": "🇱🇰",
-            "flag": "assets/flags/sri-lanka.png"
         },
         {
             "name": "Switzerland",
@@ -773,6 +763,16 @@
             "name": "Malaysia",
             "emoji": "🇲🇾",
             "flag": "assets/flags/malaysia.png"
+        },
+        {
+            "name": "Sri Lanka",
+            "emoji": "🇱🇰",
+            "flag": "assets/flags/sri-lanka.png"
+        },
+        {
+            "name": "Iceland",
+            "emoji": "🇮🇸",
+            "flag": "assets/flags/iceland.png"
         }
     ]
 }
