@@ -247,11 +247,6 @@
             "flag": "assets/flags/niger.png"
         },
         {
-            "name": "North Korea",
-            "emoji": "🇰🇵",
-            "flag": "assets/flags/north-korea.png"
-        },
-        {
             "name": "Norway",
             "emoji": "🇳🇴",
             "flag": "assets/flags/norway.png"
@@ -325,11 +320,6 @@
             "name": "Tonga",
             "emoji": "🇹🇴",
             "flag": "assets/flags/tonga.png"
-        },
-        {
-            "name": "Trinidad and Tobago",
-            "emoji": "🇹🇹",
-            "flag": "assets/flags/trinidad-and-tobago.png"
         },
         {
             "name": "Tunisia",
@@ -778,6 +768,11 @@
             "name": "Somalia",
             "emoji": "🇸🇴",
             "flag": "assets/flags/somalia.png"
+        },
+        {
+            "name": "North Korea",
+            "emoji": "🇰🇵",
+            "flag": "assets/flags/north-korea.png"
         }
     ]
 }
