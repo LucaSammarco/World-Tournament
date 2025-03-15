@@ -197,11 +197,6 @@
             "flag": "assets/flags/malaysia.png"
         },
         {
-            "name": "Mali",
-            "emoji": "🇲🇱",
-            "flag": "assets/flags/mali.png"
-        },
-        {
             "name": "Malta",
             "emoji": "🇲🇹",
             "flag": "assets/flags/malta.png"
@@ -305,11 +300,6 @@
             "name": "Singapore",
             "emoji": "🇸🇬",
             "flag": "assets/flags/singapore.png"
-        },
-        {
-            "name": "Somalia",
-            "emoji": "🇸🇴",
-            "flag": "assets/flags/somalia.png"
         },
         {
             "name": "South Africa",
@@ -783,6 +773,11 @@
             "name": "Liechtenstein",
             "emoji": "🇱🇮",
             "flag": "assets/flags/liechtenstein.png"
+        },
+        {
+            "name": "Somalia",
+            "emoji": "🇸🇴",
+            "flag": "assets/flags/somalia.png"
         }
     ]
 }
