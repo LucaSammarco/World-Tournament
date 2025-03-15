@@ -192,11 +192,6 @@
             "flag": "assets/flags/libya.png"
         },
         {
-            "name": "Malaysia",
-            "emoji": "🇲🇾",
-            "flag": "assets/flags/malaysia.png"
-        },
-        {
             "name": "Malta",
             "emoji": "🇲🇹",
             "flag": "assets/flags/malta.png"
@@ -275,11 +270,6 @@
             "name": "Rwanda",
             "emoji": "🇷🇼",
             "flag": "assets/flags/rwanda.png"
-        },
-        {
-            "name": "Saint Lucia",
-            "emoji": "🇱🇨",
-            "flag": "assets/flags/saint-lucia.png"
         },
         {
             "name": "São Tomé and Príncipe",
@@ -773,6 +763,16 @@
             "name": "North Korea",
             "emoji": "🇰🇵",
             "flag": "assets/flags/north-korea.png"
+        },
+        {
+            "name": "Saint Lucia",
+            "emoji": "🇱🇨",
+            "flag": "assets/flags/saint-lucia.png"
+        },
+        {
+            "name": "Malaysia",
+            "emoji": "🇲🇾",
+            "flag": "assets/flags/malaysia.png"
         }
     ]
 }
