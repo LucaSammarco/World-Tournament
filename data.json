@@ -107,11 +107,6 @@
             "flag": "assets/flags/fiji.png"
         },
         {
-            "name": "Finland",
-            "emoji": "🇫🇮",
-            "flag": "assets/flags/finland.png"
-        },
-        {
             "name": "Gambia",
             "emoji": "🇬🇲",
             "flag": "assets/flags/gambia.png"
@@ -395,11 +390,6 @@
             "name": "Uganda",
             "emoji": "🇺🇬",
             "flag": "assets/flags/uganda.png"
-        },
-        {
-            "name": "United States",
-            "emoji": "🇺🇸",
-            "flag": "assets/flags/united-states.png"
         },
         {
             "name": "Vatican City",
@@ -798,6 +788,11 @@
             "name": "Cuba",
             "emoji": "🇨🇺",
             "flag": "assets/flags/cuba.png"
+        },
+        {
+            "name": "Finland",
+            "emoji": "🇫🇮",
+            "flag": "assets/flags/finland.png"
         }
     ]
 }
