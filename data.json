@@ -342,16 +342,6 @@
             "flag": "assets/flags/switzerland.png"
         },
         {
-            "name": "Timor-Leste",
-            "emoji": "🇹🇱",
-            "flag": "assets/flags/timor-leste.png"
-        },
-        {
-            "name": "Togo",
-            "emoji": "🇹🇬",
-            "flag": "assets/flags/togo.png"
-        },
-        {
             "name": "Tonga",
             "emoji": "🇹🇴",
             "flag": "assets/flags/tonga.png"
@@ -788,6 +778,16 @@
             "name": "Kazakhstan",
             "emoji": "🇰🇿",
             "flag": "assets/flags/kazakhstan.png"
+        },
+        {
+            "name": "Timor-Leste",
+            "emoji": "🇹🇱",
+            "flag": "assets/flags/timor-leste.png"
+        },
+        {
+            "name": "Togo",
+            "emoji": "🇹🇬",
+            "flag": "assets/flags/togo.png"
         }
     ]
 }
