@@ -12,11 +12,6 @@
             "flag": "assets/flags/argentina.png"
         },
         {
-            "name": "Bahamas",
-            "emoji": "🇧🇸",
-            "flag": "assets/flags/bahamas.png"
-        },
-        {
             "name": "Barbados",
             "emoji": "🇧🇧",
             "flag": "assets/flags/barbados.png"
@@ -95,11 +90,6 @@
             "name": "Ireland",
             "emoji": "🇮🇪",
             "flag": "assets/flags/ireland.png"
-        },
-        {
-            "name": "Israel",
-            "emoji": "🇮🇱",
-            "flag": "assets/flags/israel.png"
         },
         {
             "name": "Kiribati",
@@ -738,6 +728,11 @@
             "name": "Uganda",
             "emoji": "🇺🇬",
             "flag": "assets/flags/uganda.png"
+        },
+        {
+            "name": "Bahamas",
+            "emoji": "🇧🇸",
+            "flag": "assets/flags/bahamas.png"
         }
     ]
 }
