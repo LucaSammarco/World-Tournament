@@ -157,11 +157,6 @@
             "flag": "assets/flags/kiribati.png"
         },
         {
-            "name": "Kuwait",
-            "emoji": "🇰🇼",
-            "flag": "assets/flags/kuwait.png"
-        },
-        {
             "name": "Kyrgyzstan",
             "emoji": "🇰🇬",
             "flag": "assets/flags/kyrgyzstan.png"
@@ -210,11 +205,6 @@
             "name": "Montenegro",
             "emoji": "🇲🇪",
             "flag": "assets/flags/montenegro.png"
-        },
-        {
-            "name": "Mozambique",
-            "emoji": "🇲🇿",
-            "flag": "assets/flags/mozambique.png"
         },
         {
             "name": "Nepal",
@@ -763,6 +753,11 @@
             "name": "Guinea-Bissau",
             "emoji": "🇬🇼",
             "flag": "assets/flags/guinea-bissau.png"
+        },
+        {
+            "name": "Mozambique",
+            "emoji": "🇲🇿",
+            "flag": "assets/flags/mozambique.png"
         }
     ]
 }
