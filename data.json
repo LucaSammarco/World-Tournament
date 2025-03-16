@@ -47,11 +47,6 @@
             "flag": "assets/flags/brunei.png"
         },
         {
-            "name": "Burkina Faso",
-            "emoji": "🇧🇫",
-            "flag": "assets/flags/burkina-faso.png"
-        },
-        {
             "name": "Cambodia",
             "emoji": "🇰🇭",
             "flag": "assets/flags/cambodia.png"
@@ -135,11 +130,6 @@
             "name": "Jamaica",
             "emoji": "🇯🇲",
             "flag": "assets/flags/jamaica.png"
-        },
-        {
-            "name": "Jordan",
-            "emoji": "🇯🇴",
-            "flag": "assets/flags/jordan.png"
         },
         {
             "name": "Kiribati",
@@ -748,6 +738,16 @@
             "name": "Comoros",
             "emoji": "🇰🇲",
             "flag": "assets/flags/comoros.png"
+        },
+        {
+            "name": "Burkina Faso",
+            "emoji": "🇧🇫",
+            "flag": "assets/flags/burkina-faso.png"
+        },
+        {
+            "name": "Jordan",
+            "emoji": "🇯🇴",
+            "flag": "assets/flags/jordan.png"
         }
     ]
 }
