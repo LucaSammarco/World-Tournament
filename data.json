@@ -57,11 +57,6 @@
             "flag": "assets/flags/cape-verde.png"
         },
         {
-            "name": "Chile",
-            "emoji": "🇨🇱",
-            "flag": "assets/flags/chile.png"
-        },
-        {
             "name": "Costa Rica",
             "emoji": "🇨🇷",
             "flag": "assets/flags/costa-rica.png"
@@ -120,11 +115,6 @@
             "name": "Ivory Coast",
             "emoji": "🇨🇮",
             "flag": "assets/flags/ivory-coast.png"
-        },
-        {
-            "name": "Jamaica",
-            "emoji": "🇯🇲",
-            "flag": "assets/flags/jamaica.png"
         },
         {
             "name": "Kiribati",
@@ -748,6 +738,16 @@
             "name": "Niger",
             "emoji": "🇳🇪",
             "flag": "assets/flags/niger.png"
+        },
+        {
+            "name": "Jamaica",
+            "emoji": "🇯🇲",
+            "flag": "assets/flags/jamaica.png"
+        },
+        {
+            "name": "Chile",
+            "emoji": "🇨🇱",
+            "flag": "assets/flags/chile.png"
         }
     ]
 }
