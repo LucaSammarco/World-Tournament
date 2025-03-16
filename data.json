@@ -82,11 +82,6 @@
             "flag": "assets/flags/fiji.png"
         },
         {
-            "name": "Gambia",
-            "emoji": "🇬🇲",
-            "flag": "assets/flags/gambia.png"
-        },
-        {
             "name": "Greece",
             "emoji": "🇬🇷",
             "flag": "assets/flags/greece.png"
@@ -210,11 +205,6 @@
             "name": "Papua New Guinea",
             "emoji": "🇵🇬",
             "flag": "assets/flags/papua-new-guinea.png"
-        },
-        {
-            "name": "Paraguay",
-            "emoji": "🇵🇾",
-            "flag": "assets/flags/paraguay.png"
         },
         {
             "name": "Rwanda",
@@ -748,6 +738,16 @@
             "name": "Jordan",
             "emoji": "🇯🇴",
             "flag": "assets/flags/jordan.png"
+        },
+        {
+            "name": "Gambia",
+            "emoji": "🇬🇲",
+            "flag": "assets/flags/gambia.png"
+        },
+        {
+            "name": "Paraguay",
+            "emoji": "🇵🇾",
+            "flag": "assets/flags/paraguay.png"
         }
     ]
 }
