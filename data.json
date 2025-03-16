@@ -27,11 +27,6 @@
             "flag": "assets/flags/belize.png"
         },
         {
-            "name": "Benin",
-            "emoji": "🇧🇯",
-            "flag": "assets/flags/benin.png"
-        },
-        {
             "name": "Botswana",
             "emoji": "🇧🇼",
             "flag": "assets/flags/botswana.png"
@@ -215,11 +210,6 @@
             "name": "Turkmenistan",
             "emoji": "🇹🇲",
             "flag": "assets/flags/turkmenistan.png"
-        },
-        {
-            "name": "Uganda",
-            "emoji": "🇺🇬",
-            "flag": "assets/flags/uganda.png"
         },
         {
             "name": "Venezuela",
@@ -743,6 +733,11 @@
             "name": "Vietnam",
             "emoji": "🇻🇳",
             "flag": "assets/flags/vietnam.png"
+        },
+        {
+            "name": "Uganda",
+            "emoji": "🇺🇬",
+            "flag": "assets/flags/uganda.png"
         }
     ]
 }
