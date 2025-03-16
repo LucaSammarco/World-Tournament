@@ -22,11 +22,6 @@
             "flag": "assets/flags/barbados.png"
         },
         {
-            "name": "Belarus",
-            "emoji": "🇧🇾",
-            "flag": "assets/flags/belarus.png"
-        },
-        {
             "name": "Belize",
             "emoji": "🇧🇿",
             "flag": "assets/flags/belize.png"
@@ -110,11 +105,6 @@
             "name": "Israel",
             "emoji": "🇮🇱",
             "flag": "assets/flags/israel.png"
-        },
-        {
-            "name": "Ivory Coast",
-            "emoji": "🇨🇮",
-            "flag": "assets/flags/ivory-coast.png"
         },
         {
             "name": "Kiribati",
@@ -748,6 +738,11 @@
             "name": "Chile",
             "emoji": "🇨🇱",
             "flag": "assets/flags/chile.png"
+        },
+        {
+            "name": "Belarus",
+            "emoji": "🇧🇾",
+            "flag": "assets/flags/belarus.png"
         }
     ]
 }
