@@ -187,11 +187,6 @@
             "flag": "assets/flags/são-tomé-and-príncipe.png"
         },
         {
-            "name": "Senegal",
-            "emoji": "🇸🇳",
-            "flag": "assets/flags/senegal.png"
-        },
-        {
             "name": "South Africa",
             "emoji": "🇿🇦",
             "flag": "assets/flags/south-africa.png"
@@ -230,11 +225,6 @@
             "name": "Venezuela",
             "emoji": "🇻🇪",
             "flag": "assets/flags/venezuela.png"
-        },
-        {
-            "name": "Vietnam",
-            "emoji": "🇻🇳",
-            "flag": "assets/flags/vietnam.png"
         }
     ],
     "total_countries": 195,
@@ -743,6 +733,16 @@
             "name": "Belarus",
             "emoji": "🇧🇾",
             "flag": "assets/flags/belarus.png"
+        },
+        {
+            "name": "Senegal",
+            "emoji": "🇸🇳",
+            "flag": "assets/flags/senegal.png"
+        },
+        {
+            "name": "Vietnam",
+            "emoji": "🇻🇳",
+            "flag": "assets/flags/vietnam.png"
         }
     ]
 }
