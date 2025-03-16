@@ -67,11 +67,6 @@
             "flag": "assets/flags/chile.png"
         },
         {
-            "name": "Comoros",
-            "emoji": "🇰🇲",
-            "flag": "assets/flags/comoros.png"
-        },
-        {
             "name": "Costa Rica",
             "emoji": "🇨🇷",
             "flag": "assets/flags/costa-rica.png"
@@ -245,11 +240,6 @@
             "name": "Senegal",
             "emoji": "🇸🇳",
             "flag": "assets/flags/senegal.png"
-        },
-        {
-            "name": "Singapore",
-            "emoji": "🇸🇬",
-            "flag": "assets/flags/singapore.png"
         },
         {
             "name": "South Africa",
@@ -753,6 +743,11 @@
             "name": "Vatican City",
             "emoji": "🇻🇦",
             "flag": "assets/flags/vatican-city.png"
+        },
+        {
+            "name": "Comoros",
+            "emoji": "🇰🇲",
+            "flag": "assets/flags/comoros.png"
         }
     ]
 }
