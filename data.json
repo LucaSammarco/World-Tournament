@@ -2,11 +2,6 @@
     "round": 1,
     "remaining": [
         {
-            "name": "Argentina",
-            "emoji": "🇦🇷",
-            "flag": "assets/flags/argentina.png"
-        },
-        {
             "name": "Belize",
             "emoji": "🇧🇿",
             "flag": "assets/flags/belize.png"
@@ -75,11 +70,6 @@
             "name": "Mongolia",
             "emoji": "🇲🇳",
             "flag": "assets/flags/mongolia.png"
-        },
-        {
-            "name": "Montenegro",
-            "emoji": "🇲🇪",
-            "flag": "assets/flags/montenegro.png"
         },
         {
             "name": "Nepal",
@@ -688,6 +678,16 @@
             "name": "Papua New Guinea",
             "emoji": "🇵🇬",
             "flag": "assets/flags/papua-new-guinea.png"
+        },
+        {
+            "name": "Argentina",
+            "emoji": "🇦🇷",
+            "flag": "assets/flags/argentina.png"
+        },
+        {
+            "name": "Montenegro",
+            "emoji": "🇲🇪",
+            "flag": "assets/flags/montenegro.png"
         }
     ]
 }
