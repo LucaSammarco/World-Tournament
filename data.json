@@ -2,11 +2,6 @@
     "round": 1,
     "remaining": [
         {
-            "name": "Albania",
-            "emoji": "🇦🇱",
-            "flag": "assets/flags/albania.png"
-        },
-        {
             "name": "Argentina",
             "emoji": "🇦🇷",
             "flag": "assets/flags/argentina.png"
@@ -85,11 +80,6 @@
             "name": "Kiribati",
             "emoji": "🇰🇮",
             "flag": "assets/flags/kiribati.png"
-        },
-        {
-            "name": "Libya",
-            "emoji": "🇱🇾",
-            "flag": "assets/flags/libya.png"
         },
         {
             "name": "Marshall Islands",
@@ -713,6 +703,11 @@
             "name": "Tonga",
             "emoji": "🇹🇴",
             "flag": "assets/flags/tonga.png"
+        },
+        {
+            "name": "Libya",
+            "emoji": "🇱🇾",
+            "flag": "assets/flags/libya.png"
         }
     ]
 }
