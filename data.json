@@ -92,16 +92,6 @@
             "flag": "assets/flags/norway.png"
         },
         {
-            "name": "Papua New Guinea",
-            "emoji": "🇵🇬",
-            "flag": "assets/flags/papua-new-guinea.png"
-        },
-        {
-            "name": "Rwanda",
-            "emoji": "🇷🇼",
-            "flag": "assets/flags/rwanda.png"
-        },
-        {
             "name": "São Tomé and Príncipe",
             "emoji": "🇸🇹",
             "flag": "assets/flags/são-tomé-and-príncipe.png"
@@ -693,6 +683,11 @@
             "name": "Monaco",
             "emoji": "🇲🇨",
             "flag": "assets/flags/monaco.png"
+        },
+        {
+            "name": "Papua New Guinea",
+            "emoji": "🇵🇬",
+            "flag": "assets/flags/papua-new-guinea.png"
         }
     ]
 }
