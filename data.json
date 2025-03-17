@@ -72,11 +72,6 @@
             "flag": "assets/flags/mexico.png"
         },
         {
-            "name": "Monaco",
-            "emoji": "🇲🇨",
-            "flag": "assets/flags/monaco.png"
-        },
-        {
             "name": "Mongolia",
             "emoji": "🇲🇳",
             "flag": "assets/flags/mongolia.png"
@@ -110,11 +105,6 @@
             "name": "São Tomé and Príncipe",
             "emoji": "🇸🇹",
             "flag": "assets/flags/são-tomé-and-príncipe.png"
-        },
-        {
-            "name": "South Korea",
-            "emoji": "🇰🇷",
-            "flag": "assets/flags/south-korea.png"
         },
         {
             "name": "Tunisia",
@@ -698,6 +688,11 @@
             "name": "Costa Rica",
             "emoji": "🇨🇷",
             "flag": "assets/flags/costa-rica.png"
+        },
+        {
+            "name": "Monaco",
+            "emoji": "🇲🇨",
+            "flag": "assets/flags/monaco.png"
         }
     ]
 }
