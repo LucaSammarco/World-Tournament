@@ -52,11 +52,6 @@
             "flag": "assets/flags/greece.png"
         },
         {
-            "name": "Hungary",
-            "emoji": "🇭🇺",
-            "flag": "assets/flags/hungary.png"
-        },
-        {
             "name": "Indonesia",
             "emoji": "🇮🇩",
             "flag": "assets/flags/indonesia.png"
@@ -110,11 +105,6 @@
             "name": "Norway",
             "emoji": "🇳🇴",
             "flag": "assets/flags/norway.png"
-        },
-        {
-            "name": "Palestine",
-            "emoji": "🇵🇸",
-            "flag": "assets/flags/palestine.png"
         },
         {
             "name": "Papua New Guinea",
@@ -703,6 +693,11 @@
             "name": "Micronesia",
             "emoji": "🇫🇲",
             "flag": "assets/flags/micronesia.png"
+        },
+        {
+            "name": "Palestine",
+            "emoji": "🇵🇸",
+            "flag": "assets/flags/palestine.png"
         }
     ]
 }
