@@ -7,11 +7,6 @@
             "flag": "assets/flags/argentina.png"
         },
         {
-            "name": "Barbados",
-            "emoji": "🇧🇧",
-            "flag": "assets/flags/barbados.png"
-        },
-        {
             "name": "Belize",
             "emoji": "🇧🇿",
             "flag": "assets/flags/belize.png"
@@ -30,11 +25,6 @@
             "name": "Cape Verde",
             "emoji": "🇨🇻",
             "flag": "assets/flags/cape-verde.png"
-        },
-        {
-            "name": "Costa Rica",
-            "emoji": "🇨🇷",
-            "flag": "assets/flags/costa-rica.png"
         },
         {
             "name": "Eritrea",
@@ -698,6 +688,16 @@
             "name": "Palestine",
             "emoji": "🇵🇸",
             "flag": "assets/flags/palestine.png"
+        },
+        {
+            "name": "Barbados",
+            "emoji": "🇧🇧",
+            "flag": "assets/flags/barbados.png"
+        },
+        {
+            "name": "Costa Rica",
+            "emoji": "🇨🇷",
+            "flag": "assets/flags/costa-rica.png"
         }
     ]
 }
