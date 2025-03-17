@@ -62,11 +62,6 @@
             "flag": "assets/flags/greece.png"
         },
         {
-            "name": "Guyana",
-            "emoji": "🇬🇾",
-            "flag": "assets/flags/guyana.png"
-        },
-        {
             "name": "Hungary",
             "emoji": "🇭🇺",
             "flag": "assets/flags/hungary.png"
@@ -160,11 +155,6 @@
             "name": "South Korea",
             "emoji": "🇰🇷",
             "flag": "assets/flags/south-korea.png"
-        },
-        {
-            "name": "Tonga",
-            "emoji": "🇹🇴",
-            "flag": "assets/flags/tonga.png"
         },
         {
             "name": "Tunisia",
@@ -718,6 +708,11 @@
             "name": "Malta",
             "emoji": "🇲🇹",
             "flag": "assets/flags/malta.png"
+        },
+        {
+            "name": "Tonga",
+            "emoji": "🇹🇴",
+            "flag": "assets/flags/tonga.png"
         }
     ]
 }
