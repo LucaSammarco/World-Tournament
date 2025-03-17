@@ -97,11 +97,6 @@
             "flag": "assets/flags/libya.png"
         },
         {
-            "name": "Malta",
-            "emoji": "🇲🇹",
-            "flag": "assets/flags/malta.png"
-        },
-        {
             "name": "Marshall Islands",
             "emoji": "🇲🇭",
             "flag": "assets/flags/marshall-islands.png"
@@ -165,11 +160,6 @@
             "name": "South Korea",
             "emoji": "🇰🇷",
             "flag": "assets/flags/south-korea.png"
-        },
-        {
-            "name": "Switzerland",
-            "emoji": "🇨🇭",
-            "flag": "assets/flags/switzerland.png"
         },
         {
             "name": "Tonga",
@@ -723,6 +713,11 @@
             "name": "Botswana",
             "emoji": "🇧🇼",
             "flag": "assets/flags/botswana.png"
+        },
+        {
+            "name": "Malta",
+            "emoji": "🇲🇹",
+            "flag": "assets/flags/malta.png"
         }
     ]
 }
