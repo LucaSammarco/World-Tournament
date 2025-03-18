@@ -47,11 +47,6 @@
             "flag": "assets/flags/kiribati.png"
         },
         {
-            "name": "Marshall Islands",
-            "emoji": "🇲🇭",
-            "flag": "assets/flags/marshall-islands.png"
-        },
-        {
             "name": "Mexico",
             "emoji": "🇲🇽",
             "flag": "assets/flags/mexico.png"
@@ -70,11 +65,6 @@
             "name": "Tunisia",
             "emoji": "🇹🇳",
             "flag": "assets/flags/tunisia.png"
-        },
-        {
-            "name": "Venezuela",
-            "emoji": "🇻🇪",
-            "flag": "assets/flags/venezuela.png"
         }
     ],
     "total_countries": 195,
@@ -678,6 +668,11 @@
             "name": "Cambodia",
             "emoji": "🇰🇭",
             "flag": "assets/flags/cambodia.png"
+        },
+        {
+            "name": "Venezuela",
+            "emoji": "🇻🇪",
+            "flag": "assets/flags/venezuela.png"
         }
     ]
 }
