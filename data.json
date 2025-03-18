@@ -2,19 +2,9 @@
     "round": 1,
     "remaining": [
         {
-            "name": "Iran",
-            "emoji": "🇮🇷",
-            "flag": "assets/flags/iran.png"
-        },
-        {
             "name": "Mexico",
             "emoji": "🇲🇽",
             "flag": "assets/flags/mexico.png"
-        },
-        {
-            "name": "Tunisia",
-            "emoji": "🇹🇳",
-            "flag": "assets/flags/tunisia.png"
         }
     ],
     "total_countries": 195,
@@ -658,6 +648,11 @@
             "name": "Brunei",
             "emoji": "🇧🇳",
             "flag": "assets/flags/brunei.png"
+        },
+        {
+            "name": "Iran",
+            "emoji": "🇮🇷",
+            "flag": "assets/flags/iran.png"
         }
     ]
 }
