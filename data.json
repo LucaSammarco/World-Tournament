@@ -62,11 +62,6 @@
             "flag": "assets/flags/bahamas.png"
         },
         {
-            "name": "Bahrain",
-            "emoji": "🇧🇭",
-            "flag": "assets/flags/bahrain.png"
-        },
-        {
             "name": "Bangladesh",
             "emoji": "🇧🇩",
             "flag": "assets/flags/bangladesh.png"
@@ -867,11 +862,6 @@
             "flag": "assets/flags/thailand.png"
         },
         {
-            "name": "Timor-Leste",
-            "emoji": "🇹🇱",
-            "flag": "assets/flags/timor-leste.png"
-        },
-        {
             "name": "Togo",
             "emoji": "🇹🇬",
             "flag": "assets/flags/togo.png"
@@ -978,5 +968,11 @@
         }
     ],
     "total_countries": 195,
-    "processed_countries": []
+    "processed_countries": [
+        {
+            "name": "Timor-Leste",
+            "emoji": "🇹🇱",
+            "flag": "assets/flags/timor-leste.png"
+        }
+    ]
 }
