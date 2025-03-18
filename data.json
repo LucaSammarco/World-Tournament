@@ -7,11 +7,6 @@
             "flag": "assets/flags/brunei.png"
         },
         {
-            "name": "Cape Verde",
-            "emoji": "🇨🇻",
-            "flag": "assets/flags/cape-verde.png"
-        },
-        {
             "name": "Fiji",
             "emoji": "🇫🇯",
             "flag": "assets/flags/fiji.png"
@@ -35,11 +30,6 @@
             "name": "Mexico",
             "emoji": "🇲🇽",
             "flag": "assets/flags/mexico.png"
-        },
-        {
-            "name": "Mongolia",
-            "emoji": "🇲🇳",
-            "flag": "assets/flags/mongolia.png"
         },
         {
             "name": "Tunisia",
@@ -663,6 +653,11 @@
             "name": "Belize",
             "emoji": "🇧🇿",
             "flag": "assets/flags/belize.png"
+        },
+        {
+            "name": "Mongolia",
+            "emoji": "🇲🇳",
+            "flag": "assets/flags/mongolia.png"
         }
     ]
 }
