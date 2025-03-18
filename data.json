@@ -342,11 +342,6 @@
             "flag": "assets/flags/guinea.png"
         },
         {
-            "name": "Guinea-Bissau",
-            "emoji": "🇬🇼",
-            "flag": "assets/flags/guinea-bissau.png"
-        },
-        {
             "name": "Guyana",
             "emoji": "🇬🇾",
             "flag": "assets/flags/guyana.png"
@@ -545,11 +540,6 @@
             "name": "Mexico",
             "emoji": "🇲🇽",
             "flag": "assets/flags/mexico.png"
-        },
-        {
-            "name": "Micronesia",
-            "emoji": "🇫🇲",
-            "flag": "assets/flags/micronesia.png"
         },
         {
             "name": "Moldova",
@@ -973,6 +963,11 @@
             "name": "Timor-Leste",
             "emoji": "🇹🇱",
             "flag": "assets/flags/timor-leste.png"
+        },
+        {
+            "name": "Guinea-Bissau",
+            "emoji": "🇬🇼",
+            "flag": "assets/flags/guinea-bissau.png"
         }
     ]
 }
