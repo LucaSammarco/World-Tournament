@@ -12,11 +12,6 @@
             "flag": "assets/flags/brunei.png"
         },
         {
-            "name": "Cambodia",
-            "emoji": "🇰🇭",
-            "flag": "assets/flags/cambodia.png"
-        },
-        {
             "name": "Cape Verde",
             "emoji": "🇨🇻",
             "flag": "assets/flags/cape-verde.png"
@@ -65,11 +60,6 @@
             "name": "Mongolia",
             "emoji": "🇲🇳",
             "flag": "assets/flags/mongolia.png"
-        },
-        {
-            "name": "Nepal",
-            "emoji": "🇳🇵",
-            "flag": "assets/flags/nepal.png"
         },
         {
             "name": "São Tomé and Príncipe",
@@ -683,6 +673,11 @@
             "name": "Norway",
             "emoji": "🇳🇴",
             "flag": "assets/flags/norway.png"
+        },
+        {
+            "name": "Cambodia",
+            "emoji": "🇰🇭",
+            "flag": "assets/flags/cambodia.png"
         }
     ]
 }
