@@ -2,11 +2,6 @@
     "round": 1,
     "remaining": [
         {
-            "name": "Belize",
-            "emoji": "🇧🇿",
-            "flag": "assets/flags/belize.png"
-        },
-        {
             "name": "Brunei",
             "emoji": "🇧🇳",
             "flag": "assets/flags/brunei.png"
@@ -15,11 +10,6 @@
             "name": "Cape Verde",
             "emoji": "🇨🇻",
             "flag": "assets/flags/cape-verde.png"
-        },
-        {
-            "name": "Eritrea",
-            "emoji": "🇪🇷",
-            "flag": "assets/flags/eritrea.png"
         },
         {
             "name": "Fiji",
@@ -668,6 +658,11 @@
             "name": "São Tomé and Príncipe",
             "emoji": "🇸🇹",
             "flag": "assets/flags/são-tomé-and-príncipe.png"
+        },
+        {
+            "name": "Belize",
+            "emoji": "🇧🇿",
+            "flag": "assets/flags/belize.png"
         }
     ]
 }
