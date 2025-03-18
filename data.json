@@ -7,16 +7,6 @@
             "flag": "assets/flags/brunei.png"
         },
         {
-            "name": "Fiji",
-            "emoji": "🇫🇯",
-            "flag": "assets/flags/fiji.png"
-        },
-        {
-            "name": "Greece",
-            "emoji": "🇬🇷",
-            "flag": "assets/flags/greece.png"
-        },
-        {
             "name": "Iran",
             "emoji": "🇮🇷",
             "flag": "assets/flags/iran.png"
@@ -658,6 +648,16 @@
             "name": "Mongolia",
             "emoji": "🇲🇳",
             "flag": "assets/flags/mongolia.png"
+        },
+        {
+            "name": "Greece",
+            "emoji": "🇬🇷",
+            "flag": "assets/flags/greece.png"
+        },
+        {
+            "name": "Fiji",
+            "emoji": "🇫🇯",
+            "flag": "assets/flags/fiji.png"
         }
     ]
 }
