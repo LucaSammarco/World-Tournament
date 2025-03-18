@@ -2,19 +2,9 @@
     "round": 1,
     "remaining": [
         {
-            "name": "Brunei",
-            "emoji": "🇧🇳",
-            "flag": "assets/flags/brunei.png"
-        },
-        {
             "name": "Iran",
             "emoji": "🇮🇷",
             "flag": "assets/flags/iran.png"
-        },
-        {
-            "name": "Kiribati",
-            "emoji": "🇰🇮",
-            "flag": "assets/flags/kiribati.png"
         },
         {
             "name": "Mexico",
@@ -658,6 +648,16 @@
             "name": "Fiji",
             "emoji": "🇫🇯",
             "flag": "assets/flags/fiji.png"
+        },
+        {
+            "name": "Kiribati",
+            "emoji": "🇰🇮",
+            "flag": "assets/flags/kiribati.png"
+        },
+        {
+            "name": "Brunei",
+            "emoji": "🇧🇳",
+            "flag": "assets/flags/brunei.png"
         }
     ]
 }
