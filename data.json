@@ -32,11 +32,6 @@
             "flag": "assets/flags/antigua-and-barbuda.png"
         },
         {
-            "name": "Argentina",
-            "emoji": "🇦🇷",
-            "flag": "assets/flags/argentina.png"
-        },
-        {
             "name": "Armenia",
             "emoji": "🇦🇲",
             "flag": "assets/flags/armenia.png"
@@ -225,11 +220,6 @@
             "name": "Dominica",
             "emoji": "🇩🇲",
             "flag": "assets/flags/dominica.png"
-        },
-        {
-            "name": "Egypt",
-            "emoji": "🇪🇬",
-            "flag": "assets/flags/egypt.png"
         },
         {
             "name": "El Salvador",
@@ -948,6 +938,11 @@
             "name": "Rwanda",
             "emoji": "🇷🇼",
             "flag": "assets/flags/rwanda.png"
+        },
+        {
+            "name": "Egypt",
+            "emoji": "🇪🇬",
+            "flag": "assets/flags/egypt.png"
         }
     ]
 }
