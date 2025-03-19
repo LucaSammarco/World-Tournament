@@ -87,11 +87,6 @@
             "flag": "assets/flags/bosnia-and-herzegovina.png"
         },
         {
-            "name": "Botswana",
-            "emoji": "🇧🇼",
-            "flag": "assets/flags/botswana.png"
-        },
-        {
             "name": "Brazil",
             "emoji": "🇧🇷",
             "flag": "assets/flags/brazil.png"
@@ -817,11 +812,6 @@
             "flag": "assets/flags/united-states.png"
         },
         {
-            "name": "Uruguay",
-            "emoji": "🇺🇾",
-            "flag": "assets/flags/uruguay.png"
-        },
-        {
             "name": "Uzbekistan",
             "emoji": "🇺🇿",
             "flag": "assets/flags/uzbekistan.png"
@@ -938,6 +928,11 @@
             "name": "Sudan",
             "emoji": "🇸🇩",
             "flag": "assets/flags/sudan.png"
+        },
+        {
+            "name": "Botswana",
+            "emoji": "🇧🇼",
+            "flag": "assets/flags/botswana.png"
         }
     ]
 }
