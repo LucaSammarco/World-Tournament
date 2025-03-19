@@ -87,11 +87,6 @@
             "flag": "assets/flags/belize.png"
         },
         {
-            "name": "Benin",
-            "emoji": "🇧🇯",
-            "flag": "assets/flags/benin.png"
-        },
-        {
             "name": "Bhutan",
             "emoji": "🇧🇹",
             "flag": "assets/flags/bhutan.png"
@@ -747,11 +742,6 @@
             "flag": "assets/flags/serbia.png"
         },
         {
-            "name": "Seychelles",
-            "emoji": "🇸🇨",
-            "flag": "assets/flags/seychelles.png"
-        },
-        {
             "name": "Sierra Leone",
             "emoji": "🇸🇱",
             "flag": "assets/flags/sierra-leone.png"
@@ -963,6 +953,11 @@
             "name": "South Africa",
             "emoji": "🇿🇦",
             "flag": "assets/flags/south-africa.png"
+        },
+        {
+            "name": "Seychelles",
+            "emoji": "🇸🇨",
+            "flag": "assets/flags/seychelles.png"
         }
     ]
 }
