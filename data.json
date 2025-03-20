@@ -202,11 +202,6 @@
             "flag": "assets/flags/equatorial-guinea.png"
         },
         {
-            "name": "Estonia",
-            "emoji": "🇪🇪",
-            "flag": "assets/flags/estonia.png"
-        },
-        {
             "name": "Eswatini",
             "emoji": "🇸🇿",
             "flag": "assets/flags/eswatini.png"
@@ -370,11 +365,6 @@
             "name": "Libya",
             "emoji": "🇱🇾",
             "flag": "assets/flags/libya.png"
-        },
-        {
-            "name": "Liechtenstein",
-            "emoji": "🇱🇮",
-            "flag": "assets/flags/liechtenstein.png"
         },
         {
             "name": "Luxembourg",
@@ -898,6 +888,16 @@
             "name": "Haiti",
             "emoji": "🇭🇹",
             "flag": "assets/flags/haiti.png"
+        },
+        {
+            "name": "Estonia",
+            "emoji": "🇪🇪",
+            "flag": "assets/flags/estonia.png"
+        },
+        {
+            "name": "Liechtenstein",
+            "emoji": "🇱🇮",
+            "flag": "assets/flags/liechtenstein.png"
         }
     ]
 }
