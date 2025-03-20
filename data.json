@@ -272,11 +272,6 @@
             "flag": "assets/flags/iran.png"
         },
         {
-            "name": "Iraq",
-            "emoji": "🇮🇶",
-            "flag": "assets/flags/iraq.png"
-        },
-        {
             "name": "Ireland",
             "emoji": "🇮🇪",
             "flag": "assets/flags/ireland.png"
@@ -405,11 +400,6 @@
             "name": "Montenegro",
             "emoji": "🇲🇪",
             "flag": "assets/flags/montenegro.png"
-        },
-        {
-            "name": "Mozambique",
-            "emoji": "🇲🇿",
-            "flag": "assets/flags/mozambique.png"
         },
         {
             "name": "Myanmar",
@@ -888,6 +878,16 @@
             "name": "Mongolia",
             "emoji": "🇲🇳",
             "flag": "assets/flags/mongolia.png"
+        },
+        {
+            "name": "Iraq",
+            "emoji": "🇮🇶",
+            "flag": "assets/flags/iraq.png"
+        },
+        {
+            "name": "Mozambique",
+            "emoji": "🇲🇿",
+            "flag": "assets/flags/mozambique.png"
         }
     ]
 }
