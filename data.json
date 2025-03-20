@@ -47,11 +47,6 @@
             "flag": "assets/flags/bahamas.png"
         },
         {
-            "name": "Bangladesh",
-            "emoji": "🇧🇩",
-            "flag": "assets/flags/bangladesh.png"
-        },
-        {
             "name": "Barbados",
             "emoji": "🇧🇧",
             "flag": "assets/flags/barbados.png"
@@ -335,11 +330,6 @@
             "name": "Kuwait",
             "emoji": "🇰🇼",
             "flag": "assets/flags/kuwait.png"
-        },
-        {
-            "name": "Laos",
-            "emoji": "🇱🇦",
-            "flag": "assets/flags/laos.png"
         },
         {
             "name": "Latvia",
@@ -893,6 +883,16 @@
             "name": "Democratic Republic of the Congo",
             "emoji": "🇨🇩",
             "flag": "assets/flags/democratic-republic-of-the-congo.png"
+        },
+        {
+            "name": "Laos",
+            "emoji": "🇱🇦",
+            "flag": "assets/flags/laos.png"
+        },
+        {
+            "name": "Bangladesh",
+            "emoji": "🇧🇩",
+            "flag": "assets/flags/bangladesh.png"
         }
     ]
 }
