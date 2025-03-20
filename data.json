@@ -212,11 +212,6 @@
             "flag": "assets/flags/equatorial-guinea.png"
         },
         {
-            "name": "Eritrea",
-            "emoji": "🇪🇷",
-            "flag": "assets/flags/eritrea.png"
-        },
-        {
             "name": "Estonia",
             "emoji": "🇪🇪",
             "flag": "assets/flags/estonia.png"
@@ -717,11 +712,6 @@
             "flag": "assets/flags/suriname.png"
         },
         {
-            "name": "Sweden",
-            "emoji": "🇸🇪",
-            "flag": "assets/flags/sweden.png"
-        },
-        {
             "name": "Switzerland",
             "emoji": "🇨🇭",
             "flag": "assets/flags/switzerland.png"
@@ -928,6 +918,11 @@
             "name": "Ghana",
             "emoji": "🇬🇭",
             "flag": "assets/flags/ghana.png"
+        },
+        {
+            "name": "Sweden",
+            "emoji": "🇸🇪",
+            "flag": "assets/flags/sweden.png"
         }
     ]
 }
