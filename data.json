@@ -22,11 +22,6 @@
             "flag": "assets/flags/angola.png"
         },
         {
-            "name": "Antigua and Barbuda",
-            "emoji": "🇦🇬",
-            "flag": "assets/flags/antigua-and-barbuda.png"
-        },
-        {
             "name": "Armenia",
             "emoji": "🇦🇲",
             "flag": "assets/flags/armenia.png"
@@ -405,11 +400,6 @@
             "name": "Monaco",
             "emoji": "🇲🇨",
             "flag": "assets/flags/monaco.png"
-        },
-        {
-            "name": "Mongolia",
-            "emoji": "🇲🇳",
-            "flag": "assets/flags/mongolia.png"
         },
         {
             "name": "Montenegro",
@@ -893,6 +883,11 @@
             "name": "Bangladesh",
             "emoji": "🇧🇩",
             "flag": "assets/flags/bangladesh.png"
+        },
+        {
+            "name": "Mongolia",
+            "emoji": "🇲🇳",
+            "flag": "assets/flags/mongolia.png"
         }
     ]
 }
