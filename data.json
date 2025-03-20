@@ -402,11 +402,6 @@
             "flag": "assets/flags/liechtenstein.png"
         },
         {
-            "name": "Lithuania",
-            "emoji": "🇱🇹",
-            "flag": "assets/flags/lithuania.png"
-        },
-        {
             "name": "Luxembourg",
             "emoji": "🇱🇺",
             "flag": "assets/flags/luxembourg.png"
@@ -475,11 +470,6 @@
             "name": "Montenegro",
             "emoji": "🇲🇪",
             "flag": "assets/flags/montenegro.png"
-        },
-        {
-            "name": "Morocco",
-            "emoji": "🇲🇦",
-            "flag": "assets/flags/morocco.png"
         },
         {
             "name": "Mozambique",
@@ -918,6 +908,11 @@
             "name": "Kenya",
             "emoji": "🇰🇪",
             "flag": "assets/flags/kenya.png"
+        },
+        {
+            "name": "Morocco",
+            "emoji": "🇲🇦",
+            "flag": "assets/flags/morocco.png"
         }
     ]
 }
