@@ -247,11 +247,6 @@
             "flag": "assets/flags/georgia.png"
         },
         {
-            "name": "Germany",
-            "emoji": "🇩🇪",
-            "flag": "assets/flags/germany.png"
-        },
-        {
             "name": "Greece",
             "emoji": "🇬🇷",
             "flag": "assets/flags/greece.png"
@@ -495,11 +490,6 @@
             "name": "New Zealand",
             "emoji": "🇳🇿",
             "flag": "assets/flags/new-zealand.png"
-        },
-        {
-            "name": "Nicaragua",
-            "emoji": "🇳🇮",
-            "flag": "assets/flags/nicaragua.png"
         },
         {
             "name": "Niger",
@@ -908,6 +898,11 @@
             "name": "Burundi",
             "emoji": "🇧🇮",
             "flag": "assets/flags/burundi.png"
+        },
+        {
+            "name": "Germany",
+            "emoji": "🇩🇪",
+            "flag": "assets/flags/germany.png"
         }
     ]
 }
