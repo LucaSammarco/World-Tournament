@@ -102,11 +102,6 @@
             "flag": "assets/flags/burkina-faso.png"
         },
         {
-            "name": "Burundi",
-            "emoji": "🇧🇮",
-            "flag": "assets/flags/burundi.png"
-        },
-        {
             "name": "Cambodia",
             "emoji": "🇰🇭",
             "flag": "assets/flags/cambodia.png"
@@ -490,11 +485,6 @@
             "name": "Nauru",
             "emoji": "🇳🇷",
             "flag": "assets/flags/nauru.png"
-        },
-        {
-            "name": "Nepal",
-            "emoji": "🇳🇵",
-            "flag": "assets/flags/nepal.png"
         },
         {
             "name": "Netherlands",
@@ -913,6 +903,11 @@
             "name": "Morocco",
             "emoji": "🇲🇦",
             "flag": "assets/flags/morocco.png"
+        },
+        {
+            "name": "Burundi",
+            "emoji": "🇧🇮",
+            "flag": "assets/flags/burundi.png"
         }
     ]
 }
