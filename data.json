@@ -42,11 +42,6 @@
             "flag": "assets/flags/bahamas.png"
         },
         {
-            "name": "Barbados",
-            "emoji": "🇧🇧",
-            "flag": "assets/flags/barbados.png"
-        },
-        {
             "name": "Belarus",
             "emoji": "🇧🇾",
             "flag": "assets/flags/belarus.png"
@@ -220,11 +215,6 @@
             "name": "Guyana",
             "emoji": "🇬🇾",
             "flag": "assets/flags/guyana.png"
-        },
-        {
-            "name": "Honduras",
-            "emoji": "🇭🇳",
-            "flag": "assets/flags/honduras.png"
         },
         {
             "name": "Hungary",
@@ -868,6 +858,11 @@
             "name": "Denmark",
             "emoji": "🇩🇰",
             "flag": "assets/flags/denmark.png"
+        },
+        {
+            "name": "Barbados",
+            "emoji": "🇧🇧",
+            "flag": "assets/flags/barbados.png"
         }
     ]
 }
