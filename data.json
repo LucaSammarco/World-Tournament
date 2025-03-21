@@ -147,11 +147,6 @@
             "flag": "assets/flags/cyprus.png"
         },
         {
-            "name": "Denmark",
-            "emoji": "🇩🇰",
-            "flag": "assets/flags/denmark.png"
-        },
-        {
             "name": "Djibouti",
             "emoji": "🇩🇯",
             "flag": "assets/flags/djibouti.png"
@@ -647,11 +642,6 @@
             "flag": "assets/flags/venezuela.png"
         },
         {
-            "name": "Vietnam",
-            "emoji": "🇻🇳",
-            "flag": "assets/flags/vietnam.png"
-        },
-        {
             "name": "Zimbabwe",
             "emoji": "🇿🇼",
             "flag": "assets/flags/zimbabwe.png"
@@ -873,6 +863,11 @@
             "name": "Turkmenistan",
             "emoji": "🇹🇲",
             "flag": "assets/flags/turkmenistan.png"
+        },
+        {
+            "name": "Denmark",
+            "emoji": "🇩🇰",
+            "flag": "assets/flags/denmark.png"
         }
     ]
 }
