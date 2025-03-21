@@ -147,11 +147,6 @@
             "flag": "assets/flags/el-salvador.png"
         },
         {
-            "name": "Equatorial Guinea",
-            "emoji": "🇬🇶",
-            "flag": "assets/flags/equatorial-guinea.png"
-        },
-        {
             "name": "Eswatini",
             "emoji": "🇸🇿",
             "flag": "assets/flags/eswatini.png"
@@ -160,11 +155,6 @@
             "name": "Ethiopia",
             "emoji": "🇪🇹",
             "flag": "assets/flags/ethiopia.png"
-        },
-        {
-            "name": "Fiji",
-            "emoji": "🇫🇯",
-            "flag": "assets/flags/fiji.png"
         },
         {
             "name": "Finland",
@@ -843,6 +833,16 @@
             "name": "Guyana",
             "emoji": "🇬🇾",
             "flag": "assets/flags/guyana.png"
+        },
+        {
+            "name": "Equatorial Guinea",
+            "emoji": "🇬🇶",
+            "flag": "assets/flags/equatorial-guinea.png"
+        },
+        {
+            "name": "Fiji",
+            "emoji": "🇫🇯",
+            "flag": "assets/flags/fiji.png"
         }
     ]
 }
