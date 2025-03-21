@@ -107,11 +107,6 @@
             "flag": "assets/flags/canada.png"
         },
         {
-            "name": "Cape Verde",
-            "emoji": "🇨🇻",
-            "flag": "assets/flags/cape-verde.png"
-        },
-        {
             "name": "Central African Republic",
             "emoji": "🇨🇫",
             "flag": "assets/flags/central-african-republic.png"
@@ -335,11 +330,6 @@
             "name": "Liberia",
             "emoji": "🇱🇷",
             "flag": "assets/flags/liberia.png"
-        },
-        {
-            "name": "Libya",
-            "emoji": "🇱🇾",
-            "flag": "assets/flags/libya.png"
         },
         {
             "name": "Luxembourg",
@@ -888,6 +878,11 @@
             "name": "Mozambique",
             "emoji": "🇲🇿",
             "flag": "assets/flags/mozambique.png"
+        },
+        {
+            "name": "Cape Verde",
+            "emoji": "🇨🇻",
+            "flag": "assets/flags/cape-verde.png"
         }
     ]
 }
