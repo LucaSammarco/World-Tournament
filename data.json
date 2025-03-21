@@ -347,11 +347,6 @@
             "flag": "assets/flags/moldova.png"
         },
         {
-            "name": "Monaco",
-            "emoji": "🇲🇨",
-            "flag": "assets/flags/monaco.png"
-        },
-        {
             "name": "Montenegro",
             "emoji": "🇲🇪",
             "flag": "assets/flags/montenegro.png"
@@ -600,11 +595,6 @@
             "name": "Ukraine",
             "emoji": "🇺🇦",
             "flag": "assets/flags/ukraine.png"
-        },
-        {
-            "name": "United Arab Emirates",
-            "emoji": "🇦🇪",
-            "flag": "assets/flags/united-arab-emirates.png"
         },
         {
             "name": "United States",
@@ -863,6 +853,11 @@
             "name": "Barbados",
             "emoji": "🇧🇧",
             "flag": "assets/flags/barbados.png"
+        },
+        {
+            "name": "Monaco",
+            "emoji": "🇲🇨",
+            "flag": "assets/flags/monaco.png"
         }
     ]
 }
