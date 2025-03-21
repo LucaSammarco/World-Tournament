@@ -197,19 +197,9 @@
             "flag": "assets/flags/grenada.png"
         },
         {
-            "name": "Guatemala",
-            "emoji": "🇬🇹",
-            "flag": "assets/flags/guatemala.png"
-        },
-        {
             "name": "Guinea",
             "emoji": "🇬🇳",
             "flag": "assets/flags/guinea.png"
-        },
-        {
-            "name": "Guyana",
-            "emoji": "🇬🇾",
-            "flag": "assets/flags/guyana.png"
         },
         {
             "name": "Hungary",
@@ -848,6 +838,11 @@
             "name": "Madagascar",
             "emoji": "🇲🇬",
             "flag": "assets/flags/madagascar.png"
+        },
+        {
+            "name": "Guyana",
+            "emoji": "🇬🇾",
+            "flag": "assets/flags/guyana.png"
         }
     ]
 }
