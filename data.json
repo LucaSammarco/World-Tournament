@@ -102,11 +102,6 @@
             "flag": "assets/flags/cameroon.png"
         },
         {
-            "name": "Canada",
-            "emoji": "🇨🇦",
-            "flag": "assets/flags/canada.png"
-        },
-        {
             "name": "Central African Republic",
             "emoji": "🇨🇫",
             "flag": "assets/flags/central-african-republic.png"
@@ -280,11 +275,6 @@
             "name": "Ivory Coast",
             "emoji": "🇨🇮",
             "flag": "assets/flags/ivory-coast.png"
-        },
-        {
-            "name": "Jamaica",
-            "emoji": "🇯🇲",
-            "flag": "assets/flags/jamaica.png"
         },
         {
             "name": "Japan",
@@ -883,6 +873,11 @@
             "name": "China",
             "emoji": "🇨🇳",
             "flag": "assets/flags/china.png"
+        },
+        {
+            "name": "Canada",
+            "emoji": "🇨🇦",
+            "flag": "assets/flags/canada.png"
         }
     ]
 }
