@@ -152,11 +152,6 @@
             "flag": "assets/flags/france.png"
         },
         {
-            "name": "Gambia",
-            "emoji": "🇬🇲",
-            "flag": "assets/flags/gambia.png"
-        },
-        {
             "name": "Georgia",
             "emoji": "🇬🇪",
             "flag": "assets/flags/georgia.png"
@@ -235,11 +230,6 @@
             "name": "Latvia",
             "emoji": "🇱🇻",
             "flag": "assets/flags/latvia.png"
-        },
-        {
-            "name": "Lesotho",
-            "emoji": "🇱🇸",
-            "flag": "assets/flags/lesotho.png"
         },
         {
             "name": "Luxembourg",
@@ -823,6 +813,11 @@
             "name": "Burkina Faso",
             "emoji": "🇧🇫",
             "flag": "assets/flags/burkina-faso.png"
+        },
+        {
+            "name": "Lesotho",
+            "emoji": "🇱🇸",
+            "flag": "assets/flags/lesotho.png"
         }
     ]
 }
