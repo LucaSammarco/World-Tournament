@@ -412,11 +412,6 @@
             "flag": "assets/flags/portugal.png"
         },
         {
-            "name": "Qatar",
-            "emoji": "🇶🇦",
-            "flag": "assets/flags/qatar.png"
-        },
-        {
             "name": "Romania",
             "emoji": "🇷🇴",
             "flag": "assets/flags/romania.png"
@@ -535,11 +530,6 @@
             "name": "Tuvalu",
             "emoji": "🇹🇻",
             "flag": "assets/flags/tuvalu.png"
-        },
-        {
-            "name": "Uganda",
-            "emoji": "🇺🇬",
-            "flag": "assets/flags/uganda.png"
         },
         {
             "name": "Ukraine",
@@ -838,6 +828,16 @@
             "name": "Azerbaijan",
             "emoji": "🇦🇿",
             "flag": "assets/flags/azerbaijan.png"
+        },
+        {
+            "name": "Qatar",
+            "emoji": "🇶🇦",
+            "flag": "assets/flags/qatar.png"
+        },
+        {
+            "name": "Uganda",
+            "emoji": "🇺🇬",
+            "flag": "assets/flags/uganda.png"
         }
     ]
 }
