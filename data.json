@@ -7,11 +7,6 @@
             "flag": "assets/flags/afghanistan.png"
         },
         {
-            "name": "Albania",
-            "emoji": "🇦🇱",
-            "flag": "assets/flags/albania.png"
-        },
-        {
             "name": "Algeria",
             "emoji": "🇩🇿",
             "flag": "assets/flags/algeria.png"
@@ -452,11 +447,6 @@
             "flag": "assets/flags/tunisia.png"
         },
         {
-            "name": "Tuvalu",
-            "emoji": "🇹🇻",
-            "flag": "assets/flags/tuvalu.png"
-        },
-        {
             "name": "United States",
             "emoji": "🇺🇸",
             "flag": "assets/flags/united-states.png"
@@ -803,6 +793,11 @@
             "name": "Singapore",
             "emoji": "🇸🇬",
             "flag": "assets/flags/singapore.png"
+        },
+        {
+            "name": "Albania",
+            "emoji": "🇦🇱",
+            "flag": "assets/flags/albania.png"
         }
     ]
 }
