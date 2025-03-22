@@ -47,11 +47,6 @@
             "flag": "assets/flags/belgium.png"
         },
         {
-            "name": "Bhutan",
-            "emoji": "🇧🇹",
-            "flag": "assets/flags/bhutan.png"
-        },
-        {
             "name": "Bolivia",
             "emoji": "🇧🇴",
             "flag": "assets/flags/bolivia.png"
@@ -472,11 +467,6 @@
             "flag": "assets/flags/south-korea.png"
         },
         {
-            "name": "South Sudan",
-            "emoji": "🇸🇸",
-            "flag": "assets/flags/south-sudan.png"
-        },
-        {
             "name": "Spain",
             "emoji": "🇪🇸",
             "flag": "assets/flags/spain.png"
@@ -838,6 +828,16 @@
             "name": "Uganda",
             "emoji": "🇺🇬",
             "flag": "assets/flags/uganda.png"
+        },
+        {
+            "name": "Bhutan",
+            "emoji": "🇧🇹",
+            "flag": "assets/flags/bhutan.png"
+        },
+        {
+            "name": "South Sudan",
+            "emoji": "🇸🇸",
+            "flag": "assets/flags/south-sudan.png"
         }
     ]
 }
