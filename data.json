@@ -182,11 +182,6 @@
             "flag": "assets/flags/guinea.png"
         },
         {
-            "name": "Hungary",
-            "emoji": "🇭🇺",
-            "flag": "assets/flags/hungary.png"
-        },
-        {
             "name": "India",
             "emoji": "🇮🇳",
             "flag": "assets/flags/india.png"
@@ -310,11 +305,6 @@
             "name": "Montenegro",
             "emoji": "🇲🇪",
             "flag": "assets/flags/montenegro.png"
-        },
-        {
-            "name": "Myanmar",
-            "emoji": "🇲🇲",
-            "flag": "assets/flags/myanmar.png"
         },
         {
             "name": "Namibia",
@@ -838,6 +828,11 @@
             "name": "South Sudan",
             "emoji": "🇸🇸",
             "flag": "assets/flags/south-sudan.png"
+        },
+        {
+            "name": "Myanmar",
+            "emoji": "🇲🇲",
+            "flag": "assets/flags/myanmar.png"
         }
     ]
 }
