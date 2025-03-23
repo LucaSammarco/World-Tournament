@@ -177,11 +177,6 @@
             "flag": "assets/flags/luxembourg.png"
         },
         {
-            "name": "Malawi",
-            "emoji": "🇲🇼",
-            "flag": "assets/flags/malawi.png"
-        },
-        {
             "name": "Malaysia",
             "emoji": "🇲🇾",
             "flag": "assets/flags/malaysia.png"
@@ -330,11 +325,6 @@
             "name": "Slovenia",
             "emoji": "🇸🇮",
             "flag": "assets/flags/slovenia.png"
-        },
-        {
-            "name": "South Korea",
-            "emoji": "🇰🇷",
-            "flag": "assets/flags/south-korea.png"
         },
         {
             "name": "Spain",
@@ -778,6 +768,11 @@
             "name": "Portugal",
             "emoji": "🇵🇹",
             "flag": "assets/flags/portugal.png"
+        },
+        {
+            "name": "South Korea",
+            "emoji": "🇰🇷",
+            "flag": "assets/flags/south-korea.png"
         }
     ]
 }
