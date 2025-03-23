@@ -357,16 +357,6 @@
             "flag": "assets/flags/sri-lanka.png"
         },
         {
-            "name": "Suriname",
-            "emoji": "🇸🇷",
-            "flag": "assets/flags/suriname.png"
-        },
-        {
-            "name": "Switzerland",
-            "emoji": "🇨🇭",
-            "flag": "assets/flags/switzerland.png"
-        },
-        {
             "name": "Syria",
             "emoji": "🇸🇾",
             "flag": "assets/flags/syria.png"
@@ -788,6 +778,11 @@
             "name": "Saudi Arabia",
             "emoji": "🇸🇦",
             "flag": "assets/flags/saudi-arabia.png"
+        },
+        {
+            "name": "Suriname",
+            "emoji": "🇸🇷",
+            "flag": "assets/flags/suriname.png"
         }
     ]
 }
