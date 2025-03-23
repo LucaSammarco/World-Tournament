@@ -177,11 +177,6 @@
             "flag": "assets/flags/mali.png"
         },
         {
-            "name": "Malta",
-            "emoji": "🇲🇹",
-            "flag": "assets/flags/malta.png"
-        },
-        {
             "name": "Marshall Islands",
             "emoji": "🇲🇭",
             "flag": "assets/flags/marshall-islands.png"
@@ -340,11 +335,6 @@
             "name": "Togo",
             "emoji": "🇹🇬",
             "flag": "assets/flags/togo.png"
-        },
-        {
-            "name": "Tonga",
-            "emoji": "🇹🇴",
-            "flag": "assets/flags/tonga.png"
         },
         {
             "name": "Tunisia",
@@ -768,6 +758,16 @@
             "name": "Finland",
             "emoji": "🇫🇮",
             "flag": "assets/flags/finland.png"
+        },
+        {
+            "name": "Malta",
+            "emoji": "🇲🇹",
+            "flag": "assets/flags/malta.png"
+        },
+        {
+            "name": "Tonga",
+            "emoji": "🇹🇴",
+            "flag": "assets/flags/tonga.png"
         }
     ]
 }
