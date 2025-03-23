@@ -332,11 +332,6 @@
             "flag": "assets/flags/são-tomé-and-príncipe.png"
         },
         {
-            "name": "Saudi Arabia",
-            "emoji": "🇸🇦",
-            "flag": "assets/flags/saudi-arabia.png"
-        },
-        {
             "name": "Sierra Leone",
             "emoji": "🇸🇱",
             "flag": "assets/flags/sierra-leone.png"
@@ -415,11 +410,6 @@
             "name": "Vatican City",
             "emoji": "🇻🇦",
             "flag": "assets/flags/vatican-city.png"
-        },
-        {
-            "name": "Venezuela",
-            "emoji": "🇻🇪",
-            "flag": "assets/flags/venezuela.png"
         },
         {
             "name": "Zimbabwe",
@@ -788,6 +778,16 @@
             "name": "Cambodia",
             "emoji": "🇰🇭",
             "flag": "assets/flags/cambodia.png"
+        },
+        {
+            "name": "Venezuela",
+            "emoji": "🇻🇪",
+            "flag": "assets/flags/venezuela.png"
+        },
+        {
+            "name": "Saudi Arabia",
+            "emoji": "🇸🇦",
+            "flag": "assets/flags/saudi-arabia.png"
         }
     ]
 }
