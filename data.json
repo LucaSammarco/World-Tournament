@@ -162,11 +162,6 @@
             "flag": "assets/flags/italy.png"
         },
         {
-            "name": "Ivory Coast",
-            "emoji": "🇨🇮",
-            "flag": "assets/flags/ivory-coast.png"
-        },
-        {
             "name": "Japan",
             "emoji": "🇯🇵",
             "flag": "assets/flags/japan.png"
@@ -175,11 +170,6 @@
             "name": "Kazakhstan",
             "emoji": "🇰🇿",
             "flag": "assets/flags/kazakhstan.png"
-        },
-        {
-            "name": "Kiribati",
-            "emoji": "🇰🇮",
-            "flag": "assets/flags/kiribati.png"
         },
         {
             "name": "Kuwait",
@@ -798,6 +788,11 @@
             "name": "Australia",
             "emoji": "🇦🇺",
             "flag": "assets/flags/australia.png"
+        },
+        {
+            "name": "Ivory Coast",
+            "emoji": "🇨🇮",
+            "flag": "assets/flags/ivory-coast.png"
         }
     ]
 }
