@@ -47,11 +47,6 @@
             "flag": "assets/flags/brunei.png"
         },
         {
-            "name": "Cambodia",
-            "emoji": "🇰🇭",
-            "flag": "assets/flags/cambodia.png"
-        },
-        {
             "name": "Central African Republic",
             "emoji": "🇨🇫",
             "flag": "assets/flags/central-african-republic.png"
@@ -240,11 +235,6 @@
             "name": "Nauru",
             "emoji": "🇳🇷",
             "flag": "assets/flags/nauru.png"
-        },
-        {
-            "name": "Netherlands",
-            "emoji": "🇳🇱",
-            "flag": "assets/flags/netherlands.png"
         },
         {
             "name": "Niger",
@@ -793,6 +783,11 @@
             "name": "Ivory Coast",
             "emoji": "🇨🇮",
             "flag": "assets/flags/ivory-coast.png"
+        },
+        {
+            "name": "Cambodia",
+            "emoji": "🇰🇭",
+            "flag": "assets/flags/cambodia.png"
         }
     ]
 }
