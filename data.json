@@ -77,11 +77,6 @@
             "flag": "assets/flags/el-salvador.png"
         },
         {
-            "name": "Eswatini",
-            "emoji": "🇸🇿",
-            "flag": "assets/flags/eswatini.png"
-        },
-        {
             "name": "Ethiopia",
             "emoji": "🇪🇹",
             "flag": "assets/flags/ethiopia.png"
@@ -165,11 +160,6 @@
             "name": "Moldova",
             "emoji": "🇲🇩",
             "flag": "assets/flags/moldova.png"
-        },
-        {
-            "name": "Montenegro",
-            "emoji": "🇲🇪",
-            "flag": "assets/flags/montenegro.png"
         },
         {
             "name": "Namibia",
@@ -753,6 +743,16 @@
             "name": "United States",
             "emoji": "🇺🇸",
             "flag": "assets/flags/united-states.png"
+        },
+        {
+            "name": "Eswatini",
+            "emoji": "🇸🇿",
+            "flag": "assets/flags/eswatini.png"
+        },
+        {
+            "name": "Montenegro",
+            "emoji": "🇲🇪",
+            "flag": "assets/flags/montenegro.png"
         }
     ]
 }
