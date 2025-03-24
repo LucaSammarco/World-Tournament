@@ -37,11 +37,6 @@
             "flag": "assets/flags/brunei.png"
         },
         {
-            "name": "Central African Republic",
-            "emoji": "🇨🇫",
-            "flag": "assets/flags/central-african-republic.png"
-        },
-        {
             "name": "Chad",
             "emoji": "🇹🇩",
             "flag": "assets/flags/chad.png"
@@ -195,11 +190,6 @@
             "name": "Nigeria",
             "emoji": "🇳🇬",
             "flag": "assets/flags/nigeria.png"
-        },
-        {
-            "name": "North Macedonia",
-            "emoji": "🇲🇰",
-            "flag": "assets/flags/north-macedonia.png"
         },
         {
             "name": "Pakistan",
@@ -758,6 +748,11 @@
             "name": "Kazakhstan",
             "emoji": "🇰🇿",
             "flag": "assets/flags/kazakhstan.png"
+        },
+        {
+            "name": "North Macedonia",
+            "emoji": "🇲🇰",
+            "flag": "assets/flags/north-macedonia.png"
         }
     ]
 }
