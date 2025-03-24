@@ -2,11 +2,6 @@
     "round": 1,
     "remaining": [
         {
-            "name": "Angola",
-            "emoji": "🇦🇴",
-            "flag": "assets/flags/angola.png"
-        },
-        {
             "name": "Armenia",
             "emoji": "🇦🇲",
             "flag": "assets/flags/armenia.png"
@@ -225,11 +220,6 @@
             "name": "Togo",
             "emoji": "🇹🇬",
             "flag": "assets/flags/togo.png"
-        },
-        {
-            "name": "Tunisia",
-            "emoji": "🇹🇳",
-            "flag": "assets/flags/tunisia.png"
         },
         {
             "name": "Vanuatu",
@@ -733,6 +723,11 @@
             "name": "Palau",
             "emoji": "🇵🇼",
             "flag": "assets/flags/palau.png"
+        },
+        {
+            "name": "Angola",
+            "emoji": "🇦🇴",
+            "flag": "assets/flags/angola.png"
         }
     ]
 }
