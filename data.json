@@ -302,16 +302,6 @@
             "flag": "assets/flags/tunisia.png"
         },
         {
-            "name": "United States",
-            "emoji": "🇺🇸",
-            "flag": "assets/flags/united-states.png"
-        },
-        {
-            "name": "Uzbekistan",
-            "emoji": "🇺🇿",
-            "flag": "assets/flags/uzbekistan.png"
-        },
-        {
             "name": "Vanuatu",
             "emoji": "🇻🇺",
             "flag": "assets/flags/vanuatu.png"
@@ -753,6 +743,16 @@
             "name": "North Macedonia",
             "emoji": "🇲🇰",
             "flag": "assets/flags/north-macedonia.png"
+        },
+        {
+            "name": "Uzbekistan",
+            "emoji": "🇺🇿",
+            "flag": "assets/flags/uzbekistan.png"
+        },
+        {
+            "name": "United States",
+            "emoji": "🇺🇸",
+            "flag": "assets/flags/united-states.png"
         }
     ]
 }
