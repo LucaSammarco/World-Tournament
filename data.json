@@ -42,16 +42,6 @@
             "flag": "assets/flags/chad.png"
         },
         {
-            "name": "Chile",
-            "emoji": "🇨🇱",
-            "flag": "assets/flags/chile.png"
-        },
-        {
-            "name": "Comoros",
-            "emoji": "🇰🇲",
-            "flag": "assets/flags/comoros.png"
-        },
-        {
             "name": "Costa Rica",
             "emoji": "🇨🇷",
             "flag": "assets/flags/costa-rica.png"
@@ -748,6 +738,11 @@
             "name": "Marshall Islands",
             "emoji": "🇲🇭",
             "flag": "assets/flags/marshall-islands.png"
+        },
+        {
+            "name": "Chile",
+            "emoji": "🇨🇱",
+            "flag": "assets/flags/chile.png"
         }
     ]
 }
