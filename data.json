@@ -117,11 +117,6 @@
             "flag": "assets/flags/mali.png"
         },
         {
-            "name": "Mauritania",
-            "emoji": "🇲🇷",
-            "flag": "assets/flags/mauritania.png"
-        },
-        {
             "name": "Mexico",
             "emoji": "🇲🇽",
             "flag": "assets/flags/mexico.png"
@@ -170,11 +165,6 @@
             "name": "Philippines",
             "emoji": "🇵🇭",
             "flag": "assets/flags/philippines.png"
-        },
-        {
-            "name": "Poland",
-            "emoji": "🇵🇱",
-            "flag": "assets/flags/poland.png"
         },
         {
             "name": "Saint Vincent and the Grenadines",
@@ -728,6 +718,11 @@
             "name": "Angola",
             "emoji": "🇦🇴",
             "flag": "assets/flags/angola.png"
+        },
+        {
+            "name": "Mauritania",
+            "emoji": "🇲🇷",
+            "flag": "assets/flags/mauritania.png"
         }
     ]
 }
