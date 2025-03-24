@@ -2,11 +2,6 @@
     "round": 1,
     "remaining": [
         {
-            "name": "Afghanistan",
-            "emoji": "🇦🇫",
-            "flag": "assets/flags/afghanistan.png"
-        },
-        {
             "name": "Angola",
             "emoji": "🇦🇴",
             "flag": "assets/flags/angola.png"
@@ -80,11 +75,6 @@
             "name": "Guinea",
             "emoji": "🇬🇳",
             "flag": "assets/flags/guinea.png"
-        },
-        {
-            "name": "India",
-            "emoji": "🇮🇳",
-            "flag": "assets/flags/india.png"
         },
         {
             "name": "Indonesia",
@@ -743,6 +733,11 @@
             "name": "Chile",
             "emoji": "🇨🇱",
             "flag": "assets/flags/chile.png"
+        },
+        {
+            "name": "India",
+            "emoji": "🇮🇳",
+            "flag": "assets/flags/india.png"
         }
     ]
 }
