@@ -142,11 +142,6 @@
             "flag": "assets/flags/mali.png"
         },
         {
-            "name": "Marshall Islands",
-            "emoji": "🇲🇭",
-            "flag": "assets/flags/marshall-islands.png"
-        },
-        {
             "name": "Mauritania",
             "emoji": "🇲🇷",
             "flag": "assets/flags/mauritania.png"
@@ -215,11 +210,6 @@
             "name": "Poland",
             "emoji": "🇵🇱",
             "flag": "assets/flags/poland.png"
-        },
-        {
-            "name": "Romania",
-            "emoji": "🇷🇴",
-            "flag": "assets/flags/romania.png"
         },
         {
             "name": "Saint Kitts and Nevis",
@@ -748,6 +738,16 @@
             "name": "Moldova",
             "emoji": "🇲🇩",
             "flag": "assets/flags/moldova.png"
+        },
+        {
+            "name": "Romania",
+            "emoji": "🇷🇴",
+            "flag": "assets/flags/romania.png"
+        },
+        {
+            "name": "Marshall Islands",
+            "emoji": "🇲🇭",
+            "flag": "assets/flags/marshall-islands.png"
         }
     ]
 }
