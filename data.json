@@ -67,11 +67,6 @@
             "flag": "assets/flags/guinea.png"
         },
         {
-            "name": "Indonesia",
-            "emoji": "🇮🇩",
-            "flag": "assets/flags/indonesia.png"
-        },
-        {
             "name": "Ireland",
             "emoji": "🇮🇪",
             "flag": "assets/flags/ireland.png"
@@ -170,11 +165,6 @@
             "name": "Tanzania",
             "emoji": "🇹🇿",
             "flag": "assets/flags/tanzania.png"
-        },
-        {
-            "name": "Vanuatu",
-            "emoji": "🇻🇺",
-            "flag": "assets/flags/vanuatu.png"
         },
         {
             "name": "Vatican City",
@@ -708,6 +698,11 @@
             "name": "Spain",
             "emoji": "🇪🇸",
             "flag": "assets/flags/spain.png"
+        },
+        {
+            "name": "Vanuatu",
+            "emoji": "🇻🇺",
+            "flag": "assets/flags/vanuatu.png"
         }
     ]
 }
