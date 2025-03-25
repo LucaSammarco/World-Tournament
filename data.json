@@ -122,19 +122,9 @@
             "flag": "assets/flags/samoa.png"
         },
         {
-            "name": "São Tomé and Príncipe",
-            "emoji": "🇸🇹",
-            "flag": "assets/flags/são-tomé-and-príncipe.png"
-        },
-        {
             "name": "Slovenia",
             "emoji": "🇸🇮",
             "flag": "assets/flags/slovenia.png"
-        },
-        {
-            "name": "Tanzania",
-            "emoji": "🇹🇿",
-            "flag": "assets/flags/tanzania.png"
         }
     ],
     "total_countries": 195,
@@ -688,6 +678,16 @@
             "name": "Niger",
             "emoji": "🇳🇪",
             "flag": "assets/flags/niger.png"
+        },
+        {
+            "name": "São Tomé and Príncipe",
+            "emoji": "🇸🇹",
+            "flag": "assets/flags/são-tomé-and-príncipe.png"
+        },
+        {
+            "name": "Tanzania",
+            "emoji": "🇹🇿",
+            "flag": "assets/flags/tanzania.png"
         }
     ]
 }
