@@ -147,11 +147,6 @@
             "flag": "assets/flags/palestine.png"
         },
         {
-            "name": "Panama",
-            "emoji": "🇵🇦",
-            "flag": "assets/flags/panama.png"
-        },
-        {
             "name": "Papua New Guinea",
             "emoji": "🇵🇬",
             "flag": "assets/flags/papua-new-guinea.png"
@@ -180,11 +175,6 @@
             "name": "São Tomé and Príncipe",
             "emoji": "🇸🇹",
             "flag": "assets/flags/são-tomé-and-príncipe.png"
-        },
-        {
-            "name": "Sierra Leone",
-            "emoji": "🇸🇱",
-            "flag": "assets/flags/sierra-leone.png"
         },
         {
             "name": "Slovenia",
@@ -723,6 +713,16 @@
             "name": "Mauritania",
             "emoji": "🇲🇷",
             "flag": "assets/flags/mauritania.png"
+        },
+        {
+            "name": "Panama",
+            "emoji": "🇵🇦",
+            "flag": "assets/flags/panama.png"
+        },
+        {
+            "name": "Sierra Leone",
+            "emoji": "🇸🇱",
+            "flag": "assets/flags/sierra-leone.png"
         }
     ]
 }
