@@ -152,11 +152,6 @@
             "flag": "assets/flags/paraguay.png"
         },
         {
-            "name": "Philippines",
-            "emoji": "🇵🇭",
-            "flag": "assets/flags/philippines.png"
-        },
-        {
             "name": "Saint Vincent and the Grenadines",
             "emoji": "🇻🇨",
             "flag": "assets/flags/saint-vincent-and-the-grenadines.png"
@@ -185,11 +180,6 @@
             "name": "Tanzania",
             "emoji": "🇹🇿",
             "flag": "assets/flags/tanzania.png"
-        },
-        {
-            "name": "Togo",
-            "emoji": "🇹🇬",
-            "flag": "assets/flags/togo.png"
         },
         {
             "name": "Vanuatu",
@@ -718,6 +708,11 @@
             "name": "Syria",
             "emoji": "🇸🇾",
             "flag": "assets/flags/syria.png"
+        },
+        {
+            "name": "Togo",
+            "emoji": "🇹🇬",
+            "flag": "assets/flags/togo.png"
         }
     ]
 }
