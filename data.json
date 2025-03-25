@@ -37,11 +37,6 @@
             "flag": "assets/flags/cuba.png"
         },
         {
-            "name": "Djibouti",
-            "emoji": "🇩🇯",
-            "flag": "assets/flags/djibouti.png"
-        },
-        {
             "name": "El Salvador",
             "emoji": "🇸🇻",
             "flag": "assets/flags/el-salvador.png"
@@ -105,11 +100,6 @@
             "name": "Papua New Guinea",
             "emoji": "🇵🇬",
             "flag": "assets/flags/papua-new-guinea.png"
-        },
-        {
-            "name": "Paraguay",
-            "emoji": "🇵🇾",
-            "flag": "assets/flags/paraguay.png"
         },
         {
             "name": "Saint Vincent and the Grenadines",
@@ -688,6 +678,11 @@
             "name": "Tanzania",
             "emoji": "🇹🇿",
             "flag": "assets/flags/tanzania.png"
+        },
+        {
+            "name": "Djibouti",
+            "emoji": "🇩🇯",
+            "flag": "assets/flags/djibouti.png"
         }
     ]
 }
