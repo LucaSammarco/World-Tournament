@@ -127,11 +127,6 @@
             "flag": "assets/flags/nigeria.png"
         },
         {
-            "name": "Palestine",
-            "emoji": "🇵🇸",
-            "flag": "assets/flags/palestine.png"
-        },
-        {
             "name": "Papua New Guinea",
             "emoji": "🇵🇬",
             "flag": "assets/flags/papua-new-guinea.png"
@@ -170,11 +165,6 @@
             "name": "Vatican City",
             "emoji": "🇻🇦",
             "flag": "assets/flags/vatican-city.png"
-        },
-        {
-            "name": "Zimbabwe",
-            "emoji": "🇿🇼",
-            "flag": "assets/flags/zimbabwe.png"
         }
     ],
     "total_countries": 195,
@@ -703,6 +693,11 @@
             "name": "Vanuatu",
             "emoji": "🇻🇺",
             "flag": "assets/flags/vanuatu.png"
+        },
+        {
+            "name": "Palestine",
+            "emoji": "🇵🇸",
+            "flag": "assets/flags/palestine.png"
         }
     ]
 }
