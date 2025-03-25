@@ -22,11 +22,6 @@
             "flag": "assets/flags/brazil.png"
         },
         {
-            "name": "Brunei",
-            "emoji": "🇧🇳",
-            "flag": "assets/flags/brunei.png"
-        },
-        {
             "name": "Chad",
             "emoji": "🇹🇩",
             "flag": "assets/flags/chad.png"
@@ -185,11 +180,6 @@
             "name": "Spain",
             "emoji": "🇪🇸",
             "flag": "assets/flags/spain.png"
-        },
-        {
-            "name": "Syria",
-            "emoji": "🇸🇾",
-            "flag": "assets/flags/syria.png"
         },
         {
             "name": "Tanzania",
@@ -723,6 +713,11 @@
             "name": "Sierra Leone",
             "emoji": "🇸🇱",
             "flag": "assets/flags/sierra-leone.png"
+        },
+        {
+            "name": "Syria",
+            "emoji": "🇸🇾",
+            "flag": "assets/flags/syria.png"
         }
     ]
 }
