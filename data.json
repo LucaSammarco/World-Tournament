@@ -132,11 +132,6 @@
             "flag": "assets/flags/nigeria.png"
         },
         {
-            "name": "Pakistan",
-            "emoji": "🇵🇰",
-            "flag": "assets/flags/pakistan.png"
-        },
-        {
             "name": "Palestine",
             "emoji": "🇵🇸",
             "flag": "assets/flags/palestine.png"
@@ -170,11 +165,6 @@
             "name": "Slovenia",
             "emoji": "🇸🇮",
             "flag": "assets/flags/slovenia.png"
-        },
-        {
-            "name": "Spain",
-            "emoji": "🇪🇸",
-            "flag": "assets/flags/spain.png"
         },
         {
             "name": "Tanzania",
@@ -713,6 +703,11 @@
             "name": "Togo",
             "emoji": "🇹🇬",
             "flag": "assets/flags/togo.png"
+        },
+        {
+            "name": "Spain",
+            "emoji": "🇪🇸",
+            "flag": "assets/flags/spain.png"
         }
     ]
 }
