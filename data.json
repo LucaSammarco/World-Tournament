@@ -22,11 +22,6 @@
             "flag": "assets/flags/chad.png"
         },
         {
-            "name": "Costa Rica",
-            "emoji": "🇨🇷",
-            "flag": "assets/flags/costa-rica.png"
-        },
-        {
             "name": "Croatia",
             "emoji": "🇭🇷",
             "flag": "assets/flags/croatia.png"
@@ -70,11 +65,6 @@
             "name": "Japan",
             "emoji": "🇯🇵",
             "flag": "assets/flags/japan.png"
-        },
-        {
-            "name": "Kuwait",
-            "emoji": "🇰🇼",
-            "flag": "assets/flags/kuwait.png"
         },
         {
             "name": "Latvia",
@@ -683,6 +673,11 @@
             "name": "Djibouti",
             "emoji": "🇩🇯",
             "flag": "assets/flags/djibouti.png"
+        },
+        {
+            "name": "Kuwait",
+            "emoji": "🇰🇼",
+            "flag": "assets/flags/kuwait.png"
         }
     ]
 }
