@@ -47,11 +47,6 @@
             "flag": "assets/flags/el-salvador.png"
         },
         {
-            "name": "Ethiopia",
-            "emoji": "🇪🇹",
-            "flag": "assets/flags/ethiopia.png"
-        },
-        {
             "name": "Greece",
             "emoji": "🇬🇷",
             "flag": "assets/flags/greece.png"
@@ -150,11 +145,6 @@
             "name": "Tanzania",
             "emoji": "🇹🇿",
             "flag": "assets/flags/tanzania.png"
-        },
-        {
-            "name": "Vatican City",
-            "emoji": "🇻🇦",
-            "flag": "assets/flags/vatican-city.png"
         }
     ],
     "total_countries": 195,
@@ -698,6 +688,11 @@
             "name": "Brazil",
             "emoji": "🇧🇷",
             "flag": "assets/flags/brazil.png"
+        },
+        {
+            "name": "Ethiopia",
+            "emoji": "🇪🇹",
+            "flag": "assets/flags/ethiopia.png"
         }
     ]
 }
