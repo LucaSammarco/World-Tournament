@@ -2,11 +2,6 @@
     "round": 1,
     "remaining": [
         {
-            "name": "Armenia",
-            "emoji": "🇦🇲",
-            "flag": "assets/flags/armenia.png"
-        },
-        {
             "name": "Bahamas",
             "emoji": "🇧🇸",
             "flag": "assets/flags/bahamas.png"
@@ -25,11 +20,6 @@
             "name": "El Salvador",
             "emoji": "🇸🇻",
             "flag": "assets/flags/el-salvador.png"
-        },
-        {
-            "name": "Greece",
-            "emoji": "🇬🇷",
-            "flag": "assets/flags/greece.png"
         },
         {
             "name": "Guinea",
@@ -673,6 +663,11 @@
             "name": "Saint Vincent and the Grenadines",
             "emoji": "🇻🇨",
             "flag": "assets/flags/saint-vincent-and-the-grenadines.png"
+        },
+        {
+            "name": "Greece",
+            "emoji": "🇬🇷",
+            "flag": "assets/flags/greece.png"
         }
     ]
 }
