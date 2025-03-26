@@ -2,11 +2,6 @@
     "round": 1,
     "remaining": [
         {
-            "name": "Croatia",
-            "emoji": "🇭🇷",
-            "flag": "assets/flags/croatia.png"
-        },
-        {
             "name": "Ireland",
             "emoji": "🇮🇪",
             "flag": "assets/flags/ireland.png"
@@ -20,11 +15,6 @@
             "name": "Mexico",
             "emoji": "🇲🇽",
             "flag": "assets/flags/mexico.png"
-        },
-        {
-            "name": "Slovenia",
-            "emoji": "🇸🇮",
-            "flag": "assets/flags/slovenia.png"
         }
     ],
     "total_countries": 195,
@@ -658,6 +648,11 @@
             "name": "Nauru",
             "emoji": "🇳🇷",
             "flag": "assets/flags/nauru.png"
+        },
+        {
+            "name": "Slovenia",
+            "emoji": "🇸🇮",
+            "flag": "assets/flags/slovenia.png"
         }
     ]
 }
