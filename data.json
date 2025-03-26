@@ -12,16 +12,6 @@
             "flag": "assets/flags/croatia.png"
         },
         {
-            "name": "Cuba",
-            "emoji": "🇨🇺",
-            "flag": "assets/flags/cuba.png"
-        },
-        {
-            "name": "El Salvador",
-            "emoji": "🇸🇻",
-            "flag": "assets/flags/el-salvador.png"
-        },
-        {
             "name": "Guinea",
             "emoji": "🇬🇳",
             "flag": "assets/flags/guinea.png"
@@ -663,6 +653,11 @@
             "name": "Papua New Guinea",
             "emoji": "🇵🇬",
             "flag": "assets/flags/papua-new-guinea.png"
+        },
+        {
+            "name": "El Salvador",
+            "emoji": "🇸🇻",
+            "flag": "assets/flags/el-salvador.png"
         }
     ]
 }
