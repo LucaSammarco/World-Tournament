@@ -12,19 +12,9 @@
             "flag": "assets/flags/croatia.png"
         },
         {
-            "name": "Guinea",
-            "emoji": "🇬🇳",
-            "flag": "assets/flags/guinea.png"
-        },
-        {
             "name": "Ireland",
             "emoji": "🇮🇪",
             "flag": "assets/flags/ireland.png"
-        },
-        {
-            "name": "Latvia",
-            "emoji": "🇱🇻",
-            "flag": "assets/flags/latvia.png"
         },
         {
             "name": "Mali",
@@ -658,6 +648,16 @@
             "name": "El Salvador",
             "emoji": "🇸🇻",
             "flag": "assets/flags/el-salvador.png"
+        },
+        {
+            "name": "Guinea",
+            "emoji": "🇬🇳",
+            "flag": "assets/flags/guinea.png"
+        },
+        {
+            "name": "Latvia",
+            "emoji": "🇱🇻",
+            "flag": "assets/flags/latvia.png"
         }
     ]
 }
