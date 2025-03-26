@@ -222,11 +222,6 @@
             "flag": "assets/flags/cyprus.png"
         },
         {
-            "name": "Czech Republic",
-            "emoji": "🇨🇿",
-            "flag": "assets/flags/czech-republic.png"
-        },
-        {
             "name": "Denmark",
             "emoji": "🇩🇰",
             "flag": "assets/flags/denmark.png"
@@ -782,11 +777,6 @@
             "flag": "assets/flags/singapore.png"
         },
         {
-            "name": "Slovakia",
-            "emoji": "🇸🇰",
-            "flag": "assets/flags/slovakia.png"
-        },
-        {
             "name": "Slovenia",
             "emoji": "🇸🇮",
             "flag": "assets/flags/slovenia.png"
@@ -978,5 +968,16 @@
         }
     ],
     "total_countries": 195,
-    "processed_countries": []
+    "processed_countries": [
+        {
+            "name": "Slovakia",
+            "emoji": "🇸🇰",
+            "flag": "assets/flags/slovakia.png"
+        },
+        {
+            "name": "Czech Republic",
+            "emoji": "🇨🇿",
+            "flag": "assets/flags/czech-republic.png"
+        }
+    ]
 }
