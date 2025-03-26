@@ -42,11 +42,6 @@
             "flag": "assets/flags/ireland.png"
         },
         {
-            "name": "Israel",
-            "emoji": "🇮🇱",
-            "flag": "assets/flags/israel.png"
-        },
-        {
             "name": "Italy",
             "emoji": "🇮🇹",
             "flag": "assets/flags/italy.png"
@@ -75,11 +70,6 @@
             "name": "Papua New Guinea",
             "emoji": "🇵🇬",
             "flag": "assets/flags/papua-new-guinea.png"
-        },
-        {
-            "name": "Saint Vincent and the Grenadines",
-            "emoji": "🇻🇨",
-            "flag": "assets/flags/saint-vincent-and-the-grenadines.png"
         },
         {
             "name": "Slovenia",
@@ -678,6 +668,11 @@
             "name": "Chad",
             "emoji": "🇹🇩",
             "flag": "assets/flags/chad.png"
+        },
+        {
+            "name": "Saint Vincent and the Grenadines",
+            "emoji": "🇻🇨",
+            "flag": "assets/flags/saint-vincent-and-the-grenadines.png"
         }
     ]
 }
