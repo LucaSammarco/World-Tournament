@@ -2,16 +2,6 @@
     "round": 1,
     "remaining": [
         {
-            "name": "Ireland",
-            "emoji": "🇮🇪",
-            "flag": "assets/flags/ireland.png"
-        },
-        {
-            "name": "Mali",
-            "emoji": "🇲🇱",
-            "flag": "assets/flags/mali.png"
-        },
-        {
             "name": "Mexico",
             "emoji": "🇲🇽",
             "flag": "assets/flags/mexico.png"
@@ -653,6 +643,16 @@
             "name": "Slovenia",
             "emoji": "🇸🇮",
             "flag": "assets/flags/slovenia.png"
+        },
+        {
+            "name": "Ireland",
+            "emoji": "🇮🇪",
+            "flag": "assets/flags/ireland.png"
+        },
+        {
+            "name": "Mali",
+            "emoji": "🇲🇱",
+            "flag": "assets/flags/mali.png"
         }
     ]
 }
