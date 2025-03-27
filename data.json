@@ -87,11 +87,6 @@
             "flag": "assets/flags/belgium.png"
         },
         {
-            "name": "Belize",
-            "emoji": "🇧🇿",
-            "flag": "assets/flags/belize.png"
-        },
-        {
             "name": "Benin",
             "emoji": "🇧🇯",
             "flag": "assets/flags/benin.png"
@@ -547,11 +542,6 @@
             "flag": "assets/flags/new-zealand.png"
         },
         {
-            "name": "Nicaragua",
-            "emoji": "🇳🇮",
-            "flag": "assets/flags/nicaragua.png"
-        },
-        {
             "name": "Niger",
             "emoji": "🇳🇪",
             "flag": "assets/flags/niger.png"
@@ -958,6 +948,11 @@
             "name": "Egypt",
             "emoji": "🇪🇬",
             "flag": "assets/flags/egypt.png"
+        },
+        {
+            "name": "Nicaragua",
+            "emoji": "🇳🇮",
+            "flag": "assets/flags/nicaragua.png"
         }
     ]
 }
