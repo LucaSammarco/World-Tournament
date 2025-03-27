@@ -582,11 +582,6 @@
             "flag": "assets/flags/panama.png"
         },
         {
-            "name": "Papua New Guinea",
-            "emoji": "🇵🇬",
-            "flag": "assets/flags/papua-new-guinea.png"
-        },
-        {
             "name": "Paraguay",
             "emoji": "🇵🇾",
             "flag": "assets/flags/paraguay.png"
@@ -710,11 +705,6 @@
             "name": "South Africa",
             "emoji": "🇿🇦",
             "flag": "assets/flags/south-africa.png"
-        },
-        {
-            "name": "South Sudan",
-            "emoji": "🇸🇸",
-            "flag": "assets/flags/south-sudan.png"
         },
         {
             "name": "Spain",
@@ -948,6 +938,11 @@
             "name": "South Korea",
             "emoji": "🇰🇷",
             "flag": "assets/flags/south-korea.png"
+        },
+        {
+            "name": "Papua New Guinea",
+            "emoji": "🇵🇬",
+            "flag": "assets/flags/papua-new-guinea.png"
         }
     ]
 }
