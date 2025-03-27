@@ -187,11 +187,6 @@
             "flag": "assets/flags/democratic-republic-of-the-congo.png"
         },
         {
-            "name": "Republic of the Congo",
-            "emoji": "🇨🇬",
-            "flag": "assets/flags/republic-of-the-congo.png"
-        },
-        {
             "name": "Costa Rica",
             "emoji": "🇨🇷",
             "flag": "assets/flags/costa-rica.png"
@@ -320,11 +315,6 @@
             "name": "Grenada",
             "emoji": "🇬🇩",
             "flag": "assets/flags/grenada.png"
-        },
-        {
-            "name": "Guatemala",
-            "emoji": "🇬🇹",
-            "flag": "assets/flags/guatemala.png"
         },
         {
             "name": "Guinea",
@@ -973,6 +963,11 @@
             "name": "Cameroon",
             "emoji": "🇨🇲",
             "flag": "assets/flags/cameroon.png"
+        },
+        {
+            "name": "Republic of the Congo",
+            "emoji": "🇨🇬",
+            "flag": "assets/flags/republic-of-the-congo.png"
         }
     ]
 }
