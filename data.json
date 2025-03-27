@@ -127,11 +127,6 @@
             "flag": "assets/flags/bulgaria.png"
         },
         {
-            "name": "Burkina Faso",
-            "emoji": "🇧🇫",
-            "flag": "assets/flags/burkina-faso.png"
-        },
-        {
             "name": "Burundi",
             "emoji": "🇧🇮",
             "flag": "assets/flags/burundi.png"
@@ -882,11 +877,6 @@
             "flag": "assets/flags/united-states.png"
         },
         {
-            "name": "Uruguay",
-            "emoji": "🇺🇾",
-            "flag": "assets/flags/uruguay.png"
-        },
-        {
             "name": "Uzbekistan",
             "emoji": "🇺🇿",
             "flag": "assets/flags/uzbekistan.png"
@@ -968,6 +958,16 @@
             "name": "Republic of the Congo",
             "emoji": "🇨🇬",
             "flag": "assets/flags/republic-of-the-congo.png"
+        },
+        {
+            "name": "Uruguay",
+            "emoji": "🇺🇾",
+            "flag": "assets/flags/uruguay.png"
+        },
+        {
+            "name": "Burkina Faso",
+            "emoji": "🇧🇫",
+            "flag": "assets/flags/burkina-faso.png"
         }
     ]
 }
