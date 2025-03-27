@@ -537,11 +537,6 @@
             "flag": "assets/flags/new-zealand.png"
         },
         {
-            "name": "Niger",
-            "emoji": "🇳🇪",
-            "flag": "assets/flags/niger.png"
-        },
-        {
             "name": "Nigeria",
             "emoji": "🇳🇬",
             "flag": "assets/flags/nigeria.png"
@@ -625,11 +620,6 @@
             "name": "Rwanda",
             "emoji": "🇷🇼",
             "flag": "assets/flags/rwanda.png"
-        },
-        {
-            "name": "Saint Kitts and Nevis",
-            "emoji": "🇰🇳",
-            "flag": "assets/flags/saint-kitts-and-nevis.png"
         },
         {
             "name": "Saint Lucia",
@@ -943,6 +933,16 @@
             "name": "Papua New Guinea",
             "emoji": "🇵🇬",
             "flag": "assets/flags/papua-new-guinea.png"
+        },
+        {
+            "name": "Saint Kitts and Nevis",
+            "emoji": "🇰🇳",
+            "flag": "assets/flags/saint-kitts-and-nevis.png"
+        },
+        {
+            "name": "Niger",
+            "emoji": "🇳🇪",
+            "flag": "assets/flags/niger.png"
         }
     ]
 }
