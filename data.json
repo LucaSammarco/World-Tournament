@@ -477,11 +477,6 @@
             "flag": "assets/flags/north-macedonia.png"
         },
         {
-            "name": "Norway",
-            "emoji": "🇳🇴",
-            "flag": "assets/flags/norway.png"
-        },
-        {
             "name": "Oman",
             "emoji": "🇴🇲",
             "flag": "assets/flags/oman.png"
@@ -650,11 +645,6 @@
             "name": "Thailand",
             "emoji": "🇹🇭",
             "flag": "assets/flags/thailand.png"
-        },
-        {
-            "name": "Timor-Leste",
-            "emoji": "🇹🇱",
-            "flag": "assets/flags/timor-leste.png"
         },
         {
             "name": "Togo",
@@ -903,6 +893,16 @@
             "name": "Somalia",
             "emoji": "🇸🇴",
             "flag": "assets/flags/somalia.png"
+        },
+        {
+            "name": "Norway",
+            "emoji": "🇳🇴",
+            "flag": "assets/flags/norway.png"
+        },
+        {
+            "name": "Timor-Leste",
+            "emoji": "🇹🇱",
+            "flag": "assets/flags/timor-leste.png"
         }
     ]
 }
