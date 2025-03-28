@@ -377,11 +377,6 @@
             "flag": "assets/flags/kyrgyzstan.png"
         },
         {
-            "name": "Laos",
-            "emoji": "🇱🇦",
-            "flag": "assets/flags/laos.png"
-        },
-        {
             "name": "Latvia",
             "emoji": "🇱🇻",
             "flag": "assets/flags/latvia.png"
@@ -600,11 +595,6 @@
             "name": "Rwanda",
             "emoji": "🇷🇼",
             "flag": "assets/flags/rwanda.png"
-        },
-        {
-            "name": "Saint Lucia",
-            "emoji": "🇱🇨",
-            "flag": "assets/flags/saint-lucia.png"
         },
         {
             "name": "Saint Vincent and the Grenadines",
@@ -928,6 +918,16 @@
             "name": "Antigua and Barbuda",
             "emoji": "🇦🇬",
             "flag": "assets/flags/antigua-and-barbuda.png"
+        },
+        {
+            "name": "Laos",
+            "emoji": "🇱🇦",
+            "flag": "assets/flags/laos.png"
+        },
+        {
+            "name": "Saint Lucia",
+            "emoji": "🇱🇨",
+            "flag": "assets/flags/saint-lucia.png"
         }
     ]
 }
