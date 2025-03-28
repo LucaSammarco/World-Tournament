@@ -232,11 +232,6 @@
             "flag": "assets/flags/gambia.png"
         },
         {
-            "name": "Georgia",
-            "emoji": "🇬🇪",
-            "flag": "assets/flags/georgia.png"
-        },
-        {
             "name": "Germany",
             "emoji": "🇩🇪",
             "flag": "assets/flags/germany.png"
@@ -607,11 +602,6 @@
             "flag": "assets/flags/solomon-islands.png"
         },
         {
-            "name": "Somalia",
-            "emoji": "🇸🇴",
-            "flag": "assets/flags/somalia.png"
-        },
-        {
             "name": "South Africa",
             "emoji": "🇿🇦",
             "flag": "assets/flags/south-africa.png"
@@ -908,6 +898,11 @@
             "name": "Djibouti",
             "emoji": "🇩🇯",
             "flag": "assets/flags/djibouti.png"
+        },
+        {
+            "name": "Somalia",
+            "emoji": "🇸🇴",
+            "flag": "assets/flags/somalia.png"
         }
     ]
 }
