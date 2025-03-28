@@ -102,11 +102,6 @@
             "flag": "assets/flags/brunei.png"
         },
         {
-            "name": "Bulgaria",
-            "emoji": "🇧🇬",
-            "flag": "assets/flags/bulgaria.png"
-        },
-        {
             "name": "Burundi",
             "emoji": "🇧🇮",
             "flag": "assets/flags/burundi.png"
@@ -722,11 +717,6 @@
             "flag": "assets/flags/turkey.png"
         },
         {
-            "name": "Turkmenistan",
-            "emoji": "🇹🇲",
-            "flag": "assets/flags/turkmenistan.png"
-        },
-        {
             "name": "Uganda",
             "emoji": "🇺🇬",
             "flag": "assets/flags/uganda.png"
@@ -923,6 +913,11 @@
             "name": "Uzbekistan",
             "emoji": "🇺🇿",
             "flag": "assets/flags/uzbekistan.png"
+        },
+        {
+            "name": "Bulgaria",
+            "emoji": "🇧🇬",
+            "flag": "assets/flags/bulgaria.png"
         }
     ]
 }
