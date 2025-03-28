@@ -167,11 +167,6 @@
             "flag": "assets/flags/denmark.png"
         },
         {
-            "name": "Djibouti",
-            "emoji": "🇩🇯",
-            "flag": "assets/flags/djibouti.png"
-        },
-        {
             "name": "Dominica",
             "emoji": "🇩🇲",
             "flag": "assets/flags/dominica.png"
@@ -375,11 +370,6 @@
             "name": "Liechtenstein",
             "emoji": "🇱🇮",
             "flag": "assets/flags/liechtenstein.png"
-        },
-        {
-            "name": "Lithuania",
-            "emoji": "🇱🇹",
-            "flag": "assets/flags/lithuania.png"
         },
         {
             "name": "Luxembourg",
@@ -913,6 +903,11 @@
             "name": "Jordan",
             "emoji": "🇯🇴",
             "flag": "assets/flags/jordan.png"
+        },
+        {
+            "name": "Djibouti",
+            "emoji": "🇩🇯",
+            "flag": "assets/flags/djibouti.png"
         }
     ]
 }
