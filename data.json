@@ -327,11 +327,6 @@
             "flag": "assets/flags/japan.png"
         },
         {
-            "name": "Jordan",
-            "emoji": "🇯🇴",
-            "flag": "assets/flags/jordan.png"
-        },
-        {
             "name": "Kazakhstan",
             "emoji": "🇰🇿",
             "flag": "assets/flags/kazakhstan.png"
@@ -692,11 +687,6 @@
             "flag": "assets/flags/tonga.png"
         },
         {
-            "name": "Trinidad and Tobago",
-            "emoji": "🇹🇹",
-            "flag": "assets/flags/trinidad-and-tobago.png"
-        },
-        {
             "name": "Tunisia",
             "emoji": "🇹🇳",
             "flag": "assets/flags/tunisia.png"
@@ -913,6 +903,16 @@
             "name": "Maldives",
             "emoji": "🇲🇻",
             "flag": "assets/flags/maldives.png"
+        },
+        {
+            "name": "Trinidad and Tobago",
+            "emoji": "🇹🇹",
+            "flag": "assets/flags/trinidad-and-tobago.png"
+        },
+        {
+            "name": "Jordan",
+            "emoji": "🇯🇴",
+            "flag": "assets/flags/jordan.png"
         }
     ]
 }
