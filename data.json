@@ -142,11 +142,6 @@
             "flag": "assets/flags/democratic-republic-of-the-congo.png"
         },
         {
-            "name": "Costa Rica",
-            "emoji": "🇨🇷",
-            "flag": "assets/flags/costa-rica.png"
-        },
-        {
             "name": "Croatia",
             "emoji": "🇭🇷",
             "flag": "assets/flags/croatia.png"
@@ -160,11 +155,6 @@
             "name": "Denmark",
             "emoji": "🇩🇰",
             "flag": "assets/flags/denmark.png"
-        },
-        {
-            "name": "Dominica",
-            "emoji": "🇩🇲",
-            "flag": "assets/flags/dominica.png"
         },
         {
             "name": "Ecuador",
@@ -868,6 +858,11 @@
             "name": "Serbia",
             "emoji": "🇷🇸",
             "flag": "assets/flags/serbia.png"
+        },
+        {
+            "name": "Costa Rica",
+            "emoji": "🇨🇷",
+            "flag": "assets/flags/costa-rica.png"
         }
     ]
 }
