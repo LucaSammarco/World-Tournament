@@ -497,16 +497,6 @@
             "flag": "assets/flags/senegal.png"
         },
         {
-            "name": "Serbia",
-            "emoji": "🇷🇸",
-            "flag": "assets/flags/serbia.png"
-        },
-        {
-            "name": "Seychelles",
-            "emoji": "🇸🇨",
-            "flag": "assets/flags/seychelles.png"
-        },
-        {
             "name": "Sierra Leone",
             "emoji": "🇸🇱",
             "flag": "assets/flags/sierra-leone.png"
@@ -873,6 +863,11 @@
             "name": "Jamaica",
             "emoji": "🇯🇲",
             "flag": "assets/flags/jamaica.png"
+        },
+        {
+            "name": "Serbia",
+            "emoji": "🇷🇸",
+            "flag": "assets/flags/serbia.png"
         }
     ]
 }
