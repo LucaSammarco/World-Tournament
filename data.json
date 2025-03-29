@@ -152,11 +152,6 @@
             "flag": "assets/flags/croatia.png"
         },
         {
-            "name": "Cuba",
-            "emoji": "🇨🇺",
-            "flag": "assets/flags/cuba.png"
-        },
-        {
             "name": "Cyprus",
             "emoji": "🇨🇾",
             "flag": "assets/flags/cyprus.png"
@@ -522,11 +517,6 @@
             "flag": "assets/flags/sierra-leone.png"
         },
         {
-            "name": "Singapore",
-            "emoji": "🇸🇬",
-            "flag": "assets/flags/singapore.png"
-        },
-        {
             "name": "Slovenia",
             "emoji": "🇸🇮",
             "flag": "assets/flags/slovenia.png"
@@ -883,6 +873,11 @@
             "name": "Mali",
             "emoji": "🇲🇱",
             "flag": "assets/flags/mali.png"
+        },
+        {
+            "name": "Cuba",
+            "emoji": "🇨🇺",
+            "flag": "assets/flags/cuba.png"
         }
     ]
 }
