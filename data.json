@@ -277,11 +277,6 @@
             "flag": "assets/flags/iran.png"
         },
         {
-            "name": "Ireland",
-            "emoji": "🇮🇪",
-            "flag": "assets/flags/ireland.png"
-        },
-        {
             "name": "Israel",
             "emoji": "🇮🇱",
             "flag": "assets/flags/israel.png"
@@ -360,11 +355,6 @@
             "name": "Malaysia",
             "emoji": "🇲🇾",
             "flag": "assets/flags/malaysia.png"
-        },
-        {
-            "name": "Mali",
-            "emoji": "🇲🇱",
-            "flag": "assets/flags/mali.png"
         },
         {
             "name": "Marshall Islands",
@@ -888,6 +878,11 @@
             "name": "Saint Vincent and the Grenadines",
             "emoji": "🇻🇨",
             "flag": "assets/flags/saint-vincent-and-the-grenadines.png"
+        },
+        {
+            "name": "Mali",
+            "emoji": "🇲🇱",
+            "flag": "assets/flags/mali.png"
         }
     ]
 }
