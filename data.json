@@ -482,11 +482,6 @@
             "flag": "assets/flags/oman.png"
         },
         {
-            "name": "Pakistan",
-            "emoji": "🇵🇰",
-            "flag": "assets/flags/pakistan.png"
-        },
-        {
             "name": "Palau",
             "emoji": "🇵🇼",
             "flag": "assets/flags/palau.png"
@@ -525,11 +520,6 @@
             "name": "Portugal",
             "emoji": "🇵🇹",
             "flag": "assets/flags/portugal.png"
-        },
-        {
-            "name": "Qatar",
-            "emoji": "🇶🇦",
-            "flag": "assets/flags/qatar.png"
         },
         {
             "name": "Russia",
@@ -903,6 +893,16 @@
             "name": "Timor-Leste",
             "emoji": "🇹🇱",
             "flag": "assets/flags/timor-leste.png"
+        },
+        {
+            "name": "Pakistan",
+            "emoji": "🇵🇰",
+            "flag": "assets/flags/pakistan.png"
+        },
+        {
+            "name": "Qatar",
+            "emoji": "🇶🇦",
+            "flag": "assets/flags/qatar.png"
         }
     ]
 }
