@@ -322,11 +322,6 @@
             "flag": "assets/flags/kazakhstan.png"
         },
         {
-            "name": "Kenya",
-            "emoji": "🇰🇪",
-            "flag": "assets/flags/kenya.png"
-        },
-        {
             "name": "Kiribati",
             "emoji": "🇰🇮",
             "flag": "assets/flags/kiribati.png"
@@ -495,11 +490,6 @@
             "name": "Peru",
             "emoji": "🇵🇪",
             "flag": "assets/flags/peru.png"
-        },
-        {
-            "name": "Philippines",
-            "emoji": "🇵🇭",
-            "flag": "assets/flags/philippines.png"
         },
         {
             "name": "Poland",
@@ -898,6 +888,16 @@
             "name": "Latvia",
             "emoji": "🇱🇻",
             "flag": "assets/flags/latvia.png"
+        },
+        {
+            "name": "Philippines",
+            "emoji": "🇵🇭",
+            "flag": "assets/flags/philippines.png"
+        },
+        {
+            "name": "Kenya",
+            "emoji": "🇰🇪",
+            "flag": "assets/flags/kenya.png"
         }
     ]
 }
