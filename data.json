@@ -192,11 +192,6 @@
             "flag": "assets/flags/estonia.png"
         },
         {
-            "name": "Eswatini",
-            "emoji": "🇸🇿",
-            "flag": "assets/flags/eswatini.png"
-        },
-        {
             "name": "Ethiopia",
             "emoji": "🇪🇹",
             "flag": "assets/flags/ethiopia.png"
@@ -500,11 +495,6 @@
             "name": "Rwanda",
             "emoji": "🇷🇼",
             "flag": "assets/flags/rwanda.png"
-        },
-        {
-            "name": "Saint Vincent and the Grenadines",
-            "emoji": "🇻🇨",
-            "flag": "assets/flags/saint-vincent-and-the-grenadines.png"
         },
         {
             "name": "San Marino",
@@ -893,6 +883,11 @@
             "name": "Equatorial Guinea",
             "emoji": "🇬🇶",
             "flag": "assets/flags/equatorial-guinea.png"
+        },
+        {
+            "name": "Saint Vincent and the Grenadines",
+            "emoji": "🇻🇨",
+            "flag": "assets/flags/saint-vincent-and-the-grenadines.png"
         }
     ]
 }
