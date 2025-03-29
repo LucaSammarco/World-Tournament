@@ -282,11 +282,6 @@
             "flag": "assets/flags/italy.png"
         },
         {
-            "name": "Jamaica",
-            "emoji": "🇯🇲",
-            "flag": "assets/flags/jamaica.png"
-        },
-        {
             "name": "Japan",
             "emoji": "🇯🇵",
             "flag": "assets/flags/japan.png"
@@ -530,11 +525,6 @@
             "name": "South Africa",
             "emoji": "🇿🇦",
             "flag": "assets/flags/south-africa.png"
-        },
-        {
-            "name": "Spain",
-            "emoji": "🇪🇸",
-            "flag": "assets/flags/spain.png"
         },
         {
             "name": "Sudan",
@@ -878,6 +868,11 @@
             "name": "Cuba",
             "emoji": "🇨🇺",
             "flag": "assets/flags/cuba.png"
+        },
+        {
+            "name": "Jamaica",
+            "emoji": "🇯🇲",
+            "flag": "assets/flags/jamaica.png"
         }
     ]
 }
