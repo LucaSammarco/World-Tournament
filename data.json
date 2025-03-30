@@ -387,11 +387,6 @@
             "flag": "assets/flags/nigeria.png"
         },
         {
-            "name": "North Macedonia",
-            "emoji": "🇲🇰",
-            "flag": "assets/flags/north-macedonia.png"
-        },
-        {
             "name": "Oman",
             "emoji": "🇴🇲",
             "flag": "assets/flags/oman.png"
@@ -535,11 +530,6 @@
             "name": "Uganda",
             "emoji": "🇺🇬",
             "flag": "assets/flags/uganda.png"
-        },
-        {
-            "name": "Ukraine",
-            "emoji": "🇺🇦",
-            "flag": "assets/flags/ukraine.png"
         },
         {
             "name": "United Arab Emirates",
@@ -858,6 +848,11 @@
             "name": "South Africa",
             "emoji": "🇿🇦",
             "flag": "assets/flags/south-africa.png"
+        },
+        {
+            "name": "North Macedonia",
+            "emoji": "🇲🇰",
+            "flag": "assets/flags/north-macedonia.png"
         }
     ]
 }
