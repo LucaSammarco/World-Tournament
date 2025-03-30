@@ -482,11 +482,6 @@
             "flag": "assets/flags/switzerland.png"
         },
         {
-            "name": "Syria",
-            "emoji": "🇸🇾",
-            "flag": "assets/flags/syria.png"
-        },
-        {
             "name": "Tajikistan",
             "emoji": "🇹🇯",
             "flag": "assets/flags/tajikistan.png"
@@ -555,11 +550,6 @@
             "name": "Vietnam",
             "emoji": "🇻🇳",
             "flag": "assets/flags/vietnam.png"
-        },
-        {
-            "name": "Zambia",
-            "emoji": "🇿🇲",
-            "flag": "assets/flags/zambia.png"
         },
         {
             "name": "Zimbabwe",
@@ -853,6 +843,11 @@
             "name": "Liechtenstein",
             "emoji": "🇱🇮",
             "flag": "assets/flags/liechtenstein.png"
+        },
+        {
+            "name": "Zambia",
+            "emoji": "🇿🇲",
+            "flag": "assets/flags/zambia.png"
         }
     ]
 }
