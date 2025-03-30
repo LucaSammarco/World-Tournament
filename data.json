@@ -87,11 +87,6 @@
             "flag": "assets/flags/bolivia.png"
         },
         {
-            "name": "Brunei",
-            "emoji": "🇧🇳",
-            "flag": "assets/flags/brunei.png"
-        },
-        {
             "name": "Burundi",
             "emoji": "🇧🇮",
             "flag": "assets/flags/burundi.png"
@@ -410,11 +405,6 @@
             "name": "Palestine",
             "emoji": "🇵🇸",
             "flag": "assets/flags/palestine.png"
-        },
-        {
-            "name": "Panama",
-            "emoji": "🇵🇦",
-            "flag": "assets/flags/panama.png"
         },
         {
             "name": "Paraguay",
@@ -863,6 +853,11 @@
             "name": "Grenada",
             "emoji": "🇬🇩",
             "flag": "assets/flags/grenada.png"
+        },
+        {
+            "name": "Brunei",
+            "emoji": "🇧🇳",
+            "flag": "assets/flags/brunei.png"
         }
     ]
 }
