@@ -432,11 +432,6 @@
             "flag": "assets/flags/suriname.png"
         },
         {
-            "name": "Sweden",
-            "emoji": "🇸🇪",
-            "flag": "assets/flags/sweden.png"
-        },
-        {
             "name": "Switzerland",
             "emoji": "🇨🇭",
             "flag": "assets/flags/switzerland.png"
@@ -450,11 +445,6 @@
             "name": "Tanzania",
             "emoji": "🇹🇿",
             "flag": "assets/flags/tanzania.png"
-        },
-        {
-            "name": "Thailand",
-            "emoji": "🇹🇭",
-            "flag": "assets/flags/thailand.png"
         },
         {
             "name": "Togo",
@@ -843,6 +833,16 @@
             "name": "Moldova",
             "emoji": "🇲🇩",
             "flag": "assets/flags/moldova.png"
+        },
+        {
+            "name": "Sweden",
+            "emoji": "🇸🇪",
+            "flag": "assets/flags/sweden.png"
+        },
+        {
+            "name": "Thailand",
+            "emoji": "🇹🇭",
+            "flag": "assets/flags/thailand.png"
         }
     ]
 }
