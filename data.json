@@ -472,11 +472,6 @@
             "flag": "assets/flags/solomon-islands.png"
         },
         {
-            "name": "South Africa",
-            "emoji": "🇿🇦",
-            "flag": "assets/flags/south-africa.png"
-        },
-        {
             "name": "Sudan",
             "emoji": "🇸🇩",
             "flag": "assets/flags/sudan.png"
@@ -565,11 +560,6 @@
             "name": "Vanuatu",
             "emoji": "🇻🇺",
             "flag": "assets/flags/vanuatu.png"
-        },
-        {
-            "name": "Vatican City",
-            "emoji": "🇻🇦",
-            "flag": "assets/flags/vatican-city.png"
         },
         {
             "name": "Venezuela",
@@ -858,6 +848,16 @@
             "name": "Brunei",
             "emoji": "🇧🇳",
             "flag": "assets/flags/brunei.png"
+        },
+        {
+            "name": "Vatican City",
+            "emoji": "🇻🇦",
+            "flag": "assets/flags/vatican-city.png"
+        },
+        {
+            "name": "South Africa",
+            "emoji": "🇿🇦",
+            "flag": "assets/flags/south-africa.png"
         }
     ]
 }
