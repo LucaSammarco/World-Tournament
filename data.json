@@ -102,11 +102,6 @@
             "flag": "assets/flags/cape-verde.png"
         },
         {
-            "name": "Central African Republic",
-            "emoji": "🇨🇫",
-            "flag": "assets/flags/central-african-republic.png"
-        },
-        {
             "name": "Chile",
             "emoji": "🇨🇱",
             "flag": "assets/flags/chile.png"
@@ -240,11 +235,6 @@
             "name": "Iran",
             "emoji": "🇮🇷",
             "flag": "assets/flags/iran.png"
-        },
-        {
-            "name": "Israel",
-            "emoji": "🇮🇱",
-            "flag": "assets/flags/israel.png"
         },
         {
             "name": "Japan",
@@ -843,6 +833,16 @@
             "name": "Myanmar",
             "emoji": "🇲🇲",
             "flag": "assets/flags/myanmar.png"
+        },
+        {
+            "name": "Israel",
+            "emoji": "🇮🇱",
+            "flag": "assets/flags/israel.png"
+        },
+        {
+            "name": "Central African Republic",
+            "emoji": "🇨🇫",
+            "flag": "assets/flags/central-african-republic.png"
         }
     ]
 }
