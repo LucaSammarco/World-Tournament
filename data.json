@@ -347,11 +347,6 @@
             "flag": "assets/flags/mozambique.png"
         },
         {
-            "name": "Myanmar",
-            "emoji": "🇲🇲",
-            "flag": "assets/flags/myanmar.png"
-        },
-        {
             "name": "Namibia",
             "emoji": "🇳🇦",
             "flag": "assets/flags/namibia.png"
@@ -420,11 +415,6 @@
             "name": "Russia",
             "emoji": "🇷🇺",
             "flag": "assets/flags/russia.png"
-        },
-        {
-            "name": "Rwanda",
-            "emoji": "🇷🇼",
-            "flag": "assets/flags/rwanda.png"
         },
         {
             "name": "San Marino",
@@ -848,6 +838,11 @@
             "name": "Zambia",
             "emoji": "🇿🇲",
             "flag": "assets/flags/zambia.png"
+        },
+        {
+            "name": "Myanmar",
+            "emoji": "🇲🇲",
+            "flag": "assets/flags/myanmar.png"
         }
     ]
 }
