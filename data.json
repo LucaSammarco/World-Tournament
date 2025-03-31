@@ -22,11 +22,6 @@
             "flag": "assets/flags/argentina.png"
         },
         {
-            "name": "Armenia",
-            "emoji": "🇦🇲",
-            "flag": "assets/flags/armenia.png"
-        },
-        {
             "name": "Austria",
             "emoji": "🇦🇹",
             "flag": "assets/flags/austria.png"
@@ -355,11 +350,6 @@
             "name": "Sudan",
             "emoji": "🇸🇩",
             "flag": "assets/flags/sudan.png"
-        },
-        {
-            "name": "Suriname",
-            "emoji": "🇸🇷",
-            "flag": "assets/flags/suriname.png"
         },
         {
             "name": "Tanzania",
@@ -808,6 +798,11 @@
             "name": "Malawi",
             "emoji": "🇲🇼",
             "flag": "assets/flags/malawi.png"
+        },
+        {
+            "name": "Armenia",
+            "emoji": "🇦🇲",
+            "flag": "assets/flags/armenia.png"
         }
     ]
 }
