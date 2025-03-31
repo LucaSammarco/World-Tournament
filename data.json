@@ -22,11 +22,6 @@
             "flag": "assets/flags/argentina.png"
         },
         {
-            "name": "Austria",
-            "emoji": "🇦🇹",
-            "flag": "assets/flags/austria.png"
-        },
-        {
             "name": "Bahamas",
             "emoji": "🇧🇸",
             "flag": "assets/flags/bahamas.png"
@@ -275,11 +270,6 @@
             "name": "Peru",
             "emoji": "🇵🇪",
             "flag": "assets/flags/peru.png"
-        },
-        {
-            "name": "Poland",
-            "emoji": "🇵🇱",
-            "flag": "assets/flags/poland.png"
         },
         {
             "name": "Portugal",
@@ -803,6 +793,16 @@
             "name": "Malaysia",
             "emoji": "🇲🇾",
             "flag": "assets/flags/malaysia.png"
+        },
+        {
+            "name": "Poland",
+            "emoji": "🇵🇱",
+            "flag": "assets/flags/poland.png"
+        },
+        {
+            "name": "Austria",
+            "emoji": "🇦🇹",
+            "flag": "assets/flags/austria.png"
         }
     ]
 }
