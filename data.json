@@ -177,11 +177,6 @@
             "flag": "assets/flags/ghana.png"
         },
         {
-            "name": "Guinea",
-            "emoji": "🇬🇳",
-            "flag": "assets/flags/guinea.png"
-        },
-        {
             "name": "Guinea-Bissau",
             "emoji": "🇬🇼",
             "flag": "assets/flags/guinea-bissau.png"
@@ -230,11 +225,6 @@
             "name": "Kazakhstan",
             "emoji": "🇰🇿",
             "flag": "assets/flags/kazakhstan.png"
-        },
-        {
-            "name": "Kiribati",
-            "emoji": "🇰🇮",
-            "flag": "assets/flags/kiribati.png"
         },
         {
             "name": "Kuwait",
@@ -833,6 +823,11 @@
             "name": "Eritrea",
             "emoji": "🇪🇷",
             "flag": "assets/flags/eritrea.png"
+        },
+        {
+            "name": "Guinea",
+            "emoji": "🇬🇳",
+            "flag": "assets/flags/guinea.png"
         }
     ]
 }
