@@ -27,11 +27,6 @@
             "flag": "assets/flags/armenia.png"
         },
         {
-            "name": "Australia",
-            "emoji": "🇦🇺",
-            "flag": "assets/flags/australia.png"
-        },
-        {
             "name": "Austria",
             "emoji": "🇦🇹",
             "flag": "assets/flags/austria.png"
@@ -70,11 +65,6 @@
             "name": "Benin",
             "emoji": "🇧🇯",
             "flag": "assets/flags/benin.png"
-        },
-        {
-            "name": "Bhutan",
-            "emoji": "🇧🇹",
-            "flag": "assets/flags/bhutan.png"
         },
         {
             "name": "Bolivia",
@@ -818,6 +808,11 @@
             "name": "Estonia",
             "emoji": "🇪🇪",
             "flag": "assets/flags/estonia.png"
+        },
+        {
+            "name": "Bhutan",
+            "emoji": "🇧🇹",
+            "flag": "assets/flags/bhutan.png"
         }
     ]
 }
