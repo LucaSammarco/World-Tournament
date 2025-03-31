@@ -137,11 +137,6 @@
             "flag": "assets/flags/el-salvador.png"
         },
         {
-            "name": "Estonia",
-            "emoji": "🇪🇪",
-            "flag": "assets/flags/estonia.png"
-        },
-        {
             "name": "Ethiopia",
             "emoji": "🇪🇹",
             "flag": "assets/flags/ethiopia.png"
@@ -385,11 +380,6 @@
             "name": "Suriname",
             "emoji": "🇸🇷",
             "flag": "assets/flags/suriname.png"
-        },
-        {
-            "name": "Switzerland",
-            "emoji": "🇨🇭",
-            "flag": "assets/flags/switzerland.png"
         },
         {
             "name": "Tanzania",
@@ -823,6 +813,11 @@
             "name": "Tajikistan",
             "emoji": "🇹🇯",
             "flag": "assets/flags/tajikistan.png"
+        },
+        {
+            "name": "Estonia",
+            "emoji": "🇪🇪",
+            "flag": "assets/flags/estonia.png"
         }
     ]
 }
