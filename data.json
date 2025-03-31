@@ -337,11 +337,6 @@
             "flag": "assets/flags/palau.png"
         },
         {
-            "name": "Palestine",
-            "emoji": "🇵🇸",
-            "flag": "assets/flags/palestine.png"
-        },
-        {
             "name": "Paraguay",
             "emoji": "🇵🇾",
             "flag": "assets/flags/paraguay.png"
@@ -390,11 +385,6 @@
             "name": "Sierra Leone",
             "emoji": "🇸🇱",
             "flag": "assets/flags/sierra-leone.png"
-        },
-        {
-            "name": "Slovenia",
-            "emoji": "🇸🇮",
-            "flag": "assets/flags/slovenia.png"
         },
         {
             "name": "Sudan",
@@ -828,6 +818,11 @@
             "name": "Guinea",
             "emoji": "🇬🇳",
             "flag": "assets/flags/guinea.png"
+        },
+        {
+            "name": "Slovenia",
+            "emoji": "🇸🇮",
+            "flag": "assets/flags/slovenia.png"
         }
     ]
 }
