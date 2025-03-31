@@ -52,11 +52,6 @@
             "flag": "assets/flags/belarus.png"
         },
         {
-            "name": "Belgium",
-            "emoji": "🇧🇪",
-            "flag": "assets/flags/belgium.png"
-        },
-        {
             "name": "Benin",
             "emoji": "🇧🇯",
             "flag": "assets/flags/benin.png"
@@ -215,11 +210,6 @@
             "name": "Madagascar",
             "emoji": "🇲🇬",
             "flag": "assets/flags/madagascar.png"
-        },
-        {
-            "name": "Malaysia",
-            "emoji": "🇲🇾",
-            "flag": "assets/flags/malaysia.png"
         },
         {
             "name": "Marshall Islands",
@@ -803,6 +793,16 @@
             "name": "Iceland",
             "emoji": "🇮🇸",
             "flag": "assets/flags/iceland.png"
+        },
+        {
+            "name": "Belgium",
+            "emoji": "🇧🇪",
+            "flag": "assets/flags/belgium.png"
+        },
+        {
+            "name": "Malaysia",
+            "emoji": "🇲🇾",
+            "flag": "assets/flags/malaysia.png"
         }
     ]
 }
