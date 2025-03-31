@@ -132,11 +132,6 @@
             "flag": "assets/flags/denmark.png"
         },
         {
-            "name": "Ecuador",
-            "emoji": "🇪🇨",
-            "flag": "assets/flags/ecuador.png"
-        },
-        {
             "name": "El Salvador",
             "emoji": "🇸🇻",
             "flag": "assets/flags/el-salvador.png"
@@ -235,11 +230,6 @@
             "name": "Kyrgyzstan",
             "emoji": "🇰🇬",
             "flag": "assets/flags/kyrgyzstan.png"
-        },
-        {
-            "name": "Lebanon",
-            "emoji": "🇱🇧",
-            "flag": "assets/flags/lebanon.png"
         },
         {
             "name": "Liberia",
@@ -823,6 +813,16 @@
             "name": "Slovenia",
             "emoji": "🇸🇮",
             "flag": "assets/flags/slovenia.png"
+        },
+        {
+            "name": "Lebanon",
+            "emoji": "🇱🇧",
+            "flag": "assets/flags/lebanon.png"
+        },
+        {
+            "name": "Ecuador",
+            "emoji": "🇪🇨",
+            "flag": "assets/flags/ecuador.png"
         }
     ]
 }
