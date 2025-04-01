@@ -132,11 +132,6 @@
             "flag": "assets/flags/hungary.png"
         },
         {
-            "name": "India",
-            "emoji": "🇮🇳",
-            "flag": "assets/flags/india.png"
-        },
-        {
             "name": "Indonesia",
             "emoji": "🇮🇩",
             "flag": "assets/flags/indonesia.png"
@@ -225,11 +220,6 @@
             "name": "Russia",
             "emoji": "🇷🇺",
             "flag": "assets/flags/russia.png"
-        },
-        {
-            "name": "San Marino",
-            "emoji": "🇸🇲",
-            "flag": "assets/flags/san-marino.png"
         },
         {
             "name": "São Tomé and Príncipe",
@@ -793,6 +783,16 @@
             "name": "Mongolia",
             "emoji": "🇲🇳",
             "flag": "assets/flags/mongolia.png"
+        },
+        {
+            "name": "India",
+            "emoji": "🇮🇳",
+            "flag": "assets/flags/india.png"
+        },
+        {
+            "name": "San Marino",
+            "emoji": "🇸🇲",
+            "flag": "assets/flags/san-marino.png"
         }
     ]
 }
