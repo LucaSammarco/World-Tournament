@@ -7,11 +7,6 @@
             "flag": "assets/flags/albania.png"
         },
         {
-            "name": "Algeria",
-            "emoji": "🇩🇿",
-            "flag": "assets/flags/algeria.png"
-        },
-        {
             "name": "Argentina",
             "emoji": "🇦🇷",
             "flag": "assets/flags/argentina.png"
@@ -245,11 +240,6 @@
             "name": "United States",
             "emoji": "🇺🇸",
             "flag": "assets/flags/united-states.png"
-        },
-        {
-            "name": "Vanuatu",
-            "emoji": "🇻🇺",
-            "flag": "assets/flags/vanuatu.png"
         },
         {
             "name": "Zimbabwe",
@@ -788,6 +778,16 @@
             "name": "Indonesia",
             "emoji": "🇮🇩",
             "flag": "assets/flags/indonesia.png"
+        },
+        {
+            "name": "Vanuatu",
+            "emoji": "🇻🇺",
+            "flag": "assets/flags/vanuatu.png"
+        },
+        {
+            "name": "Algeria",
+            "emoji": "🇩🇿",
+            "flag": "assets/flags/algeria.png"
         }
     ]
 }
