@@ -177,11 +177,6 @@
             "flag": "assets/flags/mauritania.png"
         },
         {
-            "name": "Mongolia",
-            "emoji": "🇲🇳",
-            "flag": "assets/flags/mongolia.png"
-        },
-        {
             "name": "Montenegro",
             "emoji": "🇲🇪",
             "flag": "assets/flags/montenegro.png"
@@ -250,11 +245,6 @@
             "name": "Senegal",
             "emoji": "🇸🇳",
             "flag": "assets/flags/senegal.png"
-        },
-        {
-            "name": "Sierra Leone",
-            "emoji": "🇸🇱",
-            "flag": "assets/flags/sierra-leone.png"
         },
         {
             "name": "Sudan",
@@ -798,6 +788,11 @@
             "name": "Iran",
             "emoji": "🇮🇷",
             "flag": "assets/flags/iran.png"
+        },
+        {
+            "name": "Mongolia",
+            "emoji": "🇲🇳",
+            "flag": "assets/flags/mongolia.png"
         }
     ]
 }
