@@ -142,19 +142,9 @@
             "flag": "assets/flags/indonesia.png"
         },
         {
-            "name": "Iran",
-            "emoji": "🇮🇷",
-            "flag": "assets/flags/iran.png"
-        },
-        {
             "name": "Japan",
             "emoji": "🇯🇵",
             "flag": "assets/flags/japan.png"
-        },
-        {
-            "name": "Kuwait",
-            "emoji": "🇰🇼",
-            "flag": "assets/flags/kuwait.png"
         },
         {
             "name": "Kyrgyzstan",
@@ -798,6 +788,16 @@
             "name": "New Zealand",
             "emoji": "🇳🇿",
             "flag": "assets/flags/new-zealand.png"
+        },
+        {
+            "name": "Kuwait",
+            "emoji": "🇰🇼",
+            "flag": "assets/flags/kuwait.png"
+        },
+        {
+            "name": "Iran",
+            "emoji": "🇮🇷",
+            "flag": "assets/flags/iran.png"
         }
     ]
 }
