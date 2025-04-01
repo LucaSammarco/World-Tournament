@@ -12,11 +12,6 @@
             "flag": "assets/flags/algeria.png"
         },
         {
-            "name": "Angola",
-            "emoji": "🇦🇴",
-            "flag": "assets/flags/angola.png"
-        },
-        {
             "name": "Argentina",
             "emoji": "🇦🇷",
             "flag": "assets/flags/argentina.png"
@@ -90,11 +85,6 @@
             "name": "Democratic Republic of the Congo",
             "emoji": "🇨🇩",
             "flag": "assets/flags/democratic-republic-of-the-congo.png"
-        },
-        {
-            "name": "Croatia",
-            "emoji": "🇭🇷",
-            "flag": "assets/flags/croatia.png"
         },
         {
             "name": "Cyprus",
@@ -803,6 +793,16 @@
             "name": "Kazakhstan",
             "emoji": "🇰🇿",
             "flag": "assets/flags/kazakhstan.png"
+        },
+        {
+            "name": "Croatia",
+            "emoji": "🇭🇷",
+            "flag": "assets/flags/croatia.png"
+        },
+        {
+            "name": "Angola",
+            "emoji": "🇦🇴",
+            "flag": "assets/flags/angola.png"
         }
     ]
 }
