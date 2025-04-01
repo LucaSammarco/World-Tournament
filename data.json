@@ -112,11 +112,6 @@
             "flag": "assets/flags/finland.png"
         },
         {
-            "name": "Gabon",
-            "emoji": "🇬🇦",
-            "flag": "assets/flags/gabon.png"
-        },
-        {
             "name": "Germany",
             "emoji": "🇩🇪",
             "flag": "assets/flags/germany.png"
@@ -135,11 +130,6 @@
             "name": "Guyana",
             "emoji": "🇬🇾",
             "flag": "assets/flags/guyana.png"
-        },
-        {
-            "name": "Honduras",
-            "emoji": "🇭🇳",
-            "flag": "assets/flags/honduras.png"
         },
         {
             "name": "Hungary",
@@ -803,6 +793,16 @@
             "name": "Angola",
             "emoji": "🇦🇴",
             "flag": "assets/flags/angola.png"
+        },
+        {
+            "name": "Honduras",
+            "emoji": "🇭🇳",
+            "flag": "assets/flags/honduras.png"
+        },
+        {
+            "name": "Gabon",
+            "emoji": "🇬🇦",
+            "flag": "assets/flags/gabon.png"
         }
     ]
 }
