@@ -77,11 +77,6 @@
             "flag": "assets/flags/china.png"
         },
         {
-            "name": "Comoros",
-            "emoji": "🇰🇲",
-            "flag": "assets/flags/comoros.png"
-        },
-        {
             "name": "Democratic Republic of the Congo",
             "emoji": "🇨🇩",
             "flag": "assets/flags/democratic-republic-of-the-congo.png"
@@ -300,11 +295,6 @@
             "name": "Tonga",
             "emoji": "🇹🇴",
             "flag": "assets/flags/tonga.png"
-        },
-        {
-            "name": "Tunisia",
-            "emoji": "🇹🇳",
-            "flag": "assets/flags/tunisia.png"
         },
         {
             "name": "Turkey",
@@ -803,6 +793,16 @@
             "name": "Gabon",
             "emoji": "🇬🇦",
             "flag": "assets/flags/gabon.png"
+        },
+        {
+            "name": "Comoros",
+            "emoji": "🇰🇲",
+            "flag": "assets/flags/comoros.png"
+        },
+        {
+            "name": "Tunisia",
+            "emoji": "🇹🇳",
+            "flag": "assets/flags/tunisia.png"
         }
     ]
 }
