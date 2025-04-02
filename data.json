@@ -37,11 +37,6 @@
             "flag": "assets/flags/burundi.png"
         },
         {
-            "name": "Cape Verde",
-            "emoji": "🇨🇻",
-            "flag": "assets/flags/cape-verde.png"
-        },
-        {
             "name": "Chile",
             "emoji": "🇨🇱",
             "flag": "assets/flags/chile.png"
@@ -155,11 +150,6 @@
             "name": "Russia",
             "emoji": "🇷🇺",
             "flag": "assets/flags/russia.png"
-        },
-        {
-            "name": "São Tomé and Príncipe",
-            "emoji": "🇸🇹",
-            "flag": "assets/flags/são-tomé-and-príncipe.png"
         },
         {
             "name": "Saudi Arabia",
@@ -778,6 +768,11 @@
             "name": "Zimbabwe",
             "emoji": "🇿🇼",
             "flag": "assets/flags/zimbabwe.png"
+        },
+        {
+            "name": "São Tomé and Príncipe",
+            "emoji": "🇸🇹",
+            "flag": "assets/flags/são-tomé-and-príncipe.png"
         }
     ]
 }
