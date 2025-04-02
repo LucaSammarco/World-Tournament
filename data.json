@@ -42,11 +42,6 @@
             "flag": "assets/flags/burundi.png"
         },
         {
-            "name": "Canada",
-            "emoji": "🇨🇦",
-            "flag": "assets/flags/canada.png"
-        },
-        {
             "name": "Cape Verde",
             "emoji": "🇨🇻",
             "flag": "assets/flags/cape-verde.png"
@@ -75,11 +70,6 @@
             "name": "Denmark",
             "emoji": "🇩🇰",
             "flag": "assets/flags/denmark.png"
-        },
-        {
-            "name": "El Salvador",
-            "emoji": "🇸🇻",
-            "flag": "assets/flags/el-salvador.png"
         },
         {
             "name": "Germany",
@@ -783,6 +773,16 @@
             "name": "Albania",
             "emoji": "🇦🇱",
             "flag": "assets/flags/albania.png"
+        },
+        {
+            "name": "Canada",
+            "emoji": "🇨🇦",
+            "flag": "assets/flags/canada.png"
+        },
+        {
+            "name": "El Salvador",
+            "emoji": "🇸🇻",
+            "flag": "assets/flags/el-salvador.png"
         }
     ]
 }
