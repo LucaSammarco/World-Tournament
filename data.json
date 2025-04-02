@@ -92,11 +92,6 @@
             "flag": "assets/flags/nigeria.png"
         },
         {
-            "name": "Peru",
-            "emoji": "🇵🇪",
-            "flag": "assets/flags/peru.png"
-        },
-        {
             "name": "Russia",
             "emoji": "🇷🇺",
             "flag": "assets/flags/russia.png"
@@ -130,11 +125,6 @@
             "name": "United Kingdom",
             "emoji": "🇬🇧",
             "flag": "assets/flags/united-kingdom.png"
-        },
-        {
-            "name": "United States",
-            "emoji": "🇺🇸",
-            "flag": "assets/flags/united-states.png"
         }
     ],
     "total_countries": 195,
@@ -748,6 +738,11 @@
             "name": "Mozambique",
             "emoji": "🇲🇿",
             "flag": "assets/flags/mozambique.png"
+        },
+        {
+            "name": "United States",
+            "emoji": "🇺🇸",
+            "flag": "assets/flags/united-states.png"
         }
     ]
 }
