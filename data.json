@@ -2,16 +2,6 @@
     "round": 1,
     "remaining": [
         {
-            "name": "Albania",
-            "emoji": "🇦🇱",
-            "flag": "assets/flags/albania.png"
-        },
-        {
-            "name": "Argentina",
-            "emoji": "🇦🇷",
-            "flag": "assets/flags/argentina.png"
-        },
-        {
             "name": "Bahamas",
             "emoji": "🇧🇸",
             "flag": "assets/flags/bahamas.png"
@@ -788,6 +778,11 @@
             "name": "Algeria",
             "emoji": "🇩🇿",
             "flag": "assets/flags/algeria.png"
+        },
+        {
+            "name": "Albania",
+            "emoji": "🇦🇱",
+            "flag": "assets/flags/albania.png"
         }
     ]
 }
