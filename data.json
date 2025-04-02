@@ -107,11 +107,6 @@
             "flag": "assets/flags/marshall-islands.png"
         },
         {
-            "name": "Mauritania",
-            "emoji": "🇲🇷",
-            "flag": "assets/flags/mauritania.png"
-        },
-        {
             "name": "Montenegro",
             "emoji": "🇲🇪",
             "flag": "assets/flags/montenegro.png"
@@ -210,11 +205,6 @@
             "name": "United States",
             "emoji": "🇺🇸",
             "flag": "assets/flags/united-states.png"
-        },
-        {
-            "name": "Zimbabwe",
-            "emoji": "🇿🇼",
-            "flag": "assets/flags/zimbabwe.png"
         }
     ],
     "total_countries": 195,
@@ -778,6 +768,16 @@
             "name": "Sudan",
             "emoji": "🇸🇩",
             "flag": "assets/flags/sudan.png"
+        },
+        {
+            "name": "Mauritania",
+            "emoji": "🇲🇷",
+            "flag": "assets/flags/mauritania.png"
+        },
+        {
+            "name": "Zimbabwe",
+            "emoji": "🇿🇼",
+            "flag": "assets/flags/zimbabwe.png"
         }
     ]
 }
