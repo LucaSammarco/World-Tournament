@@ -117,11 +117,6 @@
             "flag": "assets/flags/nauru.png"
         },
         {
-            "name": "Nepal",
-            "emoji": "🇳🇵",
-            "flag": "assets/flags/nepal.png"
-        },
-        {
             "name": "Netherlands",
             "emoji": "🇳🇱",
             "flag": "assets/flags/netherlands.png"
@@ -135,11 +130,6 @@
             "name": "Oman",
             "emoji": "🇴🇲",
             "flag": "assets/flags/oman.png"
-        },
-        {
-            "name": "Paraguay",
-            "emoji": "🇵🇾",
-            "flag": "assets/flags/paraguay.png"
         },
         {
             "name": "Peru",
@@ -773,6 +763,11 @@
             "name": "São Tomé and Príncipe",
             "emoji": "🇸🇹",
             "flag": "assets/flags/são-tomé-and-príncipe.png"
+        },
+        {
+            "name": "Nepal",
+            "emoji": "🇳🇵",
+            "flag": "assets/flags/nepal.png"
         }
     ]
 }
