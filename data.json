@@ -12,11 +12,6 @@
             "flag": "assets/flags/bahrain.png"
         },
         {
-            "name": "Bangladesh",
-            "emoji": "🇧🇩",
-            "flag": "assets/flags/bangladesh.png"
-        },
-        {
             "name": "Barbados",
             "emoji": "🇧🇧",
             "flag": "assets/flags/barbados.png"
@@ -85,11 +80,6 @@
             "name": "Madagascar",
             "emoji": "🇲🇬",
             "flag": "assets/flags/madagascar.png"
-        },
-        {
-            "name": "Marshall Islands",
-            "emoji": "🇲🇭",
-            "flag": "assets/flags/marshall-islands.png"
         },
         {
             "name": "Montenegro",
@@ -763,6 +753,11 @@
             "name": "Democratic Republic of the Congo",
             "emoji": "🇨🇩",
             "flag": "assets/flags/democratic-republic-of-the-congo.png"
+        },
+        {
+            "name": "Marshall Islands",
+            "emoji": "🇲🇭",
+            "flag": "assets/flags/marshall-islands.png"
         }
     ]
 }
