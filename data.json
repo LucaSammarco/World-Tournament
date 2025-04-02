@@ -32,11 +32,6 @@
             "flag": "assets/flags/benin.png"
         },
         {
-            "name": "Bolivia",
-            "emoji": "🇧🇴",
-            "flag": "assets/flags/bolivia.png"
-        },
-        {
             "name": "Burundi",
             "emoji": "🇧🇮",
             "flag": "assets/flags/burundi.png"
@@ -180,11 +175,6 @@
             "name": "Senegal",
             "emoji": "🇸🇳",
             "flag": "assets/flags/senegal.png"
-        },
-        {
-            "name": "Sudan",
-            "emoji": "🇸🇩",
-            "flag": "assets/flags/sudan.png"
         },
         {
             "name": "Tanzania",
@@ -783,6 +773,11 @@
             "name": "El Salvador",
             "emoji": "🇸🇻",
             "flag": "assets/flags/el-salvador.png"
+        },
+        {
+            "name": "Sudan",
+            "emoji": "🇸🇩",
+            "flag": "assets/flags/sudan.png"
         }
     ]
 }
