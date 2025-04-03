@@ -12,19 +12,9 @@
             "flag": "assets/flags/chile.png"
         },
         {
-            "name": "Ghana",
-            "emoji": "🇬🇭",
-            "flag": "assets/flags/ghana.png"
-        },
-        {
             "name": "Saudi Arabia",
             "emoji": "🇸🇦",
             "flag": "assets/flags/saudi-arabia.png"
-        },
-        {
-            "name": "United Arab Emirates",
-            "emoji": "🇦🇪",
-            "flag": "assets/flags/united-arab-emirates.png"
         }
     ],
     "total_countries": 195,
@@ -718,6 +708,11 @@
             "name": "Togo",
             "emoji": "🇹🇬",
             "flag": "assets/flags/togo.png"
+        },
+        {
+            "name": "Ghana",
+            "emoji": "🇬🇭",
+            "flag": "assets/flags/ghana.png"
         }
     ]
 }
