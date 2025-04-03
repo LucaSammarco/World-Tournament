@@ -7,11 +7,6 @@
             "flag": "assets/flags/bahamas.png"
         },
         {
-            "name": "Bahrain",
-            "emoji": "🇧🇭",
-            "flag": "assets/flags/bahrain.png"
-        },
-        {
             "name": "Chile",
             "emoji": "🇨🇱",
             "flag": "assets/flags/chile.png"
@@ -25,11 +20,6 @@
             "name": "Saudi Arabia",
             "emoji": "🇸🇦",
             "flag": "assets/flags/saudi-arabia.png"
-        },
-        {
-            "name": "Togo",
-            "emoji": "🇹🇬",
-            "flag": "assets/flags/togo.png"
         },
         {
             "name": "United Arab Emirates",
@@ -718,6 +708,16 @@
             "name": "Kyrgyzstan",
             "emoji": "🇰🇬",
             "flag": "assets/flags/kyrgyzstan.png"
+        },
+        {
+            "name": "Bahrain",
+            "emoji": "🇧🇭",
+            "flag": "assets/flags/bahrain.png"
+        },
+        {
+            "name": "Togo",
+            "emoji": "🇹🇬",
+            "flag": "assets/flags/togo.png"
         }
     ]
 }
