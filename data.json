@@ -17,19 +17,9 @@
             "flag": "assets/flags/barbados.png"
         },
         {
-            "name": "Burundi",
-            "emoji": "🇧🇮",
-            "flag": "assets/flags/burundi.png"
-        },
-        {
             "name": "Chile",
             "emoji": "🇨🇱",
             "flag": "assets/flags/chile.png"
-        },
-        {
-            "name": "Germany",
-            "emoji": "🇩🇪",
-            "flag": "assets/flags/germany.png"
         },
         {
             "name": "Ghana",
@@ -733,6 +723,16 @@
             "name": "Denmark",
             "emoji": "🇩🇰",
             "flag": "assets/flags/denmark.png"
+        },
+        {
+            "name": "Burundi",
+            "emoji": "🇧🇮",
+            "flag": "assets/flags/burundi.png"
+        },
+        {
+            "name": "Germany",
+            "emoji": "🇩🇪",
+            "flag": "assets/flags/germany.png"
         }
     ]
 }
