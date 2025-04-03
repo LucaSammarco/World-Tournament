@@ -22,16 +22,6 @@
             "flag": "assets/flags/ghana.png"
         },
         {
-            "name": "Japan",
-            "emoji": "🇯🇵",
-            "flag": "assets/flags/japan.png"
-        },
-        {
-            "name": "Kyrgyzstan",
-            "emoji": "🇰🇬",
-            "flag": "assets/flags/kyrgyzstan.png"
-        },
-        {
             "name": "Saudi Arabia",
             "emoji": "🇸🇦",
             "flag": "assets/flags/saudi-arabia.png"
@@ -723,6 +713,11 @@
             "name": "Senegal",
             "emoji": "🇸🇳",
             "flag": "assets/flags/senegal.png"
+        },
+        {
+            "name": "Kyrgyzstan",
+            "emoji": "🇰🇬",
+            "flag": "assets/flags/kyrgyzstan.png"
         }
     ]
 }
