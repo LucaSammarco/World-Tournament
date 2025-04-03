@@ -32,19 +32,9 @@
             "flag": "assets/flags/kyrgyzstan.png"
         },
         {
-            "name": "Nigeria",
-            "emoji": "🇳🇬",
-            "flag": "assets/flags/nigeria.png"
-        },
-        {
             "name": "Saudi Arabia",
             "emoji": "🇸🇦",
             "flag": "assets/flags/saudi-arabia.png"
-        },
-        {
-            "name": "Senegal",
-            "emoji": "🇸🇳",
-            "flag": "assets/flags/senegal.png"
         },
         {
             "name": "Togo",
@@ -728,6 +718,11 @@
             "name": "Madagascar",
             "emoji": "🇲🇬",
             "flag": "assets/flags/madagascar.png"
+        },
+        {
+            "name": "Senegal",
+            "emoji": "🇸🇳",
+            "flag": "assets/flags/senegal.png"
         }
     ]
 }
