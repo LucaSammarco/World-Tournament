@@ -2,16 +2,6 @@
     "round": 1,
     "remaining": [
         {
-            "name": "Bahamas",
-            "emoji": "🇧🇸",
-            "flag": "assets/flags/bahamas.png"
-        },
-        {
-            "name": "Chile",
-            "emoji": "🇨🇱",
-            "flag": "assets/flags/chile.png"
-        },
-        {
             "name": "Saudi Arabia",
             "emoji": "🇸🇦",
             "flag": "assets/flags/saudi-arabia.png"
@@ -713,6 +703,16 @@
             "name": "Ghana",
             "emoji": "🇬🇭",
             "flag": "assets/flags/ghana.png"
+        },
+        {
+            "name": "Bahamas",
+            "emoji": "🇧🇸",
+            "flag": "assets/flags/bahamas.png"
+        },
+        {
+            "name": "Chile",
+            "emoji": "🇨🇱",
+            "flag": "assets/flags/chile.png"
         }
     ]
 }
