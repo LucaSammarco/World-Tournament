@@ -17,11 +17,6 @@
             "flag": "assets/flags/barbados.png"
         },
         {
-            "name": "Belarus",
-            "emoji": "🇧🇾",
-            "flag": "assets/flags/belarus.png"
-        },
-        {
             "name": "Burundi",
             "emoji": "🇧🇮",
             "flag": "assets/flags/burundi.png"
@@ -30,11 +25,6 @@
             "name": "Chile",
             "emoji": "🇨🇱",
             "flag": "assets/flags/chile.png"
-        },
-        {
-            "name": "China",
-            "emoji": "🇨🇳",
-            "flag": "assets/flags/china.png"
         },
         {
             "name": "Cyprus",
@@ -738,6 +728,11 @@
             "name": "United Kingdom",
             "emoji": "🇬🇧",
             "flag": "assets/flags/united-kingdom.png"
+        },
+        {
+            "name": "Belarus",
+            "emoji": "🇧🇾",
+            "flag": "assets/flags/belarus.png"
         }
     ]
 }
