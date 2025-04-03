@@ -27,11 +27,6 @@
             "flag": "assets/flags/ghana.png"
         },
         {
-            "name": "Guinea-Bissau",
-            "emoji": "🇬🇼",
-            "flag": "assets/flags/guinea-bissau.png"
-        },
-        {
             "name": "Japan",
             "emoji": "🇯🇵",
             "flag": "assets/flags/japan.png"
@@ -60,11 +55,6 @@
             "name": "Senegal",
             "emoji": "🇸🇳",
             "flag": "assets/flags/senegal.png"
-        },
-        {
-            "name": "Tanzania",
-            "emoji": "🇹🇿",
-            "flag": "assets/flags/tanzania.png"
         },
         {
             "name": "Togo",
@@ -733,6 +723,11 @@
             "name": "Germany",
             "emoji": "🇩🇪",
             "flag": "assets/flags/germany.png"
+        },
+        {
+            "name": "Tanzania",
+            "emoji": "🇹🇿",
+            "flag": "assets/flags/tanzania.png"
         }
     ]
 }
