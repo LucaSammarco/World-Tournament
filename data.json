@@ -22,11 +22,6 @@
             "flag": "assets/flags/belarus.png"
         },
         {
-            "name": "Benin",
-            "emoji": "🇧🇯",
-            "flag": "assets/flags/benin.png"
-        },
-        {
             "name": "Burundi",
             "emoji": "🇧🇮",
             "flag": "assets/flags/burundi.png"
@@ -120,11 +115,6 @@
             "name": "United Arab Emirates",
             "emoji": "🇦🇪",
             "flag": "assets/flags/united-arab-emirates.png"
-        },
-        {
-            "name": "United Kingdom",
-            "emoji": "🇬🇧",
-            "flag": "assets/flags/united-kingdom.png"
         }
     ],
     "total_countries": 195,
@@ -743,6 +733,11 @@
             "name": "United States",
             "emoji": "🇺🇸",
             "flag": "assets/flags/united-states.png"
+        },
+        {
+            "name": "United Kingdom",
+            "emoji": "🇬🇧",
+            "flag": "assets/flags/united-kingdom.png"
         }
     ]
 }
