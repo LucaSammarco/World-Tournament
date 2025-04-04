@@ -152,11 +152,6 @@
             "flag": "assets/flags/chile.png"
         },
         {
-            "name": "China",
-            "emoji": "🇨🇳",
-            "flag": "assets/flags/china.png"
-        },
-        {
             "name": "Colombia",
             "emoji": "🇨🇴",
             "flag": "assets/flags/colombia.png"
@@ -385,11 +380,6 @@
             "name": "Ivory Coast",
             "emoji": "🇨🇮",
             "flag": "assets/flags/ivory-coast.png"
-        },
-        {
-            "name": "Jamaica",
-            "emoji": "🇯🇲",
-            "flag": "assets/flags/jamaica.png"
         },
         {
             "name": "Japan",
@@ -943,6 +933,11 @@
             "name": "Slovenia",
             "emoji": "🇸🇮",
             "flag": "assets/flags/slovenia.png"
+        },
+        {
+            "name": "China",
+            "emoji": "🇨🇳",
+            "flag": "assets/flags/china.png"
         }
     ]
 }
