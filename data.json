@@ -87,11 +87,6 @@
             "flag": "assets/flags/belgium.png"
         },
         {
-            "name": "Belize",
-            "emoji": "🇧🇿",
-            "flag": "assets/flags/belize.png"
-        },
-        {
             "name": "Benin",
             "emoji": "🇧🇯",
             "flag": "assets/flags/benin.png"
@@ -712,11 +707,6 @@
             "flag": "assets/flags/romania.png"
         },
         {
-            "name": "Russia",
-            "emoji": "🇷🇺",
-            "flag": "assets/flags/russia.png"
-        },
-        {
             "name": "Rwanda",
             "emoji": "🇷🇼",
             "flag": "assets/flags/rwanda.png"
@@ -978,5 +968,11 @@
         }
     ],
     "total_countries": 195,
-    "processed_countries": []
+    "processed_countries": [
+        {
+            "name": "Russia",
+            "emoji": "🇷🇺",
+            "flag": "assets/flags/russia.png"
+        }
+    ]
 }
