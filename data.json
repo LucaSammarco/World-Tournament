@@ -87,11 +87,6 @@
             "flag": "assets/flags/belgium.png"
         },
         {
-            "name": "Benin",
-            "emoji": "🇧🇯",
-            "flag": "assets/flags/benin.png"
-        },
-        {
             "name": "Bhutan",
             "emoji": "🇧🇹",
             "flag": "assets/flags/bhutan.png"
@@ -445,11 +440,6 @@
             "name": "Kuwait",
             "emoji": "🇰🇼",
             "flag": "assets/flags/kuwait.png"
-        },
-        {
-            "name": "Kyrgyzstan",
-            "emoji": "🇰🇬",
-            "flag": "assets/flags/kyrgyzstan.png"
         },
         {
             "name": "Laos",
@@ -973,6 +963,16 @@
             "name": "Russia",
             "emoji": "🇷🇺",
             "flag": "assets/flags/russia.png"
+        },
+        {
+            "name": "Benin",
+            "emoji": "🇧🇯",
+            "flag": "assets/flags/benin.png"
+        },
+        {
+            "name": "Kyrgyzstan",
+            "emoji": "🇰🇬",
+            "flag": "assets/flags/kyrgyzstan.png"
         }
     ]
 }
