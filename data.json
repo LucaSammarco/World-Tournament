@@ -552,11 +552,6 @@
             "flag": "assets/flags/montenegro.png"
         },
         {
-            "name": "Morocco",
-            "emoji": "🇲🇦",
-            "flag": "assets/flags/morocco.png"
-        },
-        {
             "name": "Mozambique",
             "emoji": "🇲🇿",
             "flag": "assets/flags/mozambique.png"
@@ -595,11 +590,6 @@
             "name": "Nicaragua",
             "emoji": "🇳🇮",
             "flag": "assets/flags/nicaragua.png"
-        },
-        {
-            "name": "Niger",
-            "emoji": "🇳🇪",
-            "flag": "assets/flags/niger.png"
         },
         {
             "name": "Nigeria",
@@ -968,6 +958,16 @@
             "name": "Afghanistan",
             "emoji": "🇦🇫",
             "flag": "assets/flags/afghanistan.png"
+        },
+        {
+            "name": "Niger",
+            "emoji": "🇳🇪",
+            "flag": "assets/flags/niger.png"
+        },
+        {
+            "name": "Morocco",
+            "emoji": "🇲🇦",
+            "flag": "assets/flags/morocco.png"
         }
     ]
 }
