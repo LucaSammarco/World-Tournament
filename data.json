@@ -137,11 +137,6 @@
             "flag": "assets/flags/cameroon.png"
         },
         {
-            "name": "Canada",
-            "emoji": "🇨🇦",
-            "flag": "assets/flags/canada.png"
-        },
-        {
             "name": "Cape Verde",
             "emoji": "🇨🇻",
             "flag": "assets/flags/cape-verde.png"
@@ -832,11 +827,6 @@
             "flag": "assets/flags/tonga.png"
         },
         {
-            "name": "Trinidad and Tobago",
-            "emoji": "🇹🇹",
-            "flag": "assets/flags/trinidad-and-tobago.png"
-        },
-        {
             "name": "Tunisia",
             "emoji": "🇹🇳",
             "flag": "assets/flags/tunisia.png"
@@ -963,6 +953,11 @@
             "name": "Pakistan",
             "emoji": "🇵🇰",
             "flag": "assets/flags/pakistan.png"
+        },
+        {
+            "name": "Canada",
+            "emoji": "🇨🇦",
+            "flag": "assets/flags/canada.png"
         }
     ]
 }
