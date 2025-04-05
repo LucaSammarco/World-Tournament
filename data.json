@@ -382,11 +382,6 @@
             "flag": "assets/flags/kuwait.png"
         },
         {
-            "name": "Laos",
-            "emoji": "🇱🇦",
-            "flag": "assets/flags/laos.png"
-        },
-        {
             "name": "Latvia",
             "emoji": "🇱🇻",
             "flag": "assets/flags/latvia.png"
@@ -410,11 +405,6 @@
             "name": "Libya",
             "emoji": "🇱🇾",
             "flag": "assets/flags/libya.png"
-        },
-        {
-            "name": "Liechtenstein",
-            "emoji": "🇱🇮",
-            "flag": "assets/flags/liechtenstein.png"
         },
         {
             "name": "Lithuania",
@@ -933,6 +923,16 @@
             "name": "Burundi",
             "emoji": "🇧🇮",
             "flag": "assets/flags/burundi.png"
+        },
+        {
+            "name": "Liechtenstein",
+            "emoji": "🇱🇮",
+            "flag": "assets/flags/liechtenstein.png"
+        },
+        {
+            "name": "Laos",
+            "emoji": "🇱🇦",
+            "flag": "assets/flags/laos.png"
         }
     ]
 }
