@@ -97,11 +97,6 @@
             "flag": "assets/flags/botswana.png"
         },
         {
-            "name": "Brazil",
-            "emoji": "🇧🇷",
-            "flag": "assets/flags/brazil.png"
-        },
-        {
             "name": "Brunei",
             "emoji": "🇧🇳",
             "flag": "assets/flags/brunei.png"
@@ -130,11 +125,6 @@
             "name": "Cameroon",
             "emoji": "🇨🇲",
             "flag": "assets/flags/cameroon.png"
-        },
-        {
-            "name": "Cape Verde",
-            "emoji": "🇨🇻",
-            "flag": "assets/flags/cape-verde.png"
         },
         {
             "name": "Central African Republic",
@@ -938,6 +928,11 @@
             "name": "Egypt",
             "emoji": "🇪🇬",
             "flag": "assets/flags/egypt.png"
+        },
+        {
+            "name": "Brazil",
+            "emoji": "🇧🇷",
+            "flag": "assets/flags/brazil.png"
         }
     ]
 }
