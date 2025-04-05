@@ -342,11 +342,6 @@
             "flag": "assets/flags/kazakhstan.png"
         },
         {
-            "name": "Kenya",
-            "emoji": "🇰🇪",
-            "flag": "assets/flags/kenya.png"
-        },
-        {
             "name": "Kiribati",
             "emoji": "🇰🇮",
             "flag": "assets/flags/kiribati.png"
@@ -757,11 +752,6 @@
             "flag": "assets/flags/vatican-city.png"
         },
         {
-            "name": "Venezuela",
-            "emoji": "🇻🇪",
-            "flag": "assets/flags/venezuela.png"
-        },
-        {
             "name": "Vietnam",
             "emoji": "🇻🇳",
             "flag": "assets/flags/vietnam.png"
@@ -923,6 +913,11 @@
             "name": "Colombia",
             "emoji": "🇨🇴",
             "flag": "assets/flags/colombia.png"
+        },
+        {
+            "name": "Kenya",
+            "emoji": "🇰🇪",
+            "flag": "assets/flags/kenya.png"
         }
     ]
 }
