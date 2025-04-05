@@ -117,11 +117,6 @@
             "flag": "assets/flags/chad.png"
         },
         {
-            "name": "Colombia",
-            "emoji": "🇨🇴",
-            "flag": "assets/flags/colombia.png"
-        },
-        {
             "name": "Comoros",
             "emoji": "🇰🇲",
             "flag": "assets/flags/comoros.png"
@@ -617,11 +612,6 @@
             "flag": "assets/flags/serbia.png"
         },
         {
-            "name": "Seychelles",
-            "emoji": "🇸🇨",
-            "flag": "assets/flags/seychelles.png"
-        },
-        {
             "name": "Sierra Leone",
             "emoji": "🇸🇱",
             "flag": "assets/flags/sierra-leone.png"
@@ -923,6 +913,16 @@
             "name": "Panama",
             "emoji": "🇵🇦",
             "flag": "assets/flags/panama.png"
+        },
+        {
+            "name": "Seychelles",
+            "emoji": "🇸🇨",
+            "flag": "assets/flags/seychelles.png"
+        },
+        {
+            "name": "Colombia",
+            "emoji": "🇨🇴",
+            "flag": "assets/flags/colombia.png"
         }
     ]
 }
