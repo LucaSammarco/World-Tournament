@@ -107,11 +107,6 @@
             "flag": "assets/flags/burkina-faso.png"
         },
         {
-            "name": "Burundi",
-            "emoji": "🇧🇮",
-            "flag": "assets/flags/burundi.png"
-        },
-        {
             "name": "Cambodia",
             "emoji": "🇰🇭",
             "flag": "assets/flags/cambodia.png"
@@ -130,11 +125,6 @@
             "name": "Chad",
             "emoji": "🇹🇩",
             "flag": "assets/flags/chad.png"
-        },
-        {
-            "name": "Chile",
-            "emoji": "🇨🇱",
-            "flag": "assets/flags/chile.png"
         },
         {
             "name": "Colombia",
@@ -933,6 +923,16 @@
             "name": "United Kingdom",
             "emoji": "🇬🇧",
             "flag": "assets/flags/united-kingdom.png"
+        },
+        {
+            "name": "Chile",
+            "emoji": "🇨🇱",
+            "flag": "assets/flags/chile.png"
+        },
+        {
+            "name": "Burundi",
+            "emoji": "🇧🇮",
+            "flag": "assets/flags/burundi.png"
         }
     ]
 }
