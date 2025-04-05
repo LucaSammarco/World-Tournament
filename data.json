@@ -577,11 +577,6 @@
             "flag": "assets/flags/saint-vincent-and-the-grenadines.png"
         },
         {
-            "name": "Samoa",
-            "emoji": "🇼🇸",
-            "flag": "assets/flags/samoa.png"
-        },
-        {
             "name": "San Marino",
             "emoji": "🇸🇲",
             "flag": "assets/flags/san-marino.png"
@@ -730,11 +725,6 @@
             "name": "United Arab Emirates",
             "emoji": "🇦🇪",
             "flag": "assets/flags/united-arab-emirates.png"
-        },
-        {
-            "name": "Uruguay",
-            "emoji": "🇺🇾",
-            "flag": "assets/flags/uruguay.png"
         },
         {
             "name": "Uzbekistan",
@@ -918,6 +908,16 @@
             "name": "Kenya",
             "emoji": "🇰🇪",
             "flag": "assets/flags/kenya.png"
+        },
+        {
+            "name": "Samoa",
+            "emoji": "🇼🇸",
+            "flag": "assets/flags/samoa.png"
+        },
+        {
+            "name": "Uruguay",
+            "emoji": "🇺🇾",
+            "flag": "assets/flags/uruguay.png"
         }
     ]
 }
