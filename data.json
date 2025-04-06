@@ -372,11 +372,6 @@
             "flag": "assets/flags/montenegro.png"
         },
         {
-            "name": "Mozambique",
-            "emoji": "🇲🇿",
-            "flag": "assets/flags/mozambique.png"
-        },
-        {
             "name": "Myanmar",
             "emoji": "🇲🇲",
             "flag": "assets/flags/myanmar.png"
@@ -560,11 +555,6 @@
             "name": "Tajikistan",
             "emoji": "🇹🇯",
             "flag": "assets/flags/tajikistan.png"
-        },
-        {
-            "name": "Tanzania",
-            "emoji": "🇹🇿",
-            "flag": "assets/flags/tanzania.png"
         },
         {
             "name": "Thailand",
@@ -878,6 +868,11 @@
             "name": "Suriname",
             "emoji": "🇸🇷",
             "flag": "assets/flags/suriname.png"
+        },
+        {
+            "name": "Mozambique",
+            "emoji": "🇲🇿",
+            "flag": "assets/flags/mozambique.png"
         }
     ]
 }
