@@ -17,11 +17,6 @@
             "flag": "assets/flags/andorra.png"
         },
         {
-            "name": "Angola",
-            "emoji": "🇦🇴",
-            "flag": "assets/flags/angola.png"
-        },
-        {
             "name": "Argentina",
             "emoji": "🇦🇷",
             "flag": "assets/flags/argentina.png"
@@ -95,11 +90,6 @@
             "name": "Comoros",
             "emoji": "🇰🇲",
             "flag": "assets/flags/comoros.png"
-        },
-        {
-            "name": "Democratic Republic of the Congo",
-            "emoji": "🇨🇩",
-            "flag": "assets/flags/democratic-republic-of-the-congo.png"
         },
         {
             "name": "Republic of the Congo",
@@ -873,6 +863,16 @@
             "name": "Mozambique",
             "emoji": "🇲🇿",
             "flag": "assets/flags/mozambique.png"
+        },
+        {
+            "name": "Angola",
+            "emoji": "🇦🇴",
+            "flag": "assets/flags/angola.png"
+        },
+        {
+            "name": "Democratic Republic of the Congo",
+            "emoji": "🇨🇩",
+            "flag": "assets/flags/democratic-republic-of-the-congo.png"
         }
     ]
 }
