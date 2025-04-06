@@ -62,11 +62,6 @@
             "flag": "assets/flags/bangladesh.png"
         },
         {
-            "name": "Belgium",
-            "emoji": "🇧🇪",
-            "flag": "assets/flags/belgium.png"
-        },
-        {
             "name": "Bhutan",
             "emoji": "🇧🇹",
             "flag": "assets/flags/bhutan.png"
@@ -265,11 +260,6 @@
             "name": "Guyana",
             "emoji": "🇬🇾",
             "flag": "assets/flags/guyana.png"
-        },
-        {
-            "name": "Haiti",
-            "emoji": "🇭🇹",
-            "flag": "assets/flags/haiti.png"
         },
         {
             "name": "Honduras",
@@ -908,6 +898,11 @@
             "name": "Saint Vincent and the Grenadines",
             "emoji": "🇻🇨",
             "flag": "assets/flags/saint-vincent-and-the-grenadines.png"
+        },
+        {
+            "name": "Haiti",
+            "emoji": "🇭🇹",
+            "flag": "assets/flags/haiti.png"
         }
     ]
 }
