@@ -87,11 +87,6 @@
             "flag": "assets/flags/cameroon.png"
         },
         {
-            "name": "Central African Republic",
-            "emoji": "🇨🇫",
-            "flag": "assets/flags/central-african-republic.png"
-        },
-        {
             "name": "Chad",
             "emoji": "🇹🇩",
             "flag": "assets/flags/chad.png"
@@ -240,11 +235,6 @@
             "name": "Guinea",
             "emoji": "🇬🇳",
             "flag": "assets/flags/guinea.png"
-        },
-        {
-            "name": "Guinea-Bissau",
-            "emoji": "🇬🇼",
-            "flag": "assets/flags/guinea-bissau.png"
         },
         {
             "name": "Guyana",
@@ -888,6 +878,11 @@
             "name": "Saudi Arabia",
             "emoji": "🇸🇦",
             "flag": "assets/flags/saudi-arabia.png"
+        },
+        {
+            "name": "Central African Republic",
+            "emoji": "🇨🇫",
+            "flag": "assets/flags/central-african-republic.png"
         }
     ]
 }
