@@ -72,11 +72,6 @@
             "flag": "assets/flags/cambodia.png"
         },
         {
-            "name": "Cameroon",
-            "emoji": "🇨🇲",
-            "flag": "assets/flags/cameroon.png"
-        },
-        {
             "name": "Chad",
             "emoji": "🇹🇩",
             "flag": "assets/flags/chad.png"
@@ -240,11 +235,6 @@
             "name": "Indonesia",
             "emoji": "🇮🇩",
             "flag": "assets/flags/indonesia.png"
-        },
-        {
-            "name": "Iran",
-            "emoji": "🇮🇷",
-            "flag": "assets/flags/iran.png"
         },
         {
             "name": "Iraq",
@@ -863,6 +853,11 @@
             "name": "Lesotho",
             "emoji": "🇱🇸",
             "flag": "assets/flags/lesotho.png"
+        },
+        {
+            "name": "Cameroon",
+            "emoji": "🇨🇲",
+            "flag": "assets/flags/cameroon.png"
         }
     ]
 }
