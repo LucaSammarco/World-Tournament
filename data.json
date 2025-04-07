@@ -82,11 +82,6 @@
             "flag": "assets/flags/comoros.png"
         },
         {
-            "name": "Republic of the Congo",
-            "emoji": "🇨🇬",
-            "flag": "assets/flags/republic-of-the-congo.png"
-        },
-        {
             "name": "Costa Rica",
             "emoji": "🇨🇷",
             "flag": "assets/flags/costa-rica.png"
@@ -345,11 +340,6 @@
             "name": "Nepal",
             "emoji": "🇳🇵",
             "flag": "assets/flags/nepal.png"
-        },
-        {
-            "name": "Netherlands",
-            "emoji": "🇳🇱",
-            "flag": "assets/flags/netherlands.png"
         },
         {
             "name": "Nicaragua",
@@ -853,6 +843,11 @@
             "name": "Kazakhstan",
             "emoji": "🇰🇿",
             "flag": "assets/flags/kazakhstan.png"
+        },
+        {
+            "name": "Republic of the Congo",
+            "emoji": "🇨🇬",
+            "flag": "assets/flags/republic-of-the-congo.png"
         }
     ]
 }
