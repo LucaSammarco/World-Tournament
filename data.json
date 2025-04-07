@@ -352,16 +352,6 @@
             "flag": "assets/flags/palau.png"
         },
         {
-            "name": "Palestine",
-            "emoji": "🇵🇸",
-            "flag": "assets/flags/palestine.png"
-        },
-        {
-            "name": "Peru",
-            "emoji": "🇵🇪",
-            "flag": "assets/flags/peru.png"
-        },
-        {
             "name": "Philippines",
             "emoji": "🇵🇭",
             "flag": "assets/flags/philippines.png"
@@ -833,6 +823,16 @@
             "name": "Andorra",
             "emoji": "🇦🇩",
             "flag": "assets/flags/andorra.png"
+        },
+        {
+            "name": "Peru",
+            "emoji": "🇵🇪",
+            "flag": "assets/flags/peru.png"
+        },
+        {
+            "name": "Palestine",
+            "emoji": "🇵🇸",
+            "flag": "assets/flags/palestine.png"
         }
     ]
 }
