@@ -37,11 +37,6 @@
             "flag": "assets/flags/bahamas.png"
         },
         {
-            "name": "Bangladesh",
-            "emoji": "🇧🇩",
-            "flag": "assets/flags/bangladesh.png"
-        },
-        {
             "name": "Bhutan",
             "emoji": "🇧🇹",
             "flag": "assets/flags/bhutan.png"
@@ -335,11 +330,6 @@
             "name": "Nauru",
             "emoji": "🇳🇷",
             "flag": "assets/flags/nauru.png"
-        },
-        {
-            "name": "Nepal",
-            "emoji": "🇳🇵",
-            "flag": "assets/flags/nepal.png"
         },
         {
             "name": "Nicaragua",
@@ -848,6 +838,11 @@
             "name": "Republic of the Congo",
             "emoji": "🇨🇬",
             "flag": "assets/flags/republic-of-the-congo.png"
+        },
+        {
+            "name": "Nepal",
+            "emoji": "🇳🇵",
+            "flag": "assets/flags/nepal.png"
         }
     ]
 }
