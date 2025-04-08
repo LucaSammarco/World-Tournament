@@ -187,11 +187,6 @@
             "flag": "assets/flags/kiribati.png"
         },
         {
-            "name": "Latvia",
-            "emoji": "🇱🇻",
-            "flag": "assets/flags/latvia.png"
-        },
-        {
             "name": "Lebanon",
             "emoji": "🇱🇧",
             "flag": "assets/flags/lebanon.png"
@@ -410,11 +405,6 @@
             "name": "Vietnam",
             "emoji": "🇻🇳",
             "flag": "assets/flags/vietnam.png"
-        },
-        {
-            "name": "Yemen",
-            "emoji": "🇾🇪",
-            "flag": "assets/flags/yemen.png"
         }
     ],
     "total_countries": 195,
@@ -788,6 +778,11 @@
             "name": "Georgia",
             "emoji": "🇬🇪",
             "flag": "assets/flags/georgia.png"
+        },
+        {
+            "name": "Yemen",
+            "emoji": "🇾🇪",
+            "flag": "assets/flags/yemen.png"
         }
     ]
 }
