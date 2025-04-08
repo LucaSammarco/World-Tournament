@@ -57,11 +57,6 @@
             "flag": "assets/flags/costa-rica.png"
         },
         {
-            "name": "Croatia",
-            "emoji": "🇭🇷",
-            "flag": "assets/flags/croatia.png"
-        },
-        {
             "name": "Cyprus",
             "emoji": "🇨🇾",
             "flag": "assets/flags/cyprus.png"
@@ -130,11 +125,6 @@
             "name": "Gabon",
             "emoji": "🇬🇦",
             "flag": "assets/flags/gabon.png"
-        },
-        {
-            "name": "Georgia",
-            "emoji": "🇬🇪",
-            "flag": "assets/flags/georgia.png"
         },
         {
             "name": "Germany",
@@ -788,6 +778,16 @@
             "name": "Armenia",
             "emoji": "🇦🇲",
             "flag": "assets/flags/armenia.png"
+        },
+        {
+            "name": "Croatia",
+            "emoji": "🇭🇷",
+            "flag": "assets/flags/croatia.png"
+        },
+        {
+            "name": "Georgia",
+            "emoji": "🇬🇪",
+            "flag": "assets/flags/georgia.png"
         }
     ]
 }
