@@ -7,11 +7,6 @@
             "flag": "assets/flags/albania.png"
         },
         {
-            "name": "Argentina",
-            "emoji": "🇦🇷",
-            "flag": "assets/flags/argentina.png"
-        },
-        {
             "name": "Bahamas",
             "emoji": "🇧🇸",
             "flag": "assets/flags/bahamas.png"
@@ -250,11 +245,6 @@
             "name": "Norway",
             "emoji": "🇳🇴",
             "flag": "assets/flags/norway.png"
-        },
-        {
-            "name": "Oman",
-            "emoji": "🇴🇲",
-            "flag": "assets/flags/oman.png"
         },
         {
             "name": "Philippines",
@@ -783,6 +773,16 @@
             "name": "Yemen",
             "emoji": "🇾🇪",
             "flag": "assets/flags/yemen.png"
+        },
+        {
+            "name": "Argentina",
+            "emoji": "🇦🇷",
+            "flag": "assets/flags/argentina.png"
+        },
+        {
+            "name": "Oman",
+            "emoji": "🇴🇲",
+            "flag": "assets/flags/oman.png"
         }
     ]
 }
