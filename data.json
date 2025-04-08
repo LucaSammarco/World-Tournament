@@ -262,19 +262,9 @@
             "flag": "assets/flags/mali.png"
         },
         {
-            "name": "Malta",
-            "emoji": "🇲🇹",
-            "flag": "assets/flags/malta.png"
-        },
-        {
             "name": "Marshall Islands",
             "emoji": "🇲🇭",
             "flag": "assets/flags/marshall-islands.png"
-        },
-        {
-            "name": "Mauritania",
-            "emoji": "🇲🇷",
-            "flag": "assets/flags/mauritania.png"
         },
         {
             "name": "Mauritius",
@@ -823,6 +813,11 @@
             "name": "Dominica",
             "emoji": "🇩🇲",
             "flag": "assets/flags/dominica.png"
+        },
+        {
+            "name": "Mauritania",
+            "emoji": "🇲🇷",
+            "flag": "assets/flags/mauritania.png"
         }
     ]
 }
