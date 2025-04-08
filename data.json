@@ -317,11 +317,6 @@
             "flag": "assets/flags/portugal.png"
         },
         {
-            "name": "Qatar",
-            "emoji": "🇶🇦",
-            "flag": "assets/flags/qatar.png"
-        },
-        {
             "name": "Rwanda",
             "emoji": "🇷🇼",
             "flag": "assets/flags/rwanda.png"
@@ -405,11 +400,6 @@
             "name": "Thailand",
             "emoji": "🇹🇭",
             "flag": "assets/flags/thailand.png"
-        },
-        {
-            "name": "Timor-Leste",
-            "emoji": "🇹🇱",
-            "flag": "assets/flags/timor-leste.png"
         },
         {
             "name": "Togo",
@@ -813,6 +803,11 @@
             "name": "Dominican Republic",
             "emoji": "🇩🇴",
             "flag": "assets/flags/dominican-republic.png"
+        },
+        {
+            "name": "Qatar",
+            "emoji": "🇶🇦",
+            "flag": "assets/flags/qatar.png"
         }
     ]
 }
