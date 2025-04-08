@@ -277,19 +277,9 @@
             "flag": "assets/flags/são-tomé-and-príncipe.png"
         },
         {
-            "name": "Senegal",
-            "emoji": "🇸🇳",
-            "flag": "assets/flags/senegal.png"
-        },
-        {
             "name": "Serbia",
             "emoji": "🇷🇸",
             "flag": "assets/flags/serbia.png"
-        },
-        {
-            "name": "Sierra Leone",
-            "emoji": "🇸🇱",
-            "flag": "assets/flags/sierra-leone.png"
         },
         {
             "name": "Singapore",
@@ -783,6 +773,16 @@
             "name": "Oman",
             "emoji": "🇴🇲",
             "flag": "assets/flags/oman.png"
+        },
+        {
+            "name": "Sierra Leone",
+            "emoji": "🇸🇱",
+            "flag": "assets/flags/sierra-leone.png"
+        },
+        {
+            "name": "Senegal",
+            "emoji": "🇸🇳",
+            "flag": "assets/flags/senegal.png"
         }
     ]
 }
