@@ -7,11 +7,6 @@
             "flag": "assets/flags/albania.png"
         },
         {
-            "name": "Algeria",
-            "emoji": "🇩🇿",
-            "flag": "assets/flags/algeria.png"
-        },
-        {
             "name": "Argentina",
             "emoji": "🇦🇷",
             "flag": "assets/flags/argentina.png"
@@ -440,11 +435,6 @@
             "name": "Yemen",
             "emoji": "🇾🇪",
             "flag": "assets/flags/yemen.png"
-        },
-        {
-            "name": "Zimbabwe",
-            "emoji": "🇿🇼",
-            "flag": "assets/flags/zimbabwe.png"
         }
     ],
     "total_countries": 195,
@@ -798,6 +788,11 @@
             "name": "Honduras",
             "emoji": "🇭🇳",
             "flag": "assets/flags/honduras.png"
+        },
+        {
+            "name": "Zimbabwe",
+            "emoji": "🇿🇼",
+            "flag": "assets/flags/zimbabwe.png"
         }
     ]
 }
