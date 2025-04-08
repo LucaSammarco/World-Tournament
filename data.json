@@ -172,11 +172,6 @@
             "flag": "assets/flags/guinea.png"
         },
         {
-            "name": "Honduras",
-            "emoji": "🇭🇳",
-            "flag": "assets/flags/honduras.png"
-        },
-        {
             "name": "Iceland",
             "emoji": "🇮🇸",
             "flag": "assets/flags/iceland.png"
@@ -310,11 +305,6 @@
             "name": "Rwanda",
             "emoji": "🇷🇼",
             "flag": "assets/flags/rwanda.png"
-        },
-        {
-            "name": "Saint Kitts and Nevis",
-            "emoji": "🇰🇳",
-            "flag": "assets/flags/saint-kitts-and-nevis.png"
         },
         {
             "name": "San Marino",
@@ -803,6 +793,11 @@
             "name": "Mauritius",
             "emoji": "🇲🇺",
             "flag": "assets/flags/mauritius.png"
+        },
+        {
+            "name": "Honduras",
+            "emoji": "🇭🇳",
+            "flag": "assets/flags/honduras.png"
         }
     ]
 }
