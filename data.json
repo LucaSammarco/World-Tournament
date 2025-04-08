@@ -187,11 +187,6 @@
             "flag": "assets/flags/india.png"
         },
         {
-            "name": "Indonesia",
-            "emoji": "🇮🇩",
-            "flag": "assets/flags/indonesia.png"
-        },
-        {
             "name": "Iraq",
             "emoji": "🇮🇶",
             "flag": "assets/flags/iraq.png"
@@ -250,11 +245,6 @@
             "name": "Marshall Islands",
             "emoji": "🇲🇭",
             "flag": "assets/flags/marshall-islands.png"
-        },
-        {
-            "name": "Mauritius",
-            "emoji": "🇲🇺",
-            "flag": "assets/flags/mauritius.png"
         },
         {
             "name": "Mongolia",
@@ -808,6 +798,11 @@
             "name": "Qatar",
             "emoji": "🇶🇦",
             "flag": "assets/flags/qatar.png"
+        },
+        {
+            "name": "Mauritius",
+            "emoji": "🇲🇺",
+            "flag": "assets/flags/mauritius.png"
         }
     ]
 }
