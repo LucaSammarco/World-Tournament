@@ -162,11 +162,6 @@
             "flag": "assets/flags/madagascar.png"
         },
         {
-            "name": "Mali",
-            "emoji": "🇲🇱",
-            "flag": "assets/flags/mali.png"
-        },
-        {
             "name": "Marshall Islands",
             "emoji": "🇲🇭",
             "flag": "assets/flags/marshall-islands.png"
@@ -215,11 +210,6 @@
             "name": "Poland",
             "emoji": "🇵🇱",
             "flag": "assets/flags/poland.png"
-        },
-        {
-            "name": "Portugal",
-            "emoji": "🇵🇹",
-            "flag": "assets/flags/portugal.png"
         },
         {
             "name": "Rwanda",
@@ -758,6 +748,11 @@
             "name": "Czech Republic",
             "emoji": "🇨🇿",
             "flag": "assets/flags/czech-republic.png"
+        },
+        {
+            "name": "Mali",
+            "emoji": "🇲🇱",
+            "flag": "assets/flags/mali.png"
         }
     ]
 }
