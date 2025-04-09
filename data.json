@@ -37,11 +37,6 @@
             "flag": "assets/flags/cambodia.png"
         },
         {
-            "name": "Chad",
-            "emoji": "🇹🇩",
-            "flag": "assets/flags/chad.png"
-        },
-        {
             "name": "Comoros",
             "emoji": "🇰🇲",
             "flag": "assets/flags/comoros.png"
@@ -255,11 +250,6 @@
             "name": "Turkey",
             "emoji": "🇹🇷",
             "flag": "assets/flags/turkey.png"
-        },
-        {
-            "name": "Turkmenistan",
-            "emoji": "🇹🇲",
-            "flag": "assets/flags/turkmenistan.png"
         },
         {
             "name": "Uganda",
@@ -738,6 +728,11 @@
             "name": "Israel",
             "emoji": "🇮🇱",
             "flag": "assets/flags/israel.png"
+        },
+        {
+            "name": "Turkmenistan",
+            "emoji": "🇹🇲",
+            "flag": "assets/flags/turkmenistan.png"
         }
     ]
 }
