@@ -272,11 +272,6 @@
             "flag": "assets/flags/slovakia.png"
         },
         {
-            "name": "South Korea",
-            "emoji": "🇰🇷",
-            "flag": "assets/flags/south-korea.png"
-        },
-        {
             "name": "Spain",
             "emoji": "🇪🇸",
             "flag": "assets/flags/spain.png"
@@ -315,11 +310,6 @@
             "name": "Togo",
             "emoji": "🇹🇬",
             "flag": "assets/flags/togo.png"
-        },
-        {
-            "name": "Tunisia",
-            "emoji": "🇹🇳",
-            "flag": "assets/flags/tunisia.png"
         },
         {
             "name": "Turkey",
@@ -768,6 +758,11 @@
             "name": "Estonia",
             "emoji": "🇪🇪",
             "flag": "assets/flags/estonia.png"
+        },
+        {
+            "name": "South Korea",
+            "emoji": "🇰🇷",
+            "flag": "assets/flags/south-korea.png"
         }
     ]
 }
