@@ -107,11 +107,6 @@
             "flag": "assets/flags/ethiopia.png"
         },
         {
-            "name": "Fiji",
-            "emoji": "🇫🇯",
-            "flag": "assets/flags/fiji.png"
-        },
-        {
             "name": "France",
             "emoji": "🇫🇷",
             "flag": "assets/flags/france.png"
@@ -335,11 +330,6 @@
             "name": "Togo",
             "emoji": "🇹🇬",
             "flag": "assets/flags/togo.png"
-        },
-        {
-            "name": "Tonga",
-            "emoji": "🇹🇴",
-            "flag": "assets/flags/tonga.png"
         },
         {
             "name": "Tunisia",
@@ -783,6 +773,11 @@
             "name": "Senegal",
             "emoji": "🇸🇳",
             "flag": "assets/flags/senegal.png"
+        },
+        {
+            "name": "Tonga",
+            "emoji": "🇹🇴",
+            "flag": "assets/flags/tonga.png"
         }
     ]
 }
