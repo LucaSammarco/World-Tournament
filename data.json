@@ -47,11 +47,6 @@
             "flag": "assets/flags/comoros.png"
         },
         {
-            "name": "Costa Rica",
-            "emoji": "🇨🇷",
-            "flag": "assets/flags/costa-rica.png"
-        },
-        {
             "name": "Cyprus",
             "emoji": "🇨🇾",
             "flag": "assets/flags/cyprus.png"
@@ -360,11 +355,6 @@
             "name": "Uzbekistan",
             "emoji": "🇺🇿",
             "flag": "assets/flags/uzbekistan.png"
-        },
-        {
-            "name": "Vanuatu",
-            "emoji": "🇻🇺",
-            "flag": "assets/flags/vanuatu.png"
         },
         {
             "name": "Vatican City",
@@ -778,6 +768,11 @@
             "name": "Tonga",
             "emoji": "🇹🇴",
             "flag": "assets/flags/tonga.png"
+        },
+        {
+            "name": "Costa Rica",
+            "emoji": "🇨🇷",
+            "flag": "assets/flags/costa-rica.png"
         }
     ]
 }
