@@ -82,11 +82,6 @@
             "flag": "assets/flags/eswatini.png"
         },
         {
-            "name": "Ethiopia",
-            "emoji": "🇪🇹",
-            "flag": "assets/flags/ethiopia.png"
-        },
-        {
             "name": "France",
             "emoji": "🇫🇷",
             "flag": "assets/flags/france.png"
@@ -100,11 +95,6 @@
             "name": "Germany",
             "emoji": "🇩🇪",
             "flag": "assets/flags/germany.png"
-        },
-        {
-            "name": "Grenada",
-            "emoji": "🇬🇩",
-            "flag": "assets/flags/grenada.png"
         },
         {
             "name": "Guatemala",
@@ -748,6 +738,11 @@
             "name": "Sweden",
             "emoji": "🇸🇪",
             "flag": "assets/flags/sweden.png"
+        },
+        {
+            "name": "Ethiopia",
+            "emoji": "🇪🇹",
+            "flag": "assets/flags/ethiopia.png"
         }
     ]
 }
