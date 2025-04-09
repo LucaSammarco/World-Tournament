@@ -52,11 +52,6 @@
             "flag": "assets/flags/cyprus.png"
         },
         {
-            "name": "Czech Republic",
-            "emoji": "🇨🇿",
-            "flag": "assets/flags/czech-republic.png"
-        },
-        {
             "name": "Denmark",
             "emoji": "🇩🇰",
             "flag": "assets/flags/denmark.png"
@@ -155,11 +150,6 @@
             "name": "Japan",
             "emoji": "🇯🇵",
             "flag": "assets/flags/japan.png"
-        },
-        {
-            "name": "Kiribati",
-            "emoji": "🇰🇮",
-            "flag": "assets/flags/kiribati.png"
         },
         {
             "name": "Liberia",
@@ -763,6 +753,11 @@
             "name": "Lebanon",
             "emoji": "🇱🇧",
             "flag": "assets/flags/lebanon.png"
+        },
+        {
+            "name": "Czech Republic",
+            "emoji": "🇨🇿",
+            "flag": "assets/flags/czech-republic.png"
         }
     ]
 }
