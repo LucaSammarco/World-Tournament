@@ -247,19 +247,9 @@
             "flag": "assets/flags/spain.png"
         },
         {
-            "name": "Sri Lanka",
-            "emoji": "🇱🇰",
-            "flag": "assets/flags/sri-lanka.png"
-        },
-        {
             "name": "Sudan",
             "emoji": "🇸🇩",
             "flag": "assets/flags/sudan.png"
-        },
-        {
-            "name": "Sweden",
-            "emoji": "🇸🇪",
-            "flag": "assets/flags/sweden.png"
         },
         {
             "name": "Syria",
@@ -753,6 +743,11 @@
             "name": "Mali",
             "emoji": "🇲🇱",
             "flag": "assets/flags/mali.png"
+        },
+        {
+            "name": "Sweden",
+            "emoji": "🇸🇪",
+            "flag": "assets/flags/sweden.png"
         }
     ]
 }
