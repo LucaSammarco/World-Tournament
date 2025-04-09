@@ -67,11 +67,6 @@
             "flag": "assets/flags/djibouti.png"
         },
         {
-            "name": "Ecuador",
-            "emoji": "🇪🇨",
-            "flag": "assets/flags/ecuador.png"
-        },
-        {
             "name": "El Salvador",
             "emoji": "🇸🇻",
             "flag": "assets/flags/el-salvador.png"
@@ -85,11 +80,6 @@
             "name": "Eritrea",
             "emoji": "🇪🇷",
             "flag": "assets/flags/eritrea.png"
-        },
-        {
-            "name": "Estonia",
-            "emoji": "🇪🇪",
-            "flag": "assets/flags/estonia.png"
         },
         {
             "name": "Eswatini",
@@ -773,6 +763,11 @@
             "name": "Costa Rica",
             "emoji": "🇨🇷",
             "flag": "assets/flags/costa-rica.png"
+        },
+        {
+            "name": "Estonia",
+            "emoji": "🇪🇪",
+            "flag": "assets/flags/estonia.png"
         }
     ]
 }
