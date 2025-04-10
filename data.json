@@ -57,11 +57,6 @@
             "flag": "assets/flags/el-salvador.png"
         },
         {
-            "name": "Equatorial Guinea",
-            "emoji": "🇬🇶",
-            "flag": "assets/flags/equatorial-guinea.png"
-        },
-        {
             "name": "Eritrea",
             "emoji": "🇪🇷",
             "flag": "assets/flags/eritrea.png"
@@ -165,11 +160,6 @@
             "name": "North Korea",
             "emoji": "🇰🇵",
             "flag": "assets/flags/north-korea.png"
-        },
-        {
-            "name": "North Macedonia",
-            "emoji": "🇲🇰",
-            "flag": "assets/flags/north-macedonia.png"
         },
         {
             "name": "Norway",
@@ -728,6 +718,16 @@
             "name": "Singapore",
             "emoji": "🇸🇬",
             "flag": "assets/flags/singapore.png"
+        },
+        {
+            "name": "Equatorial Guinea",
+            "emoji": "🇬🇶",
+            "flag": "assets/flags/equatorial-guinea.png"
+        },
+        {
+            "name": "North Macedonia",
+            "emoji": "🇲🇰",
+            "flag": "assets/flags/north-macedonia.png"
         }
     ]
 }
