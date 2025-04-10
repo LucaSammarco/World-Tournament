@@ -117,11 +117,6 @@
             "flag": "assets/flags/liberia.png"
         },
         {
-            "name": "Madagascar",
-            "emoji": "🇲🇬",
-            "flag": "assets/flags/madagascar.png"
-        },
-        {
             "name": "Marshall Islands",
             "emoji": "🇲🇭",
             "flag": "assets/flags/marshall-islands.png"
@@ -145,11 +140,6 @@
             "name": "Nigeria",
             "emoji": "🇳🇬",
             "flag": "assets/flags/nigeria.png"
-        },
-        {
-            "name": "North Korea",
-            "emoji": "🇰🇵",
-            "flag": "assets/flags/north-korea.png"
         },
         {
             "name": "Norway",
@@ -728,6 +718,11 @@
             "name": "Ivory Coast",
             "emoji": "🇨🇮",
             "flag": "assets/flags/ivory-coast.png"
+        },
+        {
+            "name": "Madagascar",
+            "emoji": "🇲🇬",
+            "flag": "assets/flags/madagascar.png"
         }
     ]
 }
