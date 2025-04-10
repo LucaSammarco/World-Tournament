@@ -7,11 +7,6 @@
             "flag": "assets/flags/albania.png"
         },
         {
-            "name": "Bahamas",
-            "emoji": "🇧🇸",
-            "flag": "assets/flags/bahamas.png"
-        },
-        {
             "name": "Bhutan",
             "emoji": "🇧🇹",
             "flag": "assets/flags/bhutan.png"
@@ -85,11 +80,6 @@
             "name": "Guinea",
             "emoji": "🇬🇳",
             "flag": "assets/flags/guinea.png"
-        },
-        {
-            "name": "Iceland",
-            "emoji": "🇮🇸",
-            "flag": "assets/flags/iceland.png"
         },
         {
             "name": "India",
@@ -723,6 +713,11 @@
             "name": "Madagascar",
             "emoji": "🇲🇬",
             "flag": "assets/flags/madagascar.png"
+        },
+        {
+            "name": "Iceland",
+            "emoji": "🇮🇸",
+            "flag": "assets/flags/iceland.png"
         }
     ]
 }
