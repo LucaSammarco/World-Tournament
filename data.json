@@ -47,11 +47,6 @@
             "flag": "assets/flags/eritrea.png"
         },
         {
-            "name": "Eswatini",
-            "emoji": "🇸🇿",
-            "flag": "assets/flags/eswatini.png"
-        },
-        {
             "name": "France",
             "emoji": "🇫🇷",
             "flag": "assets/flags/france.png"
@@ -135,11 +130,6 @@
             "name": "Slovakia",
             "emoji": "🇸🇰",
             "flag": "assets/flags/slovakia.png"
-        },
-        {
-            "name": "Spain",
-            "emoji": "🇪🇸",
-            "flag": "assets/flags/spain.png"
         },
         {
             "name": "Sudan",
@@ -708,6 +698,11 @@
             "name": "Marshall Islands",
             "emoji": "🇲🇭",
             "flag": "assets/flags/marshall-islands.png"
+        },
+        {
+            "name": "Spain",
+            "emoji": "🇪🇸",
+            "flag": "assets/flags/spain.png"
         }
     ]
 }
