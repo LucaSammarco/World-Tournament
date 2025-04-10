@@ -82,11 +82,6 @@
             "flag": "assets/flags/iraq.png"
         },
         {
-            "name": "Ireland",
-            "emoji": "🇮🇪",
-            "flag": "assets/flags/ireland.png"
-        },
-        {
             "name": "Japan",
             "emoji": "🇯🇵",
             "flag": "assets/flags/japan.png"
@@ -95,11 +90,6 @@
             "name": "Liberia",
             "emoji": "🇱🇷",
             "flag": "assets/flags/liberia.png"
-        },
-        {
-            "name": "Marshall Islands",
-            "emoji": "🇲🇭",
-            "flag": "assets/flags/marshall-islands.png"
         },
         {
             "name": "Mongolia",
@@ -708,6 +698,16 @@
             "name": "Togo",
             "emoji": "🇹🇬",
             "flag": "assets/flags/togo.png"
+        },
+        {
+            "name": "Ireland",
+            "emoji": "🇮🇪",
+            "flag": "assets/flags/ireland.png"
+        },
+        {
+            "name": "Marshall Islands",
+            "emoji": "🇲🇭",
+            "flag": "assets/flags/marshall-islands.png"
         }
     ]
 }
