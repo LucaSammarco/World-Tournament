@@ -32,16 +32,6 @@
             "flag": "assets/flags/san-marino.png"
         },
         {
-            "name": "Serbia",
-            "emoji": "🇷🇸",
-            "flag": "assets/flags/serbia.png"
-        },
-        {
-            "name": "Uzbekistan",
-            "emoji": "🇺🇿",
-            "flag": "assets/flags/uzbekistan.png"
-        },
-        {
             "name": "Vietnam",
             "emoji": "🇻🇳",
             "flag": "assets/flags/vietnam.png"
@@ -658,6 +648,11 @@
             "name": "Botswana",
             "emoji": "🇧🇼",
             "flag": "assets/flags/botswana.png"
+        },
+        {
+            "name": "Serbia",
+            "emoji": "🇷🇸",
+            "flag": "assets/flags/serbia.png"
         }
     ]
 }
