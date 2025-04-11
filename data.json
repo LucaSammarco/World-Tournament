@@ -42,11 +42,6 @@
             "flag": "assets/flags/serbia.png"
         },
         {
-            "name": "Thailand",
-            "emoji": "🇹🇭",
-            "flag": "assets/flags/thailand.png"
-        },
-        {
             "name": "Turkey",
             "emoji": "🇹🇷",
             "flag": "assets/flags/turkey.png"
@@ -55,11 +50,6 @@
             "name": "Uzbekistan",
             "emoji": "🇺🇿",
             "flag": "assets/flags/uzbekistan.png"
-        },
-        {
-            "name": "Vatican City",
-            "emoji": "🇻🇦",
-            "flag": "assets/flags/vatican-city.png"
         },
         {
             "name": "Vietnam",
@@ -663,6 +653,11 @@
             "name": "Japan",
             "emoji": "🇯🇵",
             "flag": "assets/flags/japan.png"
+        },
+        {
+            "name": "Thailand",
+            "emoji": "🇹🇭",
+            "flag": "assets/flags/thailand.png"
         }
     ]
 }
