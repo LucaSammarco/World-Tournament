@@ -2,11 +2,6 @@
     "round": 1,
     "remaining": [
         {
-            "name": "Bhutan",
-            "emoji": "🇧🇹",
-            "flag": "assets/flags/bhutan.png"
-        },
-        {
             "name": "Botswana",
             "emoji": "🇧🇼",
             "flag": "assets/flags/botswana.png"
@@ -70,11 +65,6 @@
             "name": "Serbia",
             "emoji": "🇷🇸",
             "flag": "assets/flags/serbia.png"
-        },
-        {
-            "name": "Slovakia",
-            "emoji": "🇸🇰",
-            "flag": "assets/flags/slovakia.png"
         },
         {
             "name": "Thailand",
@@ -683,6 +673,11 @@
             "name": "Gabon",
             "emoji": "🇬🇦",
             "flag": "assets/flags/gabon.png"
+        },
+        {
+            "name": "Bhutan",
+            "emoji": "🇧🇹",
+            "flag": "assets/flags/bhutan.png"
         }
     ]
 }
