@@ -47,11 +47,6 @@
             "flag": "assets/flags/liberia.png"
         },
         {
-            "name": "Montenegro",
-            "emoji": "🇲🇪",
-            "flag": "assets/flags/montenegro.png"
-        },
-        {
             "name": "Nicaragua",
             "emoji": "🇳🇮",
             "flag": "assets/flags/nicaragua.png"
@@ -75,11 +70,6 @@
             "name": "Turkey",
             "emoji": "🇹🇷",
             "flag": "assets/flags/turkey.png"
-        },
-        {
-            "name": "United Arab Emirates",
-            "emoji": "🇦🇪",
-            "flag": "assets/flags/united-arab-emirates.png"
         },
         {
             "name": "Uzbekistan",
@@ -678,6 +668,11 @@
             "name": "Bhutan",
             "emoji": "🇧🇹",
             "flag": "assets/flags/bhutan.png"
+        },
+        {
+            "name": "Montenegro",
+            "emoji": "🇲🇪",
+            "flag": "assets/flags/montenegro.png"
         }
     ]
 }
