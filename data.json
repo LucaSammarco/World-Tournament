@@ -12,11 +12,6 @@
             "flag": "assets/flags/botswana.png"
         },
         {
-            "name": "Cyprus",
-            "emoji": "🇨🇾",
-            "flag": "assets/flags/cyprus.png"
-        },
-        {
             "name": "Djibouti",
             "emoji": "🇩🇯",
             "flag": "assets/flags/djibouti.png"
@@ -30,11 +25,6 @@
             "name": "France",
             "emoji": "🇫🇷",
             "flag": "assets/flags/france.png"
-        },
-        {
-            "name": "Gabon",
-            "emoji": "🇬🇦",
-            "flag": "assets/flags/gabon.png"
         },
         {
             "name": "Germany",
@@ -683,6 +673,16 @@
             "name": "Mongolia",
             "emoji": "🇲🇳",
             "flag": "assets/flags/mongolia.png"
+        },
+        {
+            "name": "Cyprus",
+            "emoji": "🇨🇾",
+            "flag": "assets/flags/cyprus.png"
+        },
+        {
+            "name": "Gabon",
+            "emoji": "🇬🇦",
+            "flag": "assets/flags/gabon.png"
         }
     ]
 }
