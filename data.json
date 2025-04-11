@@ -57,11 +57,6 @@
             "flag": "assets/flags/guinea.png"
         },
         {
-            "name": "Iraq",
-            "emoji": "🇮🇶",
-            "flag": "assets/flags/iraq.png"
-        },
-        {
             "name": "Japan",
             "emoji": "🇯🇵",
             "flag": "assets/flags/japan.png"
@@ -85,11 +80,6 @@
             "name": "Nicaragua",
             "emoji": "🇳🇮",
             "flag": "assets/flags/nicaragua.png"
-        },
-        {
-            "name": "Poland",
-            "emoji": "🇵🇱",
-            "flag": "assets/flags/poland.png"
         },
         {
             "name": "Rwanda",
@@ -693,6 +683,11 @@
             "name": "Sudan",
             "emoji": "🇸🇩",
             "flag": "assets/flags/sudan.png"
+        },
+        {
+            "name": "Iraq",
+            "emoji": "🇮🇶",
+            "flag": "assets/flags/iraq.png"
         }
     ]
 }
