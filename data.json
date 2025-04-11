@@ -7,11 +7,6 @@
             "flag": "assets/flags/djibouti.png"
         },
         {
-            "name": "El Salvador",
-            "emoji": "🇸🇻",
-            "flag": "assets/flags/el-salvador.png"
-        },
-        {
             "name": "Guinea",
             "emoji": "🇬🇳",
             "flag": "assets/flags/guinea.png"
@@ -20,11 +15,6 @@
             "name": "Liberia",
             "emoji": "🇱🇷",
             "flag": "assets/flags/liberia.png"
-        },
-        {
-            "name": "Nicaragua",
-            "emoji": "🇳🇮",
-            "flag": "assets/flags/nicaragua.png"
         },
         {
             "name": "San Marino",
@@ -653,6 +643,11 @@
             "name": "Serbia",
             "emoji": "🇷🇸",
             "flag": "assets/flags/serbia.png"
+        },
+        {
+            "name": "Nicaragua",
+            "emoji": "🇳🇮",
+            "flag": "assets/flags/nicaragua.png"
         }
     ]
 }
