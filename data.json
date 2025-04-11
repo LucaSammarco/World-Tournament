@@ -22,16 +22,6 @@
             "flag": "assets/flags/france.png"
         },
         {
-            "name": "Germany",
-            "emoji": "🇩🇪",
-            "flag": "assets/flags/germany.png"
-        },
-        {
-            "name": "Guatemala",
-            "emoji": "🇬🇹",
-            "flag": "assets/flags/guatemala.png"
-        },
-        {
             "name": "Guinea",
             "emoji": "🇬🇳",
             "flag": "assets/flags/guinea.png"
@@ -673,6 +663,11 @@
             "name": "Montenegro",
             "emoji": "🇲🇪",
             "flag": "assets/flags/montenegro.png"
+        },
+        {
+            "name": "Guatemala",
+            "emoji": "🇬🇹",
+            "flag": "assets/flags/guatemala.png"
         }
     ]
 }
