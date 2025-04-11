@@ -2,11 +2,6 @@
     "round": 1,
     "remaining": [
         {
-            "name": "Botswana",
-            "emoji": "🇧🇼",
-            "flag": "assets/flags/botswana.png"
-        },
-        {
             "name": "Djibouti",
             "emoji": "🇩🇯",
             "flag": "assets/flags/djibouti.png"
@@ -40,11 +35,6 @@
             "name": "Serbia",
             "emoji": "🇷🇸",
             "flag": "assets/flags/serbia.png"
-        },
-        {
-            "name": "Turkey",
-            "emoji": "🇹🇷",
-            "flag": "assets/flags/turkey.png"
         },
         {
             "name": "Uzbekistan",
@@ -658,6 +648,16 @@
             "name": "Thailand",
             "emoji": "🇹🇭",
             "flag": "assets/flags/thailand.png"
+        },
+        {
+            "name": "Turkey",
+            "emoji": "🇹🇷",
+            "flag": "assets/flags/turkey.png"
+        },
+        {
+            "name": "Botswana",
+            "emoji": "🇧🇼",
+            "flag": "assets/flags/botswana.png"
         }
     ]
 }
