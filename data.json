@@ -17,19 +17,9 @@
             "flag": "assets/flags/el-salvador.png"
         },
         {
-            "name": "France",
-            "emoji": "🇫🇷",
-            "flag": "assets/flags/france.png"
-        },
-        {
             "name": "Guinea",
             "emoji": "🇬🇳",
             "flag": "assets/flags/guinea.png"
-        },
-        {
-            "name": "Japan",
-            "emoji": "🇯🇵",
-            "flag": "assets/flags/japan.png"
         },
         {
             "name": "Liberia",
@@ -668,6 +658,11 @@
             "name": "Guatemala",
             "emoji": "🇬🇹",
             "flag": "assets/flags/guatemala.png"
+        },
+        {
+            "name": "Japan",
+            "emoji": "🇯🇵",
+            "flag": "assets/flags/japan.png"
         }
     ]
 }
