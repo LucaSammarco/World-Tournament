@@ -77,11 +77,6 @@
             "flag": "assets/flags/barbados.png"
         },
         {
-            "name": "Belarus",
-            "emoji": "🇧🇾",
-            "flag": "assets/flags/belarus.png"
-        },
-        {
             "name": "Belgium",
             "emoji": "🇧🇪",
             "flag": "assets/flags/belgium.png"
@@ -295,11 +290,6 @@
             "name": "Finland",
             "emoji": "🇫🇮",
             "flag": "assets/flags/finland.png"
-        },
-        {
-            "name": "France",
-            "emoji": "🇫🇷",
-            "flag": "assets/flags/france.png"
         },
         {
             "name": "Gabon",
@@ -978,5 +968,16 @@
         }
     ],
     "total_countries": 195,
-    "processed_countries": []
+    "processed_countries": [
+        {
+            "name": "Belarus",
+            "emoji": "🇧🇾",
+            "flag": "assets/flags/belarus.png"
+        },
+        {
+            "name": "France",
+            "emoji": "🇫🇷",
+            "flag": "assets/flags/france.png"
+        }
+    ]
 }
