@@ -287,11 +287,6 @@
             "flag": "assets/flags/fiji.png"
         },
         {
-            "name": "Finland",
-            "emoji": "🇫🇮",
-            "flag": "assets/flags/finland.png"
-        },
-        {
             "name": "Gabon",
             "emoji": "🇬🇦",
             "flag": "assets/flags/gabon.png"
@@ -410,11 +405,6 @@
             "name": "Jamaica",
             "emoji": "🇯🇲",
             "flag": "assets/flags/jamaica.png"
-        },
-        {
-            "name": "Japan",
-            "emoji": "🇯🇵",
-            "flag": "assets/flags/japan.png"
         },
         {
             "name": "Jordan",
@@ -978,6 +968,11 @@
             "name": "France",
             "emoji": "🇫🇷",
             "flag": "assets/flags/france.png"
+        },
+        {
+            "name": "Japan",
+            "emoji": "🇯🇵",
+            "flag": "assets/flags/japan.png"
         }
     ]
 }
