@@ -2,19 +2,9 @@
     "round": 1,
     "remaining": [
         {
-            "name": "Djibouti",
-            "emoji": "🇩🇯",
-            "flag": "assets/flags/djibouti.png"
-        },
-        {
             "name": "Liberia",
             "emoji": "🇱🇷",
             "flag": "assets/flags/liberia.png"
-        },
-        {
-            "name": "Vietnam",
-            "emoji": "🇻🇳",
-            "flag": "assets/flags/vietnam.png"
         }
     ],
     "total_countries": 195,
@@ -643,6 +633,11 @@
             "name": "San Marino",
             "emoji": "🇸🇲",
             "flag": "assets/flags/san-marino.png"
+        },
+        {
+            "name": "Vietnam",
+            "emoji": "🇻🇳",
+            "flag": "assets/flags/vietnam.png"
         }
     ]
 }
