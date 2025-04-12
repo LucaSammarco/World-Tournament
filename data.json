@@ -17,11 +17,6 @@
             "flag": "assets/flags/algeria.png"
         },
         {
-            "name": "Andorra",
-            "emoji": "🇦🇩",
-            "flag": "assets/flags/andorra.png"
-        },
-        {
             "name": "Angola",
             "emoji": "🇦🇴",
             "flag": "assets/flags/angola.png"
@@ -75,11 +70,6 @@
             "name": "Barbados",
             "emoji": "🇧🇧",
             "flag": "assets/flags/barbados.png"
-        },
-        {
-            "name": "Belize",
-            "emoji": "🇧🇿",
-            "flag": "assets/flags/belize.png"
         },
         {
             "name": "Benin",
@@ -948,6 +938,11 @@
             "name": "Belgium",
             "emoji": "🇧🇪",
             "flag": "assets/flags/belgium.png"
+        },
+        {
+            "name": "Belize",
+            "emoji": "🇧🇿",
+            "flag": "assets/flags/belize.png"
         }
     ]
 }
