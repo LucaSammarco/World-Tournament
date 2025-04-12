@@ -207,11 +207,6 @@
             "flag": "assets/flags/cuba.png"
         },
         {
-            "name": "Cyprus",
-            "emoji": "🇨🇾",
-            "flag": "assets/flags/cyprus.png"
-        },
-        {
             "name": "Czech Republic",
             "emoji": "🇨🇿",
             "flag": "assets/flags/czech-republic.png"
@@ -862,11 +857,6 @@
             "flag": "assets/flags/uganda.png"
         },
         {
-            "name": "Ukraine",
-            "emoji": "🇺🇦",
-            "flag": "assets/flags/ukraine.png"
-        },
-        {
             "name": "United Arab Emirates",
             "emoji": "🇦🇪",
             "flag": "assets/flags/united-arab-emirates.png"
@@ -963,6 +953,11 @@
             "name": "Iraq",
             "emoji": "🇮🇶",
             "flag": "assets/flags/iraq.png"
+        },
+        {
+            "name": "Ukraine",
+            "emoji": "🇺🇦",
+            "flag": "assets/flags/ukraine.png"
         }
     ]
 }
