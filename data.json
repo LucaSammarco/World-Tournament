@@ -77,11 +77,6 @@
             "flag": "assets/flags/barbados.png"
         },
         {
-            "name": "Belgium",
-            "emoji": "🇧🇪",
-            "flag": "assets/flags/belgium.png"
-        },
-        {
             "name": "Belize",
             "emoji": "🇧🇿",
             "flag": "assets/flags/belize.png"
@@ -395,11 +390,6 @@
             "name": "Kiribati",
             "emoji": "🇰🇮",
             "flag": "assets/flags/kiribati.png"
-        },
-        {
-            "name": "Kuwait",
-            "emoji": "🇰🇼",
-            "flag": "assets/flags/kuwait.png"
         },
         {
             "name": "Kyrgyzstan",
@@ -953,6 +943,11 @@
             "name": "Sri Lanka",
             "emoji": "🇱🇰",
             "flag": "assets/flags/sri-lanka.png"
+        },
+        {
+            "name": "Belgium",
+            "emoji": "🇧🇪",
+            "flag": "assets/flags/belgium.png"
         }
     ]
 }
