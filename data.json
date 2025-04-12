@@ -382,16 +382,6 @@
             "flag": "assets/flags/israel.png"
         },
         {
-            "name": "Italy",
-            "emoji": "🇮🇹",
-            "flag": "assets/flags/italy.png"
-        },
-        {
-            "name": "Ivory Coast",
-            "emoji": "🇨🇮",
-            "flag": "assets/flags/ivory-coast.png"
-        },
-        {
             "name": "Jamaica",
             "emoji": "🇯🇲",
             "flag": "assets/flags/jamaica.png"
@@ -968,6 +958,11 @@
             "name": "Cambodia",
             "emoji": "🇰🇭",
             "flag": "assets/flags/cambodia.png"
+        },
+        {
+            "name": "Italy",
+            "emoji": "🇮🇹",
+            "flag": "assets/flags/italy.png"
         }
     ]
 }
