@@ -7,19 +7,9 @@
             "flag": "assets/flags/djibouti.png"
         },
         {
-            "name": "Guinea",
-            "emoji": "🇬🇳",
-            "flag": "assets/flags/guinea.png"
-        },
-        {
             "name": "Liberia",
             "emoji": "🇱🇷",
             "flag": "assets/flags/liberia.png"
-        },
-        {
-            "name": "San Marino",
-            "emoji": "🇸🇲",
-            "flag": "assets/flags/san-marino.png"
         },
         {
             "name": "Vietnam",
@@ -648,6 +638,11 @@
             "name": "Nicaragua",
             "emoji": "🇳🇮",
             "flag": "assets/flags/nicaragua.png"
+        },
+        {
+            "name": "San Marino",
+            "emoji": "🇸🇲",
+            "flag": "assets/flags/san-marino.png"
         }
     ]
 }
