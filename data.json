@@ -37,11 +37,6 @@
             "flag": "assets/flags/austria.png"
         },
         {
-            "name": "Azerbaijan",
-            "emoji": "🇦🇿",
-            "flag": "assets/flags/azerbaijan.png"
-        },
-        {
             "name": "Bahamas",
             "emoji": "🇧🇸",
             "flag": "assets/flags/bahamas.png"
@@ -532,11 +527,6 @@
             "flag": "assets/flags/panama.png"
         },
         {
-            "name": "Papua New Guinea",
-            "emoji": "🇵🇬",
-            "flag": "assets/flags/papua-new-guinea.png"
-        },
-        {
             "name": "Peru",
             "emoji": "🇵🇪",
             "flag": "assets/flags/peru.png"
@@ -903,6 +893,16 @@
             "name": "Micronesia",
             "emoji": "🇫🇲",
             "flag": "assets/flags/micronesia.png"
+        },
+        {
+            "name": "Azerbaijan",
+            "emoji": "🇦🇿",
+            "flag": "assets/flags/azerbaijan.png"
+        },
+        {
+            "name": "Papua New Guinea",
+            "emoji": "🇵🇬",
+            "flag": "assets/flags/papua-new-guinea.png"
         }
     ]
 }
