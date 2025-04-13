@@ -162,11 +162,6 @@
             "flag": "assets/flags/cuba.png"
         },
         {
-            "name": "Czech Republic",
-            "emoji": "🇨🇿",
-            "flag": "assets/flags/czech-republic.png"
-        },
-        {
             "name": "Denmark",
             "emoji": "🇩🇰",
             "flag": "assets/flags/denmark.png"
@@ -425,11 +420,6 @@
             "name": "Mexico",
             "emoji": "🇲🇽",
             "flag": "assets/flags/mexico.png"
-        },
-        {
-            "name": "Micronesia",
-            "emoji": "🇫🇲",
-            "flag": "assets/flags/micronesia.png"
         },
         {
             "name": "Moldova",
@@ -908,6 +898,11 @@
             "name": "United States",
             "emoji": "🇺🇸",
             "flag": "assets/flags/united-states.png"
+        },
+        {
+            "name": "Micronesia",
+            "emoji": "🇫🇲",
+            "flag": "assets/flags/micronesia.png"
         }
     ]
 }
