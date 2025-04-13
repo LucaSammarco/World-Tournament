@@ -7,11 +7,6 @@
             "flag": "assets/flags/afghanistan.png"
         },
         {
-            "name": "Albania",
-            "emoji": "🇦🇱",
-            "flag": "assets/flags/albania.png"
-        },
-        {
             "name": "Algeria",
             "emoji": "🇩🇿",
             "flag": "assets/flags/algeria.png"
@@ -145,11 +140,6 @@
             "name": "Chad",
             "emoji": "🇹🇩",
             "flag": "assets/flags/chad.png"
-        },
-        {
-            "name": "Chile",
-            "emoji": "🇨🇱",
-            "flag": "assets/flags/chile.png"
         },
         {
             "name": "China",
@@ -943,6 +933,11 @@
             "name": "Belize",
             "emoji": "🇧🇿",
             "flag": "assets/flags/belize.png"
+        },
+        {
+            "name": "Albania",
+            "emoji": "🇦🇱",
+            "flag": "assets/flags/albania.png"
         }
     ]
 }
