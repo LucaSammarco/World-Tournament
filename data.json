@@ -487,11 +487,6 @@
             "flag": "assets/flags/nigeria.png"
         },
         {
-            "name": "North Korea",
-            "emoji": "🇰🇵",
-            "flag": "assets/flags/north-korea.png"
-        },
-        {
             "name": "North Macedonia",
             "emoji": "🇲🇰",
             "flag": "assets/flags/north-macedonia.png"
@@ -575,11 +570,6 @@
             "name": "Samoa",
             "emoji": "🇼🇸",
             "flag": "assets/flags/samoa.png"
-        },
-        {
-            "name": "San Marino",
-            "emoji": "🇸🇲",
-            "flag": "assets/flags/san-marino.png"
         },
         {
             "name": "São Tomé and Príncipe",
@@ -903,6 +893,16 @@
             "name": "Papua New Guinea",
             "emoji": "🇵🇬",
             "flag": "assets/flags/papua-new-guinea.png"
+        },
+        {
+            "name": "North Korea",
+            "emoji": "🇰🇵",
+            "flag": "assets/flags/north-korea.png"
+        },
+        {
+            "name": "San Marino",
+            "emoji": "🇸🇲",
+            "flag": "assets/flags/san-marino.png"
         }
     ]
 }
