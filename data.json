@@ -97,11 +97,6 @@
             "flag": "assets/flags/bulgaria.png"
         },
         {
-            "name": "Burkina Faso",
-            "emoji": "🇧🇫",
-            "flag": "assets/flags/burkina-faso.png"
-        },
-        {
             "name": "Burundi",
             "emoji": "🇧🇮",
             "flag": "assets/flags/burundi.png"
@@ -707,11 +702,6 @@
             "flag": "assets/flags/syria.png"
         },
         {
-            "name": "Tajikistan",
-            "emoji": "🇹🇯",
-            "flag": "assets/flags/tajikistan.png"
-        },
-        {
             "name": "Thailand",
             "emoji": "🇹🇭",
             "flag": "assets/flags/thailand.png"
@@ -913,6 +903,16 @@
             "name": "Qatar",
             "emoji": "🇶🇦",
             "flag": "assets/flags/qatar.png"
+        },
+        {
+            "name": "Burkina Faso",
+            "emoji": "🇧🇫",
+            "flag": "assets/flags/burkina-faso.png"
+        },
+        {
+            "name": "Tajikistan",
+            "emoji": "🇹🇯",
+            "flag": "assets/flags/tajikistan.png"
         }
     ]
 }
