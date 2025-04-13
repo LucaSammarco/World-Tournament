@@ -272,11 +272,6 @@
             "flag": "assets/flags/guyana.png"
         },
         {
-            "name": "Haiti",
-            "emoji": "🇭🇹",
-            "flag": "assets/flags/haiti.png"
-        },
-        {
             "name": "Honduras",
             "emoji": "🇭🇳",
             "flag": "assets/flags/honduras.png"
@@ -757,11 +752,6 @@
             "flag": "assets/flags/united-kingdom.png"
         },
         {
-            "name": "United States",
-            "emoji": "🇺🇸",
-            "flag": "assets/flags/united-states.png"
-        },
-        {
             "name": "Uruguay",
             "emoji": "🇺🇾",
             "flag": "assets/flags/uruguay.png"
@@ -913,6 +903,11 @@
             "name": "Tajikistan",
             "emoji": "🇹🇯",
             "flag": "assets/flags/tajikistan.png"
+        },
+        {
+            "name": "United States",
+            "emoji": "🇺🇸",
+            "flag": "assets/flags/united-states.png"
         }
     ]
 }
