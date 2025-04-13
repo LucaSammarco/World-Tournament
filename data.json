@@ -467,11 +467,6 @@
             "flag": "assets/flags/monaco.png"
         },
         {
-            "name": "Mongolia",
-            "emoji": "🇲🇳",
-            "flag": "assets/flags/mongolia.png"
-        },
-        {
             "name": "Montenegro",
             "emoji": "🇲🇪",
             "flag": "assets/flags/montenegro.png"
@@ -767,11 +762,6 @@
             "flag": "assets/flags/tunisia.png"
         },
         {
-            "name": "Turkey",
-            "emoji": "🇹🇷",
-            "flag": "assets/flags/turkey.png"
-        },
-        {
             "name": "Turkmenistan",
             "emoji": "🇹🇲",
             "flag": "assets/flags/turkmenistan.png"
@@ -928,6 +918,11 @@
             "name": "Paraguay",
             "emoji": "🇵🇾",
             "flag": "assets/flags/paraguay.png"
+        },
+        {
+            "name": "Mongolia",
+            "emoji": "🇲🇳",
+            "flag": "assets/flags/mongolia.png"
         }
     ]
 }
