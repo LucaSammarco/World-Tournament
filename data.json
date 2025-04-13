@@ -97,11 +97,6 @@
             "flag": "assets/flags/brazil.png"
         },
         {
-            "name": "Brunei",
-            "emoji": "🇧🇳",
-            "flag": "assets/flags/brunei.png"
-        },
-        {
             "name": "Bulgaria",
             "emoji": "🇧🇬",
             "flag": "assets/flags/bulgaria.png"
@@ -170,11 +165,6 @@
             "name": "Costa Rica",
             "emoji": "🇨🇷",
             "flag": "assets/flags/costa-rica.png"
-        },
-        {
-            "name": "Croatia",
-            "emoji": "🇭🇷",
-            "flag": "assets/flags/croatia.png"
         },
         {
             "name": "Cuba",
@@ -938,6 +928,11 @@
             "name": "Albania",
             "emoji": "🇦🇱",
             "flag": "assets/flags/albania.png"
+        },
+        {
+            "name": "Brunei",
+            "emoji": "🇧🇳",
+            "flag": "assets/flags/brunei.png"
         }
     ]
 }
