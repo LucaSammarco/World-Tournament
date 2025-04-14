@@ -142,11 +142,6 @@
             "flag": "assets/flags/costa-rica.png"
         },
         {
-            "name": "Cuba",
-            "emoji": "🇨🇺",
-            "flag": "assets/flags/cuba.png"
-        },
-        {
             "name": "Djibouti",
             "emoji": "🇩🇯",
             "flag": "assets/flags/djibouti.png"
@@ -450,11 +445,6 @@
             "name": "Oman",
             "emoji": "🇴🇲",
             "flag": "assets/flags/oman.png"
-        },
-        {
-            "name": "Pakistan",
-            "emoji": "🇵🇰",
-            "flag": "assets/flags/pakistan.png"
         },
         {
             "name": "Palau",
@@ -878,6 +868,11 @@
             "name": "Denmark",
             "emoji": "🇩🇰",
             "flag": "assets/flags/denmark.png"
+        },
+        {
+            "name": "Pakistan",
+            "emoji": "🇵🇰",
+            "flag": "assets/flags/pakistan.png"
         }
     ]
 }
