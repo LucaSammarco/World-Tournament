@@ -252,11 +252,6 @@
             "flag": "assets/flags/hungary.png"
         },
         {
-            "name": "Iceland",
-            "emoji": "🇮🇸",
-            "flag": "assets/flags/iceland.png"
-        },
-        {
             "name": "India",
             "emoji": "🇮🇳",
             "flag": "assets/flags/india.png"
@@ -390,11 +385,6 @@
             "name": "Monaco",
             "emoji": "🇲🇨",
             "flag": "assets/flags/monaco.png"
-        },
-        {
-            "name": "Montenegro",
-            "emoji": "🇲🇪",
-            "flag": "assets/flags/montenegro.png"
         },
         {
             "name": "Morocco",
@@ -888,6 +878,11 @@
             "name": "United Arab Emirates",
             "emoji": "🇦🇪",
             "flag": "assets/flags/united-arab-emirates.png"
+        },
+        {
+            "name": "Iceland",
+            "emoji": "🇮🇸",
+            "flag": "assets/flags/iceland.png"
         }
     ]
 }
