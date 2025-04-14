@@ -72,11 +72,6 @@
             "flag": "assets/flags/bolivia.png"
         },
         {
-            "name": "Bosnia and Herzegovina",
-            "emoji": "🇧🇦",
-            "flag": "assets/flags/bosnia-and-herzegovina.png"
-        },
-        {
             "name": "Botswana",
             "emoji": "🇧🇼",
             "flag": "assets/flags/botswana.png"
@@ -345,11 +340,6 @@
             "name": "Luxembourg",
             "emoji": "🇱🇺",
             "flag": "assets/flags/luxembourg.png"
-        },
-        {
-            "name": "Madagascar",
-            "emoji": "🇲🇬",
-            "flag": "assets/flags/madagascar.png"
         },
         {
             "name": "Malawi",
@@ -893,6 +883,11 @@
             "name": "Brazil",
             "emoji": "🇧🇷",
             "flag": "assets/flags/brazil.png"
+        },
+        {
+            "name": "Bosnia and Herzegovina",
+            "emoji": "🇧🇦",
+            "flag": "assets/flags/bosnia-and-herzegovina.png"
         }
     ]
 }
