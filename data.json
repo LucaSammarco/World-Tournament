@@ -212,11 +212,6 @@
             "flag": "assets/flags/greece.png"
         },
         {
-            "name": "Guinea",
-            "emoji": "🇬🇳",
-            "flag": "assets/flags/guinea.png"
-        },
-        {
             "name": "Guinea-Bissau",
             "emoji": "🇬🇼",
             "flag": "assets/flags/guinea-bissau.png"
@@ -340,11 +335,6 @@
             "name": "Malta",
             "emoji": "🇲🇹",
             "flag": "assets/flags/malta.png"
-        },
-        {
-            "name": "Marshall Islands",
-            "emoji": "🇲🇭",
-            "flag": "assets/flags/marshall-islands.png"
         },
         {
             "name": "Mauritania",
@@ -868,6 +858,11 @@
             "name": "Antigua and Barbuda",
             "emoji": "🇦🇬",
             "flag": "assets/flags/antigua-and-barbuda.png"
+        },
+        {
+            "name": "Marshall Islands",
+            "emoji": "🇲🇭",
+            "flag": "assets/flags/marshall-islands.png"
         }
     ]
 }
