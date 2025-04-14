@@ -82,11 +82,6 @@
             "flag": "assets/flags/botswana.png"
         },
         {
-            "name": "Brazil",
-            "emoji": "🇧🇷",
-            "flag": "assets/flags/brazil.png"
-        },
-        {
             "name": "Bulgaria",
             "emoji": "🇧🇬",
             "flag": "assets/flags/bulgaria.png"
@@ -547,11 +542,6 @@
             "flag": "assets/flags/saint-lucia.png"
         },
         {
-            "name": "Saint Vincent and the Grenadines",
-            "emoji": "🇻🇨",
-            "flag": "assets/flags/saint-vincent-and-the-grenadines.png"
-        },
-        {
             "name": "Samoa",
             "emoji": "🇼🇸",
             "flag": "assets/flags/samoa.png"
@@ -898,6 +888,11 @@
             "name": "Tuvalu",
             "emoji": "🇹🇻",
             "flag": "assets/flags/tuvalu.png"
+        },
+        {
+            "name": "Brazil",
+            "emoji": "🇧🇷",
+            "flag": "assets/flags/brazil.png"
         }
     ]
 }
