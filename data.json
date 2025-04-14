@@ -382,11 +382,6 @@
             "flag": "assets/flags/namibia.png"
         },
         {
-            "name": "Nauru",
-            "emoji": "🇳🇷",
-            "flag": "assets/flags/nauru.png"
-        },
-        {
             "name": "Nepal",
             "emoji": "🇳🇵",
             "flag": "assets/flags/nepal.png"
@@ -530,11 +525,6 @@
             "name": "Slovakia",
             "emoji": "🇸🇰",
             "flag": "assets/flags/slovakia.png"
-        },
-        {
-            "name": "Slovenia",
-            "emoji": "🇸🇮",
-            "flag": "assets/flags/slovenia.png"
         },
         {
             "name": "Solomon Islands",
@@ -863,6 +853,16 @@
             "name": "Marshall Islands",
             "emoji": "🇲🇭",
             "flag": "assets/flags/marshall-islands.png"
+        },
+        {
+            "name": "Nauru",
+            "emoji": "🇳🇷",
+            "flag": "assets/flags/nauru.png"
+        },
+        {
+            "name": "Slovenia",
+            "emoji": "🇸🇮",
+            "flag": "assets/flags/slovenia.png"
         }
     ]
 }
