@@ -17,11 +17,6 @@
             "flag": "assets/flags/angola.png"
         },
         {
-            "name": "Antigua and Barbuda",
-            "emoji": "🇦🇬",
-            "flag": "assets/flags/antigua-and-barbuda.png"
-        },
-        {
             "name": "Argentina",
             "emoji": "🇦🇷",
             "flag": "assets/flags/argentina.png"
@@ -637,11 +632,6 @@
             "flag": "assets/flags/uganda.png"
         },
         {
-            "name": "United Kingdom",
-            "emoji": "🇬🇧",
-            "flag": "assets/flags/united-kingdom.png"
-        },
-        {
             "name": "Uruguay",
             "emoji": "🇺🇾",
             "flag": "assets/flags/uruguay.png"
@@ -873,6 +863,11 @@
             "name": "Pakistan",
             "emoji": "🇵🇰",
             "flag": "assets/flags/pakistan.png"
+        },
+        {
+            "name": "Antigua and Barbuda",
+            "emoji": "🇦🇬",
+            "flag": "assets/flags/antigua-and-barbuda.png"
         }
     ]
 }
