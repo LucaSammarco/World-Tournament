@@ -272,11 +272,6 @@
             "flag": "assets/flags/luxembourg.png"
         },
         {
-            "name": "Malawi",
-            "emoji": "🇲🇼",
-            "flag": "assets/flags/malawi.png"
-        },
-        {
             "name": "Malaysia",
             "emoji": "🇲🇾",
             "flag": "assets/flags/malaysia.png"
@@ -567,11 +562,6 @@
             "flag": "assets/flags/venezuela.png"
         },
         {
-            "name": "Vietnam",
-            "emoji": "🇻🇳",
-            "flag": "assets/flags/vietnam.png"
-        },
-        {
             "name": "Yemen",
             "emoji": "🇾🇪",
             "flag": "assets/flags/yemen.png"
@@ -838,6 +828,11 @@
             "name": "South Sudan",
             "emoji": "🇸🇸",
             "flag": "assets/flags/south-sudan.png"
+        },
+        {
+            "name": "Vietnam",
+            "emoji": "🇻🇳",
+            "flag": "assets/flags/vietnam.png"
         }
     ]
 }
