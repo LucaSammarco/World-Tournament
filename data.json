@@ -187,11 +187,6 @@
             "flag": "assets/flags/guyana.png"
         },
         {
-            "name": "Honduras",
-            "emoji": "🇭🇳",
-            "flag": "assets/flags/honduras.png"
-        },
-        {
             "name": "Hungary",
             "emoji": "🇭🇺",
             "flag": "assets/flags/hungary.png"
@@ -430,11 +425,6 @@
             "name": "Samoa",
             "emoji": "🇼🇸",
             "flag": "assets/flags/samoa.png"
-        },
-        {
-            "name": "São Tomé and Príncipe",
-            "emoji": "🇸🇹",
-            "flag": "assets/flags/são-tomé-and-príncipe.png"
         },
         {
             "name": "Saudi Arabia",
@@ -833,6 +823,11 @@
             "name": "Liberia",
             "emoji": "🇱🇷",
             "flag": "assets/flags/liberia.png"
+        },
+        {
+            "name": "Honduras",
+            "emoji": "🇭🇳",
+            "flag": "assets/flags/honduras.png"
         }
     ]
 }
