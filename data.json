@@ -287,11 +287,6 @@
             "flag": "assets/flags/mauritania.png"
         },
         {
-            "name": "Mauritius",
-            "emoji": "🇲🇺",
-            "flag": "assets/flags/mauritius.png"
-        },
-        {
             "name": "Mexico",
             "emoji": "🇲🇽",
             "flag": "assets/flags/mexico.png"
@@ -345,11 +340,6 @@
             "name": "Nicaragua",
             "emoji": "🇳🇮",
             "flag": "assets/flags/nicaragua.png"
-        },
-        {
-            "name": "Niger",
-            "emoji": "🇳🇪",
-            "flag": "assets/flags/niger.png"
         },
         {
             "name": "Nigeria",
@@ -828,6 +818,11 @@
             "name": "Philippines",
             "emoji": "🇵🇭",
             "flag": "assets/flags/philippines.png"
+        },
+        {
+            "name": "Niger",
+            "emoji": "🇳🇪",
+            "flag": "assets/flags/niger.png"
         }
     ]
 }
