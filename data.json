@@ -207,11 +207,6 @@
             "flag": "assets/flags/india.png"
         },
         {
-            "name": "Indonesia",
-            "emoji": "🇮🇩",
-            "flag": "assets/flags/indonesia.png"
-        },
-        {
             "name": "Iran",
             "emoji": "🇮🇷",
             "flag": "assets/flags/iran.png"
@@ -537,11 +532,6 @@
             "flag": "assets/flags/thailand.png"
         },
         {
-            "name": "Timor-Leste",
-            "emoji": "🇹🇱",
-            "flag": "assets/flags/timor-leste.png"
-        },
-        {
             "name": "Togo",
             "emoji": "🇹🇬",
             "flag": "assets/flags/togo.png"
@@ -853,6 +843,11 @@
             "name": "Argentina",
             "emoji": "🇦🇷",
             "flag": "assets/flags/argentina.png"
+        },
+        {
+            "name": "Indonesia",
+            "emoji": "🇮🇩",
+            "flag": "assets/flags/indonesia.png"
         }
     ]
 }
