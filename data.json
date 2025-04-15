@@ -7,11 +7,6 @@
             "flag": "assets/flags/algeria.png"
         },
         {
-            "name": "Angola",
-            "emoji": "🇦🇴",
-            "flag": "assets/flags/angola.png"
-        },
-        {
             "name": "Australia",
             "emoji": "🇦🇺",
             "flag": "assets/flags/australia.png"
@@ -547,11 +542,6 @@
             "flag": "assets/flags/trinidad-and-tobago.png"
         },
         {
-            "name": "Tunisia",
-            "emoji": "🇹🇳",
-            "flag": "assets/flags/tunisia.png"
-        },
-        {
             "name": "Turkmenistan",
             "emoji": "🇹🇲",
             "flag": "assets/flags/turkmenistan.png"
@@ -848,6 +838,11 @@
             "name": "Indonesia",
             "emoji": "🇮🇩",
             "flag": "assets/flags/indonesia.png"
+        },
+        {
+            "name": "Tunisia",
+            "emoji": "🇹🇳",
+            "flag": "assets/flags/tunisia.png"
         }
     ]
 }
