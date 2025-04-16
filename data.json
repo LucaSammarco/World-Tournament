@@ -42,11 +42,6 @@
             "flag": "assets/flags/bolivia.png"
         },
         {
-            "name": "Botswana",
-            "emoji": "🇧🇼",
-            "flag": "assets/flags/botswana.png"
-        },
-        {
             "name": "Bulgaria",
             "emoji": "🇧🇬",
             "flag": "assets/flags/bulgaria.png"
@@ -255,11 +250,6 @@
             "name": "Morocco",
             "emoji": "🇲🇦",
             "flag": "assets/flags/morocco.png"
-        },
-        {
-            "name": "Mozambique",
-            "emoji": "🇲🇿",
-            "flag": "assets/flags/mozambique.png"
         },
         {
             "name": "Myanmar",
@@ -798,6 +788,11 @@
             "name": "Lesotho",
             "emoji": "🇱🇸",
             "flag": "assets/flags/lesotho.png"
+        },
+        {
+            "name": "Botswana",
+            "emoji": "🇧🇼",
+            "flag": "assets/flags/botswana.png"
         }
     ]
 }
