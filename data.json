@@ -147,11 +147,6 @@
             "flag": "assets/flags/guinea-bissau.png"
         },
         {
-            "name": "Guyana",
-            "emoji": "🇬🇾",
-            "flag": "assets/flags/guyana.png"
-        },
-        {
             "name": "Hungary",
             "emoji": "🇭🇺",
             "flag": "assets/flags/hungary.png"
@@ -200,11 +195,6 @@
             "name": "Lebanon",
             "emoji": "🇱🇧",
             "flag": "assets/flags/lebanon.png"
-        },
-        {
-            "name": "Lesotho",
-            "emoji": "🇱🇸",
-            "flag": "assets/flags/lesotho.png"
         },
         {
             "name": "Libya",
@@ -798,6 +788,16 @@
             "name": "Palau",
             "emoji": "🇵🇼",
             "flag": "assets/flags/palau.png"
+        },
+        {
+            "name": "Guyana",
+            "emoji": "🇬🇾",
+            "flag": "assets/flags/guyana.png"
+        },
+        {
+            "name": "Lesotho",
+            "emoji": "🇱🇸",
+            "flag": "assets/flags/lesotho.png"
         }
     ]
 }
