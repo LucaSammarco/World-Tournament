@@ -82,11 +82,6 @@
             "flag": "assets/flags/central-african-republic.png"
         },
         {
-            "name": "Chad",
-            "emoji": "🇹🇩",
-            "flag": "assets/flags/chad.png"
-        },
-        {
             "name": "China",
             "emoji": "🇨🇳",
             "flag": "assets/flags/china.png"
@@ -497,11 +492,6 @@
             "flag": "assets/flags/uzbekistan.png"
         },
         {
-            "name": "Vanuatu",
-            "emoji": "🇻🇺",
-            "flag": "assets/flags/vanuatu.png"
-        },
-        {
             "name": "Vatican City",
             "emoji": "🇻🇦",
             "flag": "assets/flags/vatican-city.png"
@@ -818,6 +808,11 @@
             "name": "Saint Lucia",
             "emoji": "🇱🇨",
             "flag": "assets/flags/saint-lucia.png"
+        },
+        {
+            "name": "Vanuatu",
+            "emoji": "🇻🇺",
+            "flag": "assets/flags/vanuatu.png"
         }
     ]
 }
