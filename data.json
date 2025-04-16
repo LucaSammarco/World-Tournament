@@ -157,11 +157,6 @@
             "flag": "assets/flags/ghana.png"
         },
         {
-            "name": "Greece",
-            "emoji": "🇬🇷",
-            "flag": "assets/flags/greece.png"
-        },
-        {
             "name": "Guinea-Bissau",
             "emoji": "🇬🇼",
             "flag": "assets/flags/guinea-bissau.png"
@@ -385,11 +380,6 @@
             "name": "Saudi Arabia",
             "emoji": "🇸🇦",
             "flag": "assets/flags/saudi-arabia.png"
-        },
-        {
-            "name": "Senegal",
-            "emoji": "🇸🇳",
-            "flag": "assets/flags/senegal.png"
         },
         {
             "name": "Serbia",
@@ -808,6 +798,16 @@
             "name": "Cameroon",
             "emoji": "🇨🇲",
             "flag": "assets/flags/cameroon.png"
+        },
+        {
+            "name": "Senegal",
+            "emoji": "🇸🇳",
+            "flag": "assets/flags/senegal.png"
+        },
+        {
+            "name": "Greece",
+            "emoji": "🇬🇷",
+            "flag": "assets/flags/greece.png"
         }
     ]
 }
