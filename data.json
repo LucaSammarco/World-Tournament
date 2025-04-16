@@ -107,11 +107,6 @@
             "flag": "assets/flags/dominican-republic.png"
         },
         {
-            "name": "Ecuador",
-            "emoji": "🇪🇨",
-            "flag": "assets/flags/ecuador.png"
-        },
-        {
             "name": "Egypt",
             "emoji": "🇪🇬",
             "flag": "assets/flags/egypt.png"
@@ -410,11 +405,6 @@
             "name": "Sudan",
             "emoji": "🇸🇩",
             "flag": "assets/flags/sudan.png"
-        },
-        {
-            "name": "Thailand",
-            "emoji": "🇹🇭",
-            "flag": "assets/flags/thailand.png"
         },
         {
             "name": "Togo",
@@ -803,6 +793,11 @@
             "name": "Gabon",
             "emoji": "🇬🇦",
             "flag": "assets/flags/gabon.png"
+        },
+        {
+            "name": "Thailand",
+            "emoji": "🇹🇭",
+            "flag": "assets/flags/thailand.png"
         }
     ]
 }
