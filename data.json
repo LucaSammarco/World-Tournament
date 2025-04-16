@@ -57,11 +57,6 @@
             "flag": "assets/flags/burundi.png"
         },
         {
-            "name": "Cameroon",
-            "emoji": "🇨🇲",
-            "flag": "assets/flags/cameroon.png"
-        },
-        {
             "name": "Canada",
             "emoji": "🇨🇦",
             "flag": "assets/flags/canada.png"
@@ -305,11 +300,6 @@
             "name": "Namibia",
             "emoji": "🇳🇦",
             "flag": "assets/flags/namibia.png"
-        },
-        {
-            "name": "Nepal",
-            "emoji": "🇳🇵",
-            "flag": "assets/flags/nepal.png"
         },
         {
             "name": "Netherlands",
@@ -813,6 +803,11 @@
             "name": "Sweden",
             "emoji": "🇸🇪",
             "flag": "assets/flags/sweden.png"
+        },
+        {
+            "name": "Cameroon",
+            "emoji": "🇨🇲",
+            "flag": "assets/flags/cameroon.png"
         }
     ]
 }
