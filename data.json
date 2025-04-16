@@ -257,11 +257,6 @@
             "flag": "assets/flags/malaysia.png"
         },
         {
-            "name": "Maldives",
-            "emoji": "🇲🇻",
-            "flag": "assets/flags/maldives.png"
-        },
-        {
             "name": "Mali",
             "emoji": "🇲🇱",
             "flag": "assets/flags/mali.png"
@@ -445,11 +440,6 @@
             "name": "Sudan",
             "emoji": "🇸🇩",
             "flag": "assets/flags/sudan.png"
-        },
-        {
-            "name": "Sweden",
-            "emoji": "🇸🇪",
-            "flag": "assets/flags/sweden.png"
         },
         {
             "name": "Thailand",
@@ -813,6 +803,16 @@
             "name": "Tonga",
             "emoji": "🇹🇴",
             "flag": "assets/flags/tonga.png"
+        },
+        {
+            "name": "Maldives",
+            "emoji": "🇲🇻",
+            "flag": "assets/flags/maldives.png"
+        },
+        {
+            "name": "Sweden",
+            "emoji": "🇸🇪",
+            "flag": "assets/flags/sweden.png"
         }
     ]
 }
