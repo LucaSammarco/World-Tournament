@@ -132,11 +132,6 @@
             "flag": "assets/flags/hungary.png"
         },
         {
-            "name": "India",
-            "emoji": "🇮🇳",
-            "flag": "assets/flags/india.png"
-        },
-        {
             "name": "Iran",
             "emoji": "🇮🇷",
             "flag": "assets/flags/iran.png"
@@ -190,11 +185,6 @@
             "name": "Malaysia",
             "emoji": "🇲🇾",
             "flag": "assets/flags/malaysia.png"
-        },
-        {
-            "name": "Mali",
-            "emoji": "🇲🇱",
-            "flag": "assets/flags/mali.png"
         },
         {
             "name": "Malta",
@@ -778,6 +768,16 @@
             "name": "Israel",
             "emoji": "🇮🇱",
             "flag": "assets/flags/israel.png"
+        },
+        {
+            "name": "India",
+            "emoji": "🇮🇳",
+            "flag": "assets/flags/india.png"
+        },
+        {
+            "name": "Mali",
+            "emoji": "🇲🇱",
+            "flag": "assets/flags/mali.png"
         }
     ]
 }
