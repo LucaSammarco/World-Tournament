@@ -97,11 +97,6 @@
             "flag": "assets/flags/dominican-republic.png"
         },
         {
-            "name": "Equatorial Guinea",
-            "emoji": "🇬🇶",
-            "flag": "assets/flags/equatorial-guinea.png"
-        },
-        {
             "name": "Eritrea",
             "emoji": "🇪🇷",
             "flag": "assets/flags/eritrea.png"
@@ -265,11 +260,6 @@
             "name": "Nicaragua",
             "emoji": "🇳🇮",
             "flag": "assets/flags/nicaragua.png"
-        },
-        {
-            "name": "Nigeria",
-            "emoji": "🇳🇬",
-            "flag": "assets/flags/nigeria.png"
         },
         {
             "name": "North Macedonia",
@@ -788,6 +778,16 @@
             "name": "Comoros",
             "emoji": "🇰🇲",
             "flag": "assets/flags/comoros.png"
+        },
+        {
+            "name": "Nigeria",
+            "emoji": "🇳🇬",
+            "flag": "assets/flags/nigeria.png"
+        },
+        {
+            "name": "Equatorial Guinea",
+            "emoji": "🇬🇶",
+            "flag": "assets/flags/equatorial-guinea.png"
         }
     ]
 }
