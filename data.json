@@ -7,11 +7,6 @@
             "flag": "assets/flags/algeria.png"
         },
         {
-            "name": "Australia",
-            "emoji": "🇦🇺",
-            "flag": "assets/flags/australia.png"
-        },
-        {
             "name": "Bahamas",
             "emoji": "🇧🇸",
             "flag": "assets/flags/bahamas.png"
@@ -280,11 +275,6 @@
             "name": "Venezuela",
             "emoji": "🇻🇪",
             "flag": "assets/flags/venezuela.png"
-        },
-        {
-            "name": "Yemen",
-            "emoji": "🇾🇪",
-            "flag": "assets/flags/yemen.png"
         },
         {
             "name": "Zambia",
@@ -758,6 +748,11 @@
             "name": "Solomon Islands",
             "emoji": "🇸🇧",
             "flag": "assets/flags/solomon-islands.png"
+        },
+        {
+            "name": "Australia",
+            "emoji": "🇦🇺",
+            "flag": "assets/flags/australia.png"
         }
     ]
 }
