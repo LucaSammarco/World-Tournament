@@ -17,11 +17,6 @@
             "flag": "assets/flags/bahamas.png"
         },
         {
-            "name": "Bahrain",
-            "emoji": "🇧🇭",
-            "flag": "assets/flags/bahrain.png"
-        },
-        {
             "name": "Barbados",
             "emoji": "🇧🇧",
             "flag": "assets/flags/barbados.png"
@@ -280,11 +275,6 @@
             "name": "Panama",
             "emoji": "🇵🇦",
             "flag": "assets/flags/panama.png"
-        },
-        {
-            "name": "Peru",
-            "emoji": "🇵🇪",
-            "flag": "assets/flags/peru.png"
         },
         {
             "name": "Portugal",
@@ -788,6 +778,11 @@
             "name": "Equatorial Guinea",
             "emoji": "🇬🇶",
             "flag": "assets/flags/equatorial-guinea.png"
+        },
+        {
+            "name": "Peru",
+            "emoji": "🇵🇪",
+            "flag": "assets/flags/peru.png"
         }
     ]
 }
