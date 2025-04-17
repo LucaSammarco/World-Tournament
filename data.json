@@ -172,11 +172,6 @@
             "flag": "assets/flags/mauritania.png"
         },
         {
-            "name": "Mexico",
-            "emoji": "🇲🇽",
-            "flag": "assets/flags/mexico.png"
-        },
-        {
             "name": "Moldova",
             "emoji": "🇲🇩",
             "flag": "assets/flags/moldova.png"
@@ -250,11 +245,6 @@
             "name": "Saudi Arabia",
             "emoji": "🇸🇦",
             "flag": "assets/flags/saudi-arabia.png"
-        },
-        {
-            "name": "Serbia",
-            "emoji": "🇷🇸",
-            "flag": "assets/flags/serbia.png"
         },
         {
             "name": "Seychelles",
@@ -763,6 +753,16 @@
             "name": "Eritrea",
             "emoji": "🇪🇷",
             "flag": "assets/flags/eritrea.png"
+        },
+        {
+            "name": "Serbia",
+            "emoji": "🇷🇸",
+            "flag": "assets/flags/serbia.png"
+        },
+        {
+            "name": "Mexico",
+            "emoji": "🇲🇽",
+            "flag": "assets/flags/mexico.png"
         }
     ]
 }
