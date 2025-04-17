@@ -87,16 +87,6 @@
             "flag": "assets/flags/dominican-republic.png"
         },
         {
-            "name": "Eritrea",
-            "emoji": "🇪🇷",
-            "flag": "assets/flags/eritrea.png"
-        },
-        {
-            "name": "Eswatini",
-            "emoji": "🇸🇿",
-            "flag": "assets/flags/eswatini.png"
-        },
-        {
             "name": "Ethiopia",
             "emoji": "🇪🇹",
             "flag": "assets/flags/ethiopia.png"
@@ -763,6 +753,16 @@
             "name": "Uganda",
             "emoji": "🇺🇬",
             "flag": "assets/flags/uganda.png"
+        },
+        {
+            "name": "Eswatini",
+            "emoji": "🇸🇿",
+            "flag": "assets/flags/eswatini.png"
+        },
+        {
+            "name": "Eritrea",
+            "emoji": "🇪🇷",
+            "flag": "assets/flags/eritrea.png"
         }
     ]
 }
