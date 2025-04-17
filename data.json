@@ -102,11 +102,6 @@
             "flag": "assets/flags/ethiopia.png"
         },
         {
-            "name": "Gambia",
-            "emoji": "🇬🇲",
-            "flag": "assets/flags/gambia.png"
-        },
-        {
             "name": "Germany",
             "emoji": "🇩🇪",
             "flag": "assets/flags/germany.png"
@@ -320,11 +315,6 @@
             "name": "Uruguay",
             "emoji": "🇺🇾",
             "flag": "assets/flags/uruguay.png"
-        },
-        {
-            "name": "Uzbekistan",
-            "emoji": "🇺🇿",
-            "flag": "assets/flags/uzbekistan.png"
         },
         {
             "name": "Venezuela",
@@ -773,6 +763,11 @@
             "name": "Vatican City",
             "emoji": "🇻🇦",
             "flag": "assets/flags/vatican-city.png"
+        },
+        {
+            "name": "Gambia",
+            "emoji": "🇬🇲",
+            "flag": "assets/flags/gambia.png"
         }
     ]
 }
