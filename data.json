@@ -147,11 +147,6 @@
             "flag": "assets/flags/ireland.png"
         },
         {
-            "name": "Israel",
-            "emoji": "🇮🇱",
-            "flag": "assets/flags/israel.png"
-        },
-        {
             "name": "Jamaica",
             "emoji": "🇯🇲",
             "flag": "assets/flags/jamaica.png"
@@ -280,11 +275,6 @@
             "name": "Portugal",
             "emoji": "🇵🇹",
             "flag": "assets/flags/portugal.png"
-        },
-        {
-            "name": "Saint Kitts and Nevis",
-            "emoji": "🇰🇳",
-            "flag": "assets/flags/saint-kitts-and-nevis.png"
         },
         {
             "name": "Samoa",
@@ -783,6 +773,11 @@
             "name": "Togo",
             "emoji": "🇹🇬",
             "flag": "assets/flags/togo.png"
+        },
+        {
+            "name": "Israel",
+            "emoji": "🇮🇱",
+            "flag": "assets/flags/israel.png"
         }
     ]
 }
