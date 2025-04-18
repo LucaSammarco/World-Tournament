@@ -17,11 +17,6 @@
             "flag": "assets/flags/barbados.png"
         },
         {
-            "name": "Benin",
-            "emoji": "🇧🇯",
-            "flag": "assets/flags/benin.png"
-        },
-        {
             "name": "Bhutan",
             "emoji": "🇧🇹",
             "flag": "assets/flags/bhutan.png"
@@ -155,11 +150,6 @@
             "name": "Moldova",
             "emoji": "🇲🇩",
             "flag": "assets/flags/moldova.png"
-        },
-        {
-            "name": "Monaco",
-            "emoji": "🇲🇨",
-            "flag": "assets/flags/monaco.png"
         },
         {
             "name": "Morocco",
@@ -753,6 +743,11 @@
             "name": "Mauritania",
             "emoji": "🇲🇷",
             "flag": "assets/flags/mauritania.png"
+        },
+        {
+            "name": "Monaco",
+            "emoji": "🇲🇨",
+            "flag": "assets/flags/monaco.png"
         }
     ]
 }
