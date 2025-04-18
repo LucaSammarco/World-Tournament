@@ -22,11 +22,6 @@
             "flag": "assets/flags/bhutan.png"
         },
         {
-            "name": "Bulgaria",
-            "emoji": "🇧🇬",
-            "flag": "assets/flags/bulgaria.png"
-        },
-        {
             "name": "Burundi",
             "emoji": "🇧🇮",
             "flag": "assets/flags/burundi.png"
@@ -115,11 +110,6 @@
             "name": "Lithuania",
             "emoji": "🇱🇹",
             "flag": "assets/flags/lithuania.png"
-        },
-        {
-            "name": "Malaysia",
-            "emoji": "🇲🇾",
-            "flag": "assets/flags/malaysia.png"
         },
         {
             "name": "Malta",
@@ -733,6 +723,11 @@
             "name": "Netherlands",
             "emoji": "🇳🇱",
             "flag": "assets/flags/netherlands.png"
+        },
+        {
+            "name": "Malaysia",
+            "emoji": "🇲🇾",
+            "flag": "assets/flags/malaysia.png"
         }
     ]
 }
