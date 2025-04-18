@@ -212,16 +212,6 @@
             "flag": "assets/flags/somalia.png"
         },
         {
-            "name": "Trinidad and Tobago",
-            "emoji": "🇹🇹",
-            "flag": "assets/flags/trinidad-and-tobago.png"
-        },
-        {
-            "name": "Uruguay",
-            "emoji": "🇺🇾",
-            "flag": "assets/flags/uruguay.png"
-        },
-        {
             "name": "Venezuela",
             "emoji": "🇻🇪",
             "flag": "assets/flags/venezuela.png"
@@ -743,6 +733,11 @@
             "name": "Saudi Arabia",
             "emoji": "🇸🇦",
             "flag": "assets/flags/saudi-arabia.png"
+        },
+        {
+            "name": "Trinidad and Tobago",
+            "emoji": "🇹🇹",
+            "flag": "assets/flags/trinidad-and-tobago.png"
         }
     ]
 }
