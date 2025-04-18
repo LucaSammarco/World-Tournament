@@ -52,11 +52,6 @@
             "flag": "assets/flags/djibouti.png"
         },
         {
-            "name": "Dominica",
-            "emoji": "🇩🇲",
-            "flag": "assets/flags/dominica.png"
-        },
-        {
             "name": "Dominican Republic",
             "emoji": "🇩🇴",
             "flag": "assets/flags/dominican-republic.png"
@@ -195,11 +190,6 @@
             "name": "Samoa",
             "emoji": "🇼🇸",
             "flag": "assets/flags/samoa.png"
-        },
-        {
-            "name": "Saudi Arabia",
-            "emoji": "🇸🇦",
-            "flag": "assets/flags/saudi-arabia.png"
         },
         {
             "name": "Seychelles",
@@ -743,6 +733,16 @@
             "name": "Republic of the Congo",
             "emoji": "🇨🇬",
             "flag": "assets/flags/republic-of-the-congo.png"
+        },
+        {
+            "name": "Dominica",
+            "emoji": "🇩🇲",
+            "flag": "assets/flags/dominica.png"
+        },
+        {
+            "name": "Saudi Arabia",
+            "emoji": "🇸🇦",
+            "flag": "assets/flags/saudi-arabia.png"
         }
     ]
 }
