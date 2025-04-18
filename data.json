@@ -2,11 +2,6 @@
     "round": 1,
     "remaining": [
         {
-            "name": "Algeria",
-            "emoji": "🇩🇿",
-            "flag": "assets/flags/algeria.png"
-        },
-        {
             "name": "Bahamas",
             "emoji": "🇧🇸",
             "flag": "assets/flags/bahamas.png"
@@ -40,11 +35,6 @@
             "name": "Djibouti",
             "emoji": "🇩🇯",
             "flag": "assets/flags/djibouti.png"
-        },
-        {
-            "name": "Dominican Republic",
-            "emoji": "🇩🇴",
-            "flag": "assets/flags/dominican-republic.png"
         },
         {
             "name": "Ethiopia",
@@ -728,6 +718,16 @@
             "name": "Norway",
             "emoji": "🇳🇴",
             "flag": "assets/flags/norway.png"
+        },
+        {
+            "name": "Algeria",
+            "emoji": "🇩🇿",
+            "flag": "assets/flags/algeria.png"
+        },
+        {
+            "name": "Dominican Republic",
+            "emoji": "🇩🇴",
+            "flag": "assets/flags/dominican-republic.png"
         }
     ]
 }
