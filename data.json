@@ -22,11 +22,6 @@
             "flag": "assets/flags/bhutan.png"
         },
         {
-            "name": "Bolivia",
-            "emoji": "🇧🇴",
-            "flag": "assets/flags/bolivia.png"
-        },
-        {
             "name": "Bulgaria",
             "emoji": "🇧🇬",
             "flag": "assets/flags/bulgaria.png"
@@ -220,11 +215,6 @@
             "name": "Seychelles",
             "emoji": "🇸🇨",
             "flag": "assets/flags/seychelles.png"
-        },
-        {
-            "name": "Sierra Leone",
-            "emoji": "🇸🇱",
-            "flag": "assets/flags/sierra-leone.png"
         },
         {
             "name": "Singapore",
@@ -748,6 +738,16 @@
             "name": "Monaco",
             "emoji": "🇲🇨",
             "flag": "assets/flags/monaco.png"
+        },
+        {
+            "name": "Sierra Leone",
+            "emoji": "🇸🇱",
+            "flag": "assets/flags/sierra-leone.png"
+        },
+        {
+            "name": "Bolivia",
+            "emoji": "🇧🇴",
+            "flag": "assets/flags/bolivia.png"
         }
     ]
 }
