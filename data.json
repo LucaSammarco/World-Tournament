@@ -47,11 +47,6 @@
             "flag": "assets/flags/democratic-republic-of-the-congo.png"
         },
         {
-            "name": "Republic of the Congo",
-            "emoji": "🇨🇬",
-            "flag": "assets/flags/republic-of-the-congo.png"
-        },
-        {
             "name": "Djibouti",
             "emoji": "🇩🇯",
             "flag": "assets/flags/djibouti.png"
@@ -80,11 +75,6 @@
             "name": "Ghana",
             "emoji": "🇬🇭",
             "flag": "assets/flags/ghana.png"
-        },
-        {
-            "name": "Guinea-Bissau",
-            "emoji": "🇬🇼",
-            "flag": "assets/flags/guinea-bissau.png"
         },
         {
             "name": "Hungary",
@@ -748,6 +738,11 @@
             "name": "Bolivia",
             "emoji": "🇧🇴",
             "flag": "assets/flags/bolivia.png"
+        },
+        {
+            "name": "Republic of the Congo",
+            "emoji": "🇨🇬",
+            "flag": "assets/flags/republic-of-the-congo.png"
         }
     ]
 }
