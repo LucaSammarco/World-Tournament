@@ -147,11 +147,6 @@
             "flag": "assets/flags/namibia.png"
         },
         {
-            "name": "Netherlands",
-            "emoji": "🇳🇱",
-            "flag": "assets/flags/netherlands.png"
-        },
-        {
             "name": "New Zealand",
             "emoji": "🇳🇿",
             "flag": "assets/flags/new-zealand.png"
@@ -180,11 +175,6 @@
             "name": "Panama",
             "emoji": "🇵🇦",
             "flag": "assets/flags/panama.png"
-        },
-        {
-            "name": "Portugal",
-            "emoji": "🇵🇹",
-            "flag": "assets/flags/portugal.png"
         },
         {
             "name": "Singapore",
@@ -733,6 +723,16 @@
             "name": "Seychelles",
             "emoji": "🇸🇨",
             "flag": "assets/flags/seychelles.png"
+        },
+        {
+            "name": "Portugal",
+            "emoji": "🇵🇹",
+            "flag": "assets/flags/portugal.png"
+        },
+        {
+            "name": "Netherlands",
+            "emoji": "🇳🇱",
+            "flag": "assets/flags/netherlands.png"
         }
     ]
 }
