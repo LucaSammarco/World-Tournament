@@ -72,11 +72,6 @@
             "flag": "assets/flags/iran.png"
         },
         {
-            "name": "Ireland",
-            "emoji": "🇮🇪",
-            "flag": "assets/flags/ireland.png"
-        },
-        {
             "name": "Jamaica",
             "emoji": "🇯🇲",
             "flag": "assets/flags/jamaica.png"
@@ -140,11 +135,6 @@
             "name": "North Macedonia",
             "emoji": "🇲🇰",
             "flag": "assets/flags/north-macedonia.png"
-        },
-        {
-            "name": "Norway",
-            "emoji": "🇳🇴",
-            "flag": "assets/flags/norway.png"
         },
         {
             "name": "Palestine",
@@ -728,6 +718,16 @@
             "name": "Liechtenstein",
             "emoji": "🇱🇮",
             "flag": "assets/flags/liechtenstein.png"
+        },
+        {
+            "name": "Ireland",
+            "emoji": "🇮🇪",
+            "flag": "assets/flags/ireland.png"
+        },
+        {
+            "name": "Norway",
+            "emoji": "🇳🇴",
+            "flag": "assets/flags/norway.png"
         }
     ]
 }
