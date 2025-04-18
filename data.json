@@ -187,16 +187,6 @@
             "flag": "assets/flags/portugal.png"
         },
         {
-            "name": "Samoa",
-            "emoji": "🇼🇸",
-            "flag": "assets/flags/samoa.png"
-        },
-        {
-            "name": "Seychelles",
-            "emoji": "🇸🇨",
-            "flag": "assets/flags/seychelles.png"
-        },
-        {
             "name": "Singapore",
             "emoji": "🇸🇬",
             "flag": "assets/flags/singapore.png"
@@ -738,6 +728,11 @@
             "name": "Trinidad and Tobago",
             "emoji": "🇹🇹",
             "flag": "assets/flags/trinidad-and-tobago.png"
+        },
+        {
+            "name": "Seychelles",
+            "emoji": "🇸🇨",
+            "flag": "assets/flags/seychelles.png"
         }
     ]
 }
