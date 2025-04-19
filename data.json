@@ -112,11 +112,6 @@
             "flag": "assets/flags/panama.png"
         },
         {
-            "name": "Singapore",
-            "emoji": "🇸🇬",
-            "flag": "assets/flags/singapore.png"
-        },
-        {
             "name": "Somalia",
             "emoji": "🇸🇴",
             "flag": "assets/flags/somalia.png"
@@ -130,11 +125,6 @@
             "name": "Zambia",
             "emoji": "🇿🇲",
             "flag": "assets/flags/zambia.png"
-        },
-        {
-            "name": "Zimbabwe",
-            "emoji": "🇿🇼",
-            "flag": "assets/flags/zimbabwe.png"
         }
     ],
     "total_countries": 195,
@@ -718,6 +708,16 @@
             "name": "Slovakia",
             "emoji": "🇸🇰",
             "flag": "assets/flags/slovakia.png"
+        },
+        {
+            "name": "Singapore",
+            "emoji": "🇸🇬",
+            "flag": "assets/flags/singapore.png"
+        },
+        {
+            "name": "Zimbabwe",
+            "emoji": "🇿🇼",
+            "flag": "assets/flags/zimbabwe.png"
         }
     ]
 }
