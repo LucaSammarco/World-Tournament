@@ -37,16 +37,6 @@
             "flag": "assets/flags/kazakhstan.png"
         },
         {
-            "name": "Lebanon",
-            "emoji": "🇱🇧",
-            "flag": "assets/flags/lebanon.png"
-        },
-        {
-            "name": "Malta",
-            "emoji": "🇲🇹",
-            "flag": "assets/flags/malta.png"
-        },
-        {
             "name": "Morocco",
             "emoji": "🇲🇦",
             "flag": "assets/flags/morocco.png"
@@ -698,6 +688,11 @@
             "name": "Bahamas",
             "emoji": "🇧🇸",
             "flag": "assets/flags/bahamas.png"
+        },
+        {
+            "name": "Malta",
+            "emoji": "🇲🇹",
+            "flag": "assets/flags/malta.png"
         }
     ]
 }
