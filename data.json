@@ -67,19 +67,9 @@
             "flag": "assets/flags/myanmar.png"
         },
         {
-            "name": "Namibia",
-            "emoji": "🇳🇦",
-            "flag": "assets/flags/namibia.png"
-        },
-        {
             "name": "New Zealand",
             "emoji": "🇳🇿",
             "flag": "assets/flags/new-zealand.png"
-        },
-        {
-            "name": "Nicaragua",
-            "emoji": "🇳🇮",
-            "flag": "assets/flags/nicaragua.png"
         },
         {
             "name": "North Macedonia",
@@ -708,6 +698,11 @@
             "name": "Ghana",
             "emoji": "🇬🇭",
             "flag": "assets/flags/ghana.png"
+        },
+        {
+            "name": "Nicaragua",
+            "emoji": "🇳🇮",
+            "flag": "assets/flags/nicaragua.png"
         }
     ]
 }
