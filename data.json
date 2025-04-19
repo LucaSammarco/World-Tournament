@@ -32,19 +32,9 @@
             "flag": "assets/flags/ethiopia.png"
         },
         {
-            "name": "Ghana",
-            "emoji": "🇬🇭",
-            "flag": "assets/flags/ghana.png"
-        },
-        {
             "name": "Hungary",
             "emoji": "🇭🇺",
             "flag": "assets/flags/hungary.png"
-        },
-        {
-            "name": "Iran",
-            "emoji": "🇮🇷",
-            "flag": "assets/flags/iran.png"
         },
         {
             "name": "Jamaica",
@@ -713,6 +703,11 @@
             "name": "Libya",
             "emoji": "🇱🇾",
             "flag": "assets/flags/libya.png"
+        },
+        {
+            "name": "Ghana",
+            "emoji": "🇬🇭",
+            "flag": "assets/flags/ghana.png"
         }
     ]
 }
