@@ -42,11 +42,6 @@
             "flag": "assets/flags/morocco.png"
         },
         {
-            "name": "Myanmar",
-            "emoji": "🇲🇲",
-            "flag": "assets/flags/myanmar.png"
-        },
-        {
             "name": "New Zealand",
             "emoji": "🇳🇿",
             "flag": "assets/flags/new-zealand.png"
@@ -70,11 +65,6 @@
             "name": "Somalia",
             "emoji": "🇸🇴",
             "flag": "assets/flags/somalia.png"
-        },
-        {
-            "name": "Venezuela",
-            "emoji": "🇻🇪",
-            "flag": "assets/flags/venezuela.png"
         }
     ],
     "total_countries": 195,
@@ -693,6 +683,16 @@
             "name": "Malta",
             "emoji": "🇲🇹",
             "flag": "assets/flags/malta.png"
+        },
+        {
+            "name": "Venezuela",
+            "emoji": "🇻🇪",
+            "flag": "assets/flags/venezuela.png"
+        },
+        {
+            "name": "Myanmar",
+            "emoji": "🇲🇲",
+            "flag": "assets/flags/myanmar.png"
         }
     ]
 }
