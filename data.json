@@ -62,11 +62,6 @@
             "flag": "assets/flags/lebanon.png"
         },
         {
-            "name": "Libya",
-            "emoji": "🇱🇾",
-            "flag": "assets/flags/libya.png"
-        },
-        {
             "name": "Malta",
             "emoji": "🇲🇹",
             "flag": "assets/flags/malta.png"
@@ -120,11 +115,6 @@
             "name": "Venezuela",
             "emoji": "🇻🇪",
             "flag": "assets/flags/venezuela.png"
-        },
-        {
-            "name": "Zambia",
-            "emoji": "🇿🇲",
-            "flag": "assets/flags/zambia.png"
         }
     ],
     "total_countries": 195,
@@ -718,6 +708,11 @@
             "name": "Zimbabwe",
             "emoji": "🇿🇼",
             "flag": "assets/flags/zimbabwe.png"
+        },
+        {
+            "name": "Libya",
+            "emoji": "🇱🇾",
+            "flag": "assets/flags/libya.png"
         }
     ]
 }
