@@ -12,11 +12,6 @@
             "flag": "assets/flags/barbados.png"
         },
         {
-            "name": "Bhutan",
-            "emoji": "🇧🇹",
-            "flag": "assets/flags/bhutan.png"
-        },
-        {
             "name": "Burundi",
             "emoji": "🇧🇮",
             "flag": "assets/flags/burundi.png"
@@ -40,11 +35,6 @@
             "name": "Ethiopia",
             "emoji": "🇪🇹",
             "flag": "assets/flags/ethiopia.png"
-        },
-        {
-            "name": "Germany",
-            "emoji": "🇩🇪",
-            "flag": "assets/flags/germany.png"
         },
         {
             "name": "Ghana",
@@ -728,6 +718,11 @@
             "name": "Dominican Republic",
             "emoji": "🇩🇴",
             "flag": "assets/flags/dominican-republic.png"
+        },
+        {
+            "name": "Germany",
+            "emoji": "🇩🇪",
+            "flag": "assets/flags/germany.png"
         }
     ]
 }
