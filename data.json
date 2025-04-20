@@ -152,11 +152,6 @@
             "flag": "assets/flags/canada.png"
         },
         {
-            "name": "Cape Verde",
-            "emoji": "🇨🇻",
-            "flag": "assets/flags/cape-verde.png"
-        },
-        {
             "name": "Central African Republic",
             "emoji": "🇨🇫",
             "flag": "assets/flags/central-african-republic.png"
@@ -842,11 +837,6 @@
             "flag": "assets/flags/turkey.png"
         },
         {
-            "name": "Turkmenistan",
-            "emoji": "🇹🇲",
-            "flag": "assets/flags/turkmenistan.png"
-        },
-        {
             "name": "Tuvalu",
             "emoji": "🇹🇻",
             "flag": "assets/flags/tuvalu.png"
@@ -958,6 +948,16 @@
             "name": "Costa Rica",
             "emoji": "🇨🇷",
             "flag": "assets/flags/costa-rica.png"
+        },
+        {
+            "name": "Cape Verde",
+            "emoji": "🇨🇻",
+            "flag": "assets/flags/cape-verde.png"
+        },
+        {
+            "name": "Turkmenistan",
+            "emoji": "🇹🇲",
+            "flag": "assets/flags/turkmenistan.png"
         }
     ]
 }
