@@ -437,11 +437,6 @@
             "flag": "assets/flags/kenya.png"
         },
         {
-            "name": "Kiribati",
-            "emoji": "🇰🇮",
-            "flag": "assets/flags/kiribati.png"
-        },
-        {
             "name": "Kuwait",
             "emoji": "🇰🇼",
             "flag": "assets/flags/kuwait.png"
@@ -450,11 +445,6 @@
             "name": "Kyrgyzstan",
             "emoji": "🇰🇬",
             "flag": "assets/flags/kyrgyzstan.png"
-        },
-        {
-            "name": "Laos",
-            "emoji": "🇱🇦",
-            "flag": "assets/flags/laos.png"
         },
         {
             "name": "Latvia",
@@ -973,6 +963,11 @@
             "name": "Timor-Leste",
             "emoji": "🇹🇱",
             "flag": "assets/flags/timor-leste.png"
+        },
+        {
+            "name": "Laos",
+            "emoji": "🇱🇦",
+            "flag": "assets/flags/laos.png"
         }
     ]
 }
