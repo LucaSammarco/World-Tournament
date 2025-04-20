@@ -12,19 +12,9 @@
             "flag": "assets/flags/china.png"
         },
         {
-            "name": "Ethiopia",
-            "emoji": "🇪🇹",
-            "flag": "assets/flags/ethiopia.png"
-        },
-        {
             "name": "Kazakhstan",
             "emoji": "🇰🇿",
             "flag": "assets/flags/kazakhstan.png"
-        },
-        {
-            "name": "Morocco",
-            "emoji": "🇲🇦",
-            "flag": "assets/flags/morocco.png"
         },
         {
             "name": "Palestine",
@@ -683,6 +673,11 @@
             "name": "Democratic Republic of the Congo",
             "emoji": "🇨🇩",
             "flag": "assets/flags/democratic-republic-of-the-congo.png"
+        },
+        {
+            "name": "Morocco",
+            "emoji": "🇲🇦",
+            "flag": "assets/flags/morocco.png"
         }
     ]
 }
