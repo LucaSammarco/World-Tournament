@@ -2,16 +2,6 @@
     "round": 1,
     "remaining": [
         {
-            "name": "Kazakhstan",
-            "emoji": "🇰🇿",
-            "flag": "assets/flags/kazakhstan.png"
-        },
-        {
-            "name": "Palestine",
-            "emoji": "🇵🇸",
-            "flag": "assets/flags/palestine.png"
-        },
-        {
             "name": "Panama",
             "emoji": "🇵🇦",
             "flag": "assets/flags/panama.png"
@@ -673,6 +663,11 @@
             "name": "China",
             "emoji": "🇨🇳",
             "flag": "assets/flags/china.png"
+        },
+        {
+            "name": "Kazakhstan",
+            "emoji": "🇰🇿",
+            "flag": "assets/flags/kazakhstan.png"
         }
     ]
 }
