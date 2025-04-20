@@ -17,11 +17,6 @@
             "flag": "assets/flags/algeria.png"
         },
         {
-            "name": "Andorra",
-            "emoji": "🇦🇩",
-            "flag": "assets/flags/andorra.png"
-        },
-        {
             "name": "Angola",
             "emoji": "🇦🇴",
             "flag": "assets/flags/angola.png"
@@ -797,11 +792,6 @@
             "flag": "assets/flags/sri-lanka.png"
         },
         {
-            "name": "Sudan",
-            "emoji": "🇸🇩",
-            "flag": "assets/flags/sudan.png"
-        },
-        {
             "name": "Suriname",
             "emoji": "🇸🇷",
             "flag": "assets/flags/suriname.png"
@@ -963,6 +953,11 @@
             "name": "Mexico",
             "emoji": "🇲🇽",
             "flag": "assets/flags/mexico.png"
+        },
+        {
+            "name": "Andorra",
+            "emoji": "🇦🇩",
+            "flag": "assets/flags/andorra.png"
         }
     ]
 }
