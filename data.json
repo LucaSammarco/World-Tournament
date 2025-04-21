@@ -377,11 +377,6 @@
             "flag": "assets/flags/japan.png"
         },
         {
-            "name": "Jordan",
-            "emoji": "🇯🇴",
-            "flag": "assets/flags/jordan.png"
-        },
-        {
             "name": "Kazakhstan",
             "emoji": "🇰🇿",
             "flag": "assets/flags/kazakhstan.png"
@@ -762,11 +757,6 @@
             "flag": "assets/flags/tunisia.png"
         },
         {
-            "name": "Turkey",
-            "emoji": "🇹🇷",
-            "flag": "assets/flags/turkey.png"
-        },
-        {
             "name": "Uganda",
             "emoji": "🇺🇬",
             "flag": "assets/flags/uganda.png"
@@ -933,6 +923,11 @@
             "name": "Tuvalu",
             "emoji": "🇹🇻",
             "flag": "assets/flags/tuvalu.png"
+        },
+        {
+            "name": "Turkey",
+            "emoji": "🇹🇷",
+            "flag": "assets/flags/turkey.png"
         }
     ]
 }
