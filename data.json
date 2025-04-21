@@ -602,11 +602,6 @@
             "flag": "assets/flags/pakistan.png"
         },
         {
-            "name": "Palau",
-            "emoji": "🇵🇼",
-            "flag": "assets/flags/palau.png"
-        },
-        {
             "name": "Palestine",
             "emoji": "🇵🇸",
             "flag": "assets/flags/palestine.png"
@@ -750,11 +745,6 @@
             "name": "South Sudan",
             "emoji": "🇸🇸",
             "flag": "assets/flags/south-sudan.png"
-        },
-        {
-            "name": "Spain",
-            "emoji": "🇪🇸",
-            "flag": "assets/flags/spain.png"
         },
         {
             "name": "Sri Lanka",
@@ -948,6 +938,11 @@
             "name": "Antigua and Barbuda",
             "emoji": "🇦🇬",
             "flag": "assets/flags/antigua-and-barbuda.png"
+        },
+        {
+            "name": "Palau",
+            "emoji": "🇵🇼",
+            "flag": "assets/flags/palau.png"
         }
     ]
 }
