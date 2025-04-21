@@ -527,11 +527,6 @@
             "flag": "assets/flags/myanmar.png"
         },
         {
-            "name": "Namibia",
-            "emoji": "🇳🇦",
-            "flag": "assets/flags/namibia.png"
-        },
-        {
             "name": "Nauru",
             "emoji": "🇳🇷",
             "flag": "assets/flags/nauru.png"
@@ -650,11 +645,6 @@
             "name": "Saint Lucia",
             "emoji": "🇱🇨",
             "flag": "assets/flags/saint-lucia.png"
-        },
-        {
-            "name": "Saint Vincent and the Grenadines",
-            "emoji": "🇻🇨",
-            "flag": "assets/flags/saint-vincent-and-the-grenadines.png"
         },
         {
             "name": "Samoa",
@@ -943,6 +933,16 @@
             "name": "Czech Republic",
             "emoji": "🇨🇿",
             "flag": "assets/flags/czech-republic.png"
+        },
+        {
+            "name": "Namibia",
+            "emoji": "🇳🇦",
+            "flag": "assets/flags/namibia.png"
+        },
+        {
+            "name": "Saint Vincent and the Grenadines",
+            "emoji": "🇻🇨",
+            "flag": "assets/flags/saint-vincent-and-the-grenadines.png"
         }
     ]
 }
