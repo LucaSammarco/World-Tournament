@@ -622,11 +622,6 @@
             "flag": "assets/flags/palestine.png"
         },
         {
-            "name": "Panama",
-            "emoji": "🇵🇦",
-            "flag": "assets/flags/panama.png"
-        },
-        {
             "name": "Papua New Guinea",
             "emoji": "🇵🇬",
             "flag": "assets/flags/papua-new-guinea.png"
@@ -877,11 +872,6 @@
             "flag": "assets/flags/uzbekistan.png"
         },
         {
-            "name": "Vanuatu",
-            "emoji": "🇻🇺",
-            "flag": "assets/flags/vanuatu.png"
-        },
-        {
             "name": "Vatican City",
             "emoji": "🇻🇦",
             "flag": "assets/flags/vatican-city.png"
@@ -958,6 +948,16 @@
             "name": "Turkmenistan",
             "emoji": "🇹🇲",
             "flag": "assets/flags/turkmenistan.png"
+        },
+        {
+            "name": "Panama",
+            "emoji": "🇵🇦",
+            "flag": "assets/flags/panama.png"
+        },
+        {
+            "name": "Vanuatu",
+            "emoji": "🇻🇺",
+            "flag": "assets/flags/vanuatu.png"
         }
     ]
 }
