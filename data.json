@@ -237,11 +237,6 @@
             "flag": "assets/flags/eswatini.png"
         },
         {
-            "name": "Ethiopia",
-            "emoji": "🇪🇹",
-            "flag": "assets/flags/ethiopia.png"
-        },
-        {
             "name": "Fiji",
             "emoji": "🇫🇯",
             "flag": "assets/flags/fiji.png"
@@ -355,11 +350,6 @@
             "name": "Israel",
             "emoji": "🇮🇱",
             "flag": "assets/flags/israel.png"
-        },
-        {
-            "name": "Italy",
-            "emoji": "🇮🇹",
-            "flag": "assets/flags/italy.png"
         },
         {
             "name": "Ivory Coast",
@@ -928,6 +918,16 @@
             "name": "Turkey",
             "emoji": "🇹🇷",
             "flag": "assets/flags/turkey.png"
+        },
+        {
+            "name": "Ethiopia",
+            "emoji": "🇪🇹",
+            "flag": "assets/flags/ethiopia.png"
+        },
+        {
+            "name": "Italy",
+            "emoji": "🇮🇹",
+            "flag": "assets/flags/italy.png"
         }
     ]
 }
