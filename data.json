@@ -322,11 +322,6 @@
             "flag": "assets/flags/honduras.png"
         },
         {
-            "name": "Hungary",
-            "emoji": "🇭🇺",
-            "flag": "assets/flags/hungary.png"
-        },
-        {
             "name": "Iceland",
             "emoji": "🇮🇸",
             "flag": "assets/flags/iceland.png"
@@ -772,11 +767,6 @@
             "flag": "assets/flags/turkey.png"
         },
         {
-            "name": "Tuvalu",
-            "emoji": "🇹🇻",
-            "flag": "assets/flags/tuvalu.png"
-        },
-        {
             "name": "Uganda",
             "emoji": "🇺🇬",
             "flag": "assets/flags/uganda.png"
@@ -938,6 +928,11 @@
             "name": "Nepal",
             "emoji": "🇳🇵",
             "flag": "assets/flags/nepal.png"
+        },
+        {
+            "name": "Tuvalu",
+            "emoji": "🇹🇻",
+            "flag": "assets/flags/tuvalu.png"
         }
     ]
 }
