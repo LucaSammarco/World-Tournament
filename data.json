@@ -532,11 +532,6 @@
             "flag": "assets/flags/nauru.png"
         },
         {
-            "name": "Nepal",
-            "emoji": "🇳🇵",
-            "flag": "assets/flags/nepal.png"
-        },
-        {
             "name": "Netherlands",
             "emoji": "🇳🇱",
             "flag": "assets/flags/netherlands.png"
@@ -610,11 +605,6 @@
             "name": "Philippines",
             "emoji": "🇵🇭",
             "flag": "assets/flags/philippines.png"
-        },
-        {
-            "name": "Poland",
-            "emoji": "🇵🇱",
-            "flag": "assets/flags/poland.png"
         },
         {
             "name": "Portugal",
@@ -943,6 +933,11 @@
             "name": "Saint Vincent and the Grenadines",
             "emoji": "🇻🇨",
             "flag": "assets/flags/saint-vincent-and-the-grenadines.png"
+        },
+        {
+            "name": "Nepal",
+            "emoji": "🇳🇵",
+            "flag": "assets/flags/nepal.png"
         }
     ]
 }
