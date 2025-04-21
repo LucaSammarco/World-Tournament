@@ -467,11 +467,6 @@
             "flag": "assets/flags/mauritius.png"
         },
         {
-            "name": "Micronesia",
-            "emoji": "🇫🇲",
-            "flag": "assets/flags/micronesia.png"
-        },
-        {
             "name": "Moldova",
             "emoji": "🇲🇩",
             "flag": "assets/flags/moldova.png"
@@ -520,11 +515,6 @@
             "name": "New Zealand",
             "emoji": "🇳🇿",
             "flag": "assets/flags/new-zealand.png"
-        },
-        {
-            "name": "Nicaragua",
-            "emoji": "🇳🇮",
-            "flag": "assets/flags/nicaragua.png"
         },
         {
             "name": "Niger",
@@ -928,6 +918,11 @@
             "name": "Italy",
             "emoji": "🇮🇹",
             "flag": "assets/flags/italy.png"
+        },
+        {
+            "name": "Micronesia",
+            "emoji": "🇫🇲",
+            "flag": "assets/flags/micronesia.png"
         }
     ]
 }
