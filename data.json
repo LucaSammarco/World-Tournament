@@ -267,11 +267,6 @@
             "flag": "assets/flags/germany.png"
         },
         {
-            "name": "Ghana",
-            "emoji": "🇬🇭",
-            "flag": "assets/flags/ghana.png"
-        },
-        {
             "name": "Greece",
             "emoji": "🇬🇷",
             "flag": "assets/flags/greece.png"
@@ -570,11 +565,6 @@
             "name": "Portugal",
             "emoji": "🇵🇹",
             "flag": "assets/flags/portugal.png"
-        },
-        {
-            "name": "Qatar",
-            "emoji": "🇶🇦",
-            "flag": "assets/flags/qatar.png"
         },
         {
             "name": "Romania",
@@ -918,6 +908,11 @@
             "name": "Mali",
             "emoji": "🇲🇱",
             "flag": "assets/flags/mali.png"
+        },
+        {
+            "name": "Ghana",
+            "emoji": "🇬🇭",
+            "flag": "assets/flags/ghana.png"
         }
     ]
 }
