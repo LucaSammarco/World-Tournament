@@ -262,11 +262,6 @@
             "flag": "assets/flags/guinea-bissau.png"
         },
         {
-            "name": "Guyana",
-            "emoji": "🇬🇾",
-            "flag": "assets/flags/guyana.png"
-        },
-        {
             "name": "Haiti",
             "emoji": "🇭🇹",
             "flag": "assets/flags/haiti.png"
@@ -380,11 +375,6 @@
             "name": "Madagascar",
             "emoji": "🇲🇬",
             "flag": "assets/flags/madagascar.png"
-        },
-        {
-            "name": "Malawi",
-            "emoji": "🇲🇼",
-            "flag": "assets/flags/malawi.png"
         },
         {
             "name": "Malaysia",
@@ -888,6 +878,11 @@
             "name": "Eswatini",
             "emoji": "🇸🇿",
             "flag": "assets/flags/eswatini.png"
+        },
+        {
+            "name": "Guyana",
+            "emoji": "🇬🇾",
+            "flag": "assets/flags/guyana.png"
         }
     ]
 }
