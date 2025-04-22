@@ -207,11 +207,6 @@
             "flag": "assets/flags/egypt.png"
         },
         {
-            "name": "El Salvador",
-            "emoji": "🇸🇻",
-            "flag": "assets/flags/el-salvador.png"
-        },
-        {
             "name": "Estonia",
             "emoji": "🇪🇪",
             "flag": "assets/flags/estonia.png"
@@ -460,11 +455,6 @@
             "name": "Mozambique",
             "emoji": "🇲🇿",
             "flag": "assets/flags/mozambique.png"
-        },
-        {
-            "name": "Myanmar",
-            "emoji": "🇲🇲",
-            "flag": "assets/flags/myanmar.png"
         },
         {
             "name": "Nauru",
@@ -898,6 +888,11 @@
             "name": "Luxembourg",
             "emoji": "🇱🇺",
             "flag": "assets/flags/luxembourg.png"
+        },
+        {
+            "name": "El Salvador",
+            "emoji": "🇸🇻",
+            "flag": "assets/flags/el-salvador.png"
         }
     ]
 }
