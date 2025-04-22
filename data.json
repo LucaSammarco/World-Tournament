@@ -22,11 +22,6 @@
             "flag": "assets/flags/angola.png"
         },
         {
-            "name": "Argentina",
-            "emoji": "🇦🇷",
-            "flag": "assets/flags/argentina.png"
-        },
-        {
             "name": "Armenia",
             "emoji": "🇦🇲",
             "flag": "assets/flags/armenia.png"
@@ -642,11 +637,6 @@
             "flag": "assets/flags/ukraine.png"
         },
         {
-            "name": "United Arab Emirates",
-            "emoji": "🇦🇪",
-            "flag": "assets/flags/united-arab-emirates.png"
-        },
-        {
             "name": "United Kingdom",
             "emoji": "🇬🇧",
             "flag": "assets/flags/united-kingdom.png"
@@ -873,6 +863,11 @@
             "name": "New Zealand",
             "emoji": "🇳🇿",
             "flag": "assets/flags/new-zealand.png"
+        },
+        {
+            "name": "Argentina",
+            "emoji": "🇦🇷",
+            "flag": "assets/flags/argentina.png"
         }
     ]
 }
