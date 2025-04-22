@@ -207,16 +207,6 @@
             "flag": "assets/flags/egypt.png"
         },
         {
-            "name": "Estonia",
-            "emoji": "🇪🇪",
-            "flag": "assets/flags/estonia.png"
-        },
-        {
-            "name": "Eswatini",
-            "emoji": "🇸🇿",
-            "flag": "assets/flags/eswatini.png"
-        },
-        {
             "name": "Fiji",
             "emoji": "🇫🇯",
             "flag": "assets/flags/fiji.png"
@@ -893,6 +883,11 @@
             "name": "El Salvador",
             "emoji": "🇸🇻",
             "flag": "assets/flags/el-salvador.png"
+        },
+        {
+            "name": "Eswatini",
+            "emoji": "🇸🇿",
+            "flag": "assets/flags/eswatini.png"
         }
     ]
 }
