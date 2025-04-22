@@ -177,11 +177,6 @@
             "flag": "assets/flags/democratic-republic-of-the-congo.png"
         },
         {
-            "name": "Republic of the Congo",
-            "emoji": "🇨🇬",
-            "flag": "assets/flags/republic-of-the-congo.png"
-        },
-        {
             "name": "Croatia",
             "emoji": "🇭🇷",
             "flag": "assets/flags/croatia.png"
@@ -440,11 +435,6 @@
             "name": "Maldives",
             "emoji": "🇲🇻",
             "flag": "assets/flags/maldives.png"
-        },
-        {
-            "name": "Mali",
-            "emoji": "🇲🇱",
-            "flag": "assets/flags/mali.png"
         },
         {
             "name": "Malta",
@@ -923,6 +913,11 @@
             "name": "Micronesia",
             "emoji": "🇫🇲",
             "flag": "assets/flags/micronesia.png"
+        },
+        {
+            "name": "Mali",
+            "emoji": "🇲🇱",
+            "flag": "assets/flags/mali.png"
         }
     ]
 }
