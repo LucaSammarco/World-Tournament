@@ -202,11 +202,6 @@
             "flag": "assets/flags/djibouti.png"
         },
         {
-            "name": "Dominican Republic",
-            "emoji": "🇩🇴",
-            "flag": "assets/flags/dominican-republic.png"
-        },
-        {
             "name": "Ecuador",
             "emoji": "🇪🇨",
             "flag": "assets/flags/ecuador.png"
@@ -515,11 +510,6 @@
             "name": "North Korea",
             "emoji": "🇰🇵",
             "flag": "assets/flags/north-korea.png"
-        },
-        {
-            "name": "North Macedonia",
-            "emoji": "🇲🇰",
-            "flag": "assets/flags/north-macedonia.png"
         },
         {
             "name": "Norway",
@@ -913,6 +903,16 @@
             "name": "Ghana",
             "emoji": "🇬🇭",
             "flag": "assets/flags/ghana.png"
+        },
+        {
+            "name": "North Macedonia",
+            "emoji": "🇲🇰",
+            "flag": "assets/flags/north-macedonia.png"
+        },
+        {
+            "name": "Dominican Republic",
+            "emoji": "🇩🇴",
+            "flag": "assets/flags/dominican-republic.png"
         }
     ]
 }
