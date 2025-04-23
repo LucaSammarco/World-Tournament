@@ -327,11 +327,6 @@
             "flag": "assets/flags/latvia.png"
         },
         {
-            "name": "Lesotho",
-            "emoji": "🇱🇸",
-            "flag": "assets/flags/lesotho.png"
-        },
-        {
             "name": "Liberia",
             "emoji": "🇱🇷",
             "flag": "assets/flags/liberia.png"
@@ -410,11 +405,6 @@
             "name": "Netherlands",
             "emoji": "🇳🇱",
             "flag": "assets/flags/netherlands.png"
-        },
-        {
-            "name": "Nigeria",
-            "emoji": "🇳🇬",
-            "flag": "assets/flags/nigeria.png"
         },
         {
             "name": "North Korea",
@@ -853,6 +843,11 @@
             "name": "Liechtenstein",
             "emoji": "🇱🇮",
             "flag": "assets/flags/liechtenstein.png"
+        },
+        {
+            "name": "Nigeria",
+            "emoji": "🇳🇬",
+            "flag": "assets/flags/nigeria.png"
         }
     ]
 }
