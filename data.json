@@ -197,11 +197,6 @@
             "flag": "assets/flags/finland.png"
         },
         {
-            "name": "France",
-            "emoji": "🇫🇷",
-            "flag": "assets/flags/france.png"
-        },
-        {
             "name": "Gabon",
             "emoji": "🇬🇦",
             "flag": "assets/flags/gabon.png"
@@ -495,11 +490,6 @@
             "name": "Solomon Islands",
             "emoji": "🇸🇧",
             "flag": "assets/flags/solomon-islands.png"
-        },
-        {
-            "name": "Somalia",
-            "emoji": "🇸🇴",
-            "flag": "assets/flags/somalia.png"
         },
         {
             "name": "South Africa",
@@ -838,6 +828,11 @@
             "name": "Iceland",
             "emoji": "🇮🇸",
             "flag": "assets/flags/iceland.png"
+        },
+        {
+            "name": "France",
+            "emoji": "🇫🇷",
+            "flag": "assets/flags/france.png"
         }
     ]
 }
