@@ -202,11 +202,6 @@
             "flag": "assets/flags/gabon.png"
         },
         {
-            "name": "Gambia",
-            "emoji": "🇬🇲",
-            "flag": "assets/flags/gambia.png"
-        },
-        {
             "name": "Georgia",
             "emoji": "🇬🇪",
             "flag": "assets/flags/georgia.png"
@@ -450,11 +445,6 @@
             "name": "Samoa",
             "emoji": "🇼🇸",
             "flag": "assets/flags/samoa.png"
-        },
-        {
-            "name": "San Marino",
-            "emoji": "🇸🇲",
-            "flag": "assets/flags/san-marino.png"
         },
         {
             "name": "São Tomé and Príncipe",
@@ -833,6 +823,11 @@
             "name": "France",
             "emoji": "🇫🇷",
             "flag": "assets/flags/france.png"
+        },
+        {
+            "name": "Gambia",
+            "emoji": "🇬🇲",
+            "flag": "assets/flags/gambia.png"
         }
     ]
 }
