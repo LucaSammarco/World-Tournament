@@ -67,11 +67,6 @@
             "flag": "assets/flags/bhutan.png"
         },
         {
-            "name": "Bolivia",
-            "emoji": "🇧🇴",
-            "flag": "assets/flags/bolivia.png"
-        },
-        {
             "name": "Bosnia and Herzegovina",
             "emoji": "🇧🇦",
             "flag": "assets/flags/bosnia-and-herzegovina.png"
@@ -420,11 +415,6 @@
             "name": "Saint Lucia",
             "emoji": "🇱🇨",
             "flag": "assets/flags/saint-lucia.png"
-        },
-        {
-            "name": "Samoa",
-            "emoji": "🇼🇸",
-            "flag": "assets/flags/samoa.png"
         },
         {
             "name": "São Tomé and Príncipe",
@@ -823,6 +813,11 @@
             "name": "Azerbaijan",
             "emoji": "🇦🇿",
             "flag": "assets/flags/azerbaijan.png"
+        },
+        {
+            "name": "Samoa",
+            "emoji": "🇼🇸",
+            "flag": "assets/flags/samoa.png"
         }
     ]
 }
