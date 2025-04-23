@@ -57,11 +57,6 @@
             "flag": "assets/flags/belarus.png"
         },
         {
-            "name": "Belgium",
-            "emoji": "🇧🇪",
-            "flag": "assets/flags/belgium.png"
-        },
-        {
             "name": "Belize",
             "emoji": "🇧🇿",
             "flag": "assets/flags/belize.png"
@@ -375,11 +370,6 @@
             "name": "North Korea",
             "emoji": "🇰🇵",
             "flag": "assets/flags/north-korea.png"
-        },
-        {
-            "name": "Norway",
-            "emoji": "🇳🇴",
-            "flag": "assets/flags/norway.png"
         },
         {
             "name": "Oman",
@@ -828,6 +818,16 @@
             "name": "Gambia",
             "emoji": "🇬🇲",
             "flag": "assets/flags/gambia.png"
+        },
+        {
+            "name": "Norway",
+            "emoji": "🇳🇴",
+            "flag": "assets/flags/norway.png"
+        },
+        {
+            "name": "Belgium",
+            "emoji": "🇧🇪",
+            "flag": "assets/flags/belgium.png"
         }
     ]
 }
