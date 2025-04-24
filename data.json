@@ -2,11 +2,6 @@
     "round": 1,
     "remaining": [
         {
-            "name": "Afghanistan",
-            "emoji": "🇦🇫",
-            "flag": "assets/flags/afghanistan.png"
-        },
-        {
             "name": "Albania",
             "emoji": "🇦🇱",
             "flag": "assets/flags/albania.png"
@@ -405,11 +400,6 @@
             "name": "Saint Lucia",
             "emoji": "🇱🇨",
             "flag": "assets/flags/saint-lucia.png"
-        },
-        {
-            "name": "São Tomé and Príncipe",
-            "emoji": "🇸🇹",
-            "flag": "assets/flags/são-tomé-and-príncipe.png"
         },
         {
             "name": "Serbia",
@@ -813,6 +803,16 @@
             "name": "Comoros",
             "emoji": "🇰🇲",
             "flag": "assets/flags/comoros.png"
+        },
+        {
+            "name": "São Tomé and Príncipe",
+            "emoji": "🇸🇹",
+            "flag": "assets/flags/são-tomé-and-príncipe.png"
+        },
+        {
+            "name": "Afghanistan",
+            "emoji": "🇦🇫",
+            "flag": "assets/flags/afghanistan.png"
         }
     ]
 }
