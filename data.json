@@ -312,11 +312,6 @@
             "flag": "assets/flags/mozambique.png"
         },
         {
-            "name": "Nauru",
-            "emoji": "🇳🇷",
-            "flag": "assets/flags/nauru.png"
-        },
-        {
             "name": "Netherlands",
             "emoji": "🇳🇱",
             "flag": "assets/flags/netherlands.png"
@@ -405,11 +400,6 @@
             "name": "Solomon Islands",
             "emoji": "🇸🇧",
             "flag": "assets/flags/solomon-islands.png"
-        },
-        {
-            "name": "South Africa",
-            "emoji": "🇿🇦",
-            "flag": "assets/flags/south-africa.png"
         },
         {
             "name": "South Korea",
@@ -798,6 +788,16 @@
             "name": "United Kingdom",
             "emoji": "🇬🇧",
             "flag": "assets/flags/united-kingdom.png"
+        },
+        {
+            "name": "South Africa",
+            "emoji": "🇿🇦",
+            "flag": "assets/flags/south-africa.png"
+        },
+        {
+            "name": "Nauru",
+            "emoji": "🇳🇷",
+            "flag": "assets/flags/nauru.png"
         }
     ]
 }
