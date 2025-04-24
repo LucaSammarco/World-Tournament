@@ -157,11 +157,6 @@
             "flag": "assets/flags/germany.png"
         },
         {
-            "name": "Greece",
-            "emoji": "🇬🇷",
-            "flag": "assets/flags/greece.png"
-        },
-        {
             "name": "Grenada",
             "emoji": "🇬🇩",
             "flag": "assets/flags/grenada.png"
@@ -350,11 +345,6 @@
             "name": "Saint Kitts and Nevis",
             "emoji": "🇰🇳",
             "flag": "assets/flags/saint-kitts-and-nevis.png"
-        },
-        {
-            "name": "Serbia",
-            "emoji": "🇷🇸",
-            "flag": "assets/flags/serbia.png"
         },
         {
             "name": "Seychelles",
@@ -788,6 +778,16 @@
             "name": "Saint Lucia",
             "emoji": "🇱🇨",
             "flag": "assets/flags/saint-lucia.png"
+        },
+        {
+            "name": "Serbia",
+            "emoji": "🇷🇸",
+            "flag": "assets/flags/serbia.png"
+        },
+        {
+            "name": "Greece",
+            "emoji": "🇬🇷",
+            "flag": "assets/flags/greece.png"
         }
     ]
 }
