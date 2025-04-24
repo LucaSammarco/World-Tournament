@@ -2,11 +2,6 @@
     "round": 1,
     "remaining": [
         {
-            "name": "Albania",
-            "emoji": "🇦🇱",
-            "flag": "assets/flags/albania.png"
-        },
-        {
             "name": "Algeria",
             "emoji": "🇩🇿",
             "flag": "assets/flags/algeria.png"
@@ -300,11 +295,6 @@
             "name": "Oman",
             "emoji": "🇴🇲",
             "flag": "assets/flags/oman.png"
-        },
-        {
-            "name": "Palestine",
-            "emoji": "🇵🇸",
-            "flag": "assets/flags/palestine.png"
         },
         {
             "name": "Papua New Guinea",
@@ -783,6 +773,16 @@
             "name": "Malta",
             "emoji": "🇲🇹",
             "flag": "assets/flags/malta.png"
+        },
+        {
+            "name": "Albania",
+            "emoji": "🇦🇱",
+            "flag": "assets/flags/albania.png"
+        },
+        {
+            "name": "Palestine",
+            "emoji": "🇵🇸",
+            "flag": "assets/flags/palestine.png"
         }
     ]
 }
