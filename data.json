@@ -17,11 +17,6 @@
             "flag": "assets/flags/australia.png"
         },
         {
-            "name": "Austria",
-            "emoji": "🇦🇹",
-            "flag": "assets/flags/austria.png"
-        },
-        {
             "name": "Bahamas",
             "emoji": "🇧🇸",
             "flag": "assets/flags/bahamas.png"
@@ -360,11 +355,6 @@
             "name": "South Sudan",
             "emoji": "🇸🇸",
             "flag": "assets/flags/south-sudan.png"
-        },
-        {
-            "name": "Suriname",
-            "emoji": "🇸🇷",
-            "flag": "assets/flags/suriname.png"
         },
         {
             "name": "Sweden",
@@ -783,6 +773,11 @@
             "name": "Palestine",
             "emoji": "🇵🇸",
             "flag": "assets/flags/palestine.png"
+        },
+        {
+            "name": "Austria",
+            "emoji": "🇦🇹",
+            "flag": "assets/flags/austria.png"
         }
     ]
 }
