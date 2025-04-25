@@ -162,11 +162,6 @@
             "flag": "assets/flags/guinea-bissau.png"
         },
         {
-            "name": "Haiti",
-            "emoji": "🇭🇹",
-            "flag": "assets/flags/haiti.png"
-        },
-        {
             "name": "Honduras",
             "emoji": "🇭🇳",
             "flag": "assets/flags/honduras.png"
@@ -185,11 +180,6 @@
             "name": "Ireland",
             "emoji": "🇮🇪",
             "flag": "assets/flags/ireland.png"
-        },
-        {
-            "name": "Israel",
-            "emoji": "🇮🇱",
-            "flag": "assets/flags/israel.png"
         },
         {
             "name": "Ivory Coast",
@@ -773,6 +763,11 @@
             "name": "Portugal",
             "emoji": "🇵🇹",
             "flag": "assets/flags/portugal.png"
+        },
+        {
+            "name": "Israel",
+            "emoji": "🇮🇱",
+            "flag": "assets/flags/israel.png"
         }
     ]
 }
