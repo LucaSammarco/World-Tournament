@@ -132,11 +132,6 @@
             "flag": "assets/flags/germany.png"
         },
         {
-            "name": "Guinea",
-            "emoji": "🇬🇳",
-            "flag": "assets/flags/guinea.png"
-        },
-        {
             "name": "Guinea-Bissau",
             "emoji": "🇬🇼",
             "flag": "assets/flags/guinea-bissau.png"
@@ -300,11 +295,6 @@
             "name": "Trinidad and Tobago",
             "emoji": "🇹🇹",
             "flag": "assets/flags/trinidad-and-tobago.png"
-        },
-        {
-            "name": "Uganda",
-            "emoji": "🇺🇬",
-            "flag": "assets/flags/uganda.png"
         },
         {
             "name": "Ukraine",
@@ -738,6 +728,16 @@
             "name": "Kazakhstan",
             "emoji": "🇰🇿",
             "flag": "assets/flags/kazakhstan.png"
+        },
+        {
+            "name": "Guinea",
+            "emoji": "🇬🇳",
+            "flag": "assets/flags/guinea.png"
+        },
+        {
+            "name": "Uganda",
+            "emoji": "🇺🇬",
+            "flag": "assets/flags/uganda.png"
         }
     ]
 }
