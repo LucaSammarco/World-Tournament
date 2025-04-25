@@ -147,11 +147,6 @@
             "flag": "assets/flags/germany.png"
         },
         {
-            "name": "Grenada",
-            "emoji": "🇬🇩",
-            "flag": "assets/flags/grenada.png"
-        },
-        {
             "name": "Guinea",
             "emoji": "🇬🇳",
             "flag": "assets/flags/guinea.png"
@@ -205,11 +200,6 @@
             "name": "Kuwait",
             "emoji": "🇰🇼",
             "flag": "assets/flags/kuwait.png"
-        },
-        {
-            "name": "Latvia",
-            "emoji": "🇱🇻",
-            "flag": "assets/flags/latvia.png"
         },
         {
             "name": "Liberia",
@@ -768,6 +758,16 @@
             "name": "Israel",
             "emoji": "🇮🇱",
             "flag": "assets/flags/israel.png"
+        },
+        {
+            "name": "Latvia",
+            "emoji": "🇱🇻",
+            "flag": "assets/flags/latvia.png"
+        },
+        {
+            "name": "Grenada",
+            "emoji": "🇬🇩",
+            "flag": "assets/flags/grenada.png"
         }
     ]
 }
