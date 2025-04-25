@@ -2,11 +2,6 @@
     "round": 1,
     "remaining": [
         {
-            "name": "Algeria",
-            "emoji": "🇩🇿",
-            "flag": "assets/flags/algeria.png"
-        },
-        {
             "name": "Armenia",
             "emoji": "🇦🇲",
             "flag": "assets/flags/armenia.png"
@@ -130,11 +125,6 @@
             "name": "Germany",
             "emoji": "🇩🇪",
             "flag": "assets/flags/germany.png"
-        },
-        {
-            "name": "Guinea-Bissau",
-            "emoji": "🇬🇼",
-            "flag": "assets/flags/guinea-bissau.png"
         },
         {
             "name": "Honduras",
@@ -738,6 +728,11 @@
             "name": "Uganda",
             "emoji": "🇺🇬",
             "flag": "assets/flags/uganda.png"
+        },
+        {
+            "name": "Algeria",
+            "emoji": "🇩🇿",
+            "flag": "assets/flags/algeria.png"
         }
     ]
 }
