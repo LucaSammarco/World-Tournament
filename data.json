@@ -242,11 +242,6 @@
             "flag": "assets/flags/netherlands.png"
         },
         {
-            "name": "North Korea",
-            "emoji": "🇰🇵",
-            "flag": "assets/flags/north-korea.png"
-        },
-        {
             "name": "Oman",
             "emoji": "🇴🇲",
             "flag": "assets/flags/oman.png"
@@ -295,11 +290,6 @@
             "name": "Slovenia",
             "emoji": "🇸🇮",
             "flag": "assets/flags/slovenia.png"
-        },
-        {
-            "name": "Solomon Islands",
-            "emoji": "🇸🇧",
-            "flag": "assets/flags/solomon-islands.png"
         },
         {
             "name": "South Korea",
@@ -753,6 +743,11 @@
             "name": "Egypt",
             "emoji": "🇪🇬",
             "flag": "assets/flags/egypt.png"
+        },
+        {
+            "name": "Solomon Islands",
+            "emoji": "🇸🇧",
+            "flag": "assets/flags/solomon-islands.png"
         }
     ]
 }
