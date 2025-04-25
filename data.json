@@ -62,11 +62,6 @@
             "flag": "assets/flags/burundi.png"
         },
         {
-            "name": "Cambodia",
-            "emoji": "🇰🇭",
-            "flag": "assets/flags/cambodia.png"
-        },
-        {
             "name": "Cameroon",
             "emoji": "🇨🇲",
             "flag": "assets/flags/cameroon.png"
@@ -135,11 +130,6 @@
             "name": "India",
             "emoji": "🇮🇳",
             "flag": "assets/flags/india.png"
-        },
-        {
-            "name": "Indonesia",
-            "emoji": "🇮🇩",
-            "flag": "assets/flags/indonesia.png"
         },
         {
             "name": "Ireland",
@@ -733,6 +723,16 @@
             "name": "Algeria",
             "emoji": "🇩🇿",
             "flag": "assets/flags/algeria.png"
+        },
+        {
+            "name": "Cambodia",
+            "emoji": "🇰🇭",
+            "flag": "assets/flags/cambodia.png"
+        },
+        {
+            "name": "Indonesia",
+            "emoji": "🇮🇩",
+            "flag": "assets/flags/indonesia.png"
         }
     ]
 }
