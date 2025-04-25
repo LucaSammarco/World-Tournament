@@ -117,11 +117,6 @@
             "flag": "assets/flags/denmark.png"
         },
         {
-            "name": "Egypt",
-            "emoji": "🇪🇬",
-            "flag": "assets/flags/egypt.png"
-        },
-        {
             "name": "Fiji",
             "emoji": "🇫🇯",
             "flag": "assets/flags/fiji.png"
@@ -170,11 +165,6 @@
             "name": "Ireland",
             "emoji": "🇮🇪",
             "flag": "assets/flags/ireland.png"
-        },
-        {
-            "name": "Ivory Coast",
-            "emoji": "🇨🇮",
-            "flag": "assets/flags/ivory-coast.png"
         },
         {
             "name": "Jamaica",
@@ -758,6 +748,11 @@
             "name": "Montenegro",
             "emoji": "🇲🇪",
             "flag": "assets/flags/montenegro.png"
+        },
+        {
+            "name": "Egypt",
+            "emoji": "🇪🇬",
+            "flag": "assets/flags/egypt.png"
         }
     ]
 }
