@@ -37,11 +37,6 @@
             "flag": "assets/flags/belarus.png"
         },
         {
-            "name": "Belize",
-            "emoji": "🇧🇿",
-            "flag": "assets/flags/belize.png"
-        },
-        {
             "name": "Benin",
             "emoji": "🇧🇯",
             "flag": "assets/flags/benin.png"
@@ -245,11 +240,6 @@
             "name": "Mongolia",
             "emoji": "🇲🇳",
             "flag": "assets/flags/mongolia.png"
-        },
-        {
-            "name": "Montenegro",
-            "emoji": "🇲🇪",
-            "flag": "assets/flags/montenegro.png"
         },
         {
             "name": "Mozambique",
@@ -763,6 +753,11 @@
             "name": "South Sudan",
             "emoji": "🇸🇸",
             "flag": "assets/flags/south-sudan.png"
+        },
+        {
+            "name": "Montenegro",
+            "emoji": "🇲🇪",
+            "flag": "assets/flags/montenegro.png"
         }
     ]
 }
