@@ -327,11 +327,6 @@
             "flag": "assets/flags/south-korea.png"
         },
         {
-            "name": "South Sudan",
-            "emoji": "🇸🇸",
-            "flag": "assets/flags/south-sudan.png"
-        },
-        {
             "name": "Sweden",
             "emoji": "🇸🇪",
             "flag": "assets/flags/sweden.png"
@@ -355,11 +350,6 @@
             "name": "Trinidad and Tobago",
             "emoji": "🇹🇹",
             "flag": "assets/flags/trinidad-and-tobago.png"
-        },
-        {
-            "name": "Tunisia",
-            "emoji": "🇹🇳",
-            "flag": "assets/flags/tunisia.png"
         },
         {
             "name": "Uganda",
@@ -768,6 +758,11 @@
             "name": "Grenada",
             "emoji": "🇬🇩",
             "flag": "assets/flags/grenada.png"
+        },
+        {
+            "name": "South Sudan",
+            "emoji": "🇸🇸",
+            "flag": "assets/flags/south-sudan.png"
         }
     ]
 }
