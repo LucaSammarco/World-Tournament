@@ -227,11 +227,6 @@
             "flag": "assets/flags/moldova.png"
         },
         {
-            "name": "Mongolia",
-            "emoji": "🇲🇳",
-            "flag": "assets/flags/mongolia.png"
-        },
-        {
             "name": "Mozambique",
             "emoji": "🇲🇿",
             "flag": "assets/flags/mozambique.png"
@@ -310,11 +305,6 @@
             "name": "Tanzania",
             "emoji": "🇹🇿",
             "flag": "assets/flags/tanzania.png"
-        },
-        {
-            "name": "Thailand",
-            "emoji": "🇹🇭",
-            "flag": "assets/flags/thailand.png"
         },
         {
             "name": "Trinidad and Tobago",
@@ -748,6 +738,11 @@
             "name": "Solomon Islands",
             "emoji": "🇸🇧",
             "flag": "assets/flags/solomon-islands.png"
+        },
+        {
+            "name": "Thailand",
+            "emoji": "🇹🇭",
+            "flag": "assets/flags/thailand.png"
         }
     ]
 }
