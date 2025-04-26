@@ -102,11 +102,6 @@
             "flag": "assets/flags/denmark.png"
         },
         {
-            "name": "Fiji",
-            "emoji": "🇫🇯",
-            "flag": "assets/flags/fiji.png"
-        },
-        {
             "name": "Finland",
             "emoji": "🇫🇮",
             "flag": "assets/flags/finland.png"
@@ -145,11 +140,6 @@
             "name": "Kenya",
             "emoji": "🇰🇪",
             "flag": "assets/flags/kenya.png"
-        },
-        {
-            "name": "Kuwait",
-            "emoji": "🇰🇼",
-            "flag": "assets/flags/kuwait.png"
         },
         {
             "name": "Liberia",
@@ -733,6 +723,11 @@
             "name": "Indonesia",
             "emoji": "🇮🇩",
             "flag": "assets/flags/indonesia.png"
+        },
+        {
+            "name": "Kuwait",
+            "emoji": "🇰🇼",
+            "flag": "assets/flags/kuwait.png"
         }
     ]
 }
