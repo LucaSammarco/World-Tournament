@@ -122,11 +122,6 @@
             "flag": "assets/flags/jamaica.png"
         },
         {
-            "name": "Kenya",
-            "emoji": "🇰🇪",
-            "flag": "assets/flags/kenya.png"
-        },
-        {
             "name": "Liberia",
             "emoji": "🇱🇷",
             "flag": "assets/flags/liberia.png"
@@ -175,11 +170,6 @@
             "name": "Philippines",
             "emoji": "🇵🇭",
             "flag": "assets/flags/philippines.png"
-        },
-        {
-            "name": "Romania",
-            "emoji": "🇷🇴",
-            "flag": "assets/flags/romania.png"
         },
         {
             "name": "Saint Kitts and Nevis",
@@ -708,6 +698,11 @@
             "name": "Democratic Republic of the Congo",
             "emoji": "🇨🇩",
             "flag": "assets/flags/democratic-republic-of-the-congo.png"
+        },
+        {
+            "name": "Kenya",
+            "emoji": "🇰🇪",
+            "flag": "assets/flags/kenya.png"
         }
     ]
 }
