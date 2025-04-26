@@ -72,11 +72,6 @@
             "flag": "assets/flags/chile.png"
         },
         {
-            "name": "China",
-            "emoji": "🇨🇳",
-            "flag": "assets/flags/china.png"
-        },
-        {
             "name": "Colombia",
             "emoji": "🇨🇴",
             "flag": "assets/flags/colombia.png"
@@ -170,11 +165,6 @@
             "name": "Singapore",
             "emoji": "🇸🇬",
             "flag": "assets/flags/singapore.png"
-        },
-        {
-            "name": "Slovenia",
-            "emoji": "🇸🇮",
-            "flag": "assets/flags/slovenia.png"
         },
         {
             "name": "Sweden",
@@ -693,6 +683,11 @@
             "name": "Philippines",
             "emoji": "🇵🇭",
             "flag": "assets/flags/philippines.png"
+        },
+        {
+            "name": "China",
+            "emoji": "🇨🇳",
+            "flag": "assets/flags/china.png"
         }
     ]
 }
