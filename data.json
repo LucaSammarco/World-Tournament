@@ -62,11 +62,6 @@
             "flag": "assets/flags/chile.png"
         },
         {
-            "name": "Colombia",
-            "emoji": "🇨🇴",
-            "flag": "assets/flags/colombia.png"
-        },
-        {
             "name": "Gabon",
             "emoji": "🇬🇦",
             "flag": "assets/flags/gabon.png"
@@ -125,11 +120,6 @@
             "name": "Netherlands",
             "emoji": "🇳🇱",
             "flag": "assets/flags/netherlands.png"
-        },
-        {
-            "name": "Oman",
-            "emoji": "🇴🇲",
-            "flag": "assets/flags/oman.png"
         },
         {
             "name": "Paraguay",
@@ -688,6 +678,11 @@
             "name": "Burundi",
             "emoji": "🇧🇮",
             "flag": "assets/flags/burundi.png"
+        },
+        {
+            "name": "Colombia",
+            "emoji": "🇨🇴",
+            "flag": "assets/flags/colombia.png"
         }
     ]
 }
