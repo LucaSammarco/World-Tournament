@@ -27,11 +27,6 @@
             "flag": "assets/flags/benin.png"
         },
         {
-            "name": "Bhutan",
-            "emoji": "🇧🇹",
-            "flag": "assets/flags/bhutan.png"
-        },
-        {
             "name": "Brazil",
             "emoji": "🇧🇷",
             "flag": "assets/flags/brazil.png"
@@ -85,11 +80,6 @@
             "name": "Ireland",
             "emoji": "🇮🇪",
             "flag": "assets/flags/ireland.png"
-        },
-        {
-            "name": "Liberia",
-            "emoji": "🇱🇷",
-            "flag": "assets/flags/liberia.png"
         },
         {
             "name": "Libya",
@@ -683,6 +673,16 @@
             "name": "Colombia",
             "emoji": "🇨🇴",
             "flag": "assets/flags/colombia.png"
+        },
+        {
+            "name": "Bhutan",
+            "emoji": "🇧🇹",
+            "flag": "assets/flags/bhutan.png"
+        },
+        {
+            "name": "Liberia",
+            "emoji": "🇱🇷",
+            "flag": "assets/flags/liberia.png"
         }
     ]
 }
