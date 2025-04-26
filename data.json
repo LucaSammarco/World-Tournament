@@ -2,11 +2,6 @@
     "round": 1,
     "remaining": [
         {
-            "name": "Armenia",
-            "emoji": "🇦🇲",
-            "flag": "assets/flags/armenia.png"
-        },
-        {
             "name": "Bahamas",
             "emoji": "🇧🇸",
             "flag": "assets/flags/bahamas.png"
@@ -230,11 +225,6 @@
             "name": "Slovenia",
             "emoji": "🇸🇮",
             "flag": "assets/flags/slovenia.png"
-        },
-        {
-            "name": "South Korea",
-            "emoji": "🇰🇷",
-            "flag": "assets/flags/south-korea.png"
         },
         {
             "name": "Sweden",
@@ -723,6 +713,11 @@
             "name": "Moldova",
             "emoji": "🇲🇩",
             "flag": "assets/flags/moldova.png"
+        },
+        {
+            "name": "South Korea",
+            "emoji": "🇰🇷",
+            "flag": "assets/flags/south-korea.png"
         }
     ]
 }
