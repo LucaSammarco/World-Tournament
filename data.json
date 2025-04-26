@@ -47,16 +47,6 @@
             "flag": "assets/flags/burkina-faso.png"
         },
         {
-            "name": "Burundi",
-            "emoji": "🇧🇮",
-            "flag": "assets/flags/burundi.png"
-        },
-        {
-            "name": "Cameroon",
-            "emoji": "🇨🇲",
-            "flag": "assets/flags/cameroon.png"
-        },
-        {
             "name": "Canada",
             "emoji": "🇨🇦",
             "flag": "assets/flags/canada.png"
@@ -688,6 +678,16 @@
             "name": "China",
             "emoji": "🇨🇳",
             "flag": "assets/flags/china.png"
+        },
+        {
+            "name": "Cameroon",
+            "emoji": "🇨🇲",
+            "flag": "assets/flags/cameroon.png"
+        },
+        {
+            "name": "Burundi",
+            "emoji": "🇧🇮",
+            "flag": "assets/flags/burundi.png"
         }
     ]
 }
