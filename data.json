@@ -62,11 +62,6 @@
             "flag": "assets/flags/germany.png"
         },
         {
-            "name": "India",
-            "emoji": "🇮🇳",
-            "flag": "assets/flags/india.png"
-        },
-        {
             "name": "Ireland",
             "emoji": "🇮🇪",
             "flag": "assets/flags/ireland.png"
@@ -170,11 +165,6 @@
             "name": "Venezuela",
             "emoji": "🇻🇪",
             "flag": "assets/flags/venezuela.png"
-        },
-        {
-            "name": "Zambia",
-            "emoji": "🇿🇲",
-            "flag": "assets/flags/zambia.png"
         }
     ],
     "total_countries": 195,
@@ -683,6 +673,11 @@
             "name": "Honduras",
             "emoji": "🇭🇳",
             "flag": "assets/flags/honduras.png"
+        },
+        {
+            "name": "India",
+            "emoji": "🇮🇳",
+            "flag": "assets/flags/india.png"
         }
     ]
 }
