@@ -22,11 +22,6 @@
             "flag": "assets/flags/brunei.png"
         },
         {
-            "name": "Burkina Faso",
-            "emoji": "🇧🇫",
-            "flag": "assets/flags/burkina-faso.png"
-        },
-        {
             "name": "Canada",
             "emoji": "🇨🇦",
             "flag": "assets/flags/canada.png"
@@ -35,11 +30,6 @@
             "name": "Gabon",
             "emoji": "🇬🇦",
             "flag": "assets/flags/gabon.png"
-        },
-        {
-            "name": "Germany",
-            "emoji": "🇩🇪",
-            "flag": "assets/flags/germany.png"
         },
         {
             "name": "Maldives",
@@ -658,6 +648,11 @@
             "name": "Belarus",
             "emoji": "🇧🇾",
             "flag": "assets/flags/belarus.png"
+        },
+        {
+            "name": "Germany",
+            "emoji": "🇩🇪",
+            "flag": "assets/flags/germany.png"
         }
     ]
 }
