@@ -42,11 +42,6 @@
             "flag": "assets/flags/mozambique.png"
         },
         {
-            "name": "Netherlands",
-            "emoji": "🇳🇱",
-            "flag": "assets/flags/netherlands.png"
-        },
-        {
             "name": "Singapore",
             "emoji": "🇸🇬",
             "flag": "assets/flags/singapore.png"
@@ -60,11 +55,6 @@
             "name": "Ukraine",
             "emoji": "🇺🇦",
             "flag": "assets/flags/ukraine.png"
-        },
-        {
-            "name": "Uzbekistan",
-            "emoji": "🇺🇿",
-            "flag": "assets/flags/uzbekistan.png"
         },
         {
             "name": "Vatican City",
@@ -653,6 +643,11 @@
             "name": "Trinidad and Tobago",
             "emoji": "🇹🇹",
             "flag": "assets/flags/trinidad-and-tobago.png"
+        },
+        {
+            "name": "Netherlands",
+            "emoji": "🇳🇱",
+            "flag": "assets/flags/netherlands.png"
         }
     ]
 }
