@@ -42,11 +42,6 @@
             "flag": "assets/flags/canada.png"
         },
         {
-            "name": "Chile",
-            "emoji": "🇨🇱",
-            "flag": "assets/flags/chile.png"
-        },
-        {
             "name": "Gabon",
             "emoji": "🇬🇦",
             "flag": "assets/flags/gabon.png"
@@ -95,11 +90,6 @@
             "name": "Saint Kitts and Nevis",
             "emoji": "🇰🇳",
             "flag": "assets/flags/saint-kitts-and-nevis.png"
-        },
-        {
-            "name": "Seychelles",
-            "emoji": "🇸🇨",
-            "flag": "assets/flags/seychelles.png"
         },
         {
             "name": "Sierra Leone",
@@ -673,6 +663,11 @@
             "name": "Ireland",
             "emoji": "🇮🇪",
             "flag": "assets/flags/ireland.png"
+        },
+        {
+            "name": "Seychelles",
+            "emoji": "🇸🇨",
+            "flag": "assets/flags/seychelles.png"
         }
     ]
 }
