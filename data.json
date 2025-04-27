@@ -47,11 +47,6 @@
             "flag": "assets/flags/canada.png"
         },
         {
-            "name": "Chad",
-            "emoji": "🇹🇩",
-            "flag": "assets/flags/chad.png"
-        },
-        {
             "name": "Chile",
             "emoji": "🇨🇱",
             "flag": "assets/flags/chile.png"
@@ -65,11 +60,6 @@
             "name": "Germany",
             "emoji": "🇩🇪",
             "flag": "assets/flags/germany.png"
-        },
-        {
-            "name": "Honduras",
-            "emoji": "🇭🇳",
-            "flag": "assets/flags/honduras.png"
         },
         {
             "name": "India",
@@ -683,6 +673,16 @@
             "name": "Liberia",
             "emoji": "🇱🇷",
             "flag": "assets/flags/liberia.png"
+        },
+        {
+            "name": "Chad",
+            "emoji": "🇹🇩",
+            "flag": "assets/flags/chad.png"
+        },
+        {
+            "name": "Honduras",
+            "emoji": "🇭🇳",
+            "flag": "assets/flags/honduras.png"
         }
     ]
 }
