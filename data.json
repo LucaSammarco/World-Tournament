@@ -52,11 +52,6 @@
             "flag": "assets/flags/germany.png"
         },
         {
-            "name": "Libya",
-            "emoji": "🇱🇾",
-            "flag": "assets/flags/libya.png"
-        },
-        {
             "name": "Madagascar",
             "emoji": "🇲🇬",
             "flag": "assets/flags/madagascar.png"
@@ -105,11 +100,6 @@
             "name": "Sweden",
             "emoji": "🇸🇪",
             "flag": "assets/flags/sweden.png"
-        },
-        {
-            "name": "Syria",
-            "emoji": "🇸🇾",
-            "flag": "assets/flags/syria.png"
         },
         {
             "name": "Tanzania",
@@ -668,6 +658,11 @@
             "name": "Seychelles",
             "emoji": "🇸🇨",
             "flag": "assets/flags/seychelles.png"
+        },
+        {
+            "name": "Libya",
+            "emoji": "🇱🇾",
+            "flag": "assets/flags/libya.png"
         }
     ]
 }
