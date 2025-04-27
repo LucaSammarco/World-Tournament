@@ -17,11 +17,6 @@
             "flag": "assets/flags/barbados.png"
         },
         {
-            "name": "Belarus",
-            "emoji": "🇧🇾",
-            "flag": "assets/flags/belarus.png"
-        },
-        {
             "name": "Brunei",
             "emoji": "🇧🇳",
             "flag": "assets/flags/brunei.png"
@@ -85,11 +80,6 @@
             "name": "Ukraine",
             "emoji": "🇺🇦",
             "flag": "assets/flags/ukraine.png"
-        },
-        {
-            "name": "Uruguay",
-            "emoji": "🇺🇾",
-            "flag": "assets/flags/uruguay.png"
         },
         {
             "name": "Uzbekistan",
@@ -658,6 +648,16 @@
             "name": "Sierra Leone",
             "emoji": "🇸🇱",
             "flag": "assets/flags/sierra-leone.png"
+        },
+        {
+            "name": "Uruguay",
+            "emoji": "🇺🇾",
+            "flag": "assets/flags/uruguay.png"
+        },
+        {
+            "name": "Belarus",
+            "emoji": "🇧🇾",
+            "flag": "assets/flags/belarus.png"
         }
     ]
 }
