@@ -7,11 +7,6 @@
             "flag": "assets/flags/bahamas.png"
         },
         {
-            "name": "Canada",
-            "emoji": "🇨🇦",
-            "flag": "assets/flags/canada.png"
-        },
-        {
             "name": "Gabon",
             "emoji": "🇬🇦",
             "flag": "assets/flags/gabon.png"
@@ -35,11 +30,6 @@
             "name": "Tanzania",
             "emoji": "🇹🇿",
             "flag": "assets/flags/tanzania.png"
-        },
-        {
-            "name": "Vatican City",
-            "emoji": "🇻🇦",
-            "flag": "assets/flags/vatican-city.png"
         },
         {
             "name": "Venezuela",
@@ -643,6 +633,11 @@
             "name": "Brunei",
             "emoji": "🇧🇳",
             "flag": "assets/flags/brunei.png"
+        },
+        {
+            "name": "Canada",
+            "emoji": "🇨🇦",
+            "flag": "assets/flags/canada.png"
         }
     ]
 }
