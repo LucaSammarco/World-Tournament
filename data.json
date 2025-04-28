@@ -22,16 +22,6 @@
             "flag": "assets/flags/mozambique.png"
         },
         {
-            "name": "Singapore",
-            "emoji": "🇸🇬",
-            "flag": "assets/flags/singapore.png"
-        },
-        {
-            "name": "Tanzania",
-            "emoji": "🇹🇿",
-            "flag": "assets/flags/tanzania.png"
-        },
-        {
             "name": "Venezuela",
             "emoji": "🇻🇪",
             "flag": "assets/flags/venezuela.png"
@@ -638,6 +628,16 @@
             "name": "Canada",
             "emoji": "🇨🇦",
             "flag": "assets/flags/canada.png"
+        },
+        {
+            "name": "Singapore",
+            "emoji": "🇸🇬",
+            "flag": "assets/flags/singapore.png"
+        },
+        {
+            "name": "Tanzania",
+            "emoji": "🇹🇿",
+            "flag": "assets/flags/tanzania.png"
         }
     ]
 }
