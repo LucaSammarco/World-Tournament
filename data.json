@@ -7,16 +7,6 @@
             "flag": "assets/flags/bahamas.png"
         },
         {
-            "name": "Bangladesh",
-            "emoji": "🇧🇩",
-            "flag": "assets/flags/bangladesh.png"
-        },
-        {
-            "name": "Brunei",
-            "emoji": "🇧🇳",
-            "flag": "assets/flags/brunei.png"
-        },
-        {
             "name": "Canada",
             "emoji": "🇨🇦",
             "flag": "assets/flags/canada.png"
@@ -643,6 +633,16 @@
             "name": "Ukraine",
             "emoji": "🇺🇦",
             "flag": "assets/flags/ukraine.png"
+        },
+        {
+            "name": "Bangladesh",
+            "emoji": "🇧🇩",
+            "flag": "assets/flags/bangladesh.png"
+        },
+        {
+            "name": "Brunei",
+            "emoji": "🇧🇳",
+            "flag": "assets/flags/brunei.png"
         }
     ]
 }
