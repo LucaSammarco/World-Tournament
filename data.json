@@ -12,19 +12,9 @@
             "flag": "assets/flags/gabon.png"
         },
         {
-            "name": "Mauritania",
-            "emoji": "🇲🇷",
-            "flag": "assets/flags/mauritania.png"
-        },
-        {
             "name": "Mozambique",
             "emoji": "🇲🇿",
             "flag": "assets/flags/mozambique.png"
-        },
-        {
-            "name": "Venezuela",
-            "emoji": "🇻🇪",
-            "flag": "assets/flags/venezuela.png"
         }
     ],
     "total_countries": 195,
@@ -638,6 +628,11 @@
             "name": "Tanzania",
             "emoji": "🇹🇿",
             "flag": "assets/flags/tanzania.png"
+        },
+        {
+            "name": "Mauritania",
+            "emoji": "🇲🇷",
+            "flag": "assets/flags/mauritania.png"
         }
     ]
 }
