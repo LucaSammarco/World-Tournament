@@ -12,11 +12,6 @@
             "flag": "assets/flags/bangladesh.png"
         },
         {
-            "name": "Barbados",
-            "emoji": "🇧🇧",
-            "flag": "assets/flags/barbados.png"
-        },
-        {
             "name": "Brunei",
             "emoji": "🇧🇳",
             "flag": "assets/flags/brunei.png"
@@ -50,11 +45,6 @@
             "name": "Tanzania",
             "emoji": "🇹🇿",
             "flag": "assets/flags/tanzania.png"
-        },
-        {
-            "name": "Ukraine",
-            "emoji": "🇺🇦",
-            "flag": "assets/flags/ukraine.png"
         },
         {
             "name": "Vatican City",
@@ -648,6 +638,11 @@
             "name": "Netherlands",
             "emoji": "🇳🇱",
             "flag": "assets/flags/netherlands.png"
+        },
+        {
+            "name": "Ukraine",
+            "emoji": "🇺🇦",
+            "flag": "assets/flags/ukraine.png"
         }
     ]
 }
