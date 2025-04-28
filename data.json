@@ -287,11 +287,6 @@
             "flag": "assets/flags/ethiopia.png"
         },
         {
-            "name": "Fiji",
-            "emoji": "🇫🇯",
-            "flag": "assets/flags/fiji.png"
-        },
-        {
             "name": "Finland",
             "emoji": "🇫🇮",
             "flag": "assets/flags/finland.png"
@@ -672,11 +667,6 @@
             "flag": "assets/flags/panama.png"
         },
         {
-            "name": "Papua New Guinea",
-            "emoji": "🇵🇬",
-            "flag": "assets/flags/papua-new-guinea.png"
-        },
-        {
             "name": "Paraguay",
             "emoji": "🇵🇾",
             "flag": "assets/flags/paraguay.png"
@@ -978,5 +968,16 @@
         }
     ],
     "total_countries": 195,
-    "processed_countries": []
+    "processed_countries": [
+        {
+            "name": "Papua New Guinea",
+            "emoji": "🇵🇬",
+            "flag": "assets/flags/papua-new-guinea.png"
+        },
+        {
+            "name": "Fiji",
+            "emoji": "🇫🇯",
+            "flag": "assets/flags/fiji.png"
+        }
+    ]
 }
